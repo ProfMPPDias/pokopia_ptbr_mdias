@@ -1,0 +1,89 @@
+{
+  "entry_index": 3053,
+  "bin_id": "0x7ace00",
+  "decompressed_size": 3712,
+  "first_tag_offset": 456,
+  "total_strings": 16,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$comeff(4,3)><$motion(4,803)><$voicel(4,8)>Heya, <$cdef(27)><pname;0></color>. You got a sec?",
+      "pt_br": "<$comeff(4,3)><$motion(4,803)><$voicel(4,8)>Olá. <$cdef(27)><pname;0></color>tem um segundo?"
+    },
+    {
+      "id": 1,
+      "en": "<$comeff(4,6)><$motion(4,805)><$voicel(4,5)>It’s about the <$cdef(27)>first floor</color> of this building and its...entrance?<br>Whaddya call it, a foyer?<clear><br><$comeff(4,14)><$motion(4,802)><$voicel(4,3)>Anyway, I was wonderin’ if we could jazz it up in here a<br>little. Right now it’s kinda meh.",
+      "pt_br": "<$comeff(4,6)><$motion(4,805)><$voicel(4,5)>É sobre o <$cdef(27)>primeiro andar</color> deste edifício e da sua... entrada?<br>Como é que lhe chamam, um vestíbulo?<clear><br><$comeff(4,14)><$motion(4,802)><$voicel(4,3)>De qualquer forma, eu estava pensando’ se nós poderíamos jazz-lo aqui em um<br>pequeno. Neste momento é meio meh."
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(4,3)><$motion(4,806)><$voicel(4,7)>What about that machine? Y’know, the <$cdef(27)>PC</color> at the <$cdef(27)>Pokémon<br>Center</color>. You can <$comeff(4,6)><$motion(4,803)><$voicel(4,8)>get all kinds of items from it, right?",
+      "pt_br": "<$comeff(4,3)><$motion(4,806)><$voicel(4,7)>E aquela máquina? Você sabe, o <$cdef(27)>PC</color> na <$cdef(27)>Pokémon<br>Centro</color>pode. <$comeff(4,6)><$motion(4,803)><$voicel(4,8)>Tirar todos os tipos de itens dele, certo?"
+    },
+    {
+      "id": 3,
+      "en": "<$comeff(4,10)><$motion(4,805)><$voicel(4,7)>Think you could nab <$cdef(27)>two</color> <$cdef(27)><fqty(2)><$ifull(1654)></color> and plonk ’em<br>down on the <$cdef(27)>first floor</color> of this building?",
+      "pt_br": "<$comeff(4,10)><$motion(4,805)><$voicel(4,7)>Acho que pode apanhar <$cdef(27)>dois</color> <$cdef(27)><fqty(2)><$ifull(1654)></color> e plonk'em<br>para baixo na <$cdef(27)>primeiro andar</color> deste edifício?"
+    },
+    {
+      "id": 4,
+      "en": "<$comeff(4,9)><$motion(4,801)><$voicel(4,9)>I got a feelin’ that’ll make this space look real nice!",
+      "pt_br": "<$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Eu tenho uma sensação’ que vai fazer este espaço olhar muito bom!"
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(4,6)><$motion(4,803)><$voicel(4,8)>You can get all kinds of items from the <$cdef(27)>PC</color> at the <$cdef(27)>Pokémon</color><br><$cdef(27)>Center</color>, right, <$cdef(27)><pname;0></color>?",
+      "pt_br": "<$comeff(4,6)><$motion(4,803)><$voicel(4,8)>Você pode obter todos os tipos de itens do <$cdef(27)>PC</color> na <$cdef(27)>Pokémon</color><br><$cdef(27)>Centro</color>, certo, <$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(4,10)><$motion(4,805)><$voicel(4,7)>Think you could nab <$cdef(27)>two</color> <$cdef(27)><fqty(2)><$ifull(1654)></color> and plonk ’em<br>down on the <$cdef(27)>first floor</color> of the building?",
+      "pt_br": "<$comeff(4,10)><$motion(4,805)><$voicel(4,7)>Acho que pode apanhar <$cdef(27)>dois</color> <$cdef(27)><fqty(2)><$ifull(1654)></color> e plonk'em<br>para baixo na <$cdef(27)>primeiro andar</color> do edifício?"
+    },
+    {
+      "id": 7,
+      "en": "<$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Dang, those <$cdef(27)><fqty(2)><$ifull(1654)></color> look great! Thanks a bunch,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": "<$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Bolas, aqueles... <$cdef(27)><fqty(2)><$ifull(1654)></color> Muito obrigado.<br><$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 8,
+      "en": "<$comeff(4,9)><$motion(4,806)><$voicel(4,7)>Now that’s how you make an entrance...for a building! Ha!<wait(0.8)><br>Or at least I think so!",
+      "pt_br": "<$comeff(4,9)><$motion(4,806)><$voicel(4,7)>Agora é assim que você faz uma entrada ... para um edifício!<wait(0.8)><br>Ou, pelo menos, acho que sim!"
+    },
+    {
+      "id": 9,
+      "en": "<$comeff(4,3)><$motion(4,803)><$voicel(4,7)>May I ask you for a favor, <$cdef(27)><pname;0></color>?",
+      "pt_br": "<$comeff(4,3)><$motion(4,803)><$voicel(4,7)>Posso pedir-lhe um favor, <$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 10,
+      "en": "<$comeff(4,6)><$motion(4,666)><$voicel(4,5)>Doesn’t the <$cdef(27)>second floor</color> of this building seem like it<br>could be a fun place?<clear><br><$comeff(4,9)><$motion(4,668)><$voicel(4,9)>I was thinking it might be a good spot to put out some<br>playthings for other Pokémon to enjoy.",
+      "pt_br": "<$comeff(4,6)><$motion(4,666)><$voicel(4,5)>Não faz o <$cdef(27)>segundo andar</color> deste edifício parece que sim.<br>Pode ser um lugar divertido?<clear><br><$comeff(4,9)><$motion(4,668)><$voicel(4,9)>Estava a pensar que talvez fosse um bom lugar para pôr para fora alguns<br>brinquedos para outros Pokémon para desfrutar."
+    },
+    {
+      "id": 11,
+      "en": "<$comeff(4,10)><$motion(4,661)><$voicel(4,5)>You can obtain all kinds of items from the <$cdef(27)>PC</color> at the<br><$cdef(27)>Pokémon Center</color>, isn’t that right?",
+      "pt_br": "<$comeff(4,10)><$motion(4,661)><$voicel(4,5)>Você pode obter todos os tipos de itens do <$cdef(27)>PC</color> na<br><$cdef(27)>Centro Pokémon</color>, não é verdade?"
+    },
+    {
+      "id": 12,
+      "en": "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>If you come across a <$cdef(27)><fqty(1)><$ifull(2055)></color>, I would appreciate it if you<br>could place it on the <$cdef(27)>second floor</color>.",
+      "pt_br": "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Se você encontrar um <$cdef(27)><fqty(1)><$ifull(2055)></color>Agradecia se tu...<br>poderia colocá-lo sobre o <$cdef(27)>segundo andar</color>."
+    },
+    {
+      "id": 13,
+      "en": "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>I would appreciate it if you could place a <$cdef(27)><fqty(1)><$ifull(2055)></color> on<br>the <$cdef(27)>second floor</color> of the building.",
+      "pt_br": "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Eu agradeceria se você pudesse colocar um <$cdef(27)><fqty(1)><$ifull(2055)></color> ligado<br>a <$cdef(27)>segundo andar</color> do edifício."
+    },
+    {
+      "id": 14,
+      "en": "<$comeff(4,6)><$motion(4,666)><$voicel(4,8)>Do you think you could get one from the <$cdef(27)>PC</color> at the<br><$cdef(27)>Pokémon Center</color>?",
+      "pt_br": "<$comeff(4,6)><$motion(4,666)><$voicel(4,8)>Achas que pode arranjar um da <$cdef(27)>PC</color> na<br><$cdef(27)>Centro Pokémon</color>?"
+    },
+    {
+      "id": 15,
+      "en": "<oneline><$comeff(4,3)><$motion(4,668)><$voicel(4,10)>I noticed you put a <$cdef(27)><fqty(1)><$ifull(2055)></color> on the <$cdef(27)>second floor</color>!<clear><br><$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Thank you for doing that, <$cdef(27)><pname;0></color>. I’m<br>sure<slide><br>everyone<slide><br>will<slide><br>have<slide><br>such<slide><br>fun<slide><br>playing<slide><br>on it! ♪",
+      "pt_br": "<oneline><$comeff(4,3)><$motion(4,668)><$voicel(4,10)>Reparei que puseste um... <$cdef(27)><fqty(1)><$ifull(2055)></color> sobre a <$cdef(27)>segundo andar</color>!<clear><br><$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Obrigado por fazeres isso. <$cdef(27)><pname;0></color>. Eu sou<br>Claro.<slide><br>todos<slide><br>will<slide><br>ter<slide><br>tais<slide><br>diversão<slide><br>jogando<slide><br>Vou tratar disso!"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "entry_index": 4214,
+  "bin_id": "0xacab00",
+  "decompressed_size": 3600,
+  "first_tag_offset": 1212,
+  "total_strings": 83,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>!",
+      "pt_br": "<$cdef(27)><$etpname;0(lnum1)></color>!"
+    },
+    {
+      "id": 1,
+      "en": "Look! More green, yo!",
+      "pt_br": "Mais verde, meu!"
+    },
+    {
+      "id": 2,
+      "en": "Lookin’ forward to some good times!",
+      "pt_br": "Olhando para a frente para alguns bons momentos!"
+    },
+    {
+      "id": 3,
+      "en": "Yo! This’ll take a minute!",
+      "pt_br": "Isso vai levar um minuto!"
+    },
+    {
+      "id": 4,
+      "en": "Yooo! Now we’re gettin’ somewhere!",
+      "pt_br": "Yooo! Agora estamos chegando a algum lugar!"
+    },
+    {
+      "id": 5,
+      "en": "Not much longer, yo!",
+      "pt_br": "Não muito mais, meu!"
+    },
+    {
+      "id": 6,
+      "en": "Hehe!",
+      "pt_br": "Hehe!"
+    },
+    {
+      "id": 7,
+      "en": "Awww, rain?! Guess I’ll go home...",
+      "pt_br": "Awww, chuva?! Acho que vou para casa..."
+    },
+    {
+      "id": 8,
+      "en": "Yo, whatcha got there?",
+      "pt_br": "O que tem aí?"
+    },
+    {
+      "id": 9,
+      "en": "Where’s the treasure at?",
+      "pt_br": "Onde está o tesouro?"
+    },
+    {
+      "id": 10,
+      "en": "Looks rough, yo...",
+      "pt_br": "Parece duro, meu..."
+    },
+    {
+      "id": 11,
+      "en": "I dunno if I can go on, yo...",
+      "pt_br": "Não sei se consigo continuar..."
+    },
+    {
+      "id": 12,
+      "en": "Yooo! I made it!",
+      "pt_br": "Consegui!"
+    },
+    {
+      "id": 13,
+      "en": "This is kinda rough, yo...",
+      "pt_br": "Isto é um bocado duro, meu..."
+    },
+    {
+      "id": 14,
+      "en": "Yo, I found somethin’!",
+      "pt_br": "Yo, eu encontrei algo!"
+    },
+    {
+      "id": 15,
+      "en": "Up above, yo!",
+      "pt_br": "Lá em cima!"
+    },
+    {
+      "id": 16,
+      "en": "Down below, yo!",
+      "pt_br": "Lá em baixo!"
+    },
+    {
+      "id": 17,
+      "en": "Yo, I think something’s over here!",
+      "pt_br": "Yo, eu acho que tem alguma coisa aqui!"
+    },
+    {
+      "id": 18,
+      "en": "I don’t think anything’s over here, yo.",
+      "pt_br": "Eu não acho que nada está aqui, yo."
+    },
+    {
+      "id": 19,
+      "en": "Maybe that way?",
+      "pt_br": "Talvez por ali?"
+    },
+    {
+      "id": 20,
+      "en": "Yooo, I think we’re gettin’ close!",
+      "pt_br": "Yooo, acho que estamos chegando perto!"
+    },
+    {
+      "id": 21,
+      "en": "Is it lookin’ good to go?",
+      "pt_br": "Está bom para ir?"
+    },
+    {
+      "id": 22,
+      "en": "I think this is a dead end, yo...",
+      "pt_br": "Acho que isto é um beco sem saída."
+    },
+    {
+      "id": 23,
+      "en": "Could ya bring it a little closer?",
+      "pt_br": "pode aproximar-te um pouco mais?"
+    },
+    {
+      "id": 24,
+      "en": "Yooo! I’m so happy!",
+      "pt_br": "Yooo! Estou tão feliz!"
+    },
+    {
+      "id": 25,
+      "en": "The <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>...",
+      "pt_br": "A <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>..."
+    },
+    {
+      "id": 26,
+      "en": "It’s nice and warm, yo!",
+      "pt_br": "É agradável e quente, yo!"
+    },
+    {
+      "id": 27,
+      "en": "Yooo, it’s a bit hot around here...",
+      "pt_br": "Yooo, está um pouco quente por aqui..."
+    },
+    {
+      "id": 28,
+      "en": "Yooo, so nice and cool!",
+      "pt_br": "Tão fixe e fixe!"
+    },
+    {
+      "id": 29,
+      "en": "It’s kinda cold, yo...",
+      "pt_br": "Está um pouco frio, yo..."
+    },
+    {
+      "id": 30,
+      "en": "Yo! It’s gotten so nice and bright!",
+      "pt_br": "Yo! Ficou tão agradável e brilhante!"
+    },
+    {
+      "id": 31,
+      "en": "It’s a little too bright, yo...",
+      "pt_br": "É um pouco brilhante demais, yo..."
+    },
+    {
+      "id": 32,
+      "en": "Yooo, nice and dark now!",
+      "pt_br": "Yooo, bem escuro agora!"
+    },
+    {
+      "id": 33,
+      "en": "Might be a bit too dark, yo...",
+      "pt_br": "Pode ser demasiado escuro, meu..."
+    },
+    {
+      "id": 34,
+      "en": "Yooo! This humidity feels great!",
+      "pt_br": "Esta humidade é óptima!"
+    },
+    {
+      "id": 35,
+      "en": "Might be a bit too humid, yo...",
+      "pt_br": "Pode ser um pouco húmido demais, meu..."
+    },
+    {
+      "id": 36,
+      "en": "So nice and dry here, yo!",
+      "pt_br": "Tão agradável e seco aqui, yo!"
+    },
+    {
+      "id": 37,
+      "en": "Yooo, I need a bit more humidity...",
+      "pt_br": "Preciso de um pouco mais de humidade..."
+    },
+    {
+      "id": 38,
+      "en": "I can’t get by, yo!",
+      "pt_br": "Eu não posso passar, yo!"
+    },
+    {
+      "id": 39,
+      "en": "Looks like a nice place!",
+      "pt_br": "Parece um bom lugar!"
+    },
+    {
+      "id": 40,
+      "en": "This looks like a great home, yo!",
+      "pt_br": "Isto parece uma óptima casa, meu!"
+    },
+    {
+      "id": 41,
+      "en": "Come check out what I’ve got, yo!",
+      "pt_br": "Venha verificar o que eu tenho, yo!"
+    },
+    {
+      "id": 42,
+      "en": "Yo, maybe it’s a bit too small?",
+      "pt_br": "Ei, talvez seja um pouco pequeno demais?"
+    },
+    {
+      "id": 43,
+      "en": "Lead the way!",
+      "pt_br": "Mostrem o caminho!"
+    },
+    {
+      "id": 44,
+      "en": "Later, yo!",
+      "pt_br": "Até logo!"
+    },
+    {
+      "id": 45,
+      "en": "Happy to help!",
+      "pt_br": "Fico feliz em ajudar!"
+    },
+    {
+      "id": 46,
+      "en": "Smells good!",
+      "pt_br": "Cheira bem!"
+    },
+    {
+      "id": 47,
+      "en": "Yooo, sorry. I can’t right now...",
+      "pt_br": "Yooo, desculpe. Eu não posso agora ..."
+    },
+    {
+      "id": 48,
+      "en": "All done, yo!",
+      "pt_br": "Já está!"
+    },
+    {
+      "id": 49,
+      "en": "Yooo! I got this!",
+      "pt_br": "Eu trato disto!"
+    },
+    {
+      "id": 50,
+      "en": "So this is where <$cdef(27)><$etpname;0(lnum1)> </color>lives...",
+      "pt_br": "Então é aqui que <$cdef(27)><$etpname;0(lnum1)> </color>Vidas..."
+    },
+    {
+      "id": 51,
+      "en": "Yooo, <$cdef(27)><$etpname;0(lnum1)></color>. What’s that?",
+      "pt_br": "Yooo, <$cdef(27)><$etpname;0(lnum1)></color>O que é isso?"
+    },
+    {
+      "id": 52,
+      "en": "I’m gonna find you, yo!",
+      "pt_br": "Vou encontrar-te!"
+    },
+    {
+      "id": 53,
+      "en": "I’m too hungry right now...",
+      "pt_br": "Estou com muita fome agora..."
+    },
+    {
+      "id": 54,
+      "en": "Yooo, is someone there?!",
+      "pt_br": "Está alguém aí?"
+    },
+    {
+      "id": 55,
+      "en": "Whoa!",
+      "pt_br": "Whoa!"
+    },
+    {
+      "id": 56,
+      "en": "Hyah!",
+      "pt_br": "Hyah!"
+    },
+    {
+      "id": 57,
+      "en": "Yooo, this is super nice...",
+      "pt_br": "Isto é super bonito..."
+    },
+    {
+      "id": 58,
+      "en": "Hold up, yo!",
+      "pt_br": "Espera aí!"
+    },
+    {
+      "id": 59,
+      "en": "Sorry, yo. I can’t get past this spot.",
+      "pt_br": "Desculpe, yo. Eu não consigo passar por este ponto."
+    },
+    {
+      "id": 60,
+      "en": "I got this!",
+      "pt_br": "Eu trato disto!"
+    },
+    {
+      "id": 61,
+      "en": "Yooo, looks like it needs a little water first!",
+      "pt_br": "Parece que precisa de um pouco de água primeiro!"
+    },
+    {
+      "id": 62,
+      "en": "Where ya hidin’?!",
+      "pt_br": "Onde você se escondeu?!"
+    },
+    {
+      "id": 63,
+      "en": "Maybe over here?",
+      "pt_br": "Talvez aqui?"
+    },
+    {
+      "id": 64,
+      "en": "Yooo... Maybe...",
+      "pt_br": "Talvez..."
+    },
+    {
+      "id": 65,
+      "en": "*sniff sniff*",
+      "pt_br": "*Sniff sniff *"
+    },
+    {
+      "id": 66,
+      "en": "There’s no hidin’ from me, yo!",
+      "pt_br": "Não há nenhum esconderijo’ de mim, yo!"
+    },
+    {
+      "id": 67,
+      "en": "Yooo! Found ya!",
+      "pt_br": "Encontrei-te!"
+    },
+    {
+      "id": 68,
+      "en": "Hyahhh!",
+      "pt_br": "Hyahhh!"
+    },
+    {
+      "id": 69,
+      "en": "Yooo! I’m starvin’!",
+      "pt_br": "Yooo! Estou faminto’!"
+    },
+    {
+      "id": 70,
+      "en": "I’m so excited, yo!",
+      "pt_br": "Estou tão animado, yo!"
+    },
+    {
+      "id": 71,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+    },
+    {
+      "id": 72,
+      "en": "I’m excited, yo!",
+      "pt_br": "Estou empolgado, yo!"
+    },
+    {
+      "id": 73,
+      "en": "We’re gonna make somethin’ tasty!",
+      "pt_br": "Vamos fazer algo’ saboroso!"
+    },
+    {
+      "id": 74,
+      "en": "This’s nice, yo!",
+      "pt_br": "Isso é bom, yo!"
+    },
+    {
+      "id": 75,
+      "en": "What a nice place!",
+      "pt_br": "Que lugar bonito!"
+    },
+    {
+      "id": 76,
+      "en": "It’s a li’l too wet, yo...",
+      "pt_br": "É um li'l muito molhado, yo..."
+    },
+    {
+      "id": 77,
+      "en": "I’m so happy, yo!",
+      "pt_br": "Estou tão feliz, yo!"
+    },
+    {
+      "id": 78,
+      "en": "Somethin’s in the way, yo!",
+      "pt_br": "Algo está no caminho, yo!"
+    },
+    {
+      "id": 79,
+      "en": "Guess I’m just imaginin’ things...",
+      "pt_br": "Acho que eu sou apenas imaginin’ coisas..."
+    },
+    {
+      "id": 80,
+      "en": "What’s that sound, yo?",
+      "pt_br": "Que barulho é esse, meu?"
+    },
+    {
+      "id": 81,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+    },
+    {
+      "id": 82,
+      "en": "It needs some <$cdef(27)>bubbles </color>on it first, yo!",
+      "pt_br": "Precisa de um pouco. <$cdef(27)>bolhas </color>Primeiro, meu!"
+    }
+  ]
+}

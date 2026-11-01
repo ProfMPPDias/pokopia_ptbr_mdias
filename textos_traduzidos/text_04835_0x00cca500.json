@@ -1,0 +1,254 @@
+{
+  "entry_index": 4835,
+  "bin_id": "0xcca500",
+  "decompressed_size": 3840,
+  "first_tag_offset": 644,
+  "total_strings": 49,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>returned home.",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>Voltou para casa."
+    },
+    {
+      "id": 1,
+      "en": "Someone’s having trouble following you!",
+      "pt_br": "Alguém está tendo problemas para segui - lo!"
+    },
+    {
+      "id": 2,
+      "en": "“<$msname;0(lnum1)>” completed!",
+      "pt_br": "“<$msname;0(lnum1)>” completo!"
+    },
+    {
+      "id": 3,
+      "en": "<$cdef(27)><$pkname;0(lnum1)> </color>has come from your friend’s world to play.",
+      "pt_br": "<$cdef(27)><$pkname;0(lnum1)> </color>veio do mundo de seu amigo para brincar."
+    },
+    {
+      "id": 4,
+      "en": "<$cdef(27)><$pkname;0(lnum1)> </color>is about to go home to your friend’s world.",
+      "pt_br": "<$cdef(27)><$pkname;0(lnum1)> </color>está prestes a ir para casa para o mundo de seu amigo."
+    },
+    {
+      "id": 5,
+      "en": "<$cdef(27)><$pkname;0(lnum1)> </color>has gone home to your friend’s world.",
+      "pt_br": "<$cdef(27)><$pkname;0(lnum1)> </color>voltou para o mundo de seu amigo."
+    },
+    {
+      "id": 6,
+      "en": "You accepted <$cdef(27)><$cname;0(lnum1)></color>’s request!",
+      "pt_br": "Tu aceitaste. <$cdef(27)><$cname;0(lnum1)></color>O pedido de Deus!"
+    },
+    {
+      "id": 7,
+      "en": "You completed <$cdef(27)><$cname;0(lnum1)></color>’s request!",
+      "pt_br": "Você completou. <$cdef(27)><$cname;0(lnum1)></color>O pedido de Deus!"
+    },
+    {
+      "id": 8,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>found <$cdef(27)><$cname;1(lnum2)></color>!",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>encontrado <$cdef(27)><$cname;1(lnum2)></color>!"
+    },
+    {
+      "id": 9,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color><$cdef(27)> </color>returned from a <$cdef(27)>Dream Island</color>.",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color><$cdef(27)> </color>retornado de uma <$cdef(27)>Ilha dos Sonhos</color>."
+    },
+    {
+      "id": 10,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color>’s group returned from a <$cdef(27)>Dream Island</color>.",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color>O grupo de <$cdef(27)>Ilha dos Sonhos</color>."
+    },
+    {
+      "id": 11,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>found some treasure!",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>Encontrei algum tesouro!"
+    },
+    {
+      "id": 12,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> placed a building kit.",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> colocou um kit de construção."
+    },
+    {
+      "id": 13,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> construction underway.",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> construção em curso."
+    },
+    {
+      "id": 14,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> has been built!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Foi construído!"
+    },
+    {
+      "id": 15,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>placed a demolition kit.",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>colocou um kit de demolição."
+    },
+    {
+      "id": 16,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> demolition underway.",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> demolição em curso."
+    },
+    {
+      "id": 17,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> has been demolished!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Foi demolido!"
+    },
+    {
+      "id": 18,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>placed a relocation kit.",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>colocou um kit de recolocação."
+    },
+    {
+      "id": 19,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> move underway.",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Avancem."
+    },
+    {
+      "id": 20,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> has been moved!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Foi movido!"
+    },
+    {
+      "id": 21,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> placed a party cooking pot.",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> colocar uma panela de festa."
+    },
+    {
+      "id": 22,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> started cooking for a party.",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> Começou a cozinhar para uma festa."
+    },
+    {
+      "id": 23,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> is throwing a party!",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> Está a dar uma festa!"
+    },
+    {
+      "id": 24,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> snagged a photo op!",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> Arranjou uma sessão fotográfica!"
+    },
+    {
+      "id": 25,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>is coming to visit.",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>vem visitar-me."
+    },
+    {
+      "id": 26,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>has come to visit!",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>Veio visitar-me!"
+    },
+    {
+      "id": 27,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>was found!",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>Foi encontrado!"
+    },
+    {
+      "id": 28,
+      "en": "<$cdef(27)><$pkname;0(lnum1)> </color>was registered in your Cloud Island Pokédex.",
+      "pt_br": "<$cdef(27)><$pkname;0(lnum1)> </color>foi registado no seu Pokédex Cloud Island."
+    },
+    {
+      "id": 29,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> has been built!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Foi construído!"
+    },
+    {
+      "id": 30,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> has been demolished!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Foi demolido!"
+    },
+    {
+      "id": 31,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> has been moved!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Foi movido!"
+    },
+    {
+      "id": 32,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> has been rebuilt!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Foi reconstruído!"
+    },
+    {
+      "id": 33,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)> </color>has been remodeled!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)> </color>Foi remodelado!"
+    },
+    {
+      "id": 34,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)> </color>is ready for relocation!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)> </color>Está pronto para ser deslocado!"
+    },
+    {
+      "id": 35,
+      "en": "The environment level increased!",
+      "pt_br": "O nível do ambiente aumentou!"
+    },
+    {
+      "id": 36,
+      "en": "The party food is ready!",
+      "pt_br": "A comida da festa está pronta!"
+    },
+    {
+      "id": 37,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> has been rebuilt!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Foi reconstruído!"
+    },
+    {
+      "id": 38,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)> </color>has been remodeled!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)> </color>Foi remodelado!"
+    },
+    {
+      "id": 39,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> is ready for relocation!",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Está pronto para ser deslocado!"
+    },
+    {
+      "id": 40,
+      "en": "Someone has placed a <fqty(1)><$iname(2871)>.",
+      "pt_br": "Alguém colocou um <fqty(1)><$iname(2871)>."
+    },
+    {
+      "id": 41,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> relocation prep underway.",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Relocalização em curso."
+    },
+    {
+      "id": 42,
+      "en": "<$strpname;0(lstr1,lnum1)> has started rebuilding.",
+      "pt_br": "<$strpname;0(lstr1,lnum1)> começou a reconstruir."
+    },
+    {
+      "id": 43,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> rebuild underway.",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> Reconstruir em curso."
+    },
+    {
+      "id": 44,
+      "en": "<$strpname;0(lstr1,lnum1)> has placed a kit for a remodel.",
+      "pt_br": "<$strpname;0(lstr1,lnum1)> colocou um kit para uma remodelação."
+    },
+    {
+      "id": 45,
+      "en": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> remodel underway.",
+      "pt_br": "<$cdef(27)><fcap><$bfull;0(lnum1)></color> remodelar em curso."
+    },
+    {
+      "id": 46,
+      "en": "Security camera #<dgt1;0(lnum1)> has spotted a new Pokémon!",
+      "pt_br": "Câmara de segurança #<dgt1;0(lnum1)> Avistou um novo Pokémon!"
+    },
+    {
+      "id": 47,
+      "en": "Get your camera! A great photo op is happening nearby!",
+      "pt_br": "Uma grande sessão de fotos está acontecendo nas proximidades!"
+    },
+    {
+      "id": 48,
+      "en": "There’s stuff in the <$cdef(27)><fqty(1)><$ifullwithnum;0(1442,0)></color>!",
+      "pt_br": "Há coisas no <$cdef(27)><fqty(1)><$ifullwithnum;0(1442,0)></color>!"
+    }
+  ]
+}

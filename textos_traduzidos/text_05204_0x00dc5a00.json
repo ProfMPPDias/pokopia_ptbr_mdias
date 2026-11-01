@@ -1,0 +1,734 @@
+{
+  "entry_index": 5204,
+  "bin_id": "0xdc5a00",
+  "decompressed_size": 14560,
+  "first_tag_offset": 2398,
+  "total_strings": 145,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><fcap><fqty(1)><$iname(3994)></color> can be gathered from flowers. May you please<br>bring some to me?",
+      "pt_br": "<$cdef(27)><fcap><fqty(1)><$iname(3994)></color> pode ser recolhido de flores. Pode por favor<br>Trazes-me algum?"
+    },
+    {
+      "id": 1,
+      "en": "Wanna hit rocks above you? Just look up and POW!<br>Buried rocks giving you trouble? Look down and BAM!",
+      "pt_br": "Quer bater pedras por cima de si?<br>Pedras enterradas a causar-te problemas?"
+    },
+    {
+      "id": 2,
+      "en": "Ugh. I feel so...bleh. Maybe a little light would help.",
+      "pt_br": "Sinto-me tão... bleh, talvez um pouco de luz ajude."
+    },
+    {
+      "id": 3,
+      "en": "Run-down lots where human houses used to be would<br>probably make good spots to place <$cdef(27)>building kits</color>, yo!",
+      "pt_br": "Lotes degradados onde as casas humanas costumavam ser<br>provavelmente fazer bons lugares para colocar <$cdef(27)>kits de construção</color>, yo!"
+    },
+    {
+      "id": 4,
+      "en": "I hope a <$cdef(27)><fqty(1)><$iname(1622)></color> will help awaken <$cdef(27)><$cname;0(272)></color>...",
+      "pt_br": "Espero que sim. <$cdef(27)><fqty(1)><$iname(1622)></color> vai ajudar a acordar <$cdef(27)><$cname;0(272)></color>..."
+    },
+    {
+      "id": 5,
+      "en": "Yo, I bet you’d have no problem swimming all the way<br>to that boat!",
+      "pt_br": "Yo, eu aposto que você não teria problemas em nadar todo o caminho<br>Para aquele barco!"
+    },
+    {
+      "id": 6,
+      "en": "Don’t forget—you need to place <$cdef(27)>three</color> different<br>kinds of furniture!",
+      "pt_br": "Não se esqueça – você precisa colocar <$cdef(27)>três</color> diferente<br>Tipos de móveis!"
+    },
+    {
+      "id": 7,
+      "en": "I wanna stuff my face with <$cdef(27)><fqty(1)><$iname(7)></color>...",
+      "pt_br": "Quero encher a minha cara com <$cdef(27)><fqty(1)><$iname(7)></color>..."
+    },
+    {
+      "id": 8,
+      "en": "Get some <$cdef(27)>shiny treasure</color> from the cave!",
+      "pt_br": "Vai buscar. <$cdef(27)>tesouro brilhante</color> Da caverna!"
+    },
+    {
+      "id": 9,
+      "en": "I feel like there might be a <$cdef(27)>pearl</color> in the cave...",
+      "pt_br": "Eu sinto que pode haver um <$cdef(27)>pérola</color> na caverna..."
+    },
+    {
+      "id": 10,
+      "en": "If ya bring me some <$cdef(27)><fqty(2)><$iname(436)></color>, I’d be happy to<br>pretty ’em up fer ya!",
+      "pt_br": "Se me trouxeres algum <$cdef(27)><fqty(2)><$iname(436)></color>, Eu ficaria feliz em<br>bonito 'em up fer ya!"
+    },
+    {
+      "id": 11,
+      "en": "Adding a little decoration ought to lift up the <$cdef(27)>mood</color><br>around here!",
+      "pt_br": "Adicionar um pouco de decoração deve levantar o <$cdef(27)>humor</color><br>Por aqui!"
+    },
+    {
+      "id": 12,
+      "en": "Let’s make loads of food and serve it up on<br><$cdef(27)><fqty(2)><$iname(400)></color>!",
+      "pt_br": "Vamos fazer um monte de comida e servi-lo em<br><$cdef(27)><fqty(2)><$iname(400)></color>!"
+    },
+    {
+      "id": 13,
+      "en": "I wanna have some <$cdef(27)>bread</color> with <$cdef(27)><fqty(2)><$iname(2035)></color> in it!",
+      "pt_br": "Quero comer um pouco. <$cdef(27)>pão</color> com <$cdef(27)><fqty(2)><$iname(2035)></color> Aqui dentro!"
+    },
+    {
+      "id": 14,
+      "en": "C-could you put furniture made from <$cdef(27)><fqty(2)><$iname(435)><br></color>in my home, please?",
+      "pt_br": "pode pôr móveis feitos de <$cdef(27)><fqty(2)><$iname(435)><br></color>Na minha casa, por favor?"
+    },
+    {
+      "id": 15,
+      "en": "I’d like to try <iart;0()><$cdef(27)><fqty(1)><class><$iname;0(24)></color>.<br>The thinly-sliced kind, if possible.",
+      "pt_br": "Eu gostaria de tentar <iart;0()><$cdef(27)><fqty(1)><class><$iname;0(24)></color>.<br>Do tipo finamente cortado, se possível."
+    },
+    {
+      "id": 16,
+      "en": "Yooo! I can’t play music without <$cdef(27)>CDs</color>! I wonder if you<br>could find some just lyin’ around?",
+      "pt_br": "Yooo! Eu não posso tocar música sem <$cdef(27)>CDs</color>Pergunto-me se tu...<br>poderia encontrar algum apenas deitado em torno?"
+    },
+    {
+      "id": 17,
+      "en": "Let me know when the road is cleeeaaar...",
+      "pt_br": "Avisa-me quando a estrada for cleeaaar..."
+    },
+    {
+      "id": 18,
+      "en": "I’m pretty sure <$cdef(27)>Ludicolo</color>’s good at dancin’, yo!",
+      "pt_br": "Tenho certeza absoluta <$cdef(27)>Ludicolo</color>É bom a dançar, yo!"
+    },
+    {
+      "id": 19,
+      "en": "Could you find a kind Pokémon who can make<br>bubbles and bring them to the crop field?",
+      "pt_br": "pode encontrar um Pokémon que possa fazer<br>Bolhas e trazê-las para o campo de colheita?"
+    },
+    {
+      "id": 20,
+      "en": "Could you have someone chop up some <$cdef(27)><fqty(1)><$iname(520)><br></color>for me, please?",
+      "pt_br": "pode pedir a alguém para cortar um bocado? <$cdef(27)><fqty(1)><$iname(520)><br></color>Por mim, por favor?"
+    },
+    {
+      "id": 21,
+      "en": "The underwater house I’m thinkin’ of looked just like<br><$cdef(27)><$cname(572)></color>, yo!",
+      "pt_br": "A casa subaquática que eu estou pensando 'de parecia exatamente como<br><$cdef(27)><$cname(572)></color>, yo!"
+    },
+    {
+      "id": 22,
+      "en": "Build it wherever you want!",
+      "pt_br": "Construa-o onde quiser!"
+    },
+    {
+      "id": 23,
+      "en": "There’re all kinds of ways to raise the <$cdef(27)>mood</color>, yo!",
+      "pt_br": "Há todos os tipos de maneiras de elevar o <$cdef(27)>humor</color>, yo!"
+    },
+    {
+      "id": 24,
+      "en": "I feel like I saw it in a house somewhere in the town...",
+      "pt_br": "Sinto que o vi numa casa algures na cidade..."
+    },
+    {
+      "id": 25,
+      "en": "Think you can find me? Go ahead and try!",
+      "pt_br": "Achas que me consegues encontrar?"
+    },
+    {
+      "id": 26,
+      "en": "I bet we could get that gizmo working if we found a<br>Pokémon that can make electricity!",
+      "pt_br": "Aposto que podemos pôr o aparelho a funcionar se encontrarmos um<br>Pokémon que pode fazer eletricidade!"
+    },
+    {
+      "id": 27,
+      "en": "I really wanna see one of those sparkly<br>rainbow-colored feathers, yo!",
+      "pt_br": "Quero mesmo ver um daqueles brilhantes<br>Penas coloridas de arco-íris, meu!"
+    },
+    {
+      "id": 28,
+      "en": "If you’re gonna <$cdef(27)><$spwname(1)></color> something, I wanna help!",
+      "pt_br": "Se você vai <$cdef(27)><$spwname(1)></color> Alguma coisa, quero ajudar!"
+    },
+    {
+      "id": 29,
+      "en": "Make some habitats to bring more Pokémon back!",
+      "pt_br": "Faça alguns habitats para trazer mais Pokémon de volta!"
+    },
+    {
+      "id": 30,
+      "en": "The pot is really big, so be sure to clear plenty<br>of space!",
+      "pt_br": "O pote é realmente grande, por isso certifique-se de limpar a abundância<br>do espaço!"
+    },
+    {
+      "id": 31,
+      "en": "I need ya to put a <$cdef(27)><fqty(1)><$iname(1466)></color> next to some<br><$cdef(27)><fqty(1)><$iname(1463)></color>!",
+      "pt_br": "Preciso que ponhas um... <$cdef(27)><fqty(1)><$iname(1466)></color> ao lado de alguns<br><$cdef(27)><fqty(1)><$iname(1463)></color>!"
+    },
+    {
+      "id": 32,
+      "en": "Any kind of <$cdef(27)><fqty(1)><$iname(3997)> </color>is fine, yo!",
+      "pt_br": "Qualquer tipo de... <$cdef(27)><fqty(1)><$iname(3997)> </color>Está tudo bem, meu!"
+    },
+    {
+      "id": 33,
+      "en": "I want a <$cdef(27)><fqty(1)><$iname(449)></color>, some <$cdef(27)><fqty(1)><class><$iname(440)></color>, and my<br><$cdef(27)><fqty(1)><$iname(541)> </color>in my home!",
+      "pt_br": "Eu quero um <$cdef(27)><fqty(1)><$iname(449)></color>, alguns <$cdef(27)><fqty(1)><class><$iname(440)></color>, e o meu<br><$cdef(27)><fqty(1)><$iname(541)> </color>Na minha casa!"
+    },
+    {
+      "id": 34,
+      "en": "Let’s go farther into the cave!",
+      "pt_br": "Vamos mais longe na caverna!"
+    },
+    {
+      "id": 35,
+      "en": "I know there’s a doll around here somewhere...",
+      "pt_br": "Eu sei que há uma boneca por aqui em algum lugar..."
+    },
+    {
+      "id": 36,
+      "en": "I want a home too!",
+      "pt_br": "Também quero um lar!"
+    },
+    {
+      "id": 37,
+      "en": "Lighting the place up with <$cdef(27)><fqty(1)><$iname(449)>s </color>might help<br>you find it!",
+      "pt_br": "Acendendo o lugar com <$cdef(27)><fqty(1)><$iname(449)>s </color>pode ajudar.<br>Encontra-o!"
+    },
+    {
+      "id": 38,
+      "en": "<oneline>I can’t wait to try your <$cdef(27)>smoothie</color>,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": "<oneline>Mal posso esperar para experimentar o seu <$cdef(27)>batido</color>,<br><$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 39,
+      "en": "Hmmm... It’d be so nice if all <$cdef(27)>three posts</color> were<br>brightly lit.",
+      "pt_br": "Hmmm... Seria tão bom se todos <$cdef(27)>três lugares</color> foram<br>Brilhantemente iluminado."
+    },
+    {
+      "id": 40,
+      "en": "You gotta use a <$cdef(27)>building kit</color> to <$cdef(27)><$spwname(1)></color> a house!",
+      "pt_br": "tem de usar um... <$cdef(27)>kit de construção</color> para <$cdef(27)><$spwname(1)></color> Uma casa!"
+    },
+    {
+      "id": 41,
+      "en": "Don’t worryyy. I’ll rescue you if you fall, so it’s no<br>big deeeaaal...",
+      "pt_br": "Não se preocupe. Eu vou resgatá-lo se você cair, por isso não é<br>Big Deeeaal..."
+    },
+    {
+      "id": 42,
+      "en": "<$cdef(27)><fcap><fqty(2)><$iname(1458)> </color>got a pipe that sucks up water!",
+      "pt_br": "<$cdef(27)><fcap><fqty(2)><$iname(1458)> </color>Tenho um cano que suga água!"
+    },
+    {
+      "id": 43,
+      "en": "Gimme an <$cdef(27)><fqty(1)><$iname(115)></color>, and I’ll process it in no time!",
+      "pt_br": "Dá-me um. <$cdef(27)><fqty(1)><$iname(115)></color>, e eu vou processá-lo em nenhum momento!"
+    },
+    {
+      "id": 44,
+      "en": "Put those <$cdef(27)><fqty(2)><$iname(119)></color> I made to good use!",
+      "pt_br": "Põe isso. <$cdef(27)><fqty(2)><$iname(119)></color> Fiz um bom uso!"
+    },
+    {
+      "id": 45,
+      "en": "If you wanna get <$cdef(27)>lifts</color> up and running, you gotta start<br>by setting up some <$cdef(27)><fqty(2)><$iname(1457)></color>!",
+      "pt_br": "Se quiseres ir <$cdef(27)>elevadores</color> em funcionamento, você tem que começar<br>através da criação de alguns <$cdef(27)><fqty(2)><$iname(1457)></color>!"
+    },
+    {
+      "id": 46,
+      "en": "I’ll help you out!",
+      "pt_br": "Eu vou ajudá-lo!"
+    },
+    {
+      "id": 47,
+      "en": "There should be an <$cdef(27)><fqty(1)><$iname(1469)></color> at the top of<br>that <$cdef(27)>ladder</color>!",
+      "pt_br": "Deve haver um <$cdef(27)><fqty(1)><$iname(1469)></color> no topo de<br>que <$cdef(27)>escada</color>!"
+    },
+    {
+      "id": 48,
+      "en": "Lemme know when you finish makin’ it, yo!",
+      "pt_br": "Deixe-me saber quando você terminar de fazê-lo, yo!"
+    },
+    {
+      "id": 49,
+      "en": "Maybe a little water’ll perk things up!",
+      "pt_br": "Talvez um pouco de água vai animar as coisas!"
+    },
+    {
+      "id": 50,
+      "en": "I wish I had a nice, soft place to sleep near my home!",
+      "pt_br": "Quem me dera ter um lugar agradável para dormir perto da minha casa!"
+    },
+    {
+      "id": 51,
+      "en": "My move’s really lost its edge... I wanna sharpen up!",
+      "pt_br": "Meu movimento realmente perdeu sua vantagem... Eu quero afiar-se!"
+    },
+    {
+      "id": 52,
+      "en": "You got any decent-sized <$cdef(27)><fqty(2)><$iname(404)></color>? I could use some to<br>practice my move on.",
+      "pt_br": "tem um tamanho decente. <$cdef(27)><fqty(2)><$iname(404)></color>Posso usar um pouco para...<br>Pratique a minha jogada."
+    },
+    {
+      "id": 53,
+      "en": "Put it right on top of your house so it’s easy to see!",
+      "pt_br": "Coloque-o em cima de sua casa para que seja fácil de ver!"
+    },
+    {
+      "id": 54,
+      "en": "You gotta place three different kinds of furniture<br>in a house before someone can live there!",
+      "pt_br": "Você tem que colocar três tipos diferentes de móveis<br>numa casa antes que alguém possa viver lá!"
+    },
+    {
+      "id": 55,
+      "en": "You wouldn’t happen to know how to make a home<br>that stays nice ’n’ dry even when it rains, would ya?",
+      "pt_br": "Por acaso, você não sabe como fazer um lar<br>que fica bom 'n' seco mesmo quando chove, você faria?"
+    },
+    {
+      "id": 56,
+      "en": "Some <$cdef(27)><fqty(2)><$iname(2035)></color> sound REALLY yummy...",
+      "pt_br": "Alguns <$cdef(27)><fqty(2)><$iname(2035)></color> Parece muito gostoso..."
+    },
+    {
+      "id": 57,
+      "en": "You can use <$cdef(27)><$sklname(2)></color> to dig up flowers—roots and all!",
+      "pt_br": "Você pode usar <$cdef(27)><$sklname(2)></color> para desenterrar flores — raízes e tudo!"
+    },
+    {
+      "id": 58,
+      "en": "Hmmm... I can smell water. It’s close...",
+      "pt_br": "Hmmm... sinto o cheiro de água."
+    },
+    {
+      "id": 59,
+      "en": "If we could spray that water around somehow, I bet<br>it’d make this area more humid...",
+      "pt_br": "Se pudéssemos pulverizar a água por aí de alguma forma, aposto que sim.<br>faria esta área mais úmida..."
+    },
+    {
+      "id": 60,
+      "en": "There might be a buncha dried-up trees somewhere!",
+      "pt_br": "Pode haver um monte de árvores secas algures!"
+    },
+    {
+      "id": 61,
+      "en": "Maybe a field of flowers would help get more water<br>in the air. I wanna help too!",
+      "pt_br": "Talvez um campo de flores ajudasse a obter mais água<br>Eu também quero ajudar!"
+    },
+    {
+      "id": 62,
+      "en": "I think if my home was near water, I’d do even better!",
+      "pt_br": "Eu acho que se minha casa estivesse perto da água, eu faria ainda melhor!"
+    },
+    {
+      "id": 63,
+      "en": "It’s so humid! I love it!",
+      "pt_br": "É tão úmido! Eu adoro isso!"
+    },
+    {
+      "id": 64,
+      "en": "For the Rain Dance party, you’ll need <$cdef(27)>something that<br>makes you think of rain</color> and a <$cdef(27)>plate with food on it</color>!",
+      "pt_br": "Para a festa Rain Dance, você vai precisar <$cdef(27)>algo que...<br>faz-te pensar na chuva</color> e a <$cdef(27)>prato com alimentos sobre ele</color>!"
+    },
+    {
+      "id": 65,
+      "en": "The soil around here is totally lacking in the water<br>department, my friend!",
+      "pt_br": "O solo por aqui está totalmente faltando na água.<br>Departamento, meu amigo!"
+    },
+    {
+      "id": 66,
+      "en": "Try growing those seeds I gave you. Just plant ’em in<br>the ground and water them occasionally.",
+      "pt_br": "Tente cultivar essas sementes que eu lhe dei. Basta plantá-las em<br>o solo e água-los ocasionalmente."
+    },
+    {
+      "id": 67,
+      "en": "My shack is totally flooded! Can ya help me out?",
+      "pt_br": "A minha cabana está totalmente inundada!"
+    },
+    {
+      "id": 68,
+      "en": "I think there’s someone living near the water who<br>can wash off dirt ’n’ stuff.",
+      "pt_br": "Eu acho que há alguém vivendo perto da água que<br>pode lavar as coisas da sujeira."
+    },
+    {
+      "id": 69,
+      "en": "I bet <$cdef(27)><$cname;0(229)></color> knows how to make <$cdef(27)><fqty(2)><$iname(1410)></color>!",
+      "pt_br": "Aposto que sim. <$cdef(27)><$cname;0(229)></color> sabe como fazer <$cdef(27)><fqty(2)><$iname(1410)></color>!"
+    },
+    {
+      "id": 70,
+      "en": "<oneline>Let’s get <$cdef(27)><$cname;0(130)></color> to help us<br>gather <$cdef(27)><fqty(2)><class><$iname(107)></color>!",
+      "pt_br": "<oneline>Vamos começar <$cdef(27)><$cname;0(130)></color> para nos ajudar<br>reunir <$cdef(27)><fqty(2)><class><$iname(107)></color>!"
+    },
+    {
+      "id": 71,
+      "en": "Um... I can’t sleep without <$cdef(27)><fqty(1)><$iname(111)></color>. Is there maybe a<br>fluffy Pokémon around who can help?",
+      "pt_br": "Um... Eu não consigo dormir sem <$cdef(27)><fqty(1)><$iname(111)></color>- Talvez haja...<br>Pokémon fofinho por aí, quem pode ajudar?"
+    },
+    {
+      "id": 72,
+      "en": "A scary sound woke me up...",
+      "pt_br": "Um som assustador acordou-me..."
+    },
+    {
+      "id": 73,
+      "en": "Yooo, do ya think there are any Pokémon around here<br>who can make electricity?",
+      "pt_br": "Achas que há algum Pokémon por aqui?<br>Quem pode fazer electricidade?"
+    },
+    {
+      "id": 74,
+      "en": "That Pokémon might be able to teach you how to<br>store water in your body!",
+      "pt_br": "Que o Pokémon possa ensinar-te a fazer<br>Armazenar água no seu corpo!"
+    },
+    {
+      "id": 75,
+      "en": "Maybe <$cdef(27)><$cname;0(272)></color>’ll wake up if the area brightens up?",
+      "pt_br": "Talvez. <$cdef(27)><$cname;0(272)></color>‘ Acordará se a área se iluminar?"
+    },
+    {
+      "id": 76,
+      "en": "Shall we try using <$cdef(27)><fqty(2)><$iname(1396)> </color>to transfer the<br>electricity made by the <$cdef(27)>generators</color>?",
+      "pt_br": "Vamos tentar usar <$cdef(27)><fqty(2)><$iname(1396)> </color>para transferir o<br>a electricidade produzida pela <$cdef(27)>geradores</color>?"
+    },
+    {
+      "id": 77,
+      "en": "I wanna live somewhere near a BIG machine...",
+      "pt_br": "Quero viver perto de uma grande máquina..."
+    },
+    {
+      "id": 78,
+      "en": "I wonder if placing <$cdef(27)><fqty(2)><$iname(1396)></color> near this device will<br>achieve anything. Shall we try it?",
+      "pt_br": "Pergunto-me se colocarei <$cdef(27)><fqty(2)><$iname(1396)></color> perto deste dispositivo irá<br>Vamos tentar?"
+    },
+    {
+      "id": 79,
+      "en": "Electricity’s not the only way to make things<br>brighter! Lemme know if you wanna light a fire!",
+      "pt_br": "A eletricidade não é a única maneira de fazer as coisas<br>Deixa-me saber se quer acender uma fogueira!"
+    },
+    {
+      "id": 80,
+      "en": "We could get to the other side if we could just break<br>through that wall...",
+      "pt_br": "Podíamos ir para o outro lado se pudéssemos partir.<br>através daquela parede..."
+    },
+    {
+      "id": 81,
+      "en": "Yooo! I wanna try goin’ up to the top of that building<br>on the cliff!",
+      "pt_br": "Yooo! Eu quero tentar ir até o topo daquele edifício<br>No penhasco!"
+    },
+    {
+      "id": 82,
+      "en": "<$cdef(27)><$cname;0(24)></color>’s super good at <$cdef(27)><$spwname(15)>ping </color>trees!",
+      "pt_br": "<$cdef(27)><$cname;0(24)></color>É super bom em <$cdef(27)><$spwname(15)>ping </color>Árvores!"
+    },
+    {
+      "id": 83,
+      "en": "Bring me some <$cdef(27)><fqty(2)><$iname(1482)></color> and I’ll show you something<br>mega cool!",
+      "pt_br": "Traz-me um pouco. <$cdef(27)><fqty(2)><$iname(1482)></color> e eu vou lhe mostrar algo<br>mega-frio!"
+    },
+    {
+      "id": 84,
+      "en": "I like dark places! Team darkness forever!",
+      "pt_br": "Gosto de lugares escuros!"
+    },
+    {
+      "id": 85,
+      "en": "There might be some warm water in something called<br>a <$cdef(27)><fqty(1)><$iname(616)></color>!",
+      "pt_br": "Pode haver água morna em algo chamado<br>a <$cdef(27)><fqty(1)><$iname(616)></color>!"
+    },
+    {
+      "id": 86,
+      "en": "I’d love a machine that lets me play with water...<br>Maybe I can find one near the ocean?",
+      "pt_br": "Eu adoraria uma máquina que me deixa brincar com água...<br>Talvez eu possa encontrar um perto do oceano?"
+    },
+    {
+      "id": 87,
+      "en": "A long time ago, I saw a big machine with <$cdef(27)><fqty(1)><$iname(407)> </color>and<br>stuff burning inside it!",
+      "pt_br": "Há muito tempo, vi uma grande máquina com <$cdef(27)><fqty(1)><$iname(407)> </color>e<br>Coisas a arder dentro dela!"
+    },
+    {
+      "id": 88,
+      "en": "This thing should work if it gets electricity!",
+      "pt_br": "Esta coisa deve funcionar se tiver electricidade!"
+    },
+    {
+      "id": 89,
+      "en": "Cleaning sure takes up a lotta energy. It makes a<br>great workout!",
+      "pt_br": "Limpeza certamente absorve muita energia.<br>Grande treino!"
+    },
+    {
+      "id": 90,
+      "en": "It’d be nice to sit on a <$cdef(27)><fqty(1)><$iname;0(1541)> </color>again.",
+      "pt_br": "Seria bom sentar-se em um <$cdef(27)><fqty(1)><$iname;0(1541)> </color>Outra vez."
+    },
+    {
+      "id": 91,
+      "en": "I’ll help make the <$cdef(27)>salad</color> too!",
+      "pt_br": "Eu vou ajudar a fazer o <$cdef(27)>salada</color> Também!"
+    },
+    {
+      "id": 92,
+      "en": "I don’t think the pool can fill up with water when it’s<br>all broken...",
+      "pt_br": "Eu não acho que a piscina pode encher-se com água quando é<br>Todos partidos..."
+    },
+    {
+      "id": 93,
+      "en": "As much as I’d like to teach you my move, this beach<br>is far too muddy.",
+      "pt_br": "Por mais que eu gostaria de ensinar-lhe a minha jogada, esta praia<br>Está demasiado lamacento."
+    },
+    {
+      "id": 94,
+      "en": "Let’s go to where the noises are comin’ from, yo!",
+      "pt_br": "Vamos para onde os barulhos estão vindo, yo!"
+    },
+    {
+      "id": 95,
+      "en": "I wanna eat a <$cdef(27)><fqty(1)><$iname(8)></color>...",
+      "pt_br": "Eu quero comer um <$cdef(27)><fqty(1)><$iname(8)></color>..."
+    },
+    {
+      "id": 96,
+      "en": "Let’s get over to that giant building! All we gotta do<br>is build a bridge right to it!",
+      "pt_br": "Vamos para aquele edifício gigante! Tudo o que temos de fazer<br>é construir uma ponte direito a ele!"
+    },
+    {
+      "id": 97,
+      "en": "Can ya ask <$cdef(27)><$cname(29)></color> about <$cdef(27)><fqty(2)><$iname(1469)></color>?",
+      "pt_br": "pode perguntar? <$cdef(27)><$cname(29)></color> sobre <$cdef(27)><fqty(2)><$iname(1469)></color>?"
+    },
+    {
+      "id": 98,
+      "en": "You’ll need an <$cdef(27)><fqty(1)><$iname(1469)></color> to get an<br><$cdef(27)>elevator </color>working.",
+      "pt_br": "Você vai precisar de um <$cdef(27)><fqty(1)><$iname(1469)></color> para obter um<br><$cdef(27)>elevador </color>A trabalhar."
+    },
+    {
+      "id": 99,
+      "en": "Let’s take the <$cdef(27)>elevator</color>—it’ll get us there in no time!",
+      "pt_br": "Vamos tomar o <$cdef(27)>elevador</color>—ele nos levará lá em pouco tempo!"
+    },
+    {
+      "id": 100,
+      "en": "Make sure it’s close to the dojo, OK?",
+      "pt_br": "Certifique-se de que está perto do dojo, OK?"
+    },
+    {
+      "id": 101,
+      "en": "You gotta get a Pokémon who’s good at <$cdef(27)><$spwname(10)>in’ </color>things<br>to lend us a hand, ya hear?!",
+      "pt_br": "Você tem que ter um Pokémon que é bom em <$cdef(27)><$spwname(10)>em» </color>coisas<br>para nos dar uma mão, ouviu?!"
+    },
+    {
+      "id": 102,
+      "en": "There’s tons of <$cdef(27)><fqty(1)><$iname(1010)></color> in this island’s caves!",
+      "pt_br": "Há toneladas de <$cdef(27)><fqty(1)><$iname(1010)></color> nas cavernas desta ilha!"
+    },
+    {
+      "id": 103,
+      "en": "What could be in that cave?",
+      "pt_br": "O que pode estar naquela caverna?"
+    },
+    {
+      "id": 104,
+      "en": "You might be able to smash those rocks more easily<br>by eating a dish to power up your move.",
+      "pt_br": "Talvez consigas esmagar essas rochas mais facilmente.<br>Comer um prato para aumentar a energia."
+    },
+    {
+      "id": 105,
+      "en": "I think you need <$cdef(27)><fqty(1)><$iname(126)></color> to make a <$cdef(27)><fqty(1)><$iname(1812)></color>!<br>Maybe you could use the <$cdef(27)><fqty(1)><$iname(1801)></color> around here?",
+      "pt_br": "Acho que precisas... <$cdef(27)><fqty(1)><$iname(126)></color> para fazer uma <$cdef(27)><fqty(1)><$iname(1812)></color>!<br>Talvez possas usar o... <$cdef(27)><fqty(1)><$iname(1801)></color> Por aqui?"
+    },
+    {
+      "id": 106,
+      "en": "We finally made it to the massive building! Come on,<br>let’s go check out what it’s like inside!",
+      "pt_br": "Finalmente chegámos ao edifício enorme!<br>vamos ver como é lá dentro!"
+    },
+    {
+      "id": 107,
+      "en": "I need ya to find all sorts of islands in this town and<br>gather up all the materials and Pokémon ya can!",
+      "pt_br": "Preciso que encontres todo o tipo de ilhas nesta cidade e...<br>Recolher todos os materiais e Pokémon você pode!"
+    },
+    {
+      "id": 108,
+      "en": "This’ll take a bit of time. You can go do something<br>else while you wait!",
+      "pt_br": "Isso vai levar um pouco de tempo. Você pode ir fazer alguma coisa<br>Se não esperares!"
+    },
+    {
+      "id": 109,
+      "en": "Once we get <$cdef(27)>two</color> <$cdef(27)><fqty(2)><class><$iname(1654)> </color>in here, this’ll be the<br>classiest entrance of all time!",
+      "pt_br": "Assim que chegarmos <$cdef(27)>dois</color> <$cdef(27)><fqty(2)><class><$iname(1654)> </color>aqui, este vai ser o<br>Entrada mais elegante de todos os tempos!"
+    },
+    {
+      "id": 110,
+      "en": "I would love to see this become a place where<br>everyone can play.",
+      "pt_br": "Adoraria ver isto tornar-se num lugar onde<br>Todos podem jogar."
+    },
+    {
+      "id": 111,
+      "en": "This’ll take a bit of time. You can go do something<br>else while you wait!",
+      "pt_br": "Isso vai levar um pouco de tempo. Você pode ir fazer alguma coisa<br>Se não esperares!"
+    },
+    {
+      "id": 112,
+      "en": "Could I ask you to use a <$cdef(27)><$bname(33)></color> to send some<br>electricity to a <$cdef(27)><fqty(1)><$iname(1703)></color>?",
+      "pt_br": "Posso pedir-lhe para usar um <$cdef(27)><$bname(33)></color> para enviar algum<br>electricidade para a <$cdef(27)><fqty(1)><$iname(1703)></color>?"
+    },
+    {
+      "id": 113,
+      "en": "<$cdef(27)><fcap><fqty(1)><$iname(112)></color> is a kind of soft, light-brown soil!",
+      "pt_br": "<$cdef(27)><fcap><fqty(1)><$iname(112)></color> é uma espécie de solo macio e castanho-claro!"
+    },
+    {
+      "id": 114,
+      "en": "If you could find hard <$cdef(27)><fqty(1)><$iname(109)></color>—like<br>empty cans and stuff—that’d be great, yo!",
+      "pt_br": "Se você pudesse achar difícil <$cdef(27)><fqty(1)><$iname(109)></color>- Como?<br>latas vazias e coisas – isso seria ótimo, yo!"
+    },
+    {
+      "id": 115,
+      "en": "So I hear there’s a <$cdef(27)>Greedent who’s good at cooking</color>!<br>Think you could bring ’em to me?",
+      "pt_br": "Então eu ouço que há um <$cdef(27)>Greedent who’s good at cooking</color>!<br>Acha que pode trazê-las até mim?"
+    },
+    {
+      "id": 116,
+      "en": "This’ll take a bit of time. You can go do something<br>else while you wait!",
+      "pt_br": "Isso vai levar um pouco de tempo. Você pode ir fazer alguma coisa<br>Se não esperares!"
+    },
+    {
+      "id": 117,
+      "en": "I heard there’s a <$cdef(27)>Pikachu who’s all prim and proper</color>!<br>Would sure love to meet ’em!",
+      "pt_br": "Ouvi dizer que há um <$cdef(27)>Pikachu who’s all prim and proper</color>!<br>Adoraria conhecê - los!"
+    },
+    {
+      "id": 118,
+      "en": "The humans played <$cdef(27)>CDs</color>. They did it with <$cdef(27)><fqty(1)><$iname(1802)>s</color>.",
+      "pt_br": "Os humanos jogaram <$cdef(27)>CDs</color>Eles fizeram isso com <$cdef(27)><fqty(1)><$iname(1802)>s</color>."
+    },
+    {
+      "id": 119,
+      "en": "I’d really like to be close to everyone. Yeah, that’d<br>be nice...",
+      "pt_br": "Eu realmente gostaria de estar perto de todos. Sim, que<br>Sejam simpáticos..."
+    },
+    {
+      "id": 120,
+      "en": "Ughhh, I just don’t feel like doing anything... If only<br>someone could bring me a <$cdef(27)>doll</color>...",
+      "pt_br": "Ughh, Eu só não me sinto com vontade de fazer nada ... Se apenas<br>alguém poderia me trazer um <$cdef(27)>boneca</color>..."
+    },
+    {
+      "id": 121,
+      "en": "This is no time for ART—I’m starving! Famished!<br>Wasting away! Please, bring me a <$cdef(27)><fqty(1)><$iname(2340)></color>!",
+      "pt_br": "Este não é o momento para ART — estou faminto!<br>Por favor, tragam-me um... <$cdef(27)><fqty(1)><$iname(2340)></color>!"
+    },
+    {
+      "id": 122,
+      "en": "Why don’t you go and ask a Pokémon with the <$cdef(27)><fcap><$spwname(16)></color><br>specialty to help?",
+      "pt_br": "Por que você não vai e pergunta a um Pokémon com o <$cdef(27)><fcap><$spwname(16)></color><br>Especialidade para ajudar?"
+    },
+    {
+      "id": 123,
+      "en": "Think you can bring me a piece of furniture you want<br>me to <$cdef(27)><$spwname(21)></color>?",
+      "pt_br": "pode trazer-me uma mobília que queiras.<br>eu para <$cdef(27)><$spwname(21)></color>?"
+    },
+    {
+      "id": 124,
+      "en": "You oughta be able to change the color of something<br>if you use a <$cdef(27)>paint balloon</color>.",
+      "pt_br": "Você deve ser capaz de mudar a cor de algo<br>e utilizar uma <$cdef(27)>balão de pintura</color>."
+    },
+    {
+      "id": 125,
+      "en": "I BEG of you! Please bring me a <$cdef(27)>fossil</color>!",
+      "pt_br": "Por favor, tragam-me um... <$cdef(27)>fóssil</color>!"
+    },
+    {
+      "id": 126,
+      "en": "Changing the color or pattern of different parts will<br>bring new ARTISTIC INNOVATIONS to life!",
+      "pt_br": "A alteração da cor ou padrão de diferentes partes irá<br>trazer novas INOVAÇÕES ARTÍSTICAS à vida!"
+    },
+    {
+      "id": 127,
+      "en": "<oneline>I wanna camouflage myself as<br><iart;1()><$cdef(27)><fqty(1)><class><$iname;1(1274)></color>!",
+      "pt_br": "<oneline>Quero camuflar-me como...<br><iart;1()><$cdef(27)><fqty(1)><class><$iname;1(1274)></color>!"
+    },
+    {
+      "id": 128,
+      "en": "Can you <$cdef(27)><flow><$sklname(6)></color> right? I’ll judge!",
+      "pt_br": "pode? <$cdef(27)><flow><$sklname(6)></color> certo? Eu vou julgar!"
+    },
+    {
+      "id": 129,
+      "en": "First off, please search for <$cdef(27)><$cname;0(82)></color>!",
+      "pt_br": "Primeiro, por favor, procure <$cdef(27)><$cname;0(82)></color>!"
+    },
+    {
+      "id": 130,
+      "en": "Next, I’d like for you to look for <$cdef(27)><$cname;0(138)></color>.",
+      "pt_br": "Em seguida, gostaria que você procurasse <$cdef(27)><$cname;0(138)></color>."
+    },
+    {
+      "id": 131,
+      "en": "Lastly, could I ask you to find <$cdef(27)><$cname;0(295)></color>?",
+      "pt_br": "Por último, gostaria de lhe pedir que encontrasse <$cdef(27)><$cname;0(295)></color>?"
+    },
+    {
+      "id": 132,
+      "en": "If ya find some food, jus’ put it on the dish fer me,<br>ya hear?",
+      "pt_br": "Se você encontrar um pouco de comida, basta colocá-lo no prato fer me,<br>está a ouvir?"
+    },
+    {
+      "id": 133,
+      "en": "Put some spicy food on that there dish fer me, jus’<br>like ya did with the other food before!",
+      "pt_br": "Coloque um pouco de comida picante sobre que lá prato fer me, jus’<br>Como fizeste com a outra comida antes!"
+    },
+    {
+      "id": 134,
+      "en": "Once we’re done, let’s head back to the <$cdef(27)>Pokémon<br>Center</color> in the <$cdef(27)>Sparkling Skylands</color>!",
+      "pt_br": "Quando terminarmos, vamos voltar para o <$cdef(27)>Pokémon<br>Centro</color> na <$cdef(27)>Skylands cintilantes</color>!"
+    },
+    {
+      "id": 135,
+      "en": "Of course I’ll help out too!",
+      "pt_br": "É claro que eu também vou ajudar!"
+    },
+    {
+      "id": 136,
+      "en": "The <$cdef(27)>wheelbarrow </color>in the cave is absolutely essential.",
+      "pt_br": "A <$cdef(27)>carrinho de mão </color>na caverna é absolutamente essencial."
+    },
+    {
+      "id": 137,
+      "en": "Don’t forget to light it!",
+      "pt_br": "Não se esqueça de acendê-lo!"
+    },
+    {
+      "id": 138,
+      "en": "It’d be cool if you could bring me all kinds of<br><$cdef(27)>CDs</color>, yo!",
+      "pt_br": "Seria legal se você poderia me trazer todos os tipos de<br><$cdef(27)>CDs</color>, yo!"
+    },
+    {
+      "id": 139,
+      "en": "Yo, I want you to give me your most hype playlist!",
+      "pt_br": "Quero que me dês a tua playlist mais animada!"
+    },
+    {
+      "id": 140,
+      "en": "There was a large-sized building here. It was nice.",
+      "pt_br": "Havia aqui um edifício de tamanho grande."
+    },
+    {
+      "id": 141,
+      "en": "It wouldn’t be right without a <$cdef(27)><fqty(1)><$iname(2075)></color>!",
+      "pt_br": "Não seria certo sem um <$cdef(27)><fqty(1)><$iname(2075)></color>!"
+    },
+    {
+      "id": 142,
+      "en": "That book might have a hint about the secret<br>ingredient.",
+      "pt_br": "Aquele livro pode ter uma pista sobre o segredo.<br>ingrediente."
+    },
+    {
+      "id": 143,
+      "en": "Try growing them until they sprout!",
+      "pt_br": "Tente cultivá-los até que cresçam!"
+    },
+    {
+      "id": 144,
+      "en": "It was coming from dowwwn in the cave on the bottom<br>part of the island with the <$cdef(27)>Pokémon Center</color>...",
+      "pt_br": "Ele estava vindo de dowwwn na caverna no fundo<br>parte da ilha com o <$cdef(27)>Centro Pokémon</color>..."
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "entry_index": 2380,
+  "bin_id": "0x5d7600",
+  "decompressed_size": 12880,
+  "first_tag_offset": 960,
+  "total_strings": 75,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(1,7)><$motion(1,801)><$comeff(1,3)>Oh, <$cdef(27)><pname;0></color>! Ti sei svegliat<gen;-2(o,a)>!<clear><br><$voicel(1,6)>Hai riposato bene?",
+      "pt_br": "<$voicel(1,7)><$motion(1,801)><$comeff(1,3)>Oh, <$cdef(27)><pname;0></color>! Ti sei svegliat<gen;-2(o,a)>!<clear><br><$voicel(1,6)>Hai riposato bene?"
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(1,5)><$emotion(1,23)><$comeff(1,10)>Oggi ho in mente di cominciare a indagare su dove<br>possano essere finiti gli esseri umani.<clear><br><$voicel(1,9)>Da quando ti ho incontrat<gen;-2(o,a)>, nel mio cuore è germogliata<br>un po' di speranza!",
+      "pt_br": "<$voicel(1,5)><$emotion(1,23)><$comeff(1,10)>Oggi ho in mente di cominciare a indagare su dove<br>possano essere finiti gli esseri umani.<clear><br><$voicel(1,9)>Da quando ti ho incontrat<gen;-2(o,a)>, nel mio cuore è germogliata<br>un po' di speranza!"
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(1,5)><$motion(1,666)>Vedi quell'edificio laggiù? È opera degli esseri umani.<clear><br><$voicel(1,3)><$motion(1,661)><$comeff(1,10)>È ridotto piuttosto male, ma ho intenzione di cominciare<br>a investigare da lì.",
+      "pt_br": "<$voicel(1,5)><$motion(1,666)>Vedi quell'edificio laggiù? È opera degli esseri umani.<clear><br><$voicel(1,3)><$motion(1,661)><$comeff(1,10)>È ridotto piuttosto male, ma ho intenzione di cominciare<br>a investigare da lì."
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(1,8)><$facial(1,4)>Ti andrebbe di darmi una mano?<clear><br><$voicel(1,9)><$comeff(1,9)>Forse riusciamo a trovare qualche indizio utile, chissà.",
+      "pt_br": "<$voicel(1,8)><$facial(1,4)>Ti andrebbe di darmi una mano?<clear><br><$voicel(1,9)><$comeff(1,9)>Forse riusciamo a trovare qualche indizio utile, chissà."
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Sono proprio curios<gen;-3(o,a)> di vedere cosa scopriremo<br>in quell'edificio.",
+      "pt_br": "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Sono proprio curios<gen;-3(o,a)> di vedere cosa scopriremo<br>in quell'edificio."
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(1,3)><$motion(1,826)><$facial(1,9)><$comeff(1,7)>Uhm... Certo che è davvero a pezzi... <$voicel(1,4)>Non so proprio<br>da dove cominciare...",
+      "pt_br": "<$voicel(1,3)><$motion(1,826)><$facial(1,9)><$comeff(1,7)>Uhm... Certo che è davvero a pezzi... <$voicel(1,4)>Non so proprio<br>da dove cominciare..."
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(1,7)><$motion(1,803)><$comeff(1,5)>Ah, questo lo riconosco! È un aggeggio che chiamavano<br><$cdef(27)>PC</color>!<clear><br><$voicel(1,5)>Non ho la minima idea di come si usasse, ma doveva<br>essere estremamente utile.",
+      "pt_br": "<$voicel(1,7)><$motion(1,803)><$comeff(1,5)>Ah, questo lo riconosco! È un aggeggio che chiamavano<br><$cdef(27)>PC</color>!<clear><br><$voicel(1,5)>Non ho la minima idea di come si usasse, ma doveva<br>essere estremamente utile."
+    },
+    {
+      "id": 7,
+      "en": "<$emotion(1,13)><$voicel(1,4)>Chissà come si fa a farlo funzionare...",
+      "pt_br": "<$emotion(1,13)><$voicel(1,4)>Chissà come si fa a farlo funzionare..."
+    },
+    {
+      "id": 8,
+      "en": "<$voicel(1,6)><$motion(1,646)>Proviamo così...",
+      "pt_br": "<$voicel(1,6)><$motion(1,646)>Proviamo così..."
+    },
+    {
+      "id": 9,
+      "en": "<$emotion(1,15)>Bip bip bip bip...!",
+      "pt_br": "<$emotion(1,15)>Bip bip bip bip...!"
+    },
+    {
+      "id": 10,
+      "en": "Rilevato <$cdef(27)>Centro Pokémon</color> nelle vicinanze.<br>Si prega di accedere al <$cdef(27)>PC</color>.",
+      "pt_br": "Rilevato <$cdef(27)>Centro Pokémon</color> nelle vicinanze.<br>Si prega di accedere al <$cdef(27)>PC</color>."
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(1,7)><$comeff(1,5)><$motion(1,899)>P-Perbacco...! Il <$cdef(27)>PC</color> ha parlato!<br><$voicel(1,4)><$comeff(1,4)><$motion(1,806)><$facial(1,10)>Spero di non averlo fatto arrabbiare!<clear><br><$voicel(1,5)><$motion(1,661)><$comeff(1,3)><$facial(1,9)>Ti prego, <$cdef(27)><pname;0></color>! Puoi vedere tu che<br>cosa vuole dirci il <$cdef(27)>PC</color>?",
+      "pt_br": "<$voicel(1,7)><$comeff(1,5)><$motion(1,899)>P-Perbacco...! Il <$cdef(27)>PC</color> ha parlato!<br><$voicel(1,4)><$comeff(1,4)><$motion(1,806)><$facial(1,10)>Spero di non averlo fatto arrabbiare!<clear><br><$voicel(1,5)><$motion(1,661)><$comeff(1,3)><$facial(1,9)>Ti prego, <$cdef(27)><pname;0></color>! Puoi vedere tu che<br>cosa vuole dirci il <$cdef(27)>PC</color>?"
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(1,5)><$motion(1,661)><$comeff(1,3)><$facial(1,9)>Ti prego, <$cdef(27)><pname;0></color>! Puoi vedere tu<br>che cosa vuole dirci questo <$cdef(27)>PC</color>?",
+      "pt_br": "<$voicel(1,5)><$motion(1,661)><$comeff(1,3)><$facial(1,9)>Ti prego, <$cdef(27)><pname;0></color>! Puoi vedere tu<br>che cosa vuole dirci questo <$cdef(27)>PC</color>?"
+    },
+    {
+      "id": 13,
+      "en": "<$facial(1,1)>Bip bip bip bip... Si prega di accedere al <$cdef(27)>PC</color><br>del <$cdef(27)>Centro Pokémon</color>.",
+      "pt_br": "<$facial(1,1)>Bip bip bip bip... Si prega di accedere al <$cdef(27)>PC</color><br>del <$cdef(27)>Centro Pokémon</color>."
+    },
+    {
+      "id": 14,
+      "en": "Analisi dell'ambiente circostante in corso...",
+      "pt_br": "Analisi dell'ambiente circostante in corso..."
+    },
+    {
+      "id": 15,
+      "en": "Analisi completata. Elaborazione dei risultati in corso...",
+      "pt_br": "Analisi completata. Elaborazione dei risultati in corso..."
+    },
+    {
+      "id": 16,
+      "en": "<$motion(1,899)><$facial(1,13)><$cdef(27)>Vivibilità generale: pessima.</color><br>Condizioni non adatte ad accogliere Pokémon.",
+      "pt_br": "<$motion(1,899)><$facial(1,13)><$cdef(27)>Vivibilità generale: pessima.</color><br>Condizioni non adatte ad accogliere Pokémon."
+    },
+    {
+      "id": 17,
+      "en": "<$voicel(1,1)><$facial(1,13)><$comeff(1,4)>Oh?! Allora si è davvero arrabbiato con me!",
+      "pt_br": "<$voicel(1,1)><$facial(1,13)><$comeff(1,4)>Oh?! Allora si è davvero arrabbiato con me!"
+    },
+    {
+      "id": 18,
+      "en": "<$facial(1,13)>Avvio dell'app di miglioramento ambientale <$cdef(27)>PokéLife<br></color>in corso...",
+      "pt_br": "<$facial(1,13)>Avvio dell'app di miglioramento ambientale <$cdef(27)>PokéLife<br></color>in corso..."
+    },
+    {
+      "id": 19,
+      "en": "<$cdef(27)>PokéLife</color> è un'app realizzata allo scopo di creare<br>un ambiente perfetto per la vita di Pokémon e persone!",
+      "pt_br": "<$cdef(27)>PokéLife</color> è un'app realizzata allo scopo di creare<br>un ambiente perfetto per la vita di Pokémon e persone!"
+    },
+    {
+      "id": 20,
+      "en": "<$cdef(27)>PokéLife</color> offre delle <$cdef(27)>sfide </color>giornaliere grazie alle quali<br>è possibile migliorare gradualmente l'ambiente e<slide><br>renderlo ottimale per i Pokémon.",
+      "pt_br": "<$cdef(27)>PokéLife</color> offre delle <$cdef(27)>sfide </color>giornaliere grazie alle quali<br>è possibile migliorare gradualmente l'ambiente e<slide><br>renderlo ottimale per i Pokémon."
+    },
+    {
+      "id": 21,
+      "en": "Ti potrai cimentare in varie imprese...<clear><br>Prova a cominciare dalle <$cdef(27)>sfide</color> che ti sembrano<br>più semplici!",
+      "pt_br": "Ti potrai cimentare in varie imprese...<clear><br>Prova a cominciare dalle <$cdef(27)>sfide</color> che ti sembrano<br>più semplici!"
+    },
+    {
+      "id": 22,
+      "en": "E naturalmente, portando a termine le <$cdef(27)>sfide </color>si ottengono<br>vari premi!<clear><br>L'ambiente ha bisogno di te... Buona <$cdef(27)>PokéLife</color>!",
+      "pt_br": "E naturalmente, portando a termine le <$cdef(27)>sfide </color>si ottengono<br>vari premi!<clear><br>L'ambiente ha bisogno di te... Buona <$cdef(27)>PokéLife</color>!"
+    },
+    {
+      "id": 23,
+      "en": "<$voicel(1,4)>... Sembra che finalmente si sia azzittito.",
+      "pt_br": "<$voicel(1,4)>... Sembra che finalmente si sia azzittito."
+    },
+    {
+      "id": 24,
+      "en": "<$voicel(1,7)><$motion(1,802)>Non ho la minima idea di cosa stia parlando quel <$cdef(27)>PC</color>...<clear><br><$voicel(1,6)>Comunque, se a te risulta utile, tanto di guadagnato.",
+      "pt_br": "<$voicel(1,7)><$motion(1,802)>Non ho la minima idea di cosa stia parlando quel <$cdef(27)>PC</color>...<clear><br><$voicel(1,6)>Comunque, se a te risulta utile, tanto di guadagnato."
+    },
+    {
+      "id": 25,
+      "en": "<$voicel(1,7)><$motion(1,801)>In effetti, questo <$cdef(27)>PC</color> potrebbe tornarti utile.<clear><br><$voicel(1,9)>Non sarebbe male controllarlo di tanto in tanto!",
+      "pt_br": "<$voicel(1,7)><$motion(1,801)>In effetti, questo <$cdef(27)>PC</color> potrebbe tornarti utile.<clear><br><$voicel(1,9)>Non sarebbe male controllarlo di tanto in tanto!"
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(1,7)><$emotion(1,23)>Io credo che starò a curiosare qui intorno ancora un po'.",
+      "pt_br": "<$voicel(1,7)><$emotion(1,23)>Io credo che starò a curiosare qui intorno ancora un po'."
+    },
+    {
+      "id": 27,
+      "en": "Piripì!",
+      "pt_br": "Piripì!"
+    },
+    {
+      "id": 28,
+      "en": "Hai completato una <$cdef(27)>sfida</color>!",
+      "pt_br": "Hai completato una <$cdef(27)>sfida</color>!"
+    },
+    {
+      "id": 29,
+      "en": "Accedi al PC del <$cdef(27)>Centro Pokémon</color> per fare rapporto<br>sulle <$cdef(27)>sfide </color>che hai completato!",
+      "pt_br": "Accedi al PC del <$cdef(27)>Centro Pokémon</color> per fare rapporto<br>sulle <$cdef(27)>sfide </color>che hai completato!"
+    },
+    {
+      "id": 30,
+      "en": "Congratulazioni per aver completato una <$cdef(27)>sfida</color>!<br>Hai ottenuto delle <$cdef(27)>Monete Life</color>!",
+      "pt_br": "Congratulazioni per aver completato una <$cdef(27)>sfida</color>!<br>Hai ottenuto delle <$cdef(27)>Monete Life</color>!"
+    },
+    {
+      "id": 31,
+      "en": "Puoi usare le <$cdef(27)>Monete Life</color> nel <$cdef(27)>negozio</color>.<br>Prova subito a guardare cosa c'è!",
+      "pt_br": "Puoi usare le <$cdef(27)>Monete Life</color> nel <$cdef(27)>negozio</color>.<br>Prova subito a guardare cosa c'è!"
+    },
+    {
+      "id": 32,
+      "en": "Le <$cdef(27)>Monete Life</color> ottenute possono essere convertite<br>in una varietà di premi qui nel negozio!<clear><br>Fanne buon uso per rendere ancora più comoda la tua vita<br>assieme ai Pokémon!<clear><br>Buona PokéLife!",
+      "pt_br": "Le <$cdef(27)>Monete Life</color> ottenute possono essere convertite<br>in una varietà di premi qui nel negozio!<clear><br>Fanne buon uso per rendere ancora più comoda la tua vita<br>assieme ai Pokémon!<clear><br>Buona PokéLife!"
+    },
+    {
+      "id": 33,
+      "en": "<$voicel(1,9)><$emotion(1,15)>Come, come? Tramite il <$cdef(27)>PC</color> si possono ottenere oggetti<br>umani?! Ho capito bene?",
+      "pt_br": "<$voicel(1,9)><$emotion(1,15)>Come, come? Tramite il <$cdef(27)>PC</color> si possono ottenere oggetti<br>umani?! Ho capito bene?"
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(1,5)>Quindi gli oggetti che hai ottenuto possono essere usati<br>per aiutare i Pokémon...<clear><br><$voicel(1,7)><$motion(1,824)><$facial(1,4)>Sono davvero impressionato dalla facilità con cui maneggi<br>il <$cdef(27)>PC</color>! <$voicel(1,10)>Complimenti!",
+      "pt_br": "<$voicel(1,5)>Quindi gli oggetti che hai ottenuto possono essere usati<br>per aiutare i Pokémon...<clear><br><$voicel(1,7)><$motion(1,824)><$facial(1,4)>Sono davvero impressionato dalla facilità con cui maneggi<br>il <$cdef(27)>PC</color>! <$voicel(1,10)>Complimenti!"
+    },
+    {
+      "id": 35,
+      "en": "<$voicel(1,3)><$motion(1,802)><$comeff(1,7)><$textsize(0)>Forse dovrei provarci anche io... Solo che... non so...<br>mi pare complicato...</textsize>",
+      "pt_br": "<$voicel(1,3)><$motion(1,802)><$comeff(1,7)><$textsize(0)>Forse dovrei provarci anche io... Solo che... non so...<br>mi pare complicato...</textsize>"
+    },
+    {
+      "id": 36,
+      "en": "<$voicel(1,5)><$emotion(1,1)>Sono strabiliato... Non avrei mai detto che si potessero<br>ottenere oggetti tramite il <$cdef(27)>PC</color>.",
+      "pt_br": "<$voicel(1,5)><$emotion(1,1)>Sono strabiliato... Non avrei mai detto che si potessero<br>ottenere oggetti tramite il <$cdef(27)>PC</color>."
+    },
+    {
+      "id": 37,
+      "en": "<$facial(1,4)><$voicel(1,7)><$comeff(1,10)>Sono cert<gen;-3(o,a)> che gli oggetti umani ti saranno utili!",
+      "pt_br": "<$facial(1,4)><$voicel(1,7)><$comeff(1,10)>Sono cert<gen;-3(o,a)> che gli oggetti umani ti saranno utili!"
+    },
+    {
+      "id": 38,
+      "en": "Potrai usare le <$cdef(27)>Monete Life </color>ottenute completando<br>le <$cdef(27)>sfide </color>per ricevere una varietà di oggetti!",
+      "pt_br": "Potrai usare le <$cdef(27)>Monete Life </color>ottenute completando<br>le <$cdef(27)>sfide </color>per ricevere una varietà di oggetti!"
+    },
+    {
+      "id": 39,
+      "en": "Complimenti!<br>Hai completato tutte le tue <$cdef(27)>sfide</color> iniziali!",
+      "pt_br": "Complimenti!<br>Hai completato tutte le tue <$cdef(27)>sfide</color> iniziali!"
+    },
+    {
+      "id": 40,
+      "en": "E visto che ti piacciono le sfide, ecco una richiesta<br>speciale per te!",
+      "pt_br": "E visto che ti piacciono le sfide, ecco una richiesta<br>speciale per te!"
+    },
+    {
+      "id": 41,
+      "en": "Cerca di aumentare la <$cdef(27)>qualità della vita</color> di uno dei<br>Pokémon che vivono da queste parti!",
+      "pt_br": "Cerca di aumentare la <$cdef(27)>qualità della vita</color> di uno dei<br>Pokémon che vivono da queste parti!"
+    },
+    {
+      "id": 42,
+      "en": "Per aumentare la <$cdef(27)>qualità della sua vita </color>dovrai migliorare<br>l'ambiente e rendere felice e soddisfatto il Pokémon<slide><br>che ci abita.",
+      "pt_br": "Per aumentare la <$cdef(27)>qualità della sua vita </color>dovrai migliorare<br>l'ambiente e rendere felice e soddisfatto il Pokémon<slide><br>che ci abita."
+    },
+    {
+      "id": 43,
+      "en": "L'ambiente ideale di ciascun Pokémon si basa su fattori<br>differenti, quindi prova a usare strategie diverse!",
+      "pt_br": "L'ambiente ideale di ciascun Pokémon si basa su fattori<br>differenti, quindi prova a usare strategie diverse!"
+    },
+    {
+      "id": 44,
+      "en": "Se riuscirai ad aumentare con successo la <$cdef(27)>qualità della vita<br></color>di un Pokémon... sbloccherai nuove <$cdef(27)>sfide</color>!",
+      "pt_br": "Se riuscirai ad aumentare con successo la <$cdef(27)>qualità della vita<br></color>di un Pokémon... sbloccherai nuove <$cdef(27)>sfide</color>!"
+    },
+    {
+      "id": 45,
+      "en": "Metticela tutta con le <$cdef(27)>sfide per la qualità della vita</color>!",
+      "pt_br": "Metticela tutta con le <$cdef(27)>sfide per la qualità della vita</color>!"
+    },
+    {
+      "id": 46,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Oh, <$cdef(27)><pname;0></color>! Stai usando ancora il <$cdef(27)>PC</color>?<br><$voicel(1,8)><$facial(1,4)><$motion(1,664)>Encomiabile!",
+      "pt_br": "<$voicel(1,5)><$emotion(1,14)>Oh, <$cdef(27)><pname;0></color>! Stai usando ancora il <$cdef(27)>PC</color>?<br><$voicel(1,8)><$facial(1,4)><$motion(1,664)>Encomiabile!"
+    },
+    {
+      "id": 47,
+      "en": "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>Ce ne vuole ancora prima che questa zona possa dirsi<br>confortevole da abitare, non credi?<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,9)>Tu sai far tutto quasi come un essere umano, quindi se<br>potessi aumentare la <$cdef(27)>qualità della vita </color>dei Pokémon<slide><br><$voicel(1,7)>te ne sarei davvero grat<gen;-3(o,a)>.",
+      "pt_br": "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>Ce ne vuole ancora prima che questa zona possa dirsi<br>confortevole da abitare, non credi?<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,9)>Tu sai far tutto quasi come un essere umano, quindi se<br>potessi aumentare la <$cdef(27)>qualità della vita </color>dei Pokémon<slide><br><$voicel(1,7)>te ne sarei davvero grat<gen;-3(o,a)>."
+    },
+    {
+      "id": 48,
+      "en": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>A proposito di qualità della vita, <$cdef(27)>Bulbasaur</color> sembrava<br>un tantino in difficoltà.<clear><br><$comeff(1,6)><$motion(1,664)><$voicel(1,7)>Magari potresti cominciare col chiedere proprio a<br><$cdef(27)>Bulbasaur</color> che cosa l'affigge.",
+      "pt_br": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>A proposito di qualità della vita, <$cdef(27)>Bulbasaur</color> sembrava<br>un tantino in difficoltà.<clear><br><$comeff(1,6)><$motion(1,664)><$voicel(1,7)>Magari potresti cominciare col chiedere proprio a<br><$cdef(27)>Bulbasaur</color> che cosa l'affigge."
+    },
+    {
+      "id": 49,
+      "en": "<$comeff(1,14)><$motion(1,827)><$voicel(1,8)>Vorrei che aumentassi la <$cdef(27)>qualità della vita</color> dei Pokémon.",
+      "pt_br": "<$comeff(1,14)><$motion(1,827)><$voicel(1,8)>Vorrei che aumentassi la <$cdef(27)>qualità della vita</color> dei Pokémon."
+    },
+    {
+      "id": 50,
+      "en": "<$motion(1,654)><$comeff(1,3)><$motion(1,801)><$voicel(1,7)>Magari potresti cominciare col <$cdef(27)>chiedere a Bulbasaur<br>di cos'è che ha bisogno</color>.",
+      "pt_br": "<$motion(1,654)><$comeff(1,3)><$motion(1,801)><$voicel(1,7)>Magari potresti cominciare col <$cdef(27)>chiedere a Bulbasaur<br>di cos'è che ha bisogno</color>."
+    },
+    {
+      "id": 51,
+      "en": "Piripì!",
+      "pt_br": "Piripì!"
+    },
+    {
+      "id": 52,
+      "en": "Complimenti! Hai aumentato la <$cdef(27)>qualità della vita<br></color>di <$cdef(27)>Bulbasaur</color>!<clear><br>Nel PC del <$cdef(27)>Centro Pokémon</color> più vicino sono state<br>sbloccate nuove <$cdef(27)>sfide</color>!",
+      "pt_br": "Complimenti! Hai aumentato la <$cdef(27)>qualità della vita<br></color>di <$cdef(27)>Bulbasaur</color>!<clear><br>Nel PC del <$cdef(27)>Centro Pokémon</color> più vicino sono state<br>sbloccate nuove <$cdef(27)>sfide</color>!"
+    },
+    {
+      "id": 53,
+      "en": "Grazie! È stato registrato un miglioramento<br>della <$cdef(27)>vivibilità generale</color>.<clear><br>La <$cdef(27)>vivibilità generale</color> migliora quando più Pokémon si<br>stabiliscono in città e aumenta la loro <$cdef(27)>qualità della vita</color>!<clear><br>Migliorando la <$cdef(27)>vivibilità generale</color>, si sbloccano nuove<br><$cdef(27)>sfide </color>e aumenta la varietà di oggetti disponibili nel<slide><br><$cdef(27)>negozio</color>.<clear><br>Continua a metterti alla prova! Buona <$cdef(27)>PokéLife</color>!",
+      "pt_br": "Grazie! È stato registrato un miglioramento<br>della <$cdef(27)>vivibilità generale</color>.<clear><br>La <$cdef(27)>vivibilità generale</color> migliora quando più Pokémon si<br>stabiliscono in città e aumenta la loro <$cdef(27)>qualità della vita</color>!<clear><br>Migliorando la <$cdef(27)>vivibilità generale</color>, si sbloccano nuove<br><$cdef(27)>sfide </color>e aumenta la varietà di oggetti disponibili nel<slide><br><$cdef(27)>negozio</color>.<clear><br>Continua a metterti alla prova! Buona <$cdef(27)>PokéLife</color>!"
+    },
+    {
+      "id": 54,
+      "en": "<$voicel(1,6)><$comeff(1,5)>Oh, <$cdef(27)><pname;0></color>! Ti sei svegliat<gen;-2(o,a)>!<clear><br><$voicel(1,8)><$emotion(1,1)>Hai visto che bella giornata?",
+      "pt_br": "<$voicel(1,6)><$comeff(1,5)>Oh, <$cdef(27)><pname;0></color>! Ti sei svegliat<gen;-2(o,a)>!<clear><br><$voicel(1,8)><$emotion(1,1)>Hai visto che bella giornata?"
+    },
+    {
+      "id": 55,
+      "en": "<$voicel(1,8)><$comeff(1,5)>Oh, <$cdef(27)><pname;0></color>! Ti sei svegliat<gen;-2(o,a)>!<clear><br><$voicel(1,5)><$emotion(1,1)>La giornata è quasi finita. Dovevi essere davvero stanc<gen;-2(o,a)><br>per dormire così tanto.",
+      "pt_br": "<$voicel(1,8)><$comeff(1,5)>Oh, <$cdef(27)><pname;0></color>! Ti sei svegliat<gen;-2(o,a)>!<clear><br><$voicel(1,5)><$emotion(1,1)>La giornata è quasi finita. Dovevi essere davvero stanc<gen;-2(o,a)><br>per dormire così tanto."
+    },
+    {
+      "id": 56,
+      "en": "<$voicel(1,6)><$comeff(1,5)>Oh, <$cdef(27)><pname;0></color>! Ti sei svegliat<gen;-2(o,a)>!<clear><br><$voicel(1,7)><$emotion(1,1)>Hai dormito per un giorno intero! Oh oh oh!",
+      "pt_br": "<$voicel(1,6)><$comeff(1,5)>Oh, <$cdef(27)><pname;0></color>! Ti sei svegliat<gen;-2(o,a)>!<clear><br><$voicel(1,7)><$emotion(1,1)>Hai dormito per un giorno intero! Oh oh oh!"
+    },
+    {
+      "id": 57,
+      "en": "<$voicel(1,5)><$comeff(1,6)><$motion(1,824)>C'è qualche altra cosa che volevi chiedermi?<$motion(1,652)>",
+      "pt_br": "<$voicel(1,5)><$comeff(1,6)><$motion(1,824)>C'è qualche altra cosa che volevi chiedermi?<$motion(1,652)>"
+    },
+    {
+      "id": 58,
+      "en": "Per prima cosa, prova a completare qualche <$cdef(27)>sfida</color>!<clear><br>Puoi controllare i dettagli delle <$cdef(27)>sfide </color>e i tuoi progressi<br>in qualsiasi momento dal <$cdef(27)>PC</color>.",
+      "pt_br": "Per prima cosa, prova a completare qualche <$cdef(27)>sfida</color>!<clear><br>Puoi controllare i dettagli delle <$cdef(27)>sfide </color>e i tuoi progressi<br>in qualsiasi momento dal <$cdef(27)>PC</color>."
+    },
+    {
+      "id": 59,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Perbacco! Hai già fatto crescere dell'erba alta!<br>Allora proviamo ad attendere ancora un pochino.",
+      "pt_br": "<$voicel(1,7)><$emotion(1,14)>Perbacco! Hai già fatto crescere dell'erba alta!<br>Allora proviamo ad attendere ancora un pochino."
+    },
+    {
+      "id": 60,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>Oh! Vedo che hai ricreato un habitat con<br>dell'<flow><$cdef(27)><$hatname(3)></color>!<clear><br><$facial(1,1)><$voicel(1,7)>Sono della convinzione che grazie a quell'erba alta<br>i Pokémon torneranno qui.<slide><br><$comeff(1,14)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Restiamo ad aspettare per vedere se ho ragione.",
+      "pt_br": "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>Oh! Vedo che hai ricreato un habitat con<br>dell'<flow><$cdef(27)><$hatname(3)></color>!<clear><br><$facial(1,1)><$voicel(1,7)>Sono della convinzione che grazie a quell'erba alta<br>i Pokémon torneranno qui.<slide><br><$comeff(1,14)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Restiamo ad aspettare per vedere se ho ragione."
+    },
+    {
+      "id": 61,
+      "en": "Ora <$cdef(27)>Charmander</color> ti seguirà!<br>Dirigiti verso un <$cdef(27)><fqty(1)><$ifull(1280)></color>!",
+      "pt_br": "Ora <$cdef(27)>Charmander</color> ti seguirà!<br>Dirigiti verso un <$cdef(27)><fqty(1)><$ifull(1280)></color>!"
+    },
+    {
+      "id": 62,
+      "en": "Se aspetti un po' davanti al <$cdef(27)><fqty(1)><$ifull(1280)></color>,<br><$cdef(27)>Charmander</color> lo accenderà.",
+      "pt_br": "Se aspetti un po' davanti al <$cdef(27)><fqty(1)><$ifull(1280)></color>,<br><$cdef(27)>Charmander</color> lo accenderà."
+    },
+    {
+      "id": 63,
+      "en": "<$voicel(4,8)><$emotion(4,49)>Dai! Accompagnami fino a un <$cdef(27)><fqty(1)><$ifull(1280)></color>!",
+      "pt_br": "<$voicel(4,8)><$emotion(4,49)>Dai! Accompagnami fino a un <$cdef(27)><fqty(1)><$ifull(1280)></color>!"
+    },
+    {
+      "id": 64,
+      "en": "Raggiungi un <$cdef(27)><fqty(1)><$ifull(1280)></color> mentre <$cdef(27)>Charmander<br></color>ti segue.",
+      "pt_br": "Raggiungi un <$cdef(27)><fqty(1)><$ifull(1280)></color> mentre <$cdef(27)>Charmander<br></color>ti segue."
+    },
+    {
+      "id": 65,
+      "en": "Se aspetti un po' davanti al <$cdef(27)><fqty(1)><$ifull(1280)></color>,<br><$cdef(27)>Charmander </color>lo accenderà.<clear><br>Girati verso il <$cdef(27)><fqty(1)><$ifull(1280)></color> per aiutare <$cdef(27)>Charmander<br></color>a vederlo e aspetta un po'.",
+      "pt_br": "Se aspetti un po' davanti al <$cdef(27)><fqty(1)><$ifull(1280)></color>,<br><$cdef(27)>Charmander </color>lo accenderà.<clear><br>Girati verso il <$cdef(27)><fqty(1)><$ifull(1280)></color> per aiutare <$cdef(27)>Charmander<br></color>a vederlo e aspetta un po'."
+    },
+    {
+      "id": 66,
+      "en": "<$comeff(1,10)><$motion(1,801)><$voicel(1,7)>Oh oh oh! Sembra che la tua strategia per aumentare<br>la <$cdef(27)>qualità della vita </color>abbia funzionato!",
+      "pt_br": "<$comeff(1,10)><$motion(1,801)><$voicel(1,7)>Oh oh oh! Sembra che la tua strategia per aumentare<br>la <$cdef(27)>qualità della vita </color>abbia funzionato!"
+    },
+    {
+      "id": 67,
+      "en": "<$voicel(1,5)><$comeff(1,3)><$motion(1,824)>Sembra proprio che il modo migliore per aumentare<br>la <$cdef(27)>qualità della vita </color>dei Pokémon sia capire i loro bisogni<slide><br><$voicel(1,8)><$comeff(1,10)><$facial(1,4)>e cercare di soddisfarli!<$motion(1,652)>",
+      "pt_br": "<$voicel(1,5)><$comeff(1,3)><$motion(1,824)>Sembra proprio che il modo migliore per aumentare<br>la <$cdef(27)>qualità della vita </color>dei Pokémon sia capire i loro bisogni<slide><br><$voicel(1,8)><$comeff(1,10)><$facial(1,4)>e cercare di soddisfarli!<$motion(1,652)>"
+    },
+    {
+      "id": 68,
+      "en": "Quando il <$cdef(27)>livello di vivibilità generale</color> aumenterà, troverai<br>ancora più articoli in vendita al <$cdef(27)>negozio</color>!<clear><br>Usali per altri miglioramenti alla <$cdef(27)>qualità della vita </color>e per<br>creare habitat nuovi!",
+      "pt_br": "Quando il <$cdef(27)>livello di vivibilità generale</color> aumenterà, troverai<br>ancora più articoli in vendita al <$cdef(27)>negozio</color>!<clear><br>Usali per altri miglioramenti alla <$cdef(27)>qualità della vita </color>e per<br>creare habitat nuovi!"
+    },
+    {
+      "id": 69,
+      "en": "Controlla subito la schermata delle <$cdef(27)>sfide</color>!",
+      "pt_br": "Controlla subito la schermata delle <$cdef(27)>sfide</color>!"
+    },
+    {
+      "id": 70,
+      "en": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Cos'ha detto il <$cdef(27)>PC</color>? Qualcosa di utile, spero...",
+      "pt_br": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Cos'ha detto il <$cdef(27)>PC</color>? Qualcosa di utile, spero..."
+    },
+    {
+      "id": 71,
+      "en": "<$comcan(1)>Dal <$cdef(27)>PC </color>del <$cdef(27)>Centro Pokémon </color>puoi visualizzare le <$cdef(27)>sfide</color><br>mirate a migliorare l'ambiente.<clear><br>Completando le <$cdef(27)>sfide</color>, otterrai <$cdef(27)>Monete Life </color>da scambiare<br>con una vasta serie di articoli nel <$cdef(27)>negozio</color>.<slide><br>Mettiti alla prova!",
+      "pt_br": "<$comcan(1)>Dal <$cdef(27)>PC </color>del <$cdef(27)>Centro Pokémon </color>puoi visualizzare le <$cdef(27)>sfide</color><br>mirate a migliorare l'ambiente.<clear><br>Completando le <$cdef(27)>sfide</color>, otterrai <$cdef(27)>Monete Life </color>da scambiare<br>con una vasta serie di articoli nel <$cdef(27)>negozio</color>.<slide><br>Mettiti alla prova!"
+    },
+    {
+      "id": 72,
+      "en": "Hai ricostruito un altro habitat per i Pokémon!<br>Nuovi habitat faranno arrivare nuovi Pokémon.<clear><br>Ci vorrà un po', però. Nel frattempo vai pure a fare altro!",
+      "pt_br": "Hai ricostruito un altro habitat per i Pokémon!<br>Nuovi habitat faranno arrivare nuovi Pokémon.<clear><br>Ci vorrà un po', però. Nel frattempo vai pure a fare altro!"
+    },
+    {
+      "id": 73,
+      "en": "I Pokémon <$cdef(27)>rari</color> soprattutto ci impiegheranno più tempo<br>a comparire. Non avere fretta, e aspetta.<slide><br>Vedrai che arriveranno!",
+      "pt_br": "I Pokémon <$cdef(27)>rari</color> soprattutto ci impiegheranno più tempo<br>a comparire. Non avere fretta, e aspetta.<slide><br>Vedrai che arriveranno!"
+    },
+    {
+      "id": 74,
+      "en": "Segui il consiglio del Professore e vai a parlare con<br><$cdef(27)>Bulbasaur</color> per aumentare la sua <$cdef(27)>qualità della vita</color>!<slide><br>Quando hai fatto, controlla il PC.",
+      "pt_br": "Segui il consiglio del Professore e vai a parlare con<br><$cdef(27)>Bulbasaur</color> per aumentare la sua <$cdef(27)>qualità della vita</color>!<slide><br>Quando hai fatto, controlla il PC."
+    }
+  ]
+}

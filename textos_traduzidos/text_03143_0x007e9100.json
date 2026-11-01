@@ -1,0 +1,109 @@
+{
+  "entry_index": 3143,
+  "bin_id": "0x7e9100",
+  "decompressed_size": 2896,
+  "first_tag_offset": 424,
+  "total_strings": 20,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$comeff(1,3)><$motion(1,805)><$voicel(1,7)>Bzt! ♪ The open sky. The fresh air. The Pokémon. <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,10)>It has<br>been a time since I saw them all.",
+      "pt_br": "<$comeff(1,3)><$motion(1,805)><$voicel(1,7)>O céu aberto, o ar fresco, o Pokémon. <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,10)>Tem, sim.<br>Há muito tempo que não os via a todos."
+    },
+    {
+      "id": 1,
+      "en": "<$emotion(1,29)><$voicel(1,7)>Hello. Hello. Will you be a friend of mine? <$emotion(1,38)><$voicel(1,10)>Let us<br>talk together.",
+      "pt_br": "<$emotion(1,29)><$voicel(1,7)>Olá, quer ser meu amigo? <$emotion(1,38)><$voicel(1,10)>Deixe-nos<br>Conversar juntos."
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(1,6)><$motion(1,805)><$voicel(1,5)>Hello. Hello. There was a big building above here. Why is<br>it gone?",
+      "pt_br": "<$comeff(1,6)><$motion(1,805)><$voicel(1,5)>Olá, olá, havia aqui um grande edifício.<br>Desapareceu?"
+    },
+    {
+      "id": 3,
+      "en": "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,10)>It flew to the sky? It is difficult to believe.",
+      "pt_br": "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,10)>Voou para o céu? É difícil acreditar."
+    },
+    {
+      "id": 4,
+      "en": "<$comeff(1,14)><$facial(1,1)><$motion(1,827)><$voicel(1,5)>Incredible. Those humans were making a thing of<br>amazement. <$voicel(1,8)>I now understand.",
+      "pt_br": "<$comeff(1,14)><$facial(1,1)><$motion(1,827)><$voicel(1,5)>Incrível, aqueles humanos estavam a fazer uma coisa...<br>Espantoso. <$voicel(1,8)>Agora compreendo."
+    },
+    {
+      "id": 5,
+      "en": "<$emotion(1,14)><$voicel(1,5)>There were many humans. They looked “sketchy.” They<br>did things around the building.",
+      "pt_br": "<$emotion(1,14)><$voicel(1,5)>Havia muitos humanos. Eles pareciam “esquecados”.<br>fez coisas ao redor do prédio."
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(1,14)><$motion(1,805)><$voicel(1,3)>One day, they disappeared. I went inside to investigate.<br><$emotion(1,37)><$voicel(1,8)>But I was unable to exit.",
+      "pt_br": "<$comeff(1,14)><$motion(1,805)><$voicel(1,3)>Um dia, eles desapareceram, entrei para investigar.<br><$emotion(1,37)><$voicel(1,8)>Mas não consegui sair."
+    },
+    {
+      "id": 7,
+      "en": "<$comeff(1,6)><$motion(1,666)><$voicel(1,5)>I could not exit and had no things to do, so I slept. How<br>long did I sleep? I do not know. <$facial(1,9)><$motion(1,807)><$voicel(1,4)>When I woke, I was here.",
+      "pt_br": "<$comeff(1,6)><$motion(1,666)><$voicel(1,5)>Eu não podia sair e não tinha nada para fazer, então eu dormi.<br>Não sei. <$facial(1,9)><$motion(1,807)><$voicel(1,4)>Quando acordei, estava aqui."
+    },
+    {
+      "id": 8,
+      "en": "<$emotion(1,37)><$voicel(1,7)>When the building flew, maybe I fell out.",
+      "pt_br": "<$emotion(1,37)><$voicel(1,7)>Quando o edifício voou, talvez tenha caído."
+    },
+    {
+      "id": 9,
+      "en": "<$emotion(1,51)><$voicel(1,4)>The building was a comfortable space for sleeping.<br>It would have been a good home. <$emotion(1,31)><$voicel(1,2)>This is unfortunate.",
+      "pt_br": "<$emotion(1,51)><$voicel(1,4)>O edifício era um espaço confortável para dormir.<br>Teria sido uma boa casa. <$emotion(1,31)><$voicel(1,2)>Isto é uma pena."
+    },
+    {
+      "id": 10,
+      "en": "<$emotion(1,29)><$voicel(1,7)>You can make a home that is like the building. Is it<br>a possibility?",
+      "pt_br": "<$emotion(1,29)><$voicel(1,7)>Você pode fazer uma casa que é como o edifício.<br>Uma possibilidade?"
+    },
+    {
+      "id": 11,
+      "en": "<$emotion(1,38)><$voicel(1,9)>If so, I would like that a large amount. Something like this.<br>Please make it.",
+      "pt_br": "<$emotion(1,38)><$voicel(1,9)>Se sim, eu gostaria que uma grande quantidade. Algo como este.<br>Por favor, fá-lo."
+    },
+    {
+      "id": 12,
+      "en": "<$emotion(1,50)><$voicel(1,8)>I count on you.",
+      "pt_br": "<$emotion(1,50)><$voicel(1,8)>Conto com você."
+    },
+    {
+      "id": 13,
+      "en": "<$emotion(1,37)><$voicel(1,9)>I wish for you to make my home.",
+      "pt_br": "<$emotion(1,37)><$voicel(1,9)>Eu desejo que você faça a minha casa."
+    },
+    {
+      "id": 14,
+      "en": "<$emotion(1,8)><$voicel(1,9)>You did it. You made my home. I thank you.",
+      "pt_br": "<$emotion(1,8)><$voicel(1,9)>Conseguiste, fizeste a minha casa."
+    },
+    {
+      "id": 15,
+      "en": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>I wish to repay you. What can I do. I must think.",
+      "pt_br": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>O que posso fazer, devo pensar."
+    },
+    {
+      "id": 16,
+      "en": "<oneline><$comeff(1,20)><$motion(1,803)><$voicel(1,9)>Oh. <$cdef(27)><pname;0></color>. I have an idea. Do you<br>have<slide><br>interest<slide><br>in<slide><br><$cdef(27)><$sklfull(13)></color>?",
+      "pt_br": "<oneline><$comeff(1,20)><$motion(1,803)><$voicel(1,9)>Oh, sim. <$cdef(27)><pname;0></color>Tenho uma ideia.<br>ter<slide><br>juros<slide><br>em<slide><br><$cdef(27)><$sklfull(13)></color>?"
+    },
+    {
+      "id": 17,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>It will let you float around. This is very fun. You must try.",
+      "pt_br": "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>Isto vai deixar-te flutuar."
+    },
+    {
+      "id": 18,
+      "en": "<$emotion(1,37)><$voicel(1,9)>Wow. <$cdef(27)><pname;0></color>. Your floating is skillful.",
+      "pt_br": "<$emotion(1,37)><$voicel(1,9)>Ena. <$cdef(27)><pname;0></color>A tua flutuação é habilidosa."
+    },
+    {
+      "id": 19,
+      "en": "<$emotion(1,8)><$voicel(1,7)>You must continue to practice. You will master<br><$cdef(27)><$sklfull(13)></color>.",
+      "pt_br": "<$emotion(1,8)><$voicel(1,7)>Deve continuar a praticar.<br><$cdef(27)><$sklfull(13)></color>."
+    }
+  ]
+}

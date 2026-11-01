@@ -1,0 +1,309 @@
+{
+  "entry_index": 2531,
+  "bin_id": "0x64ca00",
+  "decompressed_size": 9552,
+  "first_tag_offset": 880,
+  "total_strings": 60,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(1,3)><$comeff(1,6)><$motion(1,827)>I wonder if there are any Pokémon or humans still around<br>in this place... <$voicel(1,5)><$motion(1,668)>It’s exciting to think of the possibilities!",
+      "pt_br": "<$voicel(1,3)><$comeff(1,6)><$motion(1,827)>Será que ainda há Pokémon ou humanos por perto?<br>Neste lugar... <$voicel(1,5)><$motion(1,668)>É emocionante pensar nas possibilidades!"
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(1,8)><$emotion(1,14)>Right then! <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,5)><$emotion(1,49)>Would you mind going ahead and scouting out the<br>area first?",
+      "pt_br": "<$voicel(1,8)><$emotion(1,14)>Muito bem! <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,5)><$emotion(1,49)>Importas-te de ir em frente e investigar o<br>A área primeiro?"
+    },
+    {
+      "id": 2,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,49)>Ah, you’ve found a great vantage point,<br><$cdef(27)><pname;0></color>!<slide><br>We<slide><br>can<slide><br>look<slide><br>out<slide><br>over<slide><br>the<slide><br>whole<slide><br>area<slide><br>from here!",
+      "pt_br": "<oneline><$voicel(1,7)><$emotion(1,49)>Ah, você encontrou um grande ponto de vantagem,<br><$cdef(27)><pname;0></color>!<slide><br>Nós<slide><br>pode<slide><br>olhar<slide><br>fora<slide><br>sobre<slide><br>a<slide><br>inteiro<slide><br>área<slide><br>daqui!"
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(1,5)>It looks like this was another town where people used to<br>live, but...<$voicel(1,4)>it’s pretty much in ruins now.<clear><br><$voicel(1,5)>And I’m not sure why—perhaps it’s the clouds?—but this<br>place sure is dark.",
+      "pt_br": "<$voicel(1,5)>Parece que esta era outra cidade onde as pessoas costumavam<br>Vivo, mas...<$voicel(1,4)>está praticamente em ruínas agora.<clear><br><$voicel(1,5)>E eu não tenho certeza por que – talvez sejam as nuvens? – mas isso<br>O lugar está escuro."
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(1,7)>At any rate, we’d better start out by finding a safe spot<br>where we can relax.",
+      "pt_br": "<$voicel(1,7)>De qualquer forma, é melhor começarmos por encontrar um lugar seguro<br>onde podemos relaxar."
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(1,5)>Do you see a <$cdef(27)>Pokémon Center</color> anywhere?",
+      "pt_br": "<$voicel(1,5)>está a ver um <$cdef(27)>Centro Pokémon</color> Em algum lugar?"
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(1,3)><$comeff(1,7)><$facial(1,9)><$motion(1,807)>Oh dear... It looks like the bridge is broken.",
+      "pt_br": "<$voicel(1,3)><$comeff(1,7)><$facial(1,9)><$motion(1,807)>Parece que a ponte está partida."
+    },
+    {
+      "id": 7,
+      "en": "<$voicel(1,7)>I can’t make it across that gap...",
+      "pt_br": "<$voicel(1,7)>Eu não consigo atravessar essa lacuna..."
+    },
+    {
+      "id": 8,
+      "en": "<oneline><$voicel(1,3)>Do you think you can fix this bridge,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": "<oneline><$voicel(1,3)>Achas que consegues arranjar esta ponte?<br><$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(1,3)><$comeff(1,7)><$facial(1,9)>I can’t cross to the other side.",
+      "pt_br": "<$voicel(1,3)><$comeff(1,7)><$facial(1,9)>Não posso atravessar para o outro lado."
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(1,5)>You should be able to use something to connect this side<br>of the bridge to the other side.",
+      "pt_br": "<$voicel(1,5)>Você deve ser capaz de usar algo para conectar este lado<br>da ponte para o outro lado."
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(1,5)><$comeff(1,17)><$motion(1,801)>Phew! I made it safely to the other side—thanks to you,<br>of course!",
+      "pt_br": "<$voicel(1,5)><$comeff(1,17)><$motion(1,801)>Cheguei em segurança ao outro lado, graças a ti.<br>Claro!"
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(1,8)><$emotion(1,27)><$facial(1,13)>Oh!",
+      "pt_br": "<$voicel(1,8)><$emotion(1,27)><$facial(1,13)>Oh!"
+    },
+    {
+      "id": 13,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Look, <$cdef(27)><pname;0></color>! There was a <$cdef(27)>Pokémon<br>Center</color><slide><br>here too!",
+      "pt_br": "<oneline><$voicel(1,7)><$emotion(1,14)>Olha, <$cdef(27)><pname;0></color>Havia um... <$cdef(27)>Pokémon<br>Centro</color><slide><br>Aqui também!"
+    },
+    {
+      "id": 14,
+      "en": "<$emotion(1,14)><$voicel(1,7)><$comeff(1,6)><$motion(1,666)>Do you think this <$cdef(27)>PC</color> still works properly, like the<br>other one?",
+      "pt_br": "<$emotion(1,14)><$voicel(1,7)><$comeff(1,6)><$motion(1,666)>Achas que isto... <$cdef(27)>PC</color> ainda funciona corretamente, como o<br>Outra?"
+    },
+    {
+      "id": 15,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,48)>Why don’t you check out this <$cdef(27)>PC</color>,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": "<oneline><$voicel(1,7)><$emotion(1,48)>Por que você não verificar isso <$cdef(27)>PC</color>,<br><$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 16,
+      "en": "*beep beep beep*<br>Accessing <$cdef(27)>Pokémon Center</color>.",
+      "pt_br": "* Beep beep *<br>Acesso <$cdef(27)>Centro Pokémon</color>."
+    },
+    {
+      "id": 17,
+      "en": "... ... ...<br>*bzzz zzzt*<clear><br>There is a problem with the <$cdef(27)>Pokémon Center</color> <$cdef(27)>PC</color>.<clear><br>Please contact a nearby <$cdef(27)>Pokémon Center</color> staff member.<br>We apologize for the inconvenience.",
+      "pt_br": "... ... ...<br>* bzzz zzzt *<clear><br>Há um problema com o <$cdef(27)>Centro Pokémon</color> <$cdef(27)>PC</color>.<clear><br>Por favor, contacte uma vizinha <$cdef(27)>Centro Pokémon</color> Membro do pessoal.<br>Pedimos desculpa pela inconveniência."
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(1,3)><$comeff(1,7)><$motion(1,806)><$facial(1,9)>Hmmm... This <$cdef(27)>PC </color>doesn’t seem to be working.",
+      "pt_br": "<$voicel(1,3)><$comeff(1,7)><$motion(1,806)><$facial(1,9)>Hmmm... isto... <$cdef(27)>PC </color>não parece estar funcionando."
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(1,7)><$comeff(1,14)><$motion(1,827)>It’s just a hunch, but I think the flooding here may be<br>the problem.<clear><br><$voicel(1,5)><$comeff(1,17)>Human-made machines are awfully convenient, but they<br>don’t do well with water.<$motion(1,654)>",
+      "pt_br": "<$voicel(1,7)><$comeff(1,14)><$motion(1,827)>É apenas um palpite, mas eu acho que a inundação aqui pode ser<br>O problema.<clear><br><$voicel(1,5)><$comeff(1,17)>As máquinas de fabrico humano são muito convenientes, mas elas<br>não se sai bem com água.<$motion(1,654)>"
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(1,7)><$comeff(1,3)><$motion(1,661)>So I think we should do something about all this water<br>before we try anything else.",
+      "pt_br": "<$voicel(1,7)><$comeff(1,3)><$motion(1,661)>Então, acho que devemos fazer algo sobre toda esta água.<br>Antes de tentarmos mais alguma coisa."
+    },
+    {
+      "id": 21,
+      "en": "<$voicel(1,5)><$comeff(1,6)><$motion(1,666)>Where in the world is the water coming from anyway?",
+      "pt_br": "<$voicel(1,5)><$comeff(1,6)><$motion(1,666)>De onde vem a água?"
+    },
+    {
+      "id": 22,
+      "en": "<$voicel(1,3)><$comeff(1,6)><$motion(1,666)>Where in the world is all this water coming from?",
+      "pt_br": "<$voicel(1,3)><$comeff(1,6)><$motion(1,666)>De onde vem toda esta água?"
+    },
+    {
+      "id": 23,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,661)>If you block wherever it’s flowing from, that should<br>clear the water from this area, I think.",
+      "pt_br": "<$voicel(1,5)><$comeff(1,14)><$motion(1,661)>Se você bloquear onde quer que ele esteja fluindo, que deve<br>Limpar a água desta área, acho eu."
+    },
+    {
+      "id": 24,
+      "en": "*beep beep beep*",
+      "pt_br": "* Beep beep *"
+    },
+    {
+      "id": 25,
+      "en": "The <$cdef(27)>Pokémon Center</color> <$cdef(27)>PC</color> has started working again!",
+      "pt_br": "A <$cdef(27)>Centro Pokémon</color> <$cdef(27)>PC</color> Começou a trabalhar de novo!"
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(1,9)><$emotion(1,14)>Oho! Excellent job getting rid of that water!",
+      "pt_br": "<$voicel(1,9)><$emotion(1,14)>Excelente trabalho a livrar-se da água!"
+    },
+    {
+      "id": 27,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Maybe now the<$cdef(27)> Pokémon Center</color> <$cdef(27)>PC</color> will work properly!",
+      "pt_br": "<$voicel(1,7)><$emotion(1,38)>Talvez agora o<$cdef(27)> Centro Pokémon</color> <$cdef(27)>PC</color> Vai funcionar correctamente!"
+    },
+    {
+      "id": 28,
+      "en": "<$comeff(1,6)><$motion(1,666)><$voicel(1,7)>Why don’t you check the <$cdef(27)>PC</color>, <$cdef(27)><pname;0></color>?",
+      "pt_br": "<$comeff(1,6)><$motion(1,666)><$voicel(1,7)>Por que você não verificar o <$cdef(27)>PC</color>, <$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 29,
+      "en": "<$voicel(1,8)><$comeff(1,10)><$motion(1,668)>Isn’t this thrilling?",
+      "pt_br": "<$voicel(1,8)><$comeff(1,10)><$motion(1,668)>Não é emocionante?"
+    },
+    {
+      "id": 30,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Oho! So the <$cdef(27)>PC</color>’s working now, is it?",
+      "pt_br": "<$voicel(1,7)><$emotion(1,14)>Então... <$cdef(27)>PC</color>Está a funcionar agora, não está?"
+    },
+    {
+      "id": 31,
+      "en": "Welcome to the <$cdef(27)>Pokémon Center</color>!<clear><br>Here, you can continue taking on <$cdef(27)>challenges </color>to improve<br>the quality of your environment!<clear><br>Each <$cdef(27)>Pokémon Center</color> offers its own original <$cdef(27)>challenges</color>.<br>Please do your best to complete them!",
+      "pt_br": "Bem-vindo ao <$cdef(27)>Centro Pokémon</color>!<clear><br>Aqui, você pode continuar assumindo <$cdef(27)>desafios </color>melhorar<br>a qualidade do seu ambiente!<clear><br>Cada <$cdef(27)>Centro Pokémon</color> oferece seu próprio original <$cdef(27)>desafios</color>.<br>Por favor, faça o seu melhor para completá-los!"
+    },
+    {
+      "id": 32,
+      "en": "<$voicel(1,3)>Do you think you can get items from this <$cdef(27)>PC </color>too?",
+      "pt_br": "<$voicel(1,3)>Acha que pode obter itens disto? <$cdef(27)>PC </color>Também?"
+    },
+    {
+      "id": 33,
+      "en": "The <$cdef(27)>Life Coins</color> you get from completing <$cdef(27)>challenges </color>can be<br>used at any Pokémon Center!<clear><br>You can exchange them at this <$cdef(27)>PC</color> or others for the items<br>of your choice!<clear><br>We’ve added more to our lineup, so be sure to check<br>it out—and keep on living your best Poké Life!",
+      "pt_br": "A <$cdef(27)>Moedas da vida</color> você começa de completar <$cdef(27)>desafios </color>pode ser<br>usado em qualquer Pokémon Center!<clear><br>pode trocá-los nisto. <$cdef(27)>PC</color> ou outros para os itens<br>De sua escolha!<clear><br>Nós adicionamos mais para o nosso lineup, então certifique-se de verificar<br>e continue vivendo sua melhor vida Poké!"
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(1,7)>Oho! So we CAN get more useful items here!",
+      "pt_br": "<$voicel(1,7)>Então nós podemos obter itens mais úteis aqui!"
+    },
+    {
+      "id": 35,
+      "en": "<$voicel(1,3)><$comeff(1,7)><$motion(1,807)>Still, this <$cdef(27)>Pokémon Center</color> is in pretty sorry shape, just like<br>the last one...<clear><br><$voicel(1,5)>I daresay it would be a problem for any humans<br>who return.",
+      "pt_br": "<$voicel(1,3)><$comeff(1,7)><$motion(1,807)>Ainda assim, isto... <$cdef(27)>Centro Pokémon</color> está em forma muito triste, assim como<br>O último...<clear><br><$voicel(1,5)>Atrevo-me a dizer que seria um problema para qualquer humano.<br>que voltam."
+    },
+    {
+      "id": 36,
+      "en": "<oneline><$voicel(1,7)><$comeff(1,3)><$motion(1,827)>What say you, <$cdef(27)><pname;0></color>? Shall we find<br>some<slide><br>friends<slide><br>around<slide><br>here<slide><br>as<slide><br>well...<clear><br><$voicel(1,4)><$comeff(1,6)>and rebuild another <$cdef(27)>Pokémon Center</color>?<$motion(1,654)>",
+      "pt_br": "<oneline><$voicel(1,7)><$comeff(1,3)><$motion(1,827)>O que diz, <$cdef(27)><pname;0></color>Vamos encontrar<br>alguns<slide><br>amigos<slide><br>em torno<slide><br>Aqui.<slide><br>como<slide><br>Bem...<clear><br><$voicel(1,4)><$comeff(1,6)>e reconstruir outro <$cdef(27)>Centro Pokémon</color>?<$motion(1,654)>"
+    },
+    {
+      "id": 37,
+      "en": "<$voicel(1,7)><$comeff(1,3)><$motion(1,661)>Well, let’s see... I’d start by <$voicel(1,5)>creating <$cdef(27)>habitats </color>to make it<br>easier for more Pokémon to come back.<clear><br><$voicel(1,7)><$emotion(1,38)>I’m sure the items you get from this <$cdef(27)>PC </color>will help with that!",
+      "pt_br": "<$voicel(1,7)><$comeff(1,3)><$motion(1,661)>Bem, vamos ver... Eu começaria por <$voicel(1,5)>criação de <$cdef(27)>habitats </color>para o fazer<br>É mais fácil para mais Pokémon voltar.<clear><br><$voicel(1,7)><$emotion(1,38)>Eu tenho certeza que os itens que você obter a partir deste <$cdef(27)>PC </color>Vai ajudar com isso!"
+    },
+    {
+      "id": 38,
+      "en": "<$voicel(1,5)><$emotion(1,14)><$facial(1,4)>Oho! That’s the answer I hoped to hear!<clear><br><$voicel(1,7)>Your best bet is probably creating more <$cdef(27)>habitats </color>to make<br>it easier for more Pokémon to return.<clear><br><$voicel(1,7)><$emotion(1,38)>I’m sure the items you get from this <$cdef(27)>PC </color>will help with that!",
+      "pt_br": "<$voicel(1,5)><$emotion(1,14)><$facial(1,4)>Oho! Essa é a resposta que eu esperava ouvir!<clear><br><$voicel(1,7)>Sua melhor aposta é provavelmente criar mais <$cdef(27)>habitats </color>a fazer<br>É mais fácil para mais Pokémon voltar.<clear><br><$voicel(1,7)><$emotion(1,38)>Eu tenho certeza que os itens que você obter a partir deste <$cdef(27)>PC </color>Vai ajudar com isso!"
+    },
+    {
+      "id": 39,
+      "en": "<$voicel(1,5)>Then, once we’ve got enough Pokémon back here, we can<br>all work together <$voicel(1,8)><$emotion(1,27)><$facial(1,4)>to rebuild this <$cdef(27)>Pokémon Center</color>!",
+      "pt_br": "<$voicel(1,5)>Então, uma vez que temos Pokémon suficiente de volta aqui, podemos<br>todos trabalham juntos <$voicel(1,8)><$emotion(1,27)><$facial(1,4)>Para reconstruir isto <$cdef(27)>Centro Pokémon</color>!"
+    },
+    {
+      "id": 40,
+      "en": "<$voicel(1,5)>I think many humans and Pokémon must have lived<br>together in this town too.",
+      "pt_br": "<$voicel(1,5)>Acho que muitos humanos e Pokémon devem ter vivido.<br>juntos nesta cidade também."
+    },
+    {
+      "id": 41,
+      "en": "<$voicel(1,7)><$emotion(1,38)>It would warm my heart to see it restored to its original<br>brightness.",
+      "pt_br": "<$voicel(1,7)><$emotion(1,38)>Aqueceria o meu coração vê-lo restaurado ao seu original.<br>brilho."
+    },
+    {
+      "id": 42,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Oh, look! Is that a <$cdef(27)>Meowth </color>over there?",
+      "pt_br": "<$voicel(1,7)><$emotion(1,14)>Olha, isso é... <$cdef(27)>Meowth </color>Ali?"
+    },
+    {
+      "id": 43,
+      "en": "<oneline><$voicel(1,7)><$comeff(1,14)><$motion(1,661)><$cdef(27)><pname;0></color>, why don’t you go <$voicel(1,6)><$comeff(1,6)>talk<br>to <$cdef(27)>Meowth</color>?",
+      "pt_br": "<oneline><$voicel(1,7)><$comeff(1,14)><$motion(1,661)><$cdef(27)><pname;0></color>, por que você não vai <$voicel(1,6)><$comeff(1,6)>falar<br>para <$cdef(27)>Meowth</color>?"
+    },
+    {
+      "id": 44,
+      "en": "*beep beep beep*<br>Accessing <$cdef(27)>Pokémon Center</color>.",
+      "pt_br": "* Beep beep *<br>Acesso <$cdef(27)>Centro Pokémon</color>."
+    },
+    {
+      "id": 45,
+      "en": "... ... ...<br>*bzzz zzzt*<clear><br>There is a problem with the <$cdef(27)>Pokémon Center</color> <$cdef(27)>PC</color>.<clear><br>Please contact a nearby <$cdef(27)>Pokémon Center</color> staff member.<br>We apologize for the inconvenience.",
+      "pt_br": "... ... ...<br>* bzzz zzzt *<clear><br>Há um problema com o <$cdef(27)>Centro Pokémon</color> <$cdef(27)>PC</color>.<clear><br>Por favor, contacte uma vizinha <$cdef(27)>Centro Pokémon</color> Membro do pessoal.<br>Pedimos desculpa pela inconveniência."
+    },
+    {
+      "id": 46,
+      "en": "<$voicel(1,8)><$comeff(1,3)><$motion(1,664)>First, let’s follow <$cdef(27)>Meowth</color>.",
+      "pt_br": "<$voicel(1,8)><$comeff(1,3)><$motion(1,664)>Primeiro, vamos seguir <$cdef(27)>Meowth</color>."
+    },
+    {
+      "id": 47,
+      "en": "<$voicel(1,7)><$emotion(1,38)>It looks like they headed toward that shack!",
+      "pt_br": "<$voicel(1,7)><$emotion(1,38)>Parece que se dirigiram para aquela cabana!"
+    },
+    {
+      "id": 48,
+      "en": "<$voicel(1,7)>Oh! Looks like this <$cdef(27)>PC </color>is working!",
+      "pt_br": "<$voicel(1,7)>Parece que sim. <$cdef(27)>PC </color>Está a funcionar!"
+    },
+    {
+      "id": 49,
+      "en": "<$voicel(1,7)><$emotion(1,38)>That’s great to hear! Believe it or not, I can’t swim. <$voicel(1,10)><$comeff(1,9)><$motion(1,664)>So<br>please make a nice big bridge that even I can cross!",
+      "pt_br": "<$voicel(1,7)><$emotion(1,38)>É ótimo ouvir isso! Acredite ou não, não sei nadar. <$voicel(1,10)><$comeff(1,9)><$motion(1,664)>Então...<br>Por favor, faz uma ponte grande que até eu possa atravessar!"
+    },
+    {
+      "id": 50,
+      "en": "<$voicel(1,7)><$comeff(1,3)><$motion(1,661)>You should be able to fix it by connecting the two broken<br>sides of the bridge with something.<clear><br><$voicel(1,9)><$comeff(1,9)><$motion(1,664)><$facial(1,4)>This may surprise you, but I can’t swim, so I’m counting<br>on you!",
+      "pt_br": "<$voicel(1,7)><$comeff(1,3)><$motion(1,661)>Você deve ser capaz de corrigi-lo conectando os dois quebrados<br>lados da ponte com alguma coisa.<clear><br><$voicel(1,9)><$comeff(1,9)><$motion(1,664)><$facial(1,4)>Isso pode surpreendê-lo, mas eu não sei nadar, então estou contando<br>Em ti!"
+    },
+    {
+      "id": 51,
+      "en": "<$voicel(1,7)><$emotion(1,1)>First things first—let’s find a <$cdef(27)>Pokémon Center</color>.",
+      "pt_br": "<$voicel(1,7)><$emotion(1,1)>Primeiramente, vamos encontrar um <$cdef(27)>Centro Pokémon</color>."
+    },
+    {
+      "id": 52,
+      "en": "<$voicel(1,3)><$comeff(1,14)><$motion(1,827)><$facial(1,9)>But golly, this place certainly is dark.",
+      "pt_br": "<$voicel(1,3)><$comeff(1,14)><$motion(1,827)><$facial(1,9)>Mas, meu Deus, este lugar é mesmo escuro."
+    },
+    {
+      "id": 53,
+      "en": "<oneline><$facial(1,4)><$voicel(1,10)><$comeff(1,9)><$motion(1,664)>And if anyone can make that happen, it’s<br>you, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<oneline><$facial(1,4)><$voicel(1,10)><$comeff(1,9)><$motion(1,664)>E se alguém pode fazer isso acontecer, é<br>você, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 54,
+      "en": "<$voicel(1,7)><$emotion(1,48)>Could that be what I think it is? <wait(0.9)>Come, follow me!",
+      "pt_br": "<$voicel(1,7)><$emotion(1,48)>Pode ser o que eu penso que é? <wait(0.9)>Venham, sigam-me!"
+    },
+    {
+      "id": 55,
+      "en": "The <$cdef(27)>PC </color>should be working... Bring <$cdef(27)><$cname;0(44)><br></color>with you to check it out!",
+      "pt_br": "A <$cdef(27)>PC </color>Deve estar a funcionar... <$cdef(27)><$cname;0(44)><br></color>com você para verificar!"
+    },
+    {
+      "id": 56,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,38)>You’ve fixed the bridge! Now THAT’s the<br><$cdef(27)><pname;0></color><slide><br>I’ve<slide><br>come<slide><br>to<slide><br>know<slide><br>and<slide><br>appreciate!",
+      "pt_br": "<oneline><$voicel(1,7)><$emotion(1,38)>Você consertou a ponte! Agora que é o<br><$cdef(27)><pname;0></color><slide><br>Eu tenho<slide><br>Venha.<slide><br>para<slide><br>saber<slide><br>e<slide><br>Obrigado!"
+    },
+    {
+      "id": 57,
+      "en": "<$facial(1,4)><$voicel(1,10)><$comeff(1,5)><$motion(1,664)>All right—time to cross that bridge!",
+      "pt_br": "<$facial(1,4)><$voicel(1,10)><$comeff(1,5)><$motion(1,664)>Muito bem, está na hora de atravessar essa ponte!"
+    },
+    {
+      "id": 58,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$facial(1,13)>One foot in front of the other... One, two, one, two...<br>Slow and steady so I don’t fall...",
+      "pt_br": "<$voicel(1,5)><$comeff(1,14)><$facial(1,13)>Um pé à frente do outro... um, dois, um, dois...<br>Devagar e firme para que eu não caia..."
+    },
+    {
+      "id": 59,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,48)><$facial(1,1)>Sorry, <$cdef(27)><pname;0></color>... Please wait until I’ve<br>reached<slide><br>the<slide><br>other side.",
+      "pt_br": "<oneline><$voicel(1,7)><$emotion(1,48)><$facial(1,1)>Desculpa. <$cdef(27)><pname;0></color>... Por favor, espere até que eu tenho<br>Atingido<slide><br>a<slide><br>do outro lado."
+    }
+  ]
+}

@@ -1,0 +1,7789 @@
+{
+  "entry_index": 2270,
+  "bin_id": "0x56d700",
+  "decompressed_size": 65536,
+  "first_tag_offset": 33310,
+  "total_strings": 1556,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><fqty(1)><$ifull(1410)></color>",
+      "pt_br": "<$cdef(27)><fqty(1)><$ifull(1410)></color>"
+    },
+    {
+      "id": 1,
+      "en": "I want some <$cdef(27)><fqty(1)><$ifull(105)>s</color>",
+      "pt_br": "Quero um pouco. <$cdef(27)><fqty(1)><$ifull(105)>s</color>"
+    },
+    {
+      "id": 2,
+      "en": "You’re so soft!",
+      "pt_br": "Você é tão macio!"
+    },
+    {
+      "id": 3,
+      "en": "You’re so fluffy!",
+      "pt_br": "Você é tão fofinho!"
+    },
+    {
+      "id": 4,
+      "en": "Yeah, it’s pretty dark",
+      "pt_br": "Sim, é muito escuro"
+    },
+    {
+      "id": 5,
+      "en": "Huh?",
+      "pt_br": "Huh?"
+    },
+    {
+      "id": 6,
+      "en": "Where can I find Lapras?",
+      "pt_br": "Onde posso encontrar Lapras?"
+    },
+    {
+      "id": 7,
+      "en": "Your what went where?",
+      "pt_br": "O teu quê foi onde?"
+    },
+    {
+      "id": 8,
+      "en": "Was it something important?",
+      "pt_br": "Era algo importante?"
+    },
+    {
+      "id": 9,
+      "en": "What do you smell?",
+      "pt_br": "Que cheiro é esse?"
+    },
+    {
+      "id": 10,
+      "en": "Somethin’s SMELLY?",
+      "pt_br": "Algo que cheira bem?"
+    },
+    {
+      "id": 11,
+      "en": "Where? Wheeere?!",
+      "pt_br": "Onde?"
+    },
+    {
+      "id": 12,
+      "en": "Like a spring?",
+      "pt_br": "Como uma mola?"
+    },
+    {
+      "id": 13,
+      "en": "Yep!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 14,
+      "en": "Sure did!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 15,
+      "en": "Tell me, tell me!",
+      "pt_br": "Diz-me, diz-me!"
+    },
+    {
+      "id": 16,
+      "en": "Whadda we do?",
+      "pt_br": "O que fazemos?"
+    },
+    {
+      "id": 17,
+      "en": "Ooh, what is it?",
+      "pt_br": "O que é?"
+    },
+    {
+      "id": 18,
+      "en": "A Rain Dance party?",
+      "pt_br": "Uma festa de dança da chuva?"
+    },
+    {
+      "id": 19,
+      "en": "How do we do that?",
+      "pt_br": "Como é que fazemos isso?"
+    },
+    {
+      "id": 20,
+      "en": "Sure!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 21,
+      "en": "I can help!",
+      "pt_br": "Eu posso ajudar!"
+    },
+    {
+      "id": 22,
+      "en": "Makes you think of rain?",
+      "pt_br": "Faz-te pensar na chuva?"
+    },
+    {
+      "id": 23,
+      "en": "Liiike...what?",
+      "pt_br": "Livke... o quê?"
+    },
+    {
+      "id": 24,
+      "en": "Well, Squirtle...",
+      "pt_br": "Bem, Squirtle..."
+    },
+    {
+      "id": 25,
+      "en": "For the Rain Dance party...",
+      "pt_br": "Para a festa da Dança da Chuva..."
+    },
+    {
+      "id": 26,
+      "en": "Ummm...",
+      "pt_br": "Ummm..."
+    },
+    {
+      "id": 27,
+      "en": "Now that you mention it...",
+      "pt_br": "Agora que falas nisso..."
+    },
+    {
+      "id": 28,
+      "en": "I’m a Pokémon",
+      "pt_br": "Sou um Pokémon"
+    },
+    {
+      "id": 29,
+      "en": "I’m a human",
+      "pt_br": "Sou humano"
+    },
+    {
+      "id": 30,
+      "en": "We had a Rain Dance party...",
+      "pt_br": "Tivemos uma festa de Rain Dance..."
+    },
+    {
+      "id": 31,
+      "en": "We had this yawn plan...",
+      "pt_br": "Tínhamos um plano de bocejo..."
+    },
+    {
+      "id": 32,
+      "en": "Well...",
+      "pt_br": "Bem..."
+    },
+    {
+      "id": 33,
+      "en": "It doesn’t mean that!",
+      "pt_br": "Não significa isso!"
+    },
+    {
+      "id": 34,
+      "en": "Sure is, bud!",
+      "pt_br": "Claro que é, amigo!"
+    },
+    {
+      "id": 35,
+      "en": "I had a lotta help!",
+      "pt_br": "Tive muita ajuda!"
+    },
+    {
+      "id": 36,
+      "en": "Yep! Mission complete!",
+      "pt_br": "Missão completa!"
+    },
+    {
+      "id": 37,
+      "en": "I’m s’posed to tell you thanks",
+      "pt_br": "Eu sou suposto para dizer-lhe obrigado"
+    },
+    {
+      "id": 38,
+      "en": "How’s the mood right now?",
+      "pt_br": "Como está o humor agora?"
+    },
+    {
+      "id": 39,
+      "en": "Sure did!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 40,
+      "en": "I found this",
+      "pt_br": "Encontrei isto."
+    },
+    {
+      "id": 41,
+      "en": "Lemme hear it!",
+      "pt_br": "Deixa-me ouvir!"
+    },
+    {
+      "id": 42,
+      "en": "A what-erwheel?",
+      "pt_br": "Uma roda o quê?"
+    },
+    {
+      "id": 43,
+      "en": "What’s that?",
+      "pt_br": "O que é isso?"
+    },
+    {
+      "id": 44,
+      "en": "I can do that",
+      "pt_br": "Eu posso fazer isso."
+    },
+    {
+      "id": 45,
+      "en": "Can you swim?",
+      "pt_br": "sabe nadar?"
+    },
+    {
+      "id": 46,
+      "en": "I wanna do what you do",
+      "pt_br": "Quero fazer o que tu fazes."
+    },
+    {
+      "id": 47,
+      "en": "What’s it do?",
+      "pt_br": "O que ela faz?"
+    },
+    {
+      "id": 48,
+      "en": "How’s it work?",
+      "pt_br": "Como funciona?"
+    },
+    {
+      "id": 49,
+      "en": "Whatcha doin’?",
+      "pt_br": "O que está a fazer?"
+    },
+    {
+      "id": 50,
+      "en": "Well, it’s not plugged in...",
+      "pt_br": "Bem, não está ligado..."
+    },
+    {
+      "id": 51,
+      "en": "Maybe it needs electricity?",
+      "pt_br": "Talvez precise de electricidade?"
+    },
+    {
+      "id": 52,
+      "en": "Yep! You’re a good guesser!",
+      "pt_br": "Yep! Você é um bom adivinhador!"
+    },
+    {
+      "id": 53,
+      "en": "They just so happened to be!",
+      "pt_br": "Acontece que eram mesmo!"
+    },
+    {
+      "id": 54,
+      "en": "I did it!",
+      "pt_br": "Consegui!"
+    },
+    {
+      "id": 55,
+      "en": "I look just like you!",
+      "pt_br": "Eu pareço-me com você!"
+    },
+    {
+      "id": 56,
+      "en": "You’re right...",
+      "pt_br": "Você está certo..."
+    },
+    {
+      "id": 57,
+      "en": "For other Pokémon too?",
+      "pt_br": "Para outros Pokémon também?"
+    },
+    {
+      "id": 58,
+      "en": "For humans too?",
+      "pt_br": "Para os humanos também?"
+    },
+    {
+      "id": 59,
+      "en": "Hope it’s a good thing",
+      "pt_br": "Espero que seja uma coisa boa"
+    },
+    {
+      "id": 60,
+      "en": "Yep, yep!",
+      "pt_br": "Sim, sim!"
+    },
+    {
+      "id": 61,
+      "en": "Get a light source?",
+      "pt_br": "Arranjaste uma fonte de luz?"
+    },
+    {
+      "id": 62,
+      "en": "Wait till morning?",
+      "pt_br": "Esperar até de manhã?"
+    },
+    {
+      "id": 63,
+      "en": "How?",
+      "pt_br": "Como?"
+    },
+    {
+      "id": 64,
+      "en": "I want some <$cdef(27)><fqty(1)><$ifull(107)></color>",
+      "pt_br": "Quero um pouco. <$cdef(27)><fqty(1)><$ifull(107)></color>"
+    },
+    {
+      "id": 65,
+      "en": "Are you lookin’ for somethin’?",
+      "pt_br": "Você está procurando alguma coisa?"
+    },
+    {
+      "id": 66,
+      "en": "Whatcha need?",
+      "pt_br": "O que é que precisas?"
+    },
+    {
+      "id": 67,
+      "en": "Sure thing",
+      "pt_br": "Claro."
+    },
+    {
+      "id": 68,
+      "en": "You’re welcome",
+      "pt_br": "De nada."
+    },
+    {
+      "id": 69,
+      "en": "I had fun!",
+      "pt_br": "Eu diverti-me!"
+    },
+    {
+      "id": 70,
+      "en": "Who? Who?!",
+      "pt_br": "Quem?"
+    },
+    {
+      "id": 71,
+      "en": "Where can we find them?",
+      "pt_br": "Onde podemos encontrá-los?"
+    },
+    {
+      "id": 72,
+      "en": "Heh, I can’t swim...",
+      "pt_br": "Heh, eu não sei nadar..."
+    },
+    {
+      "id": 73,
+      "en": "Hehe!",
+      "pt_br": "Hehe!"
+    },
+    {
+      "id": 74,
+      "en": "So exciting!",
+      "pt_br": "Tão excitante!"
+    },
+    {
+      "id": 75,
+      "en": "I’m kinda nervous...",
+      "pt_br": "Estou um pouco nervoso..."
+    },
+    {
+      "id": 76,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 77,
+      "en": "Ummm... What’d you need again?",
+      "pt_br": "Ummm... O que você precisava mesmo?"
+    },
+    {
+      "id": 78,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 79,
+      "en": "Sure",
+      "pt_br": "Claro."
+    },
+    {
+      "id": 80,
+      "en": "Not now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 81,
+      "en": "Got you something",
+      "pt_br": "Trouxe-te uma coisa."
+    },
+    {
+      "id": 82,
+      "en": "I made you something",
+      "pt_br": "Fiz-te uma coisa."
+    },
+    {
+      "id": 83,
+      "en": "Follow me!",
+      "pt_br": "Sigam-me!"
+    },
+    {
+      "id": 84,
+      "en": "Let’s split up",
+      "pt_br": "Vamos dividir-nos"
+    },
+    {
+      "id": 85,
+      "en": "It’s for you!",
+      "pt_br": "É para você!"
+    },
+    {
+      "id": 86,
+      "en": "It’s mine!",
+      "pt_br": "É meu!"
+    },
+    {
+      "id": 87,
+      "en": "How’s your comfort level?",
+      "pt_br": "Como está seu nível de conforto?"
+    },
+    {
+      "id": 88,
+      "en": "I got you something",
+      "pt_br": "Trouxe-te uma coisa."
+    },
+    {
+      "id": 89,
+      "en": "I wanna check my storage",
+      "pt_br": "Quero ver o meu armazém."
+    },
+    {
+      "id": 90,
+      "en": "I got that thing you wanted",
+      "pt_br": "Tenho aquilo que querias."
+    },
+    {
+      "id": 91,
+      "en": "Wanna move in here?",
+      "pt_br": "quer mudar-te para aqui?"
+    },
+    {
+      "id": 92,
+      "en": "<sizecmppk;0>",
+      "pt_br": "<sizecmppk;0>"
+    },
+    {
+      "id": 93,
+      "en": "You",
+      "pt_br": "Você."
+    },
+    {
+      "id": 94,
+      "en": "<fcap><$cdef(27)><$spwfull(25)> </color>this!",
+      "pt_br": "<fcap><$cdef(27)><$spwfull(25)> </color>Isto!"
+    },
+    {
+      "id": 95,
+      "en": "<weightcmppk;0>",
+      "pt_br": "<weightcmppk;0>"
+    },
+    {
+      "id": 96,
+      "en": "A rest sounds nice",
+      "pt_br": "Um descanso soa bem."
+    },
+    {
+      "id": 97,
+      "en": "Nahhh, I’m good",
+      "pt_br": "Nahhh, Eu sou bom"
+    },
+    {
+      "id": 98,
+      "en": "<fcap><ltasteq;0>",
+      "pt_br": "<fcap><ltasteq;0>"
+    },
+    {
+      "id": 99,
+      "en": "<fcap><htasteq;0>",
+      "pt_br": "<fcap><htasteq;0>"
+    },
+    {
+      "id": 100,
+      "en": "<fcap><likemtag;0>",
+      "pt_br": "<fcap><likemtag;0>"
+    },
+    {
+      "id": 101,
+      "en": "<fcap><rtasteq;0>",
+      "pt_br": "<fcap><rtasteq;0>"
+    },
+    {
+      "id": 102,
+      "en": "<fcap><rliketag;0>",
+      "pt_br": "<fcap><rliketag;0>"
+    },
+    {
+      "id": 103,
+      "en": "<qtargetpk;0>",
+      "pt_br": "<qtargetpk;0>"
+    },
+    {
+      "id": 104,
+      "en": "Come hang out with me next time!",
+      "pt_br": "Vem comigo da próxima vez!"
+    },
+    {
+      "id": 105,
+      "en": "<$cdef(27)><fcap><$spwfull(12)> </color>time’s over!",
+      "pt_br": "<$cdef(27)><fcap><$spwfull(12)> </color>O tempo acabou!"
+    },
+    {
+      "id": 106,
+      "en": "<$cdef(27)><fcap><$spwfull(21)></color> something for me!",
+      "pt_br": "<$cdef(27)><fcap><$spwfull(21)></color> Uma coisa para mim!"
+    },
+    {
+      "id": 107,
+      "en": "Yes, please!",
+      "pt_br": "Sim, por favor!"
+    },
+    {
+      "id": 108,
+      "en": "Oops, I messed up",
+      "pt_br": "Oops, eu estraguei tudo"
+    },
+    {
+      "id": 109,
+      "en": "How’s about this pattern?",
+      "pt_br": "Que tal este padrão?"
+    },
+    {
+      "id": 110,
+      "en": "Head out",
+      "pt_br": "Sai."
+    },
+    {
+      "id": 111,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 112,
+      "en": "Change settings",
+      "pt_br": "Alterar configurações"
+    },
+    {
+      "id": 113,
+      "en": "I brought some honey",
+      "pt_br": "Trouxe um pouco de mel."
+    },
+    {
+      "id": 114,
+      "en": "<fcap><htitem1;0>",
+      "pt_br": "<fcap><htitem1;0>"
+    },
+    {
+      "id": 115,
+      "en": "<fcap><htitem2;0>",
+      "pt_br": "<fcap><htitem2;0>"
+    },
+    {
+      "id": 116,
+      "en": "<fcap><htitem3;0>",
+      "pt_br": "<fcap><htitem3;0>"
+    },
+    {
+      "id": 117,
+      "en": "<fcap><htitem4;0>",
+      "pt_br": "<fcap><htitem4;0>"
+    },
+    {
+      "id": 118,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 119,
+      "en": "I wanna go to a <$cdef(27)>Dream Island</color>",
+      "pt_br": "Eu quero ir a um <$cdef(27)>Ilha dos Sonhos</color>"
+    },
+    {
+      "id": 120,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 121,
+      "en": "Yep! That’s fine!",
+      "pt_br": "Sim! Isso é bom!"
+    },
+    {
+      "id": 122,
+      "en": "Actually, I don’t wanna go",
+      "pt_br": "Na verdade, eu não quero ir"
+    },
+    {
+      "id": 123,
+      "en": "Yeah",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 124,
+      "en": "Not yet",
+      "pt_br": "Ainda não."
+    },
+    {
+      "id": 125,
+      "en": "Can you make it brighter?",
+      "pt_br": "pode torná-lo mais brilhante?"
+    },
+    {
+      "id": 126,
+      "en": "Let’s play jump rope!",
+      "pt_br": "Vamos jogar corda de salto!"
+    },
+    {
+      "id": 127,
+      "en": "Yeah, sure!",
+      "pt_br": "Sim, claro!"
+    },
+    {
+      "id": 128,
+      "en": "Maybe later",
+      "pt_br": "Talvez mais tarde."
+    },
+    {
+      "id": 129,
+      "en": "Yes, please!",
+      "pt_br": "Sim, por favor!"
+    },
+    {
+      "id": 130,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 131,
+      "en": "Let’s talk about CDs, yo",
+      "pt_br": "Vamos falar sobre CDs, yo"
+    },
+    {
+      "id": 132,
+      "en": "Let’s play hide-and-sneak!",
+      "pt_br": "Vamos brincar de esconde-esconde!"
+    },
+    {
+      "id": 133,
+      "en": "<$stgmynamefull;0(lnum1)>",
+      "pt_br": "<$stgmynamefull;0(lnum1)>"
+    },
+    {
+      "id": 134,
+      "en": "Other",
+      "pt_br": "Outros"
+    },
+    {
+      "id": 135,
+      "en": "There sure is!",
+      "pt_br": "Claro que há!"
+    },
+    {
+      "id": 136,
+      "en": "Not right now!",
+      "pt_br": "Agora não!"
+    },
+    {
+      "id": 137,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 138,
+      "en": "Yeah!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 139,
+      "en": "Uh, actually...",
+      "pt_br": "Na verdade..."
+    },
+    {
+      "id": 140,
+      "en": "You’re good to go!",
+      "pt_br": "Você está pronto para ir!"
+    },
+    {
+      "id": 141,
+      "en": "Uh, gimme a sec...",
+      "pt_br": "Dá-me um segundo..."
+    },
+    {
+      "id": 142,
+      "en": "I got you something",
+      "pt_br": "Trouxe-te uma coisa."
+    },
+    {
+      "id": 143,
+      "en": "Gotcha!",
+      "pt_br": "Apanhei-te!"
+    },
+    {
+      "id": 144,
+      "en": "Change item amounts",
+      "pt_br": "Alterar os montantes dos itens"
+    },
+    {
+      "id": 145,
+      "en": "Yep!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 146,
+      "en": "...No?",
+      "pt_br": "Não?"
+    },
+    {
+      "id": 147,
+      "en": "Yep, all set!",
+      "pt_br": "Sim, tudo pronto!"
+    },
+    {
+      "id": 148,
+      "en": "Um, nope?",
+      "pt_br": "Não?"
+    },
+    {
+      "id": 149,
+      "en": "Yep, all done!",
+      "pt_br": "Sim, tudo pronto!"
+    },
+    {
+      "id": 150,
+      "en": "Um, nope?",
+      "pt_br": "Não?"
+    },
+    {
+      "id": 151,
+      "en": "You can live here",
+      "pt_br": "pode viver aqui."
+    },
+    {
+      "id": 152,
+      "en": "It’s pretty great, huh?",
+      "pt_br": "É muito bom, não é?"
+    },
+    {
+      "id": 153,
+      "en": "I wanna start over",
+      "pt_br": "Quero recomeçar."
+    },
+    {
+      "id": 154,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 155,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 156,
+      "en": "Back",
+      "pt_br": "Voltar"
+    },
+    {
+      "id": 157,
+      "en": "Online connection",
+      "pt_br": "Ligação 'online'"
+    },
+    {
+      "id": 158,
+      "en": "Local connection",
+      "pt_br": "Ligação local"
+    },
+    {
+      "id": 159,
+      "en": "Search",
+      "pt_br": "Pesquisar"
+    },
+    {
+      "id": 160,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 161,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 162,
+      "en": "Change settings",
+      "pt_br": "Alterar configurações"
+    },
+    {
+      "id": 163,
+      "en": "Depart with current settings",
+      "pt_br": "Sair com as configurações atuais"
+    },
+    {
+      "id": 164,
+      "en": "Disband",
+      "pt_br": "Desmantelar"
+    },
+    {
+      "id": 165,
+      "en": "Change host and leave",
+      "pt_br": "Mudar a máquina e sair"
+    },
+    {
+      "id": 166,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 167,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 168,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 169,
+      "en": "Try again",
+      "pt_br": "Tenta outra vez."
+    },
+    {
+      "id": 170,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 171,
+      "en": "Return home",
+      "pt_br": "Voltar para casa"
+    },
+    {
+      "id": 172,
+      "en": "Not yet",
+      "pt_br": "Ainda não."
+    },
+    {
+      "id": 173,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color>",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color>"
+    },
+    {
+      "id": 174,
+      "en": "<$cdef(27)><$cname;0(lnum1)></color>",
+      "pt_br": "<$cdef(27)><$cname;0(lnum1)></color>"
+    },
+    {
+      "id": 175,
+      "en": "<$cdef(27)><fcap><$spwfull(32)></color> this stuff for me!",
+      "pt_br": "<$cdef(27)><fcap><$spwfull(32)></color> Isto é para mim!"
+    },
+    {
+      "id": 176,
+      "en": "Wall",
+      "pt_br": "Parede"
+    },
+    {
+      "id": 177,
+      "en": "Floor",
+      "pt_br": "Andar"
+    },
+    {
+      "id": 178,
+      "en": "Ceiling",
+      "pt_br": "Limite máximo"
+    },
+    {
+      "id": 179,
+      "en": "Yeah!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 180,
+      "en": "Let’s stop for now!",
+      "pt_br": "Vamos parar por enquanto!"
+    },
+    {
+      "id": 181,
+      "en": "Make me some <$cdef(27)><fqty(1)><$ifull(407)></color>",
+      "pt_br": "Faz-me um pouco. <$cdef(27)><fqty(1)><$ifull(407)></color>"
+    },
+    {
+      "id": 182,
+      "en": "Make me some <$cdef(27)><fqty(1)><$ifull(107)></color>",
+      "pt_br": "Faz-me um pouco. <$cdef(27)><fqty(1)><$ifull(107)></color>"
+    },
+    {
+      "id": 183,
+      "en": "Make me some <$cdef(27)><fqty(1)><$ifull(126)></color>",
+      "pt_br": "Faz-me um pouco. <$cdef(27)><fqty(1)><$ifull(126)></color>"
+    },
+    {
+      "id": 184,
+      "en": "Make me some <$cdef(27)><fqty(1)><$ifull(105)>s</color>",
+      "pt_br": "Faz-me um pouco. <$cdef(27)><fqty(1)><$ifull(105)>s</color>"
+    },
+    {
+      "id": 185,
+      "en": "Make me some <$cdef(27)>ingots</color>",
+      "pt_br": "Faz-me um pouco. <$cdef(27)>lingotes</color>"
+    },
+    {
+      "id": 186,
+      "en": "Make me some <$cdef(27)><fqty(1)><$ifull(108)></color>",
+      "pt_br": "Faz-me um pouco. <$cdef(27)><fqty(1)><$ifull(108)></color>"
+    },
+    {
+      "id": 187,
+      "en": "Make me some <$cdef(27)>paint</color>",
+      "pt_br": "Faz-me um pouco. <$cdef(27)>pintura</color>"
+    },
+    {
+      "id": 188,
+      "en": "Make me some <$cdef(27)><fqty(1)><$ifull(118)></color>",
+      "pt_br": "Faz-me um pouco. <$cdef(27)><fqty(1)><$ifull(118)></color>"
+    },
+    {
+      "id": 189,
+      "en": "Make me some <$cdef(27)><fqty(1)><$ifull(119)>s</color>",
+      "pt_br": "Faz-me um pouco. <$cdef(27)><fqty(1)><$ifull(119)>s</color>"
+    },
+    {
+      "id": 190,
+      "en": "Turn this into <$cdef(27)><fqty(1)><$ifull(120)></color>",
+      "pt_br": "Transforme isto em <$cdef(27)><fqty(1)><$ifull(120)></color>"
+    },
+    {
+      "id": 191,
+      "en": "I wanna go to a <$cdef(27)>Dream Island</color>",
+      "pt_br": "Eu quero ir a um <$cdef(27)>Ilha dos Sonhos</color>"
+    },
+    {
+      "id": 192,
+      "en": "I brought you something cool!",
+      "pt_br": "Trouxe-te uma coisa fixe!"
+    },
+    {
+      "id": 193,
+      "en": "A lost relic",
+      "pt_br": "Uma relíquia perdida"
+    },
+    {
+      "id": 194,
+      "en": "<fcap><fqty(2)><$iname;0(100)>",
+      "pt_br": "<fcap><fqty(2)><$iname;0(100)>"
+    },
+    {
+      "id": 195,
+      "en": "<fcap><fqty(2)><$iname;0(122)>",
+      "pt_br": "<fcap><fqty(2)><$iname;0(122)>"
+    },
+    {
+      "id": 196,
+      "en": "Yes, please!",
+      "pt_br": "Sim, por favor!"
+    },
+    {
+      "id": 197,
+      "en": "I think I’m good",
+      "pt_br": "Eu acho que eu sou bom"
+    },
+    {
+      "id": 198,
+      "en": "Um, where do you live again?",
+      "pt_br": "Onde é que moras mesmo?"
+    },
+    {
+      "id": 199,
+      "en": "Turn this into <$cdef(27)><fqty(1)><$ifull(121)></color>",
+      "pt_br": "Transforme isto em <$cdef(27)><fqty(1)><$ifull(121)></color>"
+    },
+    {
+      "id": 200,
+      "en": "<$spwicon(37)><$cdef(27)>Scrub </color>this for me, please!",
+      "pt_br": "<$spwicon(37)><$cdef(27)>Esfregar </color>Isto para mim, por favor!"
+    },
+    {
+      "id": 201,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 202,
+      "en": "Change back",
+      "pt_br": "Mudar para trás"
+    },
+    {
+      "id": 203,
+      "en": "You can live on the first floor",
+      "pt_br": "pode viver no primeiro andar."
+    },
+    {
+      "id": 204,
+      "en": "You can live on the second floor",
+      "pt_br": "pode viver no segundo andar."
+    },
+    {
+      "id": 205,
+      "en": "Look at this!",
+      "pt_br": "Olha para isto!"
+    },
+    {
+      "id": 206,
+      "en": "What’s up?",
+      "pt_br": "O que foi?"
+    },
+    {
+      "id": 207,
+      "en": "Yep, I’m a Ditto",
+      "pt_br": "Sim, eu sou um Ditto"
+    },
+    {
+      "id": 208,
+      "en": "I’ll help you look!",
+      "pt_br": "Eu vou ajudá-lo a procurar!"
+    },
+    {
+      "id": 209,
+      "en": "Sounds like a job for me",
+      "pt_br": "Parece-me um trabalho."
+    },
+    {
+      "id": 210,
+      "en": "Who are you looking for exactly?",
+      "pt_br": "De quem está à procura exactamente?"
+    },
+    {
+      "id": 211,
+      "en": "What do they all look like?",
+      "pt_br": "Como é que eles são?"
+    },
+    {
+      "id": 212,
+      "en": "S-so many...",
+      "pt_br": "Tantas..."
+    },
+    {
+      "id": 213,
+      "en": "You have a lot of friends",
+      "pt_br": "tem muitos amigos."
+    },
+    {
+      "id": 214,
+      "en": "Yeah, like this!",
+      "pt_br": "Sim, assim!"
+    },
+    {
+      "id": 215,
+      "en": "Something’s kinda off...",
+      "pt_br": "Algo está meio estranho..."
+    },
+    {
+      "id": 216,
+      "en": "Swap it out",
+      "pt_br": "Troca-o."
+    },
+    {
+      "id": 217,
+      "en": "Don’t swap it out",
+      "pt_br": "Não troque-o para fora"
+    },
+    {
+      "id": 218,
+      "en": "Remove CD",
+      "pt_br": "Remover CD"
+    },
+    {
+      "id": 219,
+      "en": "Next track",
+      "pt_br": "Próxima faixa"
+    },
+    {
+      "id": 220,
+      "en": "Previous track",
+      "pt_br": "Faixa anterior"
+    },
+    {
+      "id": 221,
+      "en": "Do nothing",
+      "pt_br": "Não fazer nada"
+    },
+    {
+      "id": 222,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 223,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 224,
+      "en": "OK!",
+      "pt_br": "Está bem!"
+    },
+    {
+      "id": 225,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 226,
+      "en": "Sure!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 227,
+      "en": "Let’s stop for now",
+      "pt_br": "Vamos parar por enquanto"
+    },
+    {
+      "id": 228,
+      "en": "I’ll trade!",
+      "pt_br": "Eu vou trocar!"
+    },
+    {
+      "id": 229,
+      "en": "Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 230,
+      "en": "Arrangement 1",
+      "pt_br": "Convénio 1"
+    },
+    {
+      "id": 231,
+      "en": "Arrangement 2",
+      "pt_br": "Convénio 2"
+    },
+    {
+      "id": 232,
+      "en": "Arrangement 3",
+      "pt_br": "Convénio 3"
+    },
+    {
+      "id": 233,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 234,
+      "en": "Actually, never mind",
+      "pt_br": "Na verdade, esquece."
+    },
+    {
+      "id": 235,
+      "en": "Overwrite",
+      "pt_br": "Sobrescrever"
+    },
+    {
+      "id": 236,
+      "en": "When will the contest end?",
+      "pt_br": "Quando terminará o concurso?"
+    },
+    {
+      "id": 237,
+      "en": "Is a jump rope contest going on right now?",
+      "pt_br": "Está a decorrer um concurso de salto à corda?"
+    },
+    {
+      "id": 238,
+      "en": "Yeah, I’ll try!",
+      "pt_br": "Sim, vou tentar!"
+    },
+    {
+      "id": 239,
+      "en": "Sure is!",
+      "pt_br": "Claro que é!"
+    },
+    {
+      "id": 240,
+      "en": "Not that one",
+      "pt_br": "Não é esse."
+    },
+    {
+      "id": 241,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 242,
+      "en": "Remove passcode",
+      "pt_br": "Remover a senha"
+    },
+    {
+      "id": 243,
+      "en": "Cut this <$cdef(27)><fqty(1)><$iname(520)></color>, please!",
+      "pt_br": "Corta isto. <$cdef(27)><fqty(1)><$iname(520)></color>Por favor!"
+    },
+    {
+      "id": 244,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 245,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 246,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 247,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 248,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 249,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 250,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 251,
+      "en": "Part <dgt1;0(lnum1)>",
+      "pt_br": "Parte <dgt1;0(lnum1)>"
+    },
+    {
+      "id": 252,
+      "en": "<$icon(lnum1)>Part <dgt1;0(lnum2)>",
+      "pt_br": "<$icon(lnum1)>Parte <dgt1;0(lnum2)>"
+    },
+    {
+      "id": 253,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 254,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 255,
+      "en": "Receive",
+      "pt_br": "Receber"
+    },
+    {
+      "id": 256,
+      "en": "Back",
+      "pt_br": "Voltar"
+    },
+    {
+      "id": 257,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 258,
+      "en": "Next",
+      "pt_br": "Próxima"
+    },
+    {
+      "id": 259,
+      "en": "Previous",
+      "pt_br": "Anterior"
+    },
+    {
+      "id": 260,
+      "en": "All items",
+      "pt_br": "Todos os itens"
+    },
+    {
+      "id": 261,
+      "en": "Only items already inside",
+      "pt_br": "Apenas itens já dentro"
+    },
+    {
+      "id": 262,
+      "en": "All items",
+      "pt_br": "Todos os itens"
+    },
+    {
+      "id": 263,
+      "en": "Only items already in my bag",
+      "pt_br": "Apenas itens já na minha bolsa"
+    },
+    {
+      "id": 264,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 265,
+      "en": "Understood",
+      "pt_br": "Entendido."
+    },
+    {
+      "id": 266,
+      "en": "<fcap><mvhomename;0(0)>",
+      "pt_br": "<fcap><mvhomename;0(0)>"
+    },
+    {
+      "id": 267,
+      "en": "<fcap><mvhomename;0(1)>",
+      "pt_br": "<fcap><mvhomename;0(1)>"
+    },
+    {
+      "id": 268,
+      "en": "<fcap><mvhomename;0(2)>",
+      "pt_br": "<fcap><mvhomename;0(2)>"
+    },
+    {
+      "id": 269,
+      "en": "<fcap><mvhomename;0(3)>",
+      "pt_br": "<fcap><mvhomename;0(3)>"
+    },
+    {
+      "id": 270,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 271,
+      "en": "Take them",
+      "pt_br": "Leva-os."
+    },
+    {
+      "id": 272,
+      "en": "Don’t take them",
+      "pt_br": "Não os tome"
+    },
+    {
+      "id": 273,
+      "en": "I want this",
+      "pt_br": "Eu quero isto."
+    },
+    {
+      "id": 274,
+      "en": "Where can I find <$cdef(27)><fqty(2)><$ifull(311)></color>?",
+      "pt_br": "Onde posso encontrar <$cdef(27)><fqty(2)><$ifull(311)></color>?"
+    },
+    {
+      "id": 275,
+      "en": "I want this",
+      "pt_br": "Eu quero isto."
+    },
+    {
+      "id": 276,
+      "en": "Where can I find <$cdef(27)><$iicon(323)><fqty(2)><$iname(323)></color>?",
+      "pt_br": "Onde posso encontrar <$cdef(27)><$iicon(323)><fqty(2)><$iname(323)></color>?"
+    },
+    {
+      "id": 277,
+      "en": "Yes, please!",
+      "pt_br": "Sim, por favor!"
+    },
+    {
+      "id": 278,
+      "en": "Think I’m good",
+      "pt_br": "Acho que sou bom"
+    },
+    {
+      "id": 279,
+      "en": "How do I get the <$cdef(27)><$iicon(433)><fqty(2)><$iname(432)> </color>you want?",
+      "pt_br": "Como é que eu consigo o <$cdef(27)><$iicon(433)><fqty(2)><$iname(432)> </color>quer?"
+    },
+    {
+      "id": 280,
+      "en": "Where can I find <$cdef(27)><$iicon(437)>scales</color>?",
+      "pt_br": "Onde posso encontrar <$cdef(27)><$iicon(437)>escalas</color>?"
+    },
+    {
+      "id": 281,
+      "en": "Oh, hey. Yeah!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 282,
+      "en": "Um... I dunno...",
+      "pt_br": "Não sei..."
+    },
+    {
+      "id": 283,
+      "en": "I totally will!",
+      "pt_br": "Vou mesmo!"
+    },
+    {
+      "id": 284,
+      "en": "I totally won’t!",
+      "pt_br": "Eu não vou mesmo!"
+    },
+    {
+      "id": 285,
+      "en": "Yes, please!",
+      "pt_br": "Sim, por favor!"
+    },
+    {
+      "id": 286,
+      "en": "I’m fine without",
+      "pt_br": "Estou bem sem"
+    },
+    {
+      "id": 287,
+      "en": "I want it! Riiight!",
+      "pt_br": "Riiight!"
+    },
+    {
+      "id": 288,
+      "en": "Don’t think I dooo",
+      "pt_br": "Não pense que eu façooo"
+    },
+    {
+      "id": 289,
+      "en": "I kinda want it...",
+      "pt_br": "Eu meio que quero..."
+    },
+    {
+      "id": 290,
+      "en": "Hmmm, I dunno...",
+      "pt_br": "Hmmm, não sei..."
+    },
+    {
+      "id": 291,
+      "en": "Yooo, gimme that!",
+      "pt_br": "Yooo, dá-me isso!"
+    },
+    {
+      "id": 292,
+      "en": "Nawww",
+      "pt_br": "Nawww."
+    },
+    {
+      "id": 293,
+      "en": "Yeah, you bet!",
+      "pt_br": "Sim, pode crer!"
+    },
+    {
+      "id": 294,
+      "en": "Lemme think about it",
+      "pt_br": "Deixa-me pensar nisso."
+    },
+    {
+      "id": 295,
+      "en": "You could say that",
+      "pt_br": "Pode-se dizer que..."
+    },
+    {
+      "id": 296,
+      "en": "Eh, not really...",
+      "pt_br": "Não é bem..."
+    },
+    {
+      "id": 297,
+      "en": "Yeahhh! I really want it!",
+      "pt_br": "Eu quero mesmo!"
+    },
+    {
+      "id": 298,
+      "en": "Well, maybe not...",
+      "pt_br": "Bem, talvez não..."
+    },
+    {
+      "id": 299,
+      "en": "Yeah, pretty neat",
+      "pt_br": "Sim, muito fixe."
+    },
+    {
+      "id": 300,
+      "en": "Uh, well...",
+      "pt_br": "Bem..."
+    },
+    {
+      "id": 301,
+      "en": "It sure strikes my fancy!",
+      "pt_br": "Parece-me bem!"
+    },
+    {
+      "id": 302,
+      "en": "Naw, I don’t think so",
+      "pt_br": "Não, eu acho que não"
+    },
+    {
+      "id": 303,
+      "en": "That does indeed interest me",
+      "pt_br": "Isso interessa-me muito."
+    },
+    {
+      "id": 304,
+      "en": "That does not interest me",
+      "pt_br": "Isso não me interessa."
+    },
+    {
+      "id": 305,
+      "en": "I want iiit",
+      "pt_br": "Eu quero o IIIt."
+    },
+    {
+      "id": 306,
+      "en": "Nahhh",
+      "pt_br": "Nahhh"
+    },
+    {
+      "id": 307,
+      "en": "I’d love to have this",
+      "pt_br": "Eu adoraria ter isso"
+    },
+    {
+      "id": 308,
+      "en": "Oh, I’m just browsing",
+      "pt_br": "Oh, Eu só estou olhando"
+    },
+    {
+      "id": 309,
+      "en": "I would love to!",
+      "pt_br": "Adoraria!"
+    },
+    {
+      "id": 310,
+      "en": "Oh, I’m just window shopping!",
+      "pt_br": "Oh, eu estou apenas comprando janela!"
+    },
+    {
+      "id": 311,
+      "en": "Yeah, bud!",
+      "pt_br": "Sim, amigo!"
+    },
+    {
+      "id": 312,
+      "en": "Nah, bud!",
+      "pt_br": "Não, amigo!"
+    },
+    {
+      "id": 313,
+      "en": "I will take it!",
+      "pt_br": "Eu aceito!"
+    },
+    {
+      "id": 314,
+      "en": "I will reconsider",
+      "pt_br": "Vou reconsiderar."
+    },
+    {
+      "id": 315,
+      "en": "Take me there, yo!",
+      "pt_br": "Leva-me até lá!"
+    },
+    {
+      "id": 316,
+      "en": "Maybe not right now, yo",
+      "pt_br": "Talvez não agora, meu."
+    },
+    {
+      "id": 317,
+      "en": "Take me there, yo!",
+      "pt_br": "Leva-me até lá!"
+    },
+    {
+      "id": 318,
+      "en": "Maybe not right now, yo",
+      "pt_br": "Talvez não agora, meu."
+    },
+    {
+      "id": 319,
+      "en": "Yeah, I am ♪",
+      "pt_br": "Sim, eu sou"
+    },
+    {
+      "id": 320,
+      "en": "Um... Maybe some other time?",
+      "pt_br": "Talvez noutra altura?"
+    },
+    {
+      "id": 321,
+      "en": "Let’s do it!",
+      "pt_br": "Vamos fazê-lo!"
+    },
+    {
+      "id": 322,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 323,
+      "en": "Sure!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 324,
+      "en": "Maybe next time!",
+      "pt_br": "Talvez da próxima vez!"
+    },
+    {
+      "id": 325,
+      "en": "Oooh, sure!",
+      "pt_br": "Oooh, claro!"
+    },
+    {
+      "id": 326,
+      "en": "Ohhh, nooo...",
+      "pt_br": "Ohhh, não..."
+    },
+    {
+      "id": 327,
+      "en": "Oooh, sounds fun!",
+      "pt_br": "Oooh, parece divertido!"
+    },
+    {
+      "id": 328,
+      "en": "Ummm, not now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 329,
+      "en": "Yooo! Let’s do it!",
+      "pt_br": "Vamos fazer isso!"
+    },
+    {
+      "id": 330,
+      "en": "I’m kinda busy now, yo",
+      "pt_br": "Estou meio ocupado agora, yo"
+    },
+    {
+      "id": 331,
+      "en": "I’m up for anythin’!",
+      "pt_br": "Estou pronto para qualquer coisa!"
+    },
+    {
+      "id": 332,
+      "en": "Nah, not feelin’ it",
+      "pt_br": "Nah, não senti-lo’"
+    },
+    {
+      "id": 333,
+      "en": "I’d love to play!",
+      "pt_br": "Eu adoraria jogar!"
+    },
+    {
+      "id": 334,
+      "en": "I’m a little busy",
+      "pt_br": "Estou um pouco ocupado"
+    },
+    {
+      "id": 335,
+      "en": "Guess so!",
+      "pt_br": "Acho que sim!"
+    },
+    {
+      "id": 336,
+      "en": "Guess not...",
+      "pt_br": "Acho que não..."
+    },
+    {
+      "id": 337,
+      "en": "Yeah, I want to give it a shot",
+      "pt_br": "Sim, quero tentar."
+    },
+    {
+      "id": 338,
+      "en": "Maybe not this time...",
+      "pt_br": "Talvez não desta vez..."
+    },
+    {
+      "id": 339,
+      "en": "I’mma give it a go!",
+      "pt_br": "Vou tentar!"
+    },
+    {
+      "id": 340,
+      "en": "Maybe not right this minute",
+      "pt_br": "Talvez não neste momento."
+    },
+    {
+      "id": 341,
+      "en": "It would be my pleasure",
+      "pt_br": "Será um prazer."
+    },
+    {
+      "id": 342,
+      "en": "I’d rather not at the moment",
+      "pt_br": "Eu prefiro não no momento"
+    },
+    {
+      "id": 343,
+      "en": "Yeah, let’s do iiit!",
+      "pt_br": "Sim, vamos fazer iiit!"
+    },
+    {
+      "id": 344,
+      "en": "Nahhh, I’ll pass",
+      "pt_br": "Nahhh, eu passo"
+    },
+    {
+      "id": 345,
+      "en": "I would love to!",
+      "pt_br": "Adoraria!"
+    },
+    {
+      "id": 346,
+      "en": "Perhaps another time",
+      "pt_br": "Talvez noutra altura."
+    },
+    {
+      "id": 347,
+      "en": "I sure would!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 348,
+      "en": "Maybe later",
+      "pt_br": "Talvez mais tarde."
+    },
+    {
+      "id": 349,
+      "en": "Sounds good!",
+      "pt_br": "Parece-me bem!"
+    },
+    {
+      "id": 350,
+      "en": "Maybe some other time, bud",
+      "pt_br": "Talvez noutra altura, amigo."
+    },
+    {
+      "id": 351,
+      "en": "I want to attempt it!",
+      "pt_br": "Quero tentar!"
+    },
+    {
+      "id": 352,
+      "en": "I will not",
+      "pt_br": "Eu não vou."
+    },
+    {
+      "id": 353,
+      "en": "Start over",
+      "pt_br": "Iniciar de novo"
+    },
+    {
+      "id": 354,
+      "en": "It’s a present for yooouuu!",
+      "pt_br": "É um presente para yououuu!"
+    },
+    {
+      "id": 355,
+      "en": "Um... Don’t worry ’bout it...",
+      "pt_br": "Não se preocupe com isso..."
+    },
+    {
+      "id": 356,
+      "en": "It’s a sweet present for you!",
+      "pt_br": "É um presente doce para você!"
+    },
+    {
+      "id": 357,
+      "en": "It’s, uh...nothing",
+      "pt_br": "Não é, uh... nada"
+    },
+    {
+      "id": 358,
+      "en": "It’s a present for you!",
+      "pt_br": "É um presente para você!"
+    },
+    {
+      "id": 359,
+      "en": "It’s nothing...",
+      "pt_br": "Não é nada..."
+    },
+    {
+      "id": 360,
+      "en": "It’s a present! For YOU!",
+      "pt_br": "É um presente!"
+    },
+    {
+      "id": 361,
+      "en": "Um... It’s nothing",
+      "pt_br": "Não é nada."
+    },
+    {
+      "id": 362,
+      "en": "It’s...um...a present! For you!",
+      "pt_br": "É um presente para você!"
+    },
+    {
+      "id": 363,
+      "en": "Oh, um... It’s nothing",
+      "pt_br": "Não é nada."
+    },
+    {
+      "id": 364,
+      "en": "It’s a present for you, yo!",
+      "pt_br": "É um presente para ti, meu!"
+    },
+    {
+      "id": 365,
+      "en": "Oh, it’s nothin’...",
+      "pt_br": "Oh, não é nada..."
+    },
+    {
+      "id": 366,
+      "en": "It’s a present for ya, pal!",
+      "pt_br": "É um presente para você, amigo!"
+    },
+    {
+      "id": 367,
+      "en": "Oh, it’s just a whole lotta nothin’",
+      "pt_br": "Oh, é apenas um monte de nada’"
+    },
+    {
+      "id": 368,
+      "en": "It’s a present for you",
+      "pt_br": "É um presente para você"
+    },
+    {
+      "id": 369,
+      "en": "Oh, it’s nothing",
+      "pt_br": "Oh, não é nada"
+    },
+    {
+      "id": 370,
+      "en": "It’s an AWESOME present for you!",
+      "pt_br": "É um presente incrível para você!"
+    },
+    {
+      "id": 371,
+      "en": "Uhhh, it’s nothing!",
+      "pt_br": "Uhhh, não é nada!"
+    },
+    {
+      "id": 372,
+      "en": "It’s a present...for you",
+      "pt_br": "É um presente... para você"
+    },
+    {
+      "id": 373,
+      "en": "U-um, it’s nothing...",
+      "pt_br": "Não é nada..."
+    },
+    {
+      "id": 374,
+      "en": "This here’s a present fer ya",
+      "pt_br": "Este aqui é um presente fer ya"
+    },
+    {
+      "id": 375,
+      "en": "Aw, this? ’Tain’t nothin’",
+      "pt_br": "Aw, isso? ‘Não tain’ nada’"
+    },
+    {
+      "id": 376,
+      "en": "It is a present for you",
+      "pt_br": "É um presente para ti."
+    },
+    {
+      "id": 377,
+      "en": "It is nothing of importance",
+      "pt_br": "Não é nada de importante."
+    },
+    {
+      "id": 378,
+      "en": "It’s a preeesent for yooouuu...",
+      "pt_br": "É um preeeeent para yoouuuu..."
+    },
+    {
+      "id": 379,
+      "en": "It’s nooothing...",
+      "pt_br": "Não é nada..."
+    },
+    {
+      "id": 380,
+      "en": "It’s a present for you",
+      "pt_br": "É um presente para você"
+    },
+    {
+      "id": 381,
+      "en": "Oh, it’s nothing",
+      "pt_br": "Oh, não é nada"
+    },
+    {
+      "id": 382,
+      "en": "It’s a present for you, dear!",
+      "pt_br": "É um presente para você, querida!"
+    },
+    {
+      "id": 383,
+      "en": "Oh, don’t you worry about this!",
+      "pt_br": "Oh, não se preocupe com isso!"
+    },
+    {
+      "id": 384,
+      "en": "It’s a present for ya, bud!",
+      "pt_br": "É um presente para você, amigo!"
+    },
+    {
+      "id": 385,
+      "en": "It’s nothin’",
+      "pt_br": "Não é nada’"
+    },
+    {
+      "id": 386,
+      "en": "It is for you. A present",
+      "pt_br": "É para ti, um presente."
+    },
+    {
+      "id": 387,
+      "en": "Do not worry about it",
+      "pt_br": "Não te preocupes com isso."
+    },
+    {
+      "id": 388,
+      "en": "Yeahhhhh! Wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 389,
+      "en": "Pretty cool, huh?",
+      "pt_br": "Muito fixe, não é?"
+    },
+    {
+      "id": 390,
+      "en": "You can live here if you want",
+      "pt_br": "pode viver aqui, se quiseres."
+    },
+    {
+      "id": 391,
+      "en": "Pretty cool, right?",
+      "pt_br": "Muito fixe, não é?"
+    },
+    {
+      "id": 392,
+      "en": "Wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 393,
+      "en": "You’ve got good taste!",
+      "pt_br": "Você tem bom gosto!"
+    },
+    {
+      "id": 394,
+      "en": "Yeah. Wanna LIVE here?!",
+      "pt_br": "quer viver aqui?!"
+    },
+    {
+      "id": 395,
+      "en": "I’m super proud of it!",
+      "pt_br": "Estou super orgulhoso disso!"
+    },
+    {
+      "id": 396,
+      "en": "Yeah, uh... Wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 397,
+      "en": "Right?",
+      "pt_br": "Certo?"
+    },
+    {
+      "id": 398,
+      "en": "Heck yeah. Wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 399,
+      "en": "Don’t I know it",
+      "pt_br": "Eu não sei?"
+    },
+    {
+      "id": 400,
+      "en": "Wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 401,
+      "en": "Sure is pretty, isn’t it?",
+      "pt_br": "Certamente é bonito, não é?"
+    },
+    {
+      "id": 402,
+      "en": "YEAH! Wanna live here?!",
+      "pt_br": "Quer viver aqui?!!!"
+    },
+    {
+      "id": 403,
+      "en": "Riiight?!",
+      "pt_br": "Riiight? !"
+    },
+    {
+      "id": 404,
+      "en": "Yeah... Wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 405,
+      "en": "It is pretty cool, huh?",
+      "pt_br": "É muito fixe, não é?"
+    },
+    {
+      "id": 406,
+      "en": "Sure is! Ya wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 407,
+      "en": "I sure did work hard on it",
+      "pt_br": "Eu de certeza que trabalhei duro nele."
+    },
+    {
+      "id": 408,
+      "en": "Oh? Would you like to live here?",
+      "pt_br": "Gostarias de viver aqui?"
+    },
+    {
+      "id": 409,
+      "en": "It is interesting, is it not?",
+      "pt_br": "É interessante, não é?"
+    },
+    {
+      "id": 410,
+      "en": "Yeahhh. Wanna liiive here?",
+      "pt_br": "quer vir aqui?"
+    },
+    {
+      "id": 411,
+      "en": "Riiight?",
+      "pt_br": "Riiight?"
+    },
+    {
+      "id": 412,
+      "en": "Would you like to live here?",
+      "pt_br": "Gostarias de viver aqui?"
+    },
+    {
+      "id": 413,
+      "en": "It is gorgeous, isn’t it?",
+      "pt_br": "É lindo, não é?"
+    },
+    {
+      "id": 414,
+      "en": "How would you like to live here?",
+      "pt_br": "Gostarias de viver aqui?"
+    },
+    {
+      "id": 415,
+      "en": "Yes, it is lovely, isn’t it?",
+      "pt_br": "Sim, é lindo, não é?"
+    },
+    {
+      "id": 416,
+      "en": "Heck yeah it is. Wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 417,
+      "en": "Sure is awesome, huh?",
+      "pt_br": "É fantástico, não é?"
+    },
+    {
+      "id": 418,
+      "en": "You may live in this one",
+      "pt_br": "pode viver neste aqui."
+    },
+    {
+      "id": 419,
+      "en": "It is amazing?",
+      "pt_br": "É incrível?"
+    },
+    {
+      "id": 420,
+      "en": "Take me there, yo!",
+      "pt_br": "Leva-me até lá!"
+    },
+    {
+      "id": 421,
+      "en": "Maybe not right now, yo",
+      "pt_br": "Talvez não agora, meu."
+    },
+    {
+      "id": 422,
+      "en": "Let’s go, yo!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 423,
+      "en": "Nawww",
+      "pt_br": "Nawww."
+    },
+    {
+      "id": 424,
+      "en": "Let’s go together, yo",
+      "pt_br": "Vamos juntos, yo"
+    },
+    {
+      "id": 425,
+      "en": "You should stay here, yo",
+      "pt_br": "Devias ficar aqui."
+    },
+    {
+      "id": 426,
+      "en": "Let’s go, yo!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 427,
+      "en": "Nawww",
+      "pt_br": "Nawww."
+    },
+    {
+      "id": 428,
+      "en": "Let’s go, yo!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 429,
+      "en": "Nawww",
+      "pt_br": "Nawww."
+    },
+    {
+      "id": 430,
+      "en": "Uh, sure...",
+      "pt_br": "Claro..."
+    },
+    {
+      "id": 431,
+      "en": "Good thing we figured it out",
+      "pt_br": "Ainda bem que descobrimos."
+    },
+    {
+      "id": 432,
+      "en": "Not scared anymore, huh?",
+      "pt_br": "Já não tem medo, pois não?"
+    },
+    {
+      "id": 433,
+      "en": "Can you wake them up?",
+      "pt_br": "Consegues acordá-los?"
+    },
+    {
+      "id": 434,
+      "en": "Can you stop the snoring?",
+      "pt_br": "pode parar de roncar?"
+    },
+    {
+      "id": 435,
+      "en": "Sure!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 436,
+      "en": "I’ll give it a go!",
+      "pt_br": "Vou dar uma chance!"
+    },
+    {
+      "id": 437,
+      "en": "So much for that idea...",
+      "pt_br": "Lá se vai essa ideia..."
+    },
+    {
+      "id": 438,
+      "en": "What do we do?",
+      "pt_br": "O que fazemos?"
+    },
+    {
+      "id": 439,
+      "en": "What is it?",
+      "pt_br": "O que foi?"
+    },
+    {
+      "id": 440,
+      "en": "Tell me!",
+      "pt_br": "Diz-me!"
+    },
+    {
+      "id": 441,
+      "en": "But it’s nice and warm",
+      "pt_br": "Mas é agradável e quente"
+    },
+    {
+      "id": 442,
+      "en": "I think it’s relaxing?",
+      "pt_br": "Eu acho que é relaxante?"
+    },
+    {
+      "id": 443,
+      "en": "What happened to you?",
+      "pt_br": "O que te aconteceu?"
+    },
+    {
+      "id": 444,
+      "en": "Can you remember anything?",
+      "pt_br": "Consegues lembrar-te de alguma coisa?"
+    },
+    {
+      "id": 445,
+      "en": "Where’s it at?",
+      "pt_br": "Onde está?"
+    },
+    {
+      "id": 446,
+      "en": "Tell me about it, yo",
+      "pt_br": "A quem o diz."
+    },
+    {
+      "id": 447,
+      "en": "Let’s go together",
+      "pt_br": "Vamos juntos"
+    },
+    {
+      "id": 448,
+      "en": "Maybe it lights up too?",
+      "pt_br": "Talvez também se ilumine?"
+    },
+    {
+      "id": 449,
+      "en": "Wanna try getting power to it?",
+      "pt_br": "quer tentar arranjar-lhe energia?"
+    },
+    {
+      "id": 450,
+      "en": "What contraption?",
+      "pt_br": "Que engenhoca?"
+    },
+    {
+      "id": 451,
+      "en": "I can make that for you",
+      "pt_br": "Posso fazer isso para ti."
+    },
+    {
+      "id": 452,
+      "en": "Sure, what kind you want?",
+      "pt_br": "Claro, que tipo quer?"
+    },
+    {
+      "id": 453,
+      "en": "You’re the best, Professor!",
+      "pt_br": "Você é o melhor, Professor!"
+    },
+    {
+      "id": 454,
+      "en": "You’re so smart",
+      "pt_br": "Você é tão inteligente"
+    },
+    {
+      "id": 455,
+      "en": "A <$cdef(27)>streetlight</color>, right?",
+      "pt_br": "A <$cdef(27)>luz da rua</color>Certo?"
+    },
+    {
+      "id": 456,
+      "en": "Um... I dunno!",
+      "pt_br": "Não sei!"
+    },
+    {
+      "id": 457,
+      "en": "I sure can!",
+      "pt_br": "Claro que posso!"
+    },
+    {
+      "id": 458,
+      "en": "Easy-peasy!",
+      "pt_br": "Calma!"
+    },
+    {
+      "id": 459,
+      "en": "Should we make it brighter?",
+      "pt_br": "Devemos torná-lo mais claro?"
+    },
+    {
+      "id": 460,
+      "en": "Let’s zap ’em with electricity",
+      "pt_br": "Vamos zap ’em com eletricidade"
+    },
+    {
+      "id": 461,
+      "en": "Hook up some utility poles",
+      "pt_br": "Ligar alguns postes utilitários"
+    },
+    {
+      "id": 462,
+      "en": "Get a Pokémon to zap it",
+      "pt_br": "Arranjem um Pokémon para o atacar."
+    },
+    {
+      "id": 463,
+      "en": "By the way, how’s Snorlax?",
+      "pt_br": "A propósito, como está Snorlax?"
+    },
+    {
+      "id": 464,
+      "en": "Is Snorlax OK?",
+      "pt_br": "O Snorlax está bem?"
+    },
+    {
+      "id": 465,
+      "en": "My pleasure!",
+      "pt_br": "O prazer é meu!"
+    },
+    {
+      "id": 466,
+      "en": "Will this really work?",
+      "pt_br": "Será que isto vai mesmo funcionar?"
+    },
+    {
+      "id": 467,
+      "en": "I wanna try it out",
+      "pt_br": "Quero experimentar."
+    },
+    {
+      "id": 468,
+      "en": "How’d I do?",
+      "pt_br": "Como me saí?"
+    },
+    {
+      "id": 469,
+      "en": "It’s kinda yucky",
+      "pt_br": "É meio nojento"
+    },
+    {
+      "id": 470,
+      "en": "I’ll go take a look",
+      "pt_br": "Vou dar uma olhada."
+    },
+    {
+      "id": 471,
+      "en": "I don’t think so",
+      "pt_br": "Eu acho que não."
+    },
+    {
+      "id": 472,
+      "en": "I’m not scary",
+      "pt_br": "Eu não sou assustador"
+    },
+    {
+      "id": 473,
+      "en": "I sure did",
+      "pt_br": "Claro que sim."
+    },
+    {
+      "id": 474,
+      "en": "It was this",
+      "pt_br": "Foi isto."
+    },
+    {
+      "id": 475,
+      "en": "I’m doing good",
+      "pt_br": "Eu estou indo bem"
+    },
+    {
+      "id": 476,
+      "en": "How’re YOU doing?",
+      "pt_br": "Como você está?"
+    },
+    {
+      "id": 477,
+      "en": "I got you",
+      "pt_br": "Apanhei-te."
+    },
+    {
+      "id": 478,
+      "en": "You OK?",
+      "pt_br": "está bem?"
+    },
+    {
+      "id": 479,
+      "en": "Something wrong?",
+      "pt_br": "Algum problema?"
+    },
+    {
+      "id": 480,
+      "en": "I’ll make you one",
+      "pt_br": "Eu vou fazer-lhe um"
+    },
+    {
+      "id": 481,
+      "en": "I got you",
+      "pt_br": "Apanhei-te."
+    },
+    {
+      "id": 482,
+      "en": "What’s up?",
+      "pt_br": "O que foi?"
+    },
+    {
+      "id": 483,
+      "en": "Whatcha need?!",
+      "pt_br": "O que é que precisas?"
+    },
+    {
+      "id": 484,
+      "en": "Lemme help!",
+      "pt_br": "Deixa-me ajudar!"
+    },
+    {
+      "id": 485,
+      "en": "Okey dokey!",
+      "pt_br": "Muito bem!"
+    },
+    {
+      "id": 486,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 487,
+      "en": "Oopsies",
+      "pt_br": "Oops"
+    },
+    {
+      "id": 488,
+      "en": "Whatcha doin’?",
+      "pt_br": "O que está a fazer?"
+    },
+    {
+      "id": 489,
+      "en": "Yeahhh!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 490,
+      "en": "Sounds fun!",
+      "pt_br": "Parece divertido!"
+    },
+    {
+      "id": 491,
+      "en": "Wowee!",
+      "pt_br": "Uau!"
+    },
+    {
+      "id": 492,
+      "en": "Great job!",
+      "pt_br": "Bom trabalho!"
+    },
+    {
+      "id": 493,
+      "en": "You scared, yo?",
+      "pt_br": "está com medo?"
+    },
+    {
+      "id": 494,
+      "en": "Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 495,
+      "en": "Seems kinda tough...",
+      "pt_br": "Parece um bocado difícil..."
+    },
+    {
+      "id": 496,
+      "en": "You scared, yo?",
+      "pt_br": "está com medo?"
+    },
+    {
+      "id": 497,
+      "en": "What do we do?",
+      "pt_br": "O que fazemos?"
+    },
+    {
+      "id": 498,
+      "en": "What? Really?",
+      "pt_br": "A sério?"
+    },
+    {
+      "id": 499,
+      "en": "How’s that work?",
+      "pt_br": "Como é que isso funciona?"
+    },
+    {
+      "id": 500,
+      "en": "Of course!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 501,
+      "en": "You scared, yo?",
+      "pt_br": "está com medo?"
+    },
+    {
+      "id": 502,
+      "en": "Sure thing",
+      "pt_br": "Claro."
+    },
+    {
+      "id": 503,
+      "en": "I’ll check it out",
+      "pt_br": "Vou dar uma olhada."
+    },
+    {
+      "id": 504,
+      "en": "I think I can",
+      "pt_br": "Acho que posso."
+    },
+    {
+      "id": 505,
+      "en": "So what should we do, then?",
+      "pt_br": "Então, o que devemos fazer?"
+    },
+    {
+      "id": 506,
+      "en": "Is there any Pokémon who can?",
+      "pt_br": "Há algum Pokémon que possa?"
+    },
+    {
+      "id": 507,
+      "en": "Right now? Um, well...",
+      "pt_br": "Agora mesmo?"
+    },
+    {
+      "id": 508,
+      "en": "I’m good to go!",
+      "pt_br": "Estou pronto para ir!"
+    },
+    {
+      "id": 509,
+      "en": "I got you",
+      "pt_br": "Apanhei-te."
+    },
+    {
+      "id": 510,
+      "en": "OK, gotcha!",
+      "pt_br": "Está bem, apanhei-te!"
+    },
+    {
+      "id": 511,
+      "en": "I’ll give it a go!",
+      "pt_br": "Vou dar uma chance!"
+    },
+    {
+      "id": 512,
+      "en": "I’m excited!",
+      "pt_br": "Estou empolgado!"
+    },
+    {
+      "id": 513,
+      "en": "Let’s go see!",
+      "pt_br": "Vamos ver!"
+    },
+    {
+      "id": 514,
+      "en": "It’s not working",
+      "pt_br": "Não está funcionando"
+    },
+    {
+      "id": 515,
+      "en": "I think it’s broken",
+      "pt_br": "Eu acho que está quebrado"
+    },
+    {
+      "id": 516,
+      "en": "Machoke? What’s a Machoke?",
+      "pt_br": "Machoke? O que é um Machoke?"
+    },
+    {
+      "id": 517,
+      "en": "What kind of Pokémon are they?",
+      "pt_br": "Que tipo de Pokémon são eles?"
+    },
+    {
+      "id": 518,
+      "en": "Do you know Machoke?",
+      "pt_br": "Conheces o Machoke?"
+    },
+    {
+      "id": 519,
+      "en": "Are you Machoke, maybe?",
+      "pt_br": "És o Machoke, talvez?"
+    },
+    {
+      "id": 520,
+      "en": "I can cut through the chain",
+      "pt_br": "Posso cortar a corrente"
+    },
+    {
+      "id": 521,
+      "en": "I can cut through the barrel",
+      "pt_br": "Eu posso cortar através do barril"
+    },
+    {
+      "id": 522,
+      "en": "Nope, nope. Not that...",
+      "pt_br": "Não, não, não."
+    },
+    {
+      "id": 523,
+      "en": "Can you make <$cdef(27)><fqty(2)><$ifull(1301)></color>?",
+      "pt_br": "pode fazer <$cdef(27)><fqty(2)><$ifull(1301)></color>?"
+    },
+    {
+      "id": 524,
+      "en": "Sounds like a good idea!",
+      "pt_br": "Parece-me uma boa ideia!"
+    },
+    {
+      "id": 525,
+      "en": "Let’s go ask ’em about it",
+      "pt_br": "Vamos perguntar - lhes sobre isso."
+    },
+    {
+      "id": 526,
+      "en": "We need a bread oven...",
+      "pt_br": "Precisamos de um forno de pão..."
+    },
+    {
+      "id": 527,
+      "en": "You look like...",
+      "pt_br": "Pareces..."
+    },
+    {
+      "id": 528,
+      "en": "Sure did!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 529,
+      "en": "It was yummy!",
+      "pt_br": "Foi delicioso!"
+    },
+    {
+      "id": 530,
+      "en": "I’m thinkin’ about bread",
+      "pt_br": "Estou pensando no pão"
+    },
+    {
+      "id": 531,
+      "en": "I’m thinkin’ about cookin’",
+      "pt_br": "Estou pensando em cozinhar’"
+    },
+    {
+      "id": 532,
+      "en": "I’d love to!",
+      "pt_br": "Eu adoraria!"
+    },
+    {
+      "id": 533,
+      "en": "Teach me!",
+      "pt_br": "Ensine-me!"
+    },
+    {
+      "id": 534,
+      "en": "I probably can",
+      "pt_br": "Eu provavelmente posso."
+    },
+    {
+      "id": 535,
+      "en": "I could cut it down",
+      "pt_br": "Eu podia cortá-lo."
+    },
+    {
+      "id": 536,
+      "en": "It’s really hot",
+      "pt_br": "Está muito quente"
+    },
+    {
+      "id": 537,
+      "en": "It’s really dark",
+      "pt_br": "É realmente escuro"
+    },
+    {
+      "id": 538,
+      "en": "Yeah! Sounds fun!",
+      "pt_br": "Parece divertido!"
+    },
+    {
+      "id": 539,
+      "en": "Let’s have a PARTY!",
+      "pt_br": "Vamos ter uma festa!"
+    },
+    {
+      "id": 540,
+      "en": "I tried really, really hard",
+      "pt_br": "Eu tentei muito, muito, muito."
+    },
+    {
+      "id": 541,
+      "en": "I dunno about “amazing”...",
+      "pt_br": "Eu não sei sobre \"amazing\" ..."
+    },
+    {
+      "id": 542,
+      "en": "I got a CD ready to go",
+      "pt_br": "Tenho um CD pronto para ir."
+    },
+    {
+      "id": 543,
+      "en": "Uhhh... Remind me!",
+      "pt_br": "Lembra-me!"
+    },
+    {
+      "id": 544,
+      "en": "Those flat disc thingies?",
+      "pt_br": "Aquelas coisas de disco plano?"
+    },
+    {
+      "id": 545,
+      "en": "It’s a nice sound!",
+      "pt_br": "É um som agradável!"
+    },
+    {
+      "id": 546,
+      "en": "AWESOME, yo!",
+      "pt_br": "Incrível, meu!"
+    },
+    {
+      "id": 547,
+      "en": "Whatcha thinkin’ about?",
+      "pt_br": "No que está a pensar?"
+    },
+    {
+      "id": 548,
+      "en": "What’s up?",
+      "pt_br": "O que foi?"
+    },
+    {
+      "id": 549,
+      "en": "I got you!",
+      "pt_br": "Apanhei-te!"
+    },
+    {
+      "id": 550,
+      "en": "P-pro? Guess I gotta help...",
+      "pt_br": "Acho que tenho de ajudar..."
+    },
+    {
+      "id": 551,
+      "en": "Somethin’ you like!",
+      "pt_br": "Algo que você gosta!"
+    },
+    {
+      "id": 552,
+      "en": "Somethin’ fun!",
+      "pt_br": "Algo divertido!"
+    },
+    {
+      "id": 553,
+      "en": "Sure, yo!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 554,
+      "en": "You got it!",
+      "pt_br": "É para já!"
+    },
+    {
+      "id": 555,
+      "en": "Sure, yo!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 556,
+      "en": "What’s a playlist?",
+      "pt_br": "O que é uma playlist?"
+    },
+    {
+      "id": 557,
+      "en": "You can do it, yo!",
+      "pt_br": "Tu consegues!"
+    },
+    {
+      "id": 558,
+      "en": "I believe in you!",
+      "pt_br": "Eu acredito em ti!"
+    },
+    {
+      "id": 559,
+      "en": "What’s up?",
+      "pt_br": "O que foi?"
+    },
+    {
+      "id": 560,
+      "en": "Whatcha talkin’ about?",
+      "pt_br": "Do que está a falar?"
+    },
+    {
+      "id": 561,
+      "en": "How ’bout a change of scenery!",
+      "pt_br": "Que tal uma mudança de cenário!"
+    },
+    {
+      "id": 562,
+      "en": "Maybe check out other buildings?",
+      "pt_br": "Talvez verificar outros prédios?"
+    },
+    {
+      "id": 563,
+      "en": "Yeah!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 564,
+      "en": "Not really...",
+      "pt_br": "Nem por isso..."
+    },
+    {
+      "id": 565,
+      "en": "Feelin’ comfy?",
+      "pt_br": "Sente - se confortável?"
+    },
+    {
+      "id": 566,
+      "en": "Is it nice?",
+      "pt_br": "É bonito?"
+    },
+    {
+      "id": 567,
+      "en": "It’s super cool!",
+      "pt_br": "É super legal!"
+    },
+    {
+      "id": 568,
+      "en": "Wowee! Amazing!",
+      "pt_br": "Incrível!"
+    },
+    {
+      "id": 569,
+      "en": "Nostalgic?",
+      "pt_br": "Nostálgico?"
+    },
+    {
+      "id": 570,
+      "en": "Why?",
+      "pt_br": "Porquê?"
+    },
+    {
+      "id": 571,
+      "en": "I worked really hard",
+      "pt_br": "Eu trabalhei muito."
+    },
+    {
+      "id": 572,
+      "en": "Pretty amazing, huh?",
+      "pt_br": "É incrível, não é?"
+    },
+    {
+      "id": 573,
+      "en": "Can do!",
+      "pt_br": "Pode ser!"
+    },
+    {
+      "id": 574,
+      "en": "Seems like a lotta work...",
+      "pt_br": "Parece muito trabalho..."
+    },
+    {
+      "id": 575,
+      "en": "I’ll do my best",
+      "pt_br": "Farei o meu melhor"
+    },
+    {
+      "id": 576,
+      "en": "Maybe when I feel up to it",
+      "pt_br": "Talvez quando me apetecer"
+    },
+    {
+      "id": 577,
+      "en": "Sure do!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 578,
+      "en": "What’s up?",
+      "pt_br": "O que foi?"
+    },
+    {
+      "id": 579,
+      "en": "What happened?",
+      "pt_br": "O que aconteceu?"
+    },
+    {
+      "id": 580,
+      "en": "Are you OK?",
+      "pt_br": "está bem?"
+    },
+    {
+      "id": 581,
+      "en": "How about a fossil?",
+      "pt_br": "Que tal um fóssil?"
+    },
+    {
+      "id": 582,
+      "en": "Maybe an old rock?",
+      "pt_br": "Talvez uma pedra velha?"
+    },
+    {
+      "id": 583,
+      "en": "Rain?",
+      "pt_br": "Chuva?"
+    },
+    {
+      "id": 584,
+      "en": "Hehehe!",
+      "pt_br": "Hehehe!"
+    },
+    {
+      "id": 585,
+      "en": "Yeah, I wanna learn!",
+      "pt_br": "Sim, eu quero aprender!"
+    },
+    {
+      "id": 586,
+      "en": "Teach me, teach me!",
+      "pt_br": "Ensina-me, ensina-me!"
+    },
+    {
+      "id": 587,
+      "en": "I made you a playlist!",
+      "pt_br": "Fiz-te uma playlist!"
+    },
+    {
+      "id": 588,
+      "en": "Is it not good enough?",
+      "pt_br": "Não é bom o suficiente?"
+    },
+    {
+      "id": 589,
+      "en": "What kind of outfit is suitable?",
+      "pt_br": "Que tipo de roupa é adequada?"
+    },
+    {
+      "id": 590,
+      "en": "Yeah!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 591,
+      "en": "Nope!",
+      "pt_br": "Não!"
+    },
+    {
+      "id": 592,
+      "en": "Sure did!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 593,
+      "en": "Not yet!",
+      "pt_br": "Ainda não!"
+    },
+    {
+      "id": 594,
+      "en": "Awesooome!",
+      "pt_br": "Awesooome!"
+    },
+    {
+      "id": 595,
+      "en": "Let’s vibe, yo!",
+      "pt_br": "Vamos vibrar!"
+    },
+    {
+      "id": 596,
+      "en": "Hehe! Thank you!",
+      "pt_br": "Obrigado!"
+    },
+    {
+      "id": 597,
+      "en": "I had a good teacher",
+      "pt_br": "Tive um bom professor."
+    },
+    {
+      "id": 598,
+      "en": "What do we do?",
+      "pt_br": "O que fazemos?"
+    },
+    {
+      "id": 599,
+      "en": "It’s OK this time for sure!",
+      "pt_br": "Está tudo bem desta vez, com certeza!"
+    },
+    {
+      "id": 600,
+      "en": "Start over from the beginning",
+      "pt_br": "Começar de novo do início"
+    },
+    {
+      "id": 601,
+      "en": "Hold on a little while longer",
+      "pt_br": "Espera um pouco mais."
+    },
+    {
+      "id": 602,
+      "en": "Heck yeah!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 603,
+      "en": "I got muscles!",
+      "pt_br": "Tenho músculos!"
+    },
+    {
+      "id": 604,
+      "en": "You CAN have some!",
+      "pt_br": "pode comer um pouco!"
+    },
+    {
+      "id": 605,
+      "en": "Help me make it!",
+      "pt_br": "Ajuda-me a fazê-lo!"
+    },
+    {
+      "id": 606,
+      "en": "It’s all good to go!",
+      "pt_br": "Está tudo bem para ir!"
+    },
+    {
+      "id": 607,
+      "en": "I need a little more time",
+      "pt_br": "Preciso de mais tempo."
+    },
+    {
+      "id": 608,
+      "en": "I’m looking forward to it!",
+      "pt_br": "Estou ansioso por isso!"
+    },
+    {
+      "id": 609,
+      "en": "Whatcha gonna make?",
+      "pt_br": "O que vais fazer?"
+    },
+    {
+      "id": 610,
+      "en": "It’s a party!",
+      "pt_br": "É uma festa!"
+    },
+    {
+      "id": 611,
+      "en": "Wanna eat some curry?",
+      "pt_br": "quer comer caril?"
+    },
+    {
+      "id": 612,
+      "en": "M-me too!",
+      "pt_br": "Eu também!"
+    },
+    {
+      "id": 613,
+      "en": "Me too, yo!",
+      "pt_br": "Eu também!"
+    },
+    {
+      "id": 614,
+      "en": "Ummm... Flareon?",
+      "pt_br": "Flareon?"
+    },
+    {
+      "id": 615,
+      "en": "Raboot, maybe?",
+      "pt_br": "Raboot, talvez?"
+    },
+    {
+      "id": 616,
+      "en": "Awww. Friendship!",
+      "pt_br": "Awww. Amizade!"
+    },
+    {
+      "id": 617,
+      "en": "Heyyy, no fighting...",
+      "pt_br": "Ei, não lutes..."
+    },
+    {
+      "id": 618,
+      "en": "But...",
+      "pt_br": "Mas..."
+    },
+    {
+      "id": 619,
+      "en": "BEST friendship?",
+      "pt_br": "MELHOR AMIGAÇÃO?"
+    },
+    {
+      "id": 620,
+      "en": "Armarouge",
+      "pt_br": "Armarouge"
+    },
+    {
+      "id": 621,
+      "en": "Ceruledge",
+      "pt_br": "Ceruledge"
+    },
+    {
+      "id": 622,
+      "en": "Go for it!",
+      "pt_br": "Vai em frente!"
+    },
+    {
+      "id": 623,
+      "en": "I wanna dig too!",
+      "pt_br": "Eu também quero cavar!"
+    },
+    {
+      "id": 624,
+      "en": "Sounds fun!",
+      "pt_br": "Parece divertido!"
+    },
+    {
+      "id": 625,
+      "en": "I wanna cook!",
+      "pt_br": "Quero cozinhar!"
+    },
+    {
+      "id": 626,
+      "en": "I’ll give it a go",
+      "pt_br": "Eu vou dar-lhe uma tentativa"
+    },
+    {
+      "id": 627,
+      "en": "Help me make one",
+      "pt_br": "Ajuda-me a fazer um."
+    },
+    {
+      "id": 628,
+      "en": "It’s true! I sure can cook!",
+      "pt_br": "É verdade! Eu sei cozinhar!"
+    },
+    {
+      "id": 629,
+      "en": "Want me to make you something?",
+      "pt_br": "quer que te faça alguma coisa?"
+    },
+    {
+      "id": 630,
+      "en": "Graveler? Nope! Who’s that?",
+      "pt_br": "Graveler? Não! Quem é esse?"
+    },
+    {
+      "id": 631,
+      "en": "What kind of Pokémon are they?",
+      "pt_br": "Que tipo de Pokémon são eles?"
+    },
+    {
+      "id": 632,
+      "en": "Machoke needs you",
+      "pt_br": "O Machoke precisa de ti."
+    },
+    {
+      "id": 633,
+      "en": "You’re being called...",
+      "pt_br": "Você está sendo chamado..."
+    },
+    {
+      "id": 634,
+      "en": "Hm... You think so?",
+      "pt_br": "Achas que sim?"
+    },
+    {
+      "id": 635,
+      "en": "Nope! Same ol’ Graveler!",
+      "pt_br": "Não, o mesmo velho Graveler!"
+    },
+    {
+      "id": 636,
+      "en": "Yeah, I get that...",
+      "pt_br": "Sim, eu percebo isso..."
+    },
+    {
+      "id": 637,
+      "en": "Do your best anyway!",
+      "pt_br": "Faz o teu melhor, de qualquer maneira!"
+    },
+    {
+      "id": 638,
+      "en": "Certainly",
+      "pt_br": "Certamente."
+    },
+    {
+      "id": 639,
+      "en": "I cannot do so at the moment",
+      "pt_br": "Neste momento, não posso fazê-lo."
+    },
+    {
+      "id": 640,
+      "en": "You got it!",
+      "pt_br": "É para já!"
+    },
+    {
+      "id": 641,
+      "en": "I dunno about that...",
+      "pt_br": "Não sei quanto a isso..."
+    },
+    {
+      "id": 642,
+      "en": "I would be delighted to",
+      "pt_br": "Ficaria encantado em..."
+    },
+    {
+      "id": 643,
+      "en": "I am unable to do so at this time",
+      "pt_br": "Não posso fazê-lo neste momento."
+    },
+    {
+      "id": 644,
+      "en": "I would love to!",
+      "pt_br": "Adoraria!"
+    },
+    {
+      "id": 645,
+      "en": "Perhaps not right this moment",
+      "pt_br": "Talvez não neste momento."
+    },
+    {
+      "id": 646,
+      "en": "Let’s go see everyone!",
+      "pt_br": "Vamos ver todos!"
+    },
+    {
+      "id": 647,
+      "en": "Hold on a sec",
+      "pt_br": "Espera um segundo."
+    },
+    {
+      "id": 648,
+      "en": "Sup, yo?",
+      "pt_br": "E aí, meu?"
+    },
+    {
+      "id": 649,
+      "en": "Lemme hear it, yo",
+      "pt_br": "Deixa-me ouvi-lo, yo"
+    },
+    {
+      "id": 650,
+      "en": "Sounds fun!",
+      "pt_br": "Parece divertido!"
+    },
+    {
+      "id": 651,
+      "en": "Let’s try it, yo!",
+      "pt_br": "Vamos tentar, yo!"
+    },
+    {
+      "id": 652,
+      "en": "“Those humans”? What humans?",
+      "pt_br": "\"Aqueles humanos\"? Que humanos?"
+    },
+    {
+      "id": 653,
+      "en": "What do you know about them?",
+      "pt_br": "O que sabe sobre eles?"
+    },
+    {
+      "id": 654,
+      "en": "Let me make it up to you",
+      "pt_br": "Deixa-me compensar-te."
+    },
+    {
+      "id": 655,
+      "en": "I can build you a new one",
+      "pt_br": "Posso construir-te um novo."
+    },
+    {
+      "id": 656,
+      "en": "Wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 657,
+      "en": "It’s pretty great, huh?",
+      "pt_br": "É muito bom, não é?"
+    },
+    {
+      "id": 658,
+      "en": "Wanna live here?",
+      "pt_br": "quer viver aqui?"
+    },
+    {
+      "id": 659,
+      "en": "It’s great, right?",
+      "pt_br": "É ótimo, não é?"
+    },
+    {
+      "id": 660,
+      "en": "You sure can!",
+      "pt_br": "Claro que pode!"
+    },
+    {
+      "id": 661,
+      "en": "Wait, not that one...",
+      "pt_br": "Espera, esse não..."
+    },
+    {
+      "id": 662,
+      "en": "Of course!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 663,
+      "en": "Uh, never mind...",
+      "pt_br": "Esquece..."
+    },
+    {
+      "id": 664,
+      "en": "Really? Why not?",
+      "pt_br": "Porque não?"
+    },
+    {
+      "id": 665,
+      "en": "What should I do, then?",
+      "pt_br": "O que devo fazer, então?"
+    },
+    {
+      "id": 666,
+      "en": "Wooo! What’s a celebrate?",
+      "pt_br": "Wooo! O que é uma celebração?"
+    },
+    {
+      "id": 667,
+      "en": "How do we celebrate?",
+      "pt_br": "Como celebramos?"
+    },
+    {
+      "id": 668,
+      "en": "I bet it was!",
+      "pt_br": "Aposto que sim!"
+    },
+    {
+      "id": 669,
+      "en": "I knew that!",
+      "pt_br": "Eu sabia!"
+    },
+    {
+      "id": 670,
+      "en": "Bet I could!",
+      "pt_br": "Aposto que sim!"
+    },
+    {
+      "id": 671,
+      "en": "Good idea!",
+      "pt_br": "Boa ideia!"
+    },
+    {
+      "id": 672,
+      "en": "I’ll make you one!",
+      "pt_br": "Vou fazer um para você!"
+    },
+    {
+      "id": 673,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 674,
+      "en": "Huh? What special soup?",
+      "pt_br": "Que sopa especial?"
+    },
+    {
+      "id": 675,
+      "en": "Special soup sounds tasty!",
+      "pt_br": "Sopa especial parece saborosa!"
+    },
+    {
+      "id": 676,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 677,
+      "en": "I can make you one!",
+      "pt_br": "Posso fazer-te um!"
+    },
+    {
+      "id": 678,
+      "en": "I think we just need a hint!",
+      "pt_br": "Acho que só precisamos de uma dica!"
+    },
+    {
+      "id": 679,
+      "en": "Anybody we could ask?",
+      "pt_br": "Alguém que possamos perguntar?"
+    },
+    {
+      "id": 680,
+      "en": "Look at this picture!",
+      "pt_br": "Olha para esta fotografia!"
+    },
+    {
+      "id": 681,
+      "en": "What’s this berry?",
+      "pt_br": "O que é esta baga?"
+    },
+    {
+      "id": 682,
+      "en": "OK!",
+      "pt_br": "Está bem!"
+    },
+    {
+      "id": 683,
+      "en": "Um, I don’t wanna...",
+      "pt_br": "Eu não quero..."
+    },
+    {
+      "id": 684,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 685,
+      "en": "No way!",
+      "pt_br": "Nem pensar!"
+    },
+    {
+      "id": 686,
+      "en": "Sure!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 687,
+      "en": "Uh, not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 688,
+      "en": "Here ya go!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 689,
+      "en": "All mine!",
+      "pt_br": "Toda minha!"
+    },
+    {
+      "id": 690,
+      "en": "Uh...yeah! Sure!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 691,
+      "en": "U-um, maybe not right now...",
+      "pt_br": "Talvez agora não..."
+    },
+    {
+      "id": 692,
+      "en": "Sure, yo!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 693,
+      "en": "Nahhh",
+      "pt_br": "Nahhh"
+    },
+    {
+      "id": 694,
+      "en": "Sure thing, pal",
+      "pt_br": "Claro, amigo."
+    },
+    {
+      "id": 695,
+      "en": "No way, pal",
+      "pt_br": "Nem pensar, amigo."
+    },
+    {
+      "id": 696,
+      "en": "Yeah, sure",
+      "pt_br": "Sim, claro."
+    },
+    {
+      "id": 697,
+      "en": "I dunno about that...",
+      "pt_br": "Não sei quanto a isso..."
+    },
+    {
+      "id": 698,
+      "en": "Yeahhh! Sure!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 699,
+      "en": "Nah! Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 700,
+      "en": "Um, I’ll share...",
+      "pt_br": "Hum, eu vou compartilhar..."
+    },
+    {
+      "id": 701,
+      "en": "M-maybe some other time...",
+      "pt_br": "Talvez noutra altura..."
+    },
+    {
+      "id": 702,
+      "en": "I wouldn’t mind!",
+      "pt_br": "Eu não me importaria!"
+    },
+    {
+      "id": 703,
+      "en": "I dunno ’bout that",
+      "pt_br": "Não sei sobre isso."
+    },
+    {
+      "id": 704,
+      "en": "I would love to",
+      "pt_br": "Eu adoraria."
+    },
+    {
+      "id": 705,
+      "en": "Perhaps not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 706,
+      "en": "Suuure",
+      "pt_br": "Suuure"
+    },
+    {
+      "id": 707,
+      "en": "I dunno...",
+      "pt_br": "Não sei..."
+    },
+    {
+      "id": 708,
+      "en": "I’d love to share!",
+      "pt_br": "Eu adoraria compartilhar!"
+    },
+    {
+      "id": 709,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 710,
+      "en": "I wouldn’t mind!",
+      "pt_br": "Eu não me importaria!"
+    },
+    {
+      "id": 711,
+      "en": "I can’t at the moment",
+      "pt_br": "Não posso no momento"
+    },
+    {
+      "id": 712,
+      "en": "Yeah! Sure thing!",
+      "pt_br": "Sim, claro!"
+    },
+    {
+      "id": 713,
+      "en": "Not right now, bud",
+      "pt_br": "Agora não, amigo."
+    },
+    {
+      "id": 714,
+      "en": "I will share",
+      "pt_br": "Eu vou partilhar"
+    },
+    {
+      "id": 715,
+      "en": "I will not share",
+      "pt_br": "Não vou partilhar."
+    },
+    {
+      "id": 716,
+      "en": "I’d love to share!",
+      "pt_br": "Eu adoraria compartilhar!"
+    },
+    {
+      "id": 717,
+      "en": "I can’t right now",
+      "pt_br": "Eu não posso agora"
+    },
+    {
+      "id": 718,
+      "en": "I’d love to",
+      "pt_br": "Eu adoraria"
+    },
+    {
+      "id": 719,
+      "en": "I cannot",
+      "pt_br": "Não posso."
+    },
+    {
+      "id": 720,
+      "en": "Let’s do it!",
+      "pt_br": "Vamos fazê-lo!"
+    },
+    {
+      "id": 721,
+      "en": "I’m kinda busy...",
+      "pt_br": "Estou meio ocupado..."
+    },
+    {
+      "id": 722,
+      "en": "OK, but I’m gonna win!",
+      "pt_br": "OK, mas eu vou ganhar!"
+    },
+    {
+      "id": 723,
+      "en": "I’m kinda busy...",
+      "pt_br": "Estou meio ocupado..."
+    },
+    {
+      "id": 724,
+      "en": "OK!",
+      "pt_br": "Está bem!"
+    },
+    {
+      "id": 725,
+      "en": "I’m kinda busy...",
+      "pt_br": "Estou meio ocupado..."
+    },
+    {
+      "id": 726,
+      "en": "Sounds fun!",
+      "pt_br": "Parece divertido!"
+    },
+    {
+      "id": 727,
+      "en": "I’m kinda busy...",
+      "pt_br": "Estou meio ocupado..."
+    },
+    {
+      "id": 728,
+      "en": "Uhhh... Yeah I do!",
+      "pt_br": "Sim, eu sei!"
+    },
+    {
+      "id": 729,
+      "en": "Ummm, I’m kinda busy...",
+      "pt_br": "Ummm, eu estou um pouco ocupado..."
+    },
+    {
+      "id": 730,
+      "en": "Let’s do it, yo!",
+      "pt_br": "Vamos a isso!"
+    },
+    {
+      "id": 731,
+      "en": "I’m kinda busy, yo...",
+      "pt_br": "Estou um pouco ocupado, yo..."
+    },
+    {
+      "id": 732,
+      "en": "Ha! Let’s do it!",
+      "pt_br": "Ha! Vamos fazê-lo!"
+    },
+    {
+      "id": 733,
+      "en": "Kinda busy right now, pal...",
+      "pt_br": "Estou um pouco ocupado, amigo..."
+    },
+    {
+      "id": 734,
+      "en": "I’d love to",
+      "pt_br": "Eu adoraria"
+    },
+    {
+      "id": 735,
+      "en": "Maybe some other time...",
+      "pt_br": "Talvez noutra altura..."
+    },
+    {
+      "id": 736,
+      "en": "YEAH! Let’s play!",
+      "pt_br": "Sim! Vamos jogar!"
+    },
+    {
+      "id": 737,
+      "en": "I’m kinda busy right now!",
+      "pt_br": "Estou meio ocupado agora!"
+    },
+    {
+      "id": 738,
+      "en": "Um... Yeah, sure",
+      "pt_br": "Sim, claro."
+    },
+    {
+      "id": 739,
+      "en": "I’m kinda busy...",
+      "pt_br": "Estou meio ocupado..."
+    },
+    {
+      "id": 740,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 741,
+      "en": "I’m kinda busy...",
+      "pt_br": "Estou meio ocupado..."
+    },
+    {
+      "id": 742,
+      "en": "I would gladly challenge you",
+      "pt_br": "Eu o desafiaria de bom grado"
+    },
+    {
+      "id": 743,
+      "en": "I am quite busy at the moment...",
+      "pt_br": "Estou bastante ocupado neste momento..."
+    },
+    {
+      "id": 744,
+      "en": "Let’s do iiit...",
+      "pt_br": "Vamos fazer iiit..."
+    },
+    {
+      "id": 745,
+      "en": "I’m kinda busyyy...",
+      "pt_br": "Eu sou um pouco ocupado..."
+    },
+    {
+      "id": 746,
+      "en": "Yes, let’s play!",
+      "pt_br": "Sim, vamos jogar!"
+    },
+    {
+      "id": 747,
+      "en": "I’m a little busy...",
+      "pt_br": "Estou um pouco ocupado..."
+    },
+    {
+      "id": 748,
+      "en": "Oh, I’d love to play!",
+      "pt_br": "Oh, eu adoraria jogar!"
+    },
+    {
+      "id": 749,
+      "en": "I’m busy at the moment",
+      "pt_br": "Estou ocupado no momento"
+    },
+    {
+      "id": 750,
+      "en": "Yeah! You’re on!",
+      "pt_br": "Sim! Você está dentro!"
+    },
+    {
+      "id": 751,
+      "en": "I’m kinda busy...",
+      "pt_br": "Estou meio ocupado..."
+    },
+    {
+      "id": 752,
+      "en": "I will play with you",
+      "pt_br": "Vou brincar com você."
+    },
+    {
+      "id": 753,
+      "en": "I am currently busy",
+      "pt_br": "Estou atualmente ocupado."
+    },
+    {
+      "id": 754,
+      "en": "Yeah! Take me there!",
+      "pt_br": "Leva-me lá!"
+    },
+    {
+      "id": 755,
+      "en": "Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 756,
+      "en": "Yeah! Let’s go!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 757,
+      "en": "Not right now!",
+      "pt_br": "Agora não!"
+    },
+    {
+      "id": 758,
+      "en": "Take me to them!",
+      "pt_br": "Leva-me até eles!"
+    },
+    {
+      "id": 759,
+      "en": "Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 760,
+      "en": "Zap us on over!",
+      "pt_br": "Apanhem-nos!"
+    },
+    {
+      "id": 761,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 762,
+      "en": "Uh, yeah... Let’s go!",
+      "pt_br": "Sim... vamos!"
+    },
+    {
+      "id": 763,
+      "en": "Ummm... Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 764,
+      "en": "Yooo! Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 765,
+      "en": "Nah, yo...",
+      "pt_br": "Não, tu..."
+    },
+    {
+      "id": 766,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 767,
+      "en": "Not right now, pal",
+      "pt_br": "Agora não, amigo."
+    },
+    {
+      "id": 768,
+      "en": "Sure, take me there",
+      "pt_br": "Claro, leva-me lá."
+    },
+    {
+      "id": 769,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 770,
+      "en": "Yeah! Let’s GO!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 771,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 772,
+      "en": "Yeah, that’d be nice...",
+      "pt_br": "Sim, isso seria bom..."
+    },
+    {
+      "id": 773,
+      "en": "Um... Maybe later",
+      "pt_br": "Talvez mais tarde."
+    },
+    {
+      "id": 774,
+      "en": "Yeah! Let’s go!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 775,
+      "en": "Nah, maybe not",
+      "pt_br": "Não, talvez não"
+    },
+    {
+      "id": 776,
+      "en": "Take me to meet them",
+      "pt_br": "Leve-me para conhecê-los."
+    },
+    {
+      "id": 777,
+      "en": "Perhaps not right now",
+      "pt_br": "Talvez não agora."
+    },
+    {
+      "id": 778,
+      "en": "Yeah, let’s gooo",
+      "pt_br": "Sim, vamos lá"
+    },
+    {
+      "id": 779,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 780,
+      "en": "I would love that!",
+      "pt_br": "Eu adoraria!"
+    },
+    {
+      "id": 781,
+      "en": "Not right this moment",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 782,
+      "en": "Yes, I would love that!",
+      "pt_br": "Sim, eu adoraria isso!"
+    },
+    {
+      "id": 783,
+      "en": "Maybe some other time",
+      "pt_br": "Talvez noutra altura."
+    },
+    {
+      "id": 784,
+      "en": "Let’s do it, bud!",
+      "pt_br": "Vamos fazer isso, amigo!"
+    },
+    {
+      "id": 785,
+      "en": "Maybe later...",
+      "pt_br": "Talvez mais tarde..."
+    },
+    {
+      "id": 786,
+      "en": "I will do this",
+      "pt_br": "Eu vou fazer isto."
+    },
+    {
+      "id": 787,
+      "en": "Not at this time",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 788,
+      "en": "Yeah! Take me there!",
+      "pt_br": "Leva-me lá!"
+    },
+    {
+      "id": 789,
+      "en": "Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 790,
+      "en": "Yeah! Let’s go!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 791,
+      "en": "Not right now!",
+      "pt_br": "Agora não!"
+    },
+    {
+      "id": 792,
+      "en": "Take me to them!",
+      "pt_br": "Leva-me até eles!"
+    },
+    {
+      "id": 793,
+      "en": "Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 794,
+      "en": "Zap us on over!",
+      "pt_br": "Apanhem-nos!"
+    },
+    {
+      "id": 795,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 796,
+      "en": "Uh, yeah... Let’s go!",
+      "pt_br": "Sim... vamos!"
+    },
+    {
+      "id": 797,
+      "en": "Ummm... Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 798,
+      "en": "Yooo! Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 799,
+      "en": "Nah, yo...",
+      "pt_br": "Não, tu..."
+    },
+    {
+      "id": 800,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 801,
+      "en": "Not right now, pal",
+      "pt_br": "Agora não, amigo."
+    },
+    {
+      "id": 802,
+      "en": "Sure, take me there",
+      "pt_br": "Claro, leva-me lá."
+    },
+    {
+      "id": 803,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 804,
+      "en": "Yeah! Let’s GO!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 805,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 806,
+      "en": "Yeah, that’d be nice...",
+      "pt_br": "Sim, isso seria bom..."
+    },
+    {
+      "id": 807,
+      "en": "Um... Maybe later",
+      "pt_br": "Talvez mais tarde."
+    },
+    {
+      "id": 808,
+      "en": "Yeah! Let’s go!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 809,
+      "en": "Nah, maybe not",
+      "pt_br": "Não, talvez não"
+    },
+    {
+      "id": 810,
+      "en": "Take me to meet them",
+      "pt_br": "Leve-me para conhecê-los."
+    },
+    {
+      "id": 811,
+      "en": "Perhaps not right now",
+      "pt_br": "Talvez não agora."
+    },
+    {
+      "id": 812,
+      "en": "Yeah, let’s gooo",
+      "pt_br": "Sim, vamos lá"
+    },
+    {
+      "id": 813,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 814,
+      "en": "I would love that!",
+      "pt_br": "Eu adoraria!"
+    },
+    {
+      "id": 815,
+      "en": "Not right this moment",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 816,
+      "en": "Yes, I would love that!",
+      "pt_br": "Sim, eu adoraria isso!"
+    },
+    {
+      "id": 817,
+      "en": "Maybe some other time",
+      "pt_br": "Talvez noutra altura."
+    },
+    {
+      "id": 818,
+      "en": "Let’s do it, bud!",
+      "pt_br": "Vamos fazer isso, amigo!"
+    },
+    {
+      "id": 819,
+      "en": "Maybe later...",
+      "pt_br": "Talvez mais tarde..."
+    },
+    {
+      "id": 820,
+      "en": "I will do this",
+      "pt_br": "Eu vou fazer isto."
+    },
+    {
+      "id": 821,
+      "en": "Not at this time",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 822,
+      "en": "Yeah! Let’s give it a go!",
+      "pt_br": "Sim! Vamos tentar!"
+    },
+    {
+      "id": 823,
+      "en": "Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 824,
+      "en": "Yeah! Let’s go!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 825,
+      "en": "Not right now!",
+      "pt_br": "Agora não!"
+    },
+    {
+      "id": 826,
+      "en": "Take me there!",
+      "pt_br": "Leva-me lá!"
+    },
+    {
+      "id": 827,
+      "en": "Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 828,
+      "en": "Yeah! Let’s teleport!",
+      "pt_br": "Sim! Vamos nos teletransportar!"
+    },
+    {
+      "id": 829,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 830,
+      "en": "Uh, yeah... Let’s go!",
+      "pt_br": "Sim... vamos!"
+    },
+    {
+      "id": 831,
+      "en": "Ummm... Maybe not",
+      "pt_br": "Talvez não."
+    },
+    {
+      "id": 832,
+      "en": "Yooo! Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 833,
+      "en": "Nah, yo...",
+      "pt_br": "Não, tu..."
+    },
+    {
+      "id": 834,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 835,
+      "en": "Not right now, pal",
+      "pt_br": "Agora não, amigo."
+    },
+    {
+      "id": 836,
+      "en": "Sure, take me there",
+      "pt_br": "Claro, leva-me lá."
+    },
+    {
+      "id": 837,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 838,
+      "en": "Yeah! Let’s GO!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 839,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 840,
+      "en": "Yeah, that’d be nice...",
+      "pt_br": "Sim, isso seria bom..."
+    },
+    {
+      "id": 841,
+      "en": "Um... Maybe later",
+      "pt_br": "Talvez mais tarde."
+    },
+    {
+      "id": 842,
+      "en": "Yeah! Let’s go!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 843,
+      "en": "Nah, maybe not",
+      "pt_br": "Não, talvez não"
+    },
+    {
+      "id": 844,
+      "en": "That would do nicely",
+      "pt_br": "Isso seria bom."
+    },
+    {
+      "id": 845,
+      "en": "Perhaps not right now",
+      "pt_br": "Talvez não agora."
+    },
+    {
+      "id": 846,
+      "en": "Yeah, let’s gooo",
+      "pt_br": "Sim, vamos lá"
+    },
+    {
+      "id": 847,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 848,
+      "en": "I would love that!",
+      "pt_br": "Eu adoraria!"
+    },
+    {
+      "id": 849,
+      "en": "Not right this moment",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 850,
+      "en": "Yes, I would love that!",
+      "pt_br": "Sim, eu adoraria isso!"
+    },
+    {
+      "id": 851,
+      "en": "Maybe some other time",
+      "pt_br": "Talvez noutra altura."
+    },
+    {
+      "id": 852,
+      "en": "Let’s do it, bud!",
+      "pt_br": "Vamos fazer isso, amigo!"
+    },
+    {
+      "id": 853,
+      "en": "Maybe later...",
+      "pt_br": "Talvez mais tarde..."
+    },
+    {
+      "id": 854,
+      "en": "I will do this",
+      "pt_br": "Eu vou fazer isto."
+    },
+    {
+      "id": 855,
+      "en": "Not at this time",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 856,
+      "en": "Sure am!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 857,
+      "en": "Nope!",
+      "pt_br": "Não!"
+    },
+    {
+      "id": 858,
+      "en": "Yeah",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 859,
+      "en": "Nah",
+      "pt_br": "Não."
+    },
+    {
+      "id": 860,
+      "en": "Sure am",
+      "pt_br": "Claro que sou."
+    },
+    {
+      "id": 861,
+      "en": "Yep! I sure am!",
+      "pt_br": "Sim, claro que estou!"
+    },
+    {
+      "id": 862,
+      "en": "Nope",
+      "pt_br": "Não."
+    },
+    {
+      "id": 863,
+      "en": "Yeah, uh...I totally am!",
+      "pt_br": "Sim, estou mesmo!"
+    },
+    {
+      "id": 864,
+      "en": "Um...nope!",
+      "pt_br": "Não!"
+    },
+    {
+      "id": 865,
+      "en": "Yo, I totally am",
+      "pt_br": "Estou mesmo."
+    },
+    {
+      "id": 866,
+      "en": "No, I’m not",
+      "pt_br": "Não, eu não sou"
+    },
+    {
+      "id": 867,
+      "en": "Sure am",
+      "pt_br": "Claro que sou."
+    },
+    {
+      "id": 868,
+      "en": "Nah, pal",
+      "pt_br": "Não, amigo."
+    },
+    {
+      "id": 869,
+      "en": "Yeah",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 870,
+      "en": "Yep, yep! Sure am!",
+      "pt_br": "Sim, sim, claro que estou!"
+    },
+    {
+      "id": 871,
+      "en": "Nope!",
+      "pt_br": "Não!"
+    },
+    {
+      "id": 872,
+      "en": "Um... Yeah, I am",
+      "pt_br": "Sim, estou."
+    },
+    {
+      "id": 873,
+      "en": "No...",
+      "pt_br": "Não..."
+    },
+    {
+      "id": 874,
+      "en": "Sure am",
+      "pt_br": "Claro que sou."
+    },
+    {
+      "id": 875,
+      "en": "Nah, I’m not",
+      "pt_br": "Não, eu não sou"
+    },
+    {
+      "id": 876,
+      "en": "Yes, you are correct",
+      "pt_br": "Sim, tem razão."
+    },
+    {
+      "id": 877,
+      "en": "No, you are mistaken",
+      "pt_br": "Não, você está enganado."
+    },
+    {
+      "id": 878,
+      "en": "I suuure am",
+      "pt_br": "Eu suuure am"
+    },
+    {
+      "id": 879,
+      "en": "Nahhh...",
+      "pt_br": "Nahhh..."
+    },
+    {
+      "id": 880,
+      "en": "I am indeed!",
+      "pt_br": "Estou mesmo!"
+    },
+    {
+      "id": 881,
+      "en": "No, I’m not",
+      "pt_br": "Não, eu não sou"
+    },
+    {
+      "id": 882,
+      "en": "I sure am!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 883,
+      "en": "No, I’m not",
+      "pt_br": "Não, eu não sou"
+    },
+    {
+      "id": 884,
+      "en": "I actually am!",
+      "pt_br": "Na verdade, estou!"
+    },
+    {
+      "id": 885,
+      "en": "Nah, I’m not",
+      "pt_br": "Não, eu não sou"
+    },
+    {
+      "id": 886,
+      "en": "That is correct",
+      "pt_br": "Está correcto."
+    },
+    {
+      "id": 887,
+      "en": "No, I am not",
+      "pt_br": "Não, não estou."
+    },
+    {
+      "id": 888,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 889,
+      "en": "You should stay here",
+      "pt_br": "Devias ficar aqui."
+    },
+    {
+      "id": 890,
+      "en": "Yeah! C’mon!",
+      "pt_br": "Sim! Vamos lá!"
+    },
+    {
+      "id": 891,
+      "en": "You should stay here",
+      "pt_br": "Devias ficar aqui."
+    },
+    {
+      "id": 892,
+      "en": "Come with me!",
+      "pt_br": "Vem comigo!"
+    },
+    {
+      "id": 893,
+      "en": "Stay here",
+      "pt_br": "Fica aqui."
+    },
+    {
+      "id": 894,
+      "en": "You can come too!",
+      "pt_br": "Tu também pode vir!"
+    },
+    {
+      "id": 895,
+      "en": "You should stay here!",
+      "pt_br": "Devias ficar aqui!"
+    },
+    {
+      "id": 896,
+      "en": "OK... Let’s go together!",
+      "pt_br": "OK... Vamos juntos!"
+    },
+    {
+      "id": 897,
+      "en": "Ummm... Maybe stay here",
+      "pt_br": "Talvez ficar aqui."
+    },
+    {
+      "id": 898,
+      "en": "Yeah! Let’s go!",
+      "pt_br": "Sim! Vamos!"
+    },
+    {
+      "id": 899,
+      "en": "I need you to stay here, yo",
+      "pt_br": "Preciso que fiques aqui."
+    },
+    {
+      "id": 900,
+      "en": "OK! Let’s go!",
+      "pt_br": "OK! Vamos!"
+    },
+    {
+      "id": 901,
+      "en": "Need you to stay here, pal",
+      "pt_br": "Preciso que fiques aqui, amigo."
+    },
+    {
+      "id": 902,
+      "en": "You can come with me",
+      "pt_br": "pode vir comigo."
+    },
+    {
+      "id": 903,
+      "en": "You should stay here",
+      "pt_br": "Devias ficar aqui."
+    },
+    {
+      "id": 904,
+      "en": "Let’s go TOGETHER!",
+      "pt_br": "Vamos juntos!"
+    },
+    {
+      "id": 905,
+      "en": "Stay here, please!",
+      "pt_br": "Fica aqui, por favor!"
+    },
+    {
+      "id": 906,
+      "en": "Ummm, yeah, let’s go...",
+      "pt_br": "Ummm, sim, vamos..."
+    },
+    {
+      "id": 907,
+      "en": "M-maybe you should stay here?",
+      "pt_br": "Talvez devesses ficar aqui?"
+    },
+    {
+      "id": 908,
+      "en": "I don’t mind one bit",
+      "pt_br": "Eu não me importo um pouco"
+    },
+    {
+      "id": 909,
+      "en": "You should stay here",
+      "pt_br": "Devias ficar aqui."
+    },
+    {
+      "id": 910,
+      "en": "You are welcome to come",
+      "pt_br": "Você é bem-vindo para vir"
+    },
+    {
+      "id": 911,
+      "en": "Please stay here for now",
+      "pt_br": "Por favor, fique aqui por enquanto."
+    },
+    {
+      "id": 912,
+      "en": "Let’s go togeeether",
+      "pt_br": "Vamos togeether"
+    },
+    {
+      "id": 913,
+      "en": "Please stay here...",
+      "pt_br": "Por favor, fica aqui..."
+    },
+    {
+      "id": 914,
+      "en": "Yes, we can go together",
+      "pt_br": "Sim, podemos ir juntos."
+    },
+    {
+      "id": 915,
+      "en": "Please remain here for now",
+      "pt_br": "Por favor, fique aqui por enquanto."
+    },
+    {
+      "id": 916,
+      "en": "I’d love your company!",
+      "pt_br": "Eu adoraria sua companhia!"
+    },
+    {
+      "id": 917,
+      "en": "Please stay here",
+      "pt_br": "Por favor, fique aqui."
+    },
+    {
+      "id": 918,
+      "en": "Sure am! Let’s go together!",
+      "pt_br": "Claro que sou! Vamos juntos!"
+    },
+    {
+      "id": 919,
+      "en": "Could ya stay here this time?",
+      "pt_br": "pode ficar aqui desta vez?"
+    },
+    {
+      "id": 920,
+      "en": "You may come as well",
+      "pt_br": "Você pode vir também."
+    },
+    {
+      "id": 921,
+      "en": "You must stay here",
+      "pt_br": "tem de ficar aqui."
+    },
+    {
+      "id": 922,
+      "en": "Yeah! Take me there!",
+      "pt_br": "Leva-me lá!"
+    },
+    {
+      "id": 923,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 924,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 925,
+      "en": "Maybe some other time!",
+      "pt_br": "Talvez noutra altura!"
+    },
+    {
+      "id": 926,
+      "en": "Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 927,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 928,
+      "en": "Yeah! Let’s zoom on over!",
+      "pt_br": "Sim! Vamos ampliar o zoom!"
+    },
+    {
+      "id": 929,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 930,
+      "en": "Um... Oh, yeah! Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 931,
+      "en": "Maybe...not right now...",
+      "pt_br": "Talvez... agora não..."
+    },
+    {
+      "id": 932,
+      "en": "Yooo! Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 933,
+      "en": "Not right now, yo",
+      "pt_br": "Agora não, meu."
+    },
+    {
+      "id": 934,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 935,
+      "en": "Maybe some other time, pal",
+      "pt_br": "Talvez noutra altura, amigo."
+    },
+    {
+      "id": 936,
+      "en": "Yeah, take me there",
+      "pt_br": "Sim, leva-me lá."
+    },
+    {
+      "id": 937,
+      "en": "No, that’s OK",
+      "pt_br": "Não, tudo bem."
+    },
+    {
+      "id": 938,
+      "en": "YEAH! Take me away!",
+      "pt_br": "Leva-me daqui!"
+    },
+    {
+      "id": 939,
+      "en": "Not right now!",
+      "pt_br": "Agora não!"
+    },
+    {
+      "id": 940,
+      "en": "Um, yeah... Take me with you...",
+      "pt_br": "Leva-me com você."
+    },
+    {
+      "id": 941,
+      "en": "Um... No... That’s OK",
+      "pt_br": "Não... está tudo bem."
+    },
+    {
+      "id": 942,
+      "en": "Yeah! Let’s fly!",
+      "pt_br": "Sim! Vamos voar!"
+    },
+    {
+      "id": 943,
+      "en": "Nah, maybe not",
+      "pt_br": "Não, talvez não"
+    },
+    {
+      "id": 944,
+      "en": "Take me to meet them",
+      "pt_br": "Leve-me para conhecê-los."
+    },
+    {
+      "id": 945,
+      "en": "Perhaps not right now",
+      "pt_br": "Talvez não agora."
+    },
+    {
+      "id": 946,
+      "en": "Yeah, let’s gooo",
+      "pt_br": "Sim, vamos lá"
+    },
+    {
+      "id": 947,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 948,
+      "en": "I would love that!",
+      "pt_br": "Eu adoraria!"
+    },
+    {
+      "id": 949,
+      "en": "Not right this moment",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 950,
+      "en": "Yes, I would love that!",
+      "pt_br": "Sim, eu adoraria isso!"
+    },
+    {
+      "id": 951,
+      "en": "Maybe some other time",
+      "pt_br": "Talvez noutra altura."
+    },
+    {
+      "id": 952,
+      "en": "Let’s do it, bud!",
+      "pt_br": "Vamos fazer isso, amigo!"
+    },
+    {
+      "id": 953,
+      "en": "Maybe later...",
+      "pt_br": "Talvez mais tarde..."
+    },
+    {
+      "id": 954,
+      "en": "I will do this",
+      "pt_br": "Eu vou fazer isto."
+    },
+    {
+      "id": 955,
+      "en": "Not at this time",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 956,
+      "en": "Yeah! Bring me there!",
+      "pt_br": "Tragam-me lá!"
+    },
+    {
+      "id": 957,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 958,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 959,
+      "en": "Maybe some other time!",
+      "pt_br": "Talvez noutra altura!"
+    },
+    {
+      "id": 960,
+      "en": "Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 961,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 962,
+      "en": "Yeah! Let’s zoom on over!",
+      "pt_br": "Sim! Vamos ampliar o zoom!"
+    },
+    {
+      "id": 963,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 964,
+      "en": "Um... Oh, yeah! Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 965,
+      "en": "Maybe...not right now...",
+      "pt_br": "Talvez... agora não..."
+    },
+    {
+      "id": 966,
+      "en": "Yooo! Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 967,
+      "en": "Not right now, yo",
+      "pt_br": "Agora não, meu."
+    },
+    {
+      "id": 968,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 969,
+      "en": "Maybe some other time, pal",
+      "pt_br": "Talvez noutra altura, amigo."
+    },
+    {
+      "id": 970,
+      "en": "Yeah, take me there",
+      "pt_br": "Sim, leva-me lá."
+    },
+    {
+      "id": 971,
+      "en": "No, that’s OK",
+      "pt_br": "Não, tudo bem."
+    },
+    {
+      "id": 972,
+      "en": "YEAH! Take me away!",
+      "pt_br": "Leva-me daqui!"
+    },
+    {
+      "id": 973,
+      "en": "Not right now!",
+      "pt_br": "Agora não!"
+    },
+    {
+      "id": 974,
+      "en": "Um, yeah... Take me with you...",
+      "pt_br": "Leva-me com você."
+    },
+    {
+      "id": 975,
+      "en": "Um... No... That’s OK",
+      "pt_br": "Não... está tudo bem."
+    },
+    {
+      "id": 976,
+      "en": "Yeah! Let’s fly!",
+      "pt_br": "Sim! Vamos voar!"
+    },
+    {
+      "id": 977,
+      "en": "Nah, maybe not",
+      "pt_br": "Não, talvez não"
+    },
+    {
+      "id": 978,
+      "en": "Take me to meet them",
+      "pt_br": "Leve-me para conhecê-los."
+    },
+    {
+      "id": 979,
+      "en": "Perhaps not right now",
+      "pt_br": "Talvez não agora."
+    },
+    {
+      "id": 980,
+      "en": "Yeah, let’s gooo",
+      "pt_br": "Sim, vamos lá"
+    },
+    {
+      "id": 981,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 982,
+      "en": "I would love that!",
+      "pt_br": "Eu adoraria!"
+    },
+    {
+      "id": 983,
+      "en": "Not right this moment",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 984,
+      "en": "Yes, I would love that!",
+      "pt_br": "Sim, eu adoraria isso!"
+    },
+    {
+      "id": 985,
+      "en": "Maybe some other time",
+      "pt_br": "Talvez noutra altura."
+    },
+    {
+      "id": 986,
+      "en": "Let’s do it, bud!",
+      "pt_br": "Vamos fazer isso, amigo!"
+    },
+    {
+      "id": 987,
+      "en": "Maybe later...",
+      "pt_br": "Talvez mais tarde..."
+    },
+    {
+      "id": 988,
+      "en": "I will do this",
+      "pt_br": "Eu vou fazer isto."
+    },
+    {
+      "id": 989,
+      "en": "Not at this time",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 990,
+      "en": "Yeah! Let’s head over together!",
+      "pt_br": "Sim! Vamos juntos para lá!"
+    },
+    {
+      "id": 991,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 992,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 993,
+      "en": "Maybe some other time!",
+      "pt_br": "Talvez noutra altura!"
+    },
+    {
+      "id": 994,
+      "en": "Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 995,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 996,
+      "en": "Yeah! Let’s fly on over!",
+      "pt_br": "Sim! Vamos voar sobre!"
+    },
+    {
+      "id": 997,
+      "en": "Maybe later!",
+      "pt_br": "Talvez mais tarde!"
+    },
+    {
+      "id": 998,
+      "en": "Um... Oh, yeah! Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 999,
+      "en": "Maybe...not right now...",
+      "pt_br": "Talvez... agora não..."
+    },
+    {
+      "id": 1000,
+      "en": "Yooo! Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 1001,
+      "en": "Not right now, yo",
+      "pt_br": "Agora não, meu."
+    },
+    {
+      "id": 1002,
+      "en": "Yeah! Let’s go together!",
+      "pt_br": "Sim! Vamos juntos!"
+    },
+    {
+      "id": 1003,
+      "en": "Maybe some other time, pal",
+      "pt_br": "Talvez noutra altura, amigo."
+    },
+    {
+      "id": 1004,
+      "en": "Yeah, take me there",
+      "pt_br": "Sim, leva-me lá."
+    },
+    {
+      "id": 1005,
+      "en": "No, that’s OK",
+      "pt_br": "Não, tudo bem."
+    },
+    {
+      "id": 1006,
+      "en": "YEAH! Take me away!",
+      "pt_br": "Leva-me daqui!"
+    },
+    {
+      "id": 1007,
+      "en": "Not right now!",
+      "pt_br": "Agora não!"
+    },
+    {
+      "id": 1008,
+      "en": "Um, yeah... Take me with you...",
+      "pt_br": "Leva-me com você."
+    },
+    {
+      "id": 1009,
+      "en": "Um... No... That’s OK",
+      "pt_br": "Não... está tudo bem."
+    },
+    {
+      "id": 1010,
+      "en": "Yeah! Let’s fly!",
+      "pt_br": "Sim! Vamos voar!"
+    },
+    {
+      "id": 1011,
+      "en": "Nah, maybe not",
+      "pt_br": "Não, talvez não"
+    },
+    {
+      "id": 1012,
+      "en": "That would do nicely",
+      "pt_br": "Isso seria bom."
+    },
+    {
+      "id": 1013,
+      "en": "Perhaps not right now",
+      "pt_br": "Talvez não agora."
+    },
+    {
+      "id": 1014,
+      "en": "Yeah, let’s gooo",
+      "pt_br": "Sim, vamos lá"
+    },
+    {
+      "id": 1015,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1016,
+      "en": "I would love that!",
+      "pt_br": "Eu adoraria!"
+    },
+    {
+      "id": 1017,
+      "en": "Not right this moment",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 1018,
+      "en": "Yes, I would love that!",
+      "pt_br": "Sim, eu adoraria isso!"
+    },
+    {
+      "id": 1019,
+      "en": "Maybe some other time",
+      "pt_br": "Talvez noutra altura."
+    },
+    {
+      "id": 1020,
+      "en": "Let’s do it, bud!",
+      "pt_br": "Vamos fazer isso, amigo!"
+    },
+    {
+      "id": 1021,
+      "en": "Maybe later...",
+      "pt_br": "Talvez mais tarde..."
+    },
+    {
+      "id": 1022,
+      "en": "I will do this",
+      "pt_br": "Eu vou fazer isto."
+    },
+    {
+      "id": 1023,
+      "en": "Not at this time",
+      "pt_br": "Não neste momento."
+    },
+    {
+      "id": 1024,
+      "en": "You bet it is!",
+      "pt_br": "pode crer que sim!"
+    },
+    {
+      "id": 1025,
+      "en": "Oh, not that one",
+      "pt_br": "Oh, esse não."
+    },
+    {
+      "id": 1026,
+      "en": "Yeah, it is!",
+      "pt_br": "Sim, é!"
+    },
+    {
+      "id": 1027,
+      "en": "Wait, not that one",
+      "pt_br": "Espera, não é esse."
+    },
+    {
+      "id": 1028,
+      "en": "YEAH it is!",
+      "pt_br": "Sim, é!"
+    },
+    {
+      "id": 1029,
+      "en": "OH! Wait...",
+      "pt_br": "Espera..."
+    },
+    {
+      "id": 1030,
+      "en": "Sure is! Yaaaaaay",
+      "pt_br": "Claro que é!"
+    },
+    {
+      "id": 1031,
+      "en": "Ummm... Not that one",
+      "pt_br": "Não é esse."
+    },
+    {
+      "id": 1032,
+      "en": "Sure is, yo!",
+      "pt_br": "Claro que é!"
+    },
+    {
+      "id": 1033,
+      "en": "Whoops! Not that one, yo",
+      "pt_br": "Esse não, meu."
+    },
+    {
+      "id": 1034,
+      "en": "Sure is, pal!",
+      "pt_br": "Claro que é, amigo!"
+    },
+    {
+      "id": 1035,
+      "en": "Wait, no...",
+      "pt_br": "Espera, não..."
+    },
+    {
+      "id": 1036,
+      "en": "You bet it is",
+      "pt_br": "Pode apostar que é."
+    },
+    {
+      "id": 1037,
+      "en": "Maybe not...",
+      "pt_br": "Talvez não..."
+    },
+    {
+      "id": 1038,
+      "en": "YEP! Sure is!",
+      "pt_br": "Sim, claro que é!"
+    },
+    {
+      "id": 1039,
+      "en": "OOPS! Wait...",
+      "pt_br": "Espera..."
+    },
+    {
+      "id": 1040,
+      "en": "Yeah...it is!",
+      "pt_br": "Sim... é!"
+    },
+    {
+      "id": 1041,
+      "en": "Um... Wait, no...",
+      "pt_br": "Espera, não..."
+    },
+    {
+      "id": 1042,
+      "en": "Sure will!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 1043,
+      "en": "Err, not that one",
+      "pt_br": "Err, não esse."
+    },
+    {
+      "id": 1044,
+      "en": "Indeed. It is all yours",
+      "pt_br": "Sim, é todo teu."
+    },
+    {
+      "id": 1045,
+      "en": "I may have made a mistake...",
+      "pt_br": "Posso ter cometido um erro..."
+    },
+    {
+      "id": 1046,
+      "en": "Yeahhh",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 1047,
+      "en": "Oh. Nooo, not that one...",
+      "pt_br": "Não, esse não..."
+    },
+    {
+      "id": 1048,
+      "en": "Yes, it will indeed",
+      "pt_br": "Sim, de fato."
+    },
+    {
+      "id": 1049,
+      "en": "Ah. Just a moment...",
+      "pt_br": "Só um momento..."
+    },
+    {
+      "id": 1050,
+      "en": "Why, yes! Yes it is!",
+      "pt_br": "Sim, é sim!"
+    },
+    {
+      "id": 1051,
+      "en": "Not that one, I’m afraid",
+      "pt_br": "Não é esse, receio."
+    },
+    {
+      "id": 1052,
+      "en": "Sure will!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 1053,
+      "en": "Oops! Not that one!",
+      "pt_br": "Esse não!"
+    },
+    {
+      "id": 1054,
+      "en": "It is",
+      "pt_br": "É, sim."
+    },
+    {
+      "id": 1055,
+      "en": "It is not. Not that one",
+      "pt_br": "Não é esse."
+    },
+    {
+      "id": 1056,
+      "en": "You sure can!",
+      "pt_br": "Claro que pode!"
+    },
+    {
+      "id": 1057,
+      "en": "Oh, not that one",
+      "pt_br": "Oh, esse não."
+    },
+    {
+      "id": 1058,
+      "en": "Yeah! Go ahead!",
+      "pt_br": "Vai em frente!"
+    },
+    {
+      "id": 1059,
+      "en": "Uh, I’m not so sure",
+      "pt_br": "Uh, Eu não tenho tanta certeza"
+    },
+    {
+      "id": 1060,
+      "en": "YEAH you can!",
+      "pt_br": "Sim, pode!"
+    },
+    {
+      "id": 1061,
+      "en": "OH! Wait...",
+      "pt_br": "Espera..."
+    },
+    {
+      "id": 1062,
+      "en": "Sure can! Yayyy!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 1063,
+      "en": "Ummm... Not that one...",
+      "pt_br": "Esse não..."
+    },
+    {
+      "id": 1064,
+      "en": "You sure can, yo!",
+      "pt_br": "pode, sim!"
+    },
+    {
+      "id": 1065,
+      "en": "Whoops! Not that one, yo!",
+      "pt_br": "Esse não, meu!"
+    },
+    {
+      "id": 1066,
+      "en": "You sure can, pal!",
+      "pt_br": "Claro que pode, amigo!"
+    },
+    {
+      "id": 1067,
+      "en": "Wait, not that one...",
+      "pt_br": "Espera, esse não..."
+    },
+    {
+      "id": 1068,
+      "en": "You bet I’m sure",
+      "pt_br": "Pode apostar que tenho certeza"
+    },
+    {
+      "id": 1069,
+      "en": "Oh, just joking...",
+      "pt_br": "Estava a brincar..."
+    },
+    {
+      "id": 1070,
+      "en": "I’m SUPER sure!",
+      "pt_br": "Estou super certo!"
+    },
+    {
+      "id": 1071,
+      "en": "Oops! Not there...",
+      "pt_br": "Aí não..."
+    },
+    {
+      "id": 1072,
+      "en": "Yeah... You can!",
+      "pt_br": "Sim... pode!"
+    },
+    {
+      "id": 1073,
+      "en": "Um... Wait, no...",
+      "pt_br": "Espera, não..."
+    },
+    {
+      "id": 1074,
+      "en": "It sure is!",
+      "pt_br": "É mesmo!"
+    },
+    {
+      "id": 1075,
+      "en": "Er, not that one",
+      "pt_br": "Não é esse."
+    },
+    {
+      "id": 1076,
+      "en": "Indeed. It is all yours...",
+      "pt_br": "É todo teu..."
+    },
+    {
+      "id": 1077,
+      "en": "I may have made a mistake...",
+      "pt_br": "Posso ter cometido um erro..."
+    },
+    {
+      "id": 1078,
+      "en": "Yeah. You toootally can...",
+      "pt_br": "Sim, tu pode..."
+    },
+    {
+      "id": 1079,
+      "en": "Oh. Nooo, not that one...",
+      "pt_br": "Não, esse não..."
+    },
+    {
+      "id": 1080,
+      "en": "Yes, I am quite sure",
+      "pt_br": "Sim, tenho a certeza."
+    },
+    {
+      "id": 1081,
+      "en": "Ah. Just a moment...",
+      "pt_br": "Só um momento..."
+    },
+    {
+      "id": 1082,
+      "en": "I don’t mind at all!",
+      "pt_br": "Não me importo nada!"
+    },
+    {
+      "id": 1083,
+      "en": "I’m afraid I actually DO",
+      "pt_br": "Eu tenho medo que eu realmente fazer"
+    },
+    {
+      "id": 1084,
+      "en": "I’m sure, bud!",
+      "pt_br": "Tenho certeza, amigo!"
+    },
+    {
+      "id": 1085,
+      "en": "Oops! Not that one!",
+      "pt_br": "Esse não!"
+    },
+    {
+      "id": 1086,
+      "en": "It is OK",
+      "pt_br": "Está tudo bem."
+    },
+    {
+      "id": 1087,
+      "en": "Not there",
+      "pt_br": "Não está aí."
+    },
+    {
+      "id": 1088,
+      "en": "I suuure do",
+      "pt_br": "Eu suuure do"
+    },
+    {
+      "id": 1089,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 1090,
+      "en": "I sure do!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 1091,
+      "en": "Not right now",
+      "pt_br": "Agora não."
+    },
+    {
+      "id": 1092,
+      "en": "I wanna go to a <$cdef(27)>Dream Island</color>",
+      "pt_br": "Eu quero ir a um <$cdef(27)>Ilha dos Sonhos</color>"
+    },
+    {
+      "id": 1093,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 1094,
+      "en": "I wanna go to a <$cdef(27)>Dream Island</color>",
+      "pt_br": "Eu quero ir a um <$cdef(27)>Ilha dos Sonhos</color>"
+    },
+    {
+      "id": 1095,
+      "en": "Never mind",
+      "pt_br": "Esquece."
+    },
+    {
+      "id": 1096,
+      "en": "Yes!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 1097,
+      "en": "I’m looking for someone",
+      "pt_br": "Eu estou procurando alguém"
+    },
+    {
+      "id": 1098,
+      "en": "...spending so much time with everyone!",
+      "pt_br": "...passar tanto tempo com todos!"
+    },
+    {
+      "id": 1099,
+      "en": "...playing with them ’til the day is done!",
+      "pt_br": "...jogar com eles até o dia acabar!"
+    },
+    {
+      "id": 1100,
+      "en": "Any of what?",
+      "pt_br": "- Qualquer coisa do quê?"
+    },
+    {
+      "id": 1101,
+      "en": "What’re you looking for?",
+      "pt_br": "O que você está procurando?"
+    },
+    {
+      "id": 1102,
+      "en": "What treasure?",
+      "pt_br": "Que tesouro?"
+    },
+    {
+      "id": 1103,
+      "en": "What happened?",
+      "pt_br": "O que aconteceu?"
+    },
+    {
+      "id": 1104,
+      "en": "Huh? Apples?",
+      "pt_br": "Maçãs?"
+    },
+    {
+      "id": 1105,
+      "en": "You won’t find any here...",
+      "pt_br": "Você não vai encontrar nenhum aqui..."
+    },
+    {
+      "id": 1106,
+      "en": "What’s the matter?",
+      "pt_br": "Qual é o problema?"
+    },
+    {
+      "id": 1107,
+      "en": "You want...apples?",
+      "pt_br": "quer... maçã?"
+    },
+    {
+      "id": 1108,
+      "en": "Time to close up shop!",
+      "pt_br": "Hora de fechar a loja!"
+    },
+    {
+      "id": 1109,
+      "en": "Time to close up shop!",
+      "pt_br": "Hora de fechar a loja!"
+    },
+    {
+      "id": 1110,
+      "en": "Time to close up shop!",
+      "pt_br": "Hora de fechar a loja!"
+    },
+    {
+      "id": 1111,
+      "en": "Time to close up shop!",
+      "pt_br": "Hora de fechar a loja!"
+    },
+    {
+      "id": 1112,
+      "en": "Time to close up shop!",
+      "pt_br": "Hora de fechar a loja!"
+    },
+    {
+      "id": 1113,
+      "en": "Time to close up shop!",
+      "pt_br": "Hora de fechar a loja!"
+    },
+    {
+      "id": 1114,
+      "en": "Yep! Go for it!",
+      "pt_br": "Vai em frente!"
+    },
+    {
+      "id": 1115,
+      "en": "Wait, don’t close up",
+      "pt_br": "Espere, não feche"
+    },
+    {
+      "id": 1116,
+      "en": "Go for it!",
+      "pt_br": "Vai em frente!"
+    },
+    {
+      "id": 1117,
+      "en": "Uh, hold on...",
+      "pt_br": "Espera..."
+    },
+    {
+      "id": 1118,
+      "en": "Yes, it is A-OK",
+      "pt_br": "Sim, é A-OK"
+    },
+    {
+      "id": 1119,
+      "en": "No, keep trading",
+      "pt_br": "Não, continua a negociar."
+    },
+    {
+      "id": 1120,
+      "en": "Yes, I am sure",
+      "pt_br": "Sim, tenho a certeza."
+    },
+    {
+      "id": 1121,
+      "en": "No, keep trading",
+      "pt_br": "Não, continua a negociar."
+    },
+    {
+      "id": 1122,
+      "en": "Yeah! Go for it!",
+      "pt_br": "Vai em frente!"
+    },
+    {
+      "id": 1123,
+      "en": "Actually, keep trading",
+      "pt_br": "Na verdade, continua a negociar."
+    },
+    {
+      "id": 1124,
+      "en": "Yeah! Go for it!",
+      "pt_br": "Vai em frente!"
+    },
+    {
+      "id": 1125,
+      "en": "Actually, keep trading",
+      "pt_br": "Na verdade, continua a negociar."
+    },
+    {
+      "id": 1126,
+      "en": "Yep, that’s right!",
+      "pt_br": "Sim, isso mesmo!"
+    },
+    {
+      "id": 1127,
+      "en": "Actually, keep trading",
+      "pt_br": "Na verdade, continua a negociar."
+    },
+    {
+      "id": 1128,
+      "en": "Yep, I’m sure!",
+      "pt_br": "Sim, tenho certeza!"
+    },
+    {
+      "id": 1129,
+      "en": "In that case, keep trading!",
+      "pt_br": "Nesse caso, continue a negociar!"
+    },
+    {
+      "id": 1130,
+      "en": "Yeah, go for it",
+      "pt_br": "Sim, vai em frente."
+    },
+    {
+      "id": 1131,
+      "en": "Actually, never mind",
+      "pt_br": "Na verdade, esquece."
+    },
+    {
+      "id": 1132,
+      "en": "Yeah, I’m sure",
+      "pt_br": "Sim, tenho certeza"
+    },
+    {
+      "id": 1133,
+      "en": "Actually, never mind",
+      "pt_br": "Na verdade, esquece."
+    },
+    {
+      "id": 1134,
+      "en": "Yeah, I’m sure!",
+      "pt_br": "Sim, tenho certeza!"
+    },
+    {
+      "id": 1135,
+      "en": "Wait, never mind!",
+      "pt_br": "Espera, esquece!"
+    },
+    {
+      "id": 1136,
+      "en": "Yep, I’m sure!",
+      "pt_br": "Sim, tenho certeza!"
+    },
+    {
+      "id": 1137,
+      "en": "Wait, never mind!",
+      "pt_br": "Espera, esquece!"
+    },
+    {
+      "id": 1138,
+      "en": "I thought I heard some noises",
+      "pt_br": "Pensei ter ouvido uns barulhos."
+    },
+    {
+      "id": 1139,
+      "en": "I’m not a human, yo",
+      "pt_br": "Eu não sou um humano, yo"
+    },
+    {
+      "id": 1140,
+      "en": "Huh? What special soup?",
+      "pt_br": "Que sopa especial?"
+    },
+    {
+      "id": 1141,
+      "en": "Special soup sounds tasty!",
+      "pt_br": "Sopa especial parece saborosa!"
+    },
+    {
+      "id": 1142,
+      "en": "Follow me!",
+      "pt_br": "Sigam-me!"
+    },
+    {
+      "id": 1143,
+      "en": "Maybe later",
+      "pt_br": "Talvez mais tarde."
+    },
+    {
+      "id": 1144,
+      "en": "You were amazing!",
+      "pt_br": "Foste incrível!"
+    },
+    {
+      "id": 1145,
+      "en": "Uh... I guess? Maybe?",
+      "pt_br": "Talvez?"
+    },
+    {
+      "id": 1146,
+      "en": "Nope! I feel just fine!",
+      "pt_br": "Não, sinto-me muito bem!"
+    },
+    {
+      "id": 1147,
+      "en": "Round ’n’ round ’n’ round...",
+      "pt_br": "Round 'n' round 'n' round..."
+    },
+    {
+      "id": 1148,
+      "en": "Totally copying you",
+      "pt_br": "Estou a copiar-te."
+    },
+    {
+      "id": 1149,
+      "en": "Nah, I don’t think so",
+      "pt_br": "Nah, Eu não acho que sim"
+    },
+    {
+      "id": 1150,
+      "en": "I like your optimism",
+      "pt_br": "Gosto do teu optimismo."
+    },
+    {
+      "id": 1151,
+      "en": "I dunno if that’s right...",
+      "pt_br": "Não sei se isso é certo..."
+    },
+    {
+      "id": 1152,
+      "en": "Calm down a little",
+      "pt_br": "Acalma-te um pouco."
+    },
+    {
+      "id": 1153,
+      "en": "Yshhh! Rrr crn trrrl!",
+      "pt_br": "Não, não, não, não."
+    },
+    {
+      "id": 1154,
+      "en": "You’re both super cool",
+      "pt_br": "Você é ambos super legal"
+    },
+    {
+      "id": 1155,
+      "en": "Let’s all calm down first...",
+      "pt_br": "Vamos todos nos acalmar primeiro..."
+    },
+    {
+      "id": 1156,
+      "en": "Maybe sludge...",
+      "pt_br": "Talvez lama..."
+    },
+    {
+      "id": 1157,
+      "en": "Gotta be garbage!",
+      "pt_br": "Deve ser lixo!"
+    },
+    {
+      "id": 1158,
+      "en": "Oh, uh, I dunno...",
+      "pt_br": "Não sei..."
+    },
+    {
+      "id": 1159,
+      "en": "Manes, I guess",
+      "pt_br": "Manes, acho eu."
+    },
+    {
+      "id": 1160,
+      "en": "Clearly crests",
+      "pt_br": "Claramente cristas"
+    },
+    {
+      "id": 1161,
+      "en": "A starry sky",
+      "pt_br": "Um céu estrelado"
+    },
+    {
+      "id": 1162,
+      "en": "A blue sky",
+      "pt_br": "Um céu azul"
+    },
+    {
+      "id": 1163,
+      "en": "Ahhh, scary!",
+      "pt_br": "Ahhh, assustador!"
+    },
+    {
+      "id": 1164,
+      "en": "Awww, cute!",
+      "pt_br": "Awww, fofinho!"
+    },
+    {
+      "id": 1165,
+      "en": "Uh, I wasn’t watching...",
+      "pt_br": "Eu não estava a ver..."
+    },
+    {
+      "id": 1166,
+      "en": "I...don’t know...",
+      "pt_br": "Eu... não sei..."
+    },
+    {
+      "id": 1167,
+      "en": "Sure is!",
+      "pt_br": "Claro que é!"
+    },
+    {
+      "id": 1168,
+      "en": "Just a sec...",
+      "pt_br": "Só um segundo..."
+    },
+    {
+      "id": 1169,
+      "en": "It’s all ready",
+      "pt_br": "Está tudo pronto"
+    },
+    {
+      "id": 1170,
+      "en": "Let’s start over",
+      "pt_br": "Vamos recomeçar"
+    },
+    {
+      "id": 1171,
+      "en": "Just a sec...",
+      "pt_br": "Só um segundo..."
+    },
+    {
+      "id": 1172,
+      "en": "Well...",
+      "pt_br": "Bem..."
+    },
+    {
+      "id": 1173,
+      "en": "Seems kinda difficult...",
+      "pt_br": "Parece um pouco difícil..."
+    },
+    {
+      "id": 1174,
+      "en": "Bet we can!",
+      "pt_br": "Aposto que sim!"
+    },
+    {
+      "id": 1175,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 1176,
+      "en": "We sure did!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 1177,
+      "en": "Is that amazing?",
+      "pt_br": "É incrível?"
+    },
+    {
+      "id": 1178,
+      "en": "What was that about the humans?",
+      "pt_br": "O que foi aquilo sobre os humanos?"
+    },
+    {
+      "id": 1179,
+      "en": "Where’d all the humans go?",
+      "pt_br": "Para onde foram todos os humanos?"
+    },
+    {
+      "id": 1180,
+      "en": "Display anyway",
+      "pt_br": "Mostrar de qualquer forma"
+    },
+    {
+      "id": 1181,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 1182,
+      "en": "What?",
+      "pt_br": "O quê?"
+    },
+    {
+      "id": 1183,
+      "en": "How?",
+      "pt_br": "Como?"
+    },
+    {
+      "id": 1184,
+      "en": "Uh... What?",
+      "pt_br": "O quê?"
+    },
+    {
+      "id": 1185,
+      "en": "Three of them?",
+      "pt_br": "Três deles?"
+    },
+    {
+      "id": 1186,
+      "en": "Whatcha got?",
+      "pt_br": "O que é que tem?"
+    },
+    {
+      "id": 1187,
+      "en": "What’s the plan?",
+      "pt_br": "Qual é o plano?"
+    },
+    {
+      "id": 1188,
+      "en": "I wanna see that...",
+      "pt_br": "Quero ver isso..."
+    },
+    {
+      "id": 1189,
+      "en": "What do we do?",
+      "pt_br": "O que fazemos?"
+    },
+    {
+      "id": 1190,
+      "en": "What is it?",
+      "pt_br": "O que foi?"
+    },
+    {
+      "id": 1191,
+      "en": "Tell me!",
+      "pt_br": "Diz-me!"
+    },
+    {
+      "id": 1192,
+      "en": "Of course you were!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 1193,
+      "en": "You were great!",
+      "pt_br": "Foste fantástico!"
+    },
+    {
+      "id": 1194,
+      "en": "Great idea!",
+      "pt_br": "Grande ideia!"
+    },
+    {
+      "id": 1195,
+      "en": "Let’s give it a go!",
+      "pt_br": "Vamos tentar!"
+    },
+    {
+      "id": 1196,
+      "en": "Change arrangement",
+      "pt_br": "Mudar o arranjo"
+    },
+    {
+      "id": 1197,
+      "en": "A wind-what?",
+      "pt_br": "Um vento o quê?"
+    },
+    {
+      "id": 1198,
+      "en": "How’s it work?",
+      "pt_br": "Como funciona?"
+    },
+    {
+      "id": 1199,
+      "en": "I can give it a go!",
+      "pt_br": "Posso tentar!"
+    },
+    {
+      "id": 1200,
+      "en": "What kind of home?",
+      "pt_br": "Que tipo de casa?"
+    },
+    {
+      "id": 1201,
+      "en": "Seems kinda difficult",
+      "pt_br": "Parece um pouco difícil."
+    },
+    {
+      "id": 1202,
+      "en": "I can’t find anything",
+      "pt_br": "Não consigo encontrar nada"
+    },
+    {
+      "id": 1203,
+      "en": "A bread oven",
+      "pt_br": "Um forno de pão"
+    },
+    {
+      "id": 1204,
+      "en": "Your shell’s secrets",
+      "pt_br": "Os segredos da sua concha"
+    },
+    {
+      "id": 1205,
+      "en": "Yes, we are!",
+      "pt_br": "Sim, estamos!"
+    },
+    {
+      "id": 1206,
+      "en": "Oh, you are too?",
+      "pt_br": "Oh, tu também?"
+    },
+    {
+      "id": 1207,
+      "en": "Yeah! You bet I am!",
+      "pt_br": "pode crer que sim!"
+    },
+    {
+      "id": 1208,
+      "en": "Let’s do it together!",
+      "pt_br": "Vamos fazer isso juntos!"
+    },
+    {
+      "id": 1209,
+      "en": "I wanna make a frying pan",
+      "pt_br": "Quero fazer uma frigideira."
+    },
+    {
+      "id": 1210,
+      "en": "I need help making something",
+      "pt_br": "Preciso de ajuda para fazer algo."
+    },
+    {
+      "id": 1211,
+      "en": "Good idea!",
+      "pt_br": "Boa ideia!"
+    },
+    {
+      "id": 1212,
+      "en": "I’ll bring some over!",
+      "pt_br": "Vou trazer um pouco!"
+    },
+    {
+      "id": 1213,
+      "en": "Whaaat?! ME?",
+      "pt_br": "O que é que eu faço?"
+    },
+    {
+      "id": 1214,
+      "en": "What should I make?",
+      "pt_br": "O que devo fazer?"
+    },
+    {
+      "id": 1215,
+      "en": "The mood’s 100!",
+      "pt_br": "O humor é 100!"
+    },
+    {
+      "id": 1216,
+      "en": "What’s the dish?",
+      "pt_br": "Qual é o prato?"
+    },
+    {
+      "id": 1217,
+      "en": "Where are the humans?",
+      "pt_br": "Onde estão os humanos?"
+    },
+    {
+      "id": 1218,
+      "en": "What happened here?",
+      "pt_br": "O que aconteceu aqui?"
+    },
+    {
+      "id": 1219,
+      "en": "You think so?",
+      "pt_br": "Achas?"
+    },
+    {
+      "id": 1220,
+      "en": "Really?",
+      "pt_br": "A sério?"
+    },
+    {
+      "id": 1221,
+      "en": "I guess so",
+      "pt_br": "Acho que sim."
+    },
+    {
+      "id": 1222,
+      "en": "I dunno...",
+      "pt_br": "Não sei..."
+    },
+    {
+      "id": 1223,
+      "en": "I can’t fly...",
+      "pt_br": "Eu não posso voar..."
+    },
+    {
+      "id": 1224,
+      "en": "I wanna learn!",
+      "pt_br": "Quero aprender!"
+    },
+    {
+      "id": 1225,
+      "en": "You got it!",
+      "pt_br": "É para já!"
+    },
+    {
+      "id": 1226,
+      "en": "OK!",
+      "pt_br": "Está bem!"
+    },
+    {
+      "id": 1227,
+      "en": "Hmmm. I dunno...",
+      "pt_br": "Não sei..."
+    },
+    {
+      "id": 1228,
+      "en": "That seems kinda hard...",
+      "pt_br": "Isso parece um bocado difícil..."
+    },
+    {
+      "id": 1229,
+      "en": "Gliding?",
+      "pt_br": "Deslizando?"
+    },
+    {
+      "id": 1230,
+      "en": "What’s that mean?",
+      "pt_br": "O que significa isso?"
+    },
+    {
+      "id": 1231,
+      "en": "I’m makin’ a town...",
+      "pt_br": "Estou fazendo uma cidade..."
+    },
+    {
+      "id": 1232,
+      "en": "Are you OK?",
+      "pt_br": "está bem?"
+    },
+    {
+      "id": 1233,
+      "en": "Sure thing",
+      "pt_br": "Claro."
+    },
+    {
+      "id": 1234,
+      "en": "What do you need?",
+      "pt_br": "Do que precisas?"
+    },
+    {
+      "id": 1235,
+      "en": "That big building",
+      "pt_br": "Aquele edifício grande."
+    },
+    {
+      "id": 1236,
+      "en": "Tinkmaster’s tower",
+      "pt_br": "Torre do Tinkmaster"
+    },
+    {
+      "id": 1237,
+      "en": "Seriously?",
+      "pt_br": "A sério?"
+    },
+    {
+      "id": 1238,
+      "en": "So confident!",
+      "pt_br": "Tão confiante!"
+    },
+    {
+      "id": 1239,
+      "en": "Whoa! Tell me!",
+      "pt_br": "Diz-me!"
+    },
+    {
+      "id": 1240,
+      "en": "What is it?",
+      "pt_br": "O que foi?"
+    },
+    {
+      "id": 1241,
+      "en": "Suuure!",
+      "pt_br": "Suuure!"
+    },
+    {
+      "id": 1242,
+      "en": "I got you!",
+      "pt_br": "Apanhei-te!"
+    },
+    {
+      "id": 1243,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1244,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1245,
+      "en": "Here ya go!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 1246,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1247,
+      "en": "You can have some",
+      "pt_br": "pode comer um pouco."
+    },
+    {
+      "id": 1248,
+      "en": "But this is mine",
+      "pt_br": "Mas isto é meu."
+    },
+    {
+      "id": 1249,
+      "en": "Cancel",
+      "pt_br": "Cancelar"
+    },
+    {
+      "id": 1250,
+      "en": "<fcap><$pkform;0(lnum1)>",
+      "pt_br": "<fcap><$pkform;0(lnum1)>"
+    },
+    {
+      "id": 1251,
+      "en": "S-sure...",
+      "pt_br": "Claro..."
+    },
+    {
+      "id": 1252,
+      "en": "FIVE?!",
+      "pt_br": "Cinco?"
+    },
+    {
+      "id": 1253,
+      "en": "Maybe they worked here?",
+      "pt_br": "Talvez tenham trabalhado aqui?"
+    },
+    {
+      "id": 1254,
+      "en": "Maybe they played here?",
+      "pt_br": "Talvez tenham jogado aqui?"
+    },
+    {
+      "id": 1255,
+      "en": "I’m kinda hungry...",
+      "pt_br": "Estou com um pouco de fome..."
+    },
+    {
+      "id": 1256,
+      "en": "How are you feeling?",
+      "pt_br": "Como te sentes?"
+    },
+    {
+      "id": 1257,
+      "en": "Make it fancy",
+      "pt_br": "Faz com que seja chique."
+    },
+    {
+      "id": 1258,
+      "en": "Make it shiny",
+      "pt_br": "Torna-o brilhante"
+    },
+    {
+      "id": 1259,
+      "en": "I’ll probably be OK",
+      "pt_br": "Eu provavelmente vou ficar bem"
+    },
+    {
+      "id": 1260,
+      "en": "Maybe not...",
+      "pt_br": "Talvez não..."
+    },
+    {
+      "id": 1261,
+      "en": "I’ll give it a shot",
+      "pt_br": "Vou dar-lhe uma tentativa"
+    },
+    {
+      "id": 1262,
+      "en": "How do I do that?",
+      "pt_br": "Como faço isso?"
+    },
+    {
+      "id": 1263,
+      "en": "Yeah! I see one!",
+      "pt_br": "Estou a ver um!"
+    },
+    {
+      "id": 1264,
+      "en": "It’s red and silver!",
+      "pt_br": "É vermelho e prateado!"
+    },
+    {
+      "id": 1265,
+      "en": "How do we do that?",
+      "pt_br": "Como é que fazemos isso?"
+    },
+    {
+      "id": 1266,
+      "en": "You gotta teach me how",
+      "pt_br": "tem de me ensinar como."
+    },
+    {
+      "id": 1267,
+      "en": "Oh, OK...",
+      "pt_br": "Está bem..."
+    },
+    {
+      "id": 1268,
+      "en": "Darn",
+      "pt_br": "Raios!"
+    },
+    {
+      "id": 1269,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1270,
+      "en": "Let’s go!",
+      "pt_br": "Vamos!"
+    },
+    {
+      "id": 1271,
+      "en": "Uhhh... What?",
+      "pt_br": "O quê?"
+    },
+    {
+      "id": 1272,
+      "en": "What do you mean?",
+      "pt_br": "O que quer dizer?"
+    },
+    {
+      "id": 1273,
+      "en": "What’s that?",
+      "pt_br": "O que é isso?"
+    },
+    {
+      "id": 1274,
+      "en": "Teach me!",
+      "pt_br": "Ensine-me!"
+    },
+    {
+      "id": 1275,
+      "en": "Oh, I do!",
+      "pt_br": "Oh, eu sei!"
+    },
+    {
+      "id": 1276,
+      "en": "Chef Dente!",
+      "pt_br": "Chef Dente!"
+    },
+    {
+      "id": 1277,
+      "en": "I do!",
+      "pt_br": "Eu quero!"
+    },
+    {
+      "id": 1278,
+      "en": "Peakychu!",
+      "pt_br": "Peakychu!"
+    },
+    {
+      "id": 1279,
+      "en": "We sure did!",
+      "pt_br": "Claro que sim!"
+    },
+    {
+      "id": 1280,
+      "en": "Who are you?",
+      "pt_br": "Quem é você?"
+    },
+    {
+      "id": 1281,
+      "en": "What happened to the humans?",
+      "pt_br": "O que aconteceu aos humanos?"
+    },
+    {
+      "id": 1282,
+      "en": "Where did all the humans go?",
+      "pt_br": "Para onde foram todos os humanos?"
+    },
+    {
+      "id": 1283,
+      "en": "They don’t know what happened to the humans",
+      "pt_br": "Eles não sabem o que aconteceu com os humanos"
+    },
+    {
+      "id": 1284,
+      "en": "They mentioned that building on the beach?",
+      "pt_br": "Mencionaram aquele edifício na praia?"
+    },
+    {
+      "id": 1285,
+      "en": "Well, there was that one thing...",
+      "pt_br": "Bem, havia uma coisa..."
+    },
+    {
+      "id": 1286,
+      "en": "Oh. That building on the beach...",
+      "pt_br": "Aquele edifício na praia..."
+    },
+    {
+      "id": 1287,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1288,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1289,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1290,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1291,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1292,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1293,
+      "en": "Here ya go!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 1294,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1295,
+      "en": "Sure! Here ya go!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 1296,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1297,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1298,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1299,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1300,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1301,
+      "en": "Sure! Here ya go!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 1302,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1303,
+      "en": "You sure can!",
+      "pt_br": "Claro que pode!"
+    },
+    {
+      "id": 1304,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1305,
+      "en": "Yes, please!",
+      "pt_br": "Sim, por favor!"
+    },
+    {
+      "id": 1306,
+      "en": "Hold on...",
+      "pt_br": "Espera..."
+    },
+    {
+      "id": 1307,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1308,
+      "en": "Not right now...",
+      "pt_br": "Agora não..."
+    },
+    {
+      "id": 1309,
+      "en": "You can have some",
+      "pt_br": "pode comer um pouco."
+    },
+    {
+      "id": 1310,
+      "en": "I can’t give you any",
+      "pt_br": "Eu não posso dar-lhe nenhum"
+    },
+    {
+      "id": 1311,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1312,
+      "en": "I can’t give you one",
+      "pt_br": "Eu não posso dar-lhe um"
+    },
+    {
+      "id": 1313,
+      "en": "Charmander",
+      "pt_br": "Charmander"
+    },
+    {
+      "id": 1314,
+      "en": "Litwick",
+      "pt_br": "Litwick"
+    },
+    {
+      "id": 1315,
+      "en": "A calm lake",
+      "pt_br": "Um lago calmo"
+    },
+    {
+      "id": 1316,
+      "en": "A rough ocean",
+      "pt_br": "Um oceano áspero"
+    },
+    {
+      "id": 1317,
+      "en": "I made your home a little nicer",
+      "pt_br": "Tornei a tua casa mais agradável."
+    },
+    {
+      "id": 1318,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 1319,
+      "en": "Yes",
+      "pt_br": "Sim."
+    },
+    {
+      "id": 1320,
+      "en": "GameShare",
+      "pt_br": "GameShare"
+    },
+    {
+      "id": 1321,
+      "en": "With nearby players",
+      "pt_br": "Com jogadores próximos"
+    },
+    {
+      "id": 1322,
+      "en": "Via GameChat",
+      "pt_br": "Através do GameChat"
+    },
+    {
+      "id": 1323,
+      "en": "<apfquizpk;0(0)>",
+      "pt_br": "<apfquizpk;0(0)>"
+    },
+    {
+      "id": 1324,
+      "en": "<apfquizpk;0(1)>",
+      "pt_br": "<apfquizpk;0(1)>"
+    },
+    {
+      "id": 1325,
+      "en": "<apfquizpk;0(2)>",
+      "pt_br": "<apfquizpk;0(2)>"
+    },
+    {
+      "id": 1326,
+      "en": "What’s the problem?",
+      "pt_br": "Qual é o problema?"
+    },
+    {
+      "id": 1327,
+      "en": "Something on your mind?",
+      "pt_br": "está a pensar em alguma coisa?"
+    },
+    {
+      "id": 1328,
+      "en": "I’m all ears!",
+      "pt_br": "Sou todo ouvidos!"
+    },
+    {
+      "id": 1329,
+      "en": "What’s up?",
+      "pt_br": "O que foi?"
+    },
+    {
+      "id": 1330,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1331,
+      "en": "Of course!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1332,
+      "en": "What’s wrong?",
+      "pt_br": "O que há de errado?"
+    },
+    {
+      "id": 1333,
+      "en": "Are you OK?",
+      "pt_br": "está bem?"
+    },
+    {
+      "id": 1334,
+      "en": "What’s the problem?",
+      "pt_br": "Qual é o problema?"
+    },
+    {
+      "id": 1335,
+      "en": "What do you mean?",
+      "pt_br": "O que quer dizer?"
+    },
+    {
+      "id": 1336,
+      "en": "Maybe you need a change of scenery!",
+      "pt_br": "Talvez precises de mudar de cenário!"
+    },
+    {
+      "id": 1337,
+      "en": "Wanna go check out some other buildings?",
+      "pt_br": "quer ir ver outros prédios?"
+    },
+    {
+      "id": 1338,
+      "en": "What’s the matter?",
+      "pt_br": "Qual é o problema?"
+    },
+    {
+      "id": 1339,
+      "en": "What’re you making?",
+      "pt_br": "O que você está fazendo?"
+    },
+    {
+      "id": 1340,
+      "en": "Huh? What special soup?",
+      "pt_br": "Que sopa especial?"
+    },
+    {
+      "id": 1341,
+      "en": "Special soup sounds tasty!",
+      "pt_br": "Sopa especial parece saborosa!"
+    },
+    {
+      "id": 1342,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 1343,
+      "en": "I can make you one!",
+      "pt_br": "Posso fazer-te um!"
+    },
+    {
+      "id": 1344,
+      "en": "Oh, I see...",
+      "pt_br": "Estou a ver..."
+    },
+    {
+      "id": 1345,
+      "en": "What memory?",
+      "pt_br": "Que memória?"
+    },
+    {
+      "id": 1346,
+      "en": "Oh, I see...",
+      "pt_br": "Estou a ver..."
+    },
+    {
+      "id": 1347,
+      "en": "What memory?",
+      "pt_br": "Que memória?"
+    },
+    {
+      "id": 1348,
+      "en": "Is a hide-and-sneak contest going on right now?",
+      "pt_br": "Está a decorrer um concurso de esconde-esconde?"
+    },
+    {
+      "id": 1349,
+      "en": "<$cdef(27)><fcap><fqty(2)><$ifull(311)></color>?",
+      "pt_br": "<$cdef(27)><fcap><fqty(2)><$ifull(311)></color>?"
+    },
+    {
+      "id": 1350,
+      "en": "What’s wrong?",
+      "pt_br": "O que há de errado?"
+    },
+    {
+      "id": 1351,
+      "en": "Kick a player",
+      "pt_br": "Chutar um jogador"
+    },
+    {
+      "id": 1352,
+      "en": "Send a report",
+      "pt_br": "Enviar um relatório"
+    },
+    {
+      "id": 1353,
+      "en": "How do I get <$cdef(27)>candy</color>?",
+      "pt_br": "Como é que eu fico? <$cdef(27)>doce</color>?"
+    },
+    {
+      "id": 1354,
+      "en": "Where can I find <$cdef(27)><$iicon(708)>apples</color>?",
+      "pt_br": "Onde posso encontrar <$cdef(27)><$iicon(708)>maçãs</color>?"
+    },
+    {
+      "id": 1355,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color>’s",
+      "pt_br": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color>’s"
+    },
+    {
+      "id": 1356,
+      "en": "Extraordinary?",
+      "pt_br": "Extraordinário?"
+    },
+    {
+      "id": 1357,
+      "en": "Uh, what?",
+      "pt_br": "O quê?"
+    },
+    {
+      "id": 1358,
+      "en": "It actually could happen",
+      "pt_br": "Na verdade, pode acontecer."
+    },
+    {
+      "id": 1359,
+      "en": "I can take you there",
+      "pt_br": "Eu posso levá-lo lá."
+    },
+    {
+      "id": 1360,
+      "en": "Yep, that’s right!",
+      "pt_br": "Sim, isso mesmo!"
+    },
+    {
+      "id": 1361,
+      "en": "Wanna try it out?",
+      "pt_br": "quer experimentar?"
+    },
+    {
+      "id": 1362,
+      "en": "No WAYYY",
+      "pt_br": "Nem pensar."
+    },
+    {
+      "id": 1363,
+      "en": "What were they like?",
+      "pt_br": "Como eram?"
+    },
+    {
+      "id": 1364,
+      "en": "Oh nooo!",
+      "pt_br": "Não!"
+    },
+    {
+      "id": 1365,
+      "en": "Awww...",
+      "pt_br": "Awww..."
+    },
+    {
+      "id": 1366,
+      "en": "No WAYYY",
+      "pt_br": "Nem pensar."
+    },
+    {
+      "id": 1367,
+      "en": "What were they like?",
+      "pt_br": "Como eram?"
+    },
+    {
+      "id": 1368,
+      "en": "So I have this <$cdef(27)><fqty(1)><$ifull(516)></color>...",
+      "pt_br": "Então eu tenho isto <$cdef(27)><fqty(1)><$ifull(516)></color>..."
+    },
+    {
+      "id": 1369,
+      "en": "I have just the thing for that!",
+      "pt_br": "Eu tenho a coisa certa para isso!"
+    },
+    {
+      "id": 1370,
+      "en": "What do you wanna build next?",
+      "pt_br": "O que quer construir a seguir?"
+    },
+    {
+      "id": 1371,
+      "en": "Let’s make something even bigger!",
+      "pt_br": "Vamos fazer algo ainda maior!"
+    },
+    {
+      "id": 1372,
+      "en": "You can help me with something next time!",
+      "pt_br": "pode ajudar-me com algo da próxima vez!"
+    },
+    {
+      "id": 1373,
+      "en": "Let’s make something even bigger together!",
+      "pt_br": "Vamos fazer algo ainda maior juntos!"
+    },
+    {
+      "id": 1374,
+      "en": "The one who’s good with their big claws",
+      "pt_br": "Aquele que é bom com suas garras grandes"
+    },
+    {
+      "id": 1375,
+      "en": "Yeah, sure!",
+      "pt_br": "Sim, claro!"
+    },
+    {
+      "id": 1376,
+      "en": "OK! Let’s play!",
+      "pt_br": "OK! Vamos jogar!"
+    },
+    {
+      "id": 1377,
+      "en": "Guess so",
+      "pt_br": "Acho que sim."
+    },
+    {
+      "id": 1378,
+      "en": "Aw, I lost",
+      "pt_br": "Perdi."
+    },
+    {
+      "id": 1379,
+      "en": "Sure. What do you wanna do?",
+      "pt_br": "O que quer fazer?"
+    },
+    {
+      "id": 1380,
+      "en": "I guess if I have no choice",
+      "pt_br": "Acho que se não tiver escolha"
+    },
+    {
+      "id": 1381,
+      "en": "That’s dangerous!",
+      "pt_br": "Isso é perigoso!"
+    },
+    {
+      "id": 1382,
+      "en": "It needs electricity!",
+      "pt_br": "Precisa de electricidade!"
+    },
+    {
+      "id": 1383,
+      "en": "Let’s put that on hold a sec...",
+      "pt_br": "Vamos colocar isso em espera um segundo..."
+    },
+    {
+      "id": 1384,
+      "en": "What about helping <$cdef(27)><$cname(562)> </color>out?",
+      "pt_br": "Que tal ajudar? <$cdef(27)><$cname(562)> </color>Sair?"
+    },
+    {
+      "id": 1385,
+      "en": "The one with the big mouth",
+      "pt_br": "Aquele com a boca grande"
+    },
+    {
+      "id": 1386,
+      "en": "Mayyybe?",
+      "pt_br": "Mayyybe?"
+    },
+    {
+      "id": 1387,
+      "en": "I don’t think so...",
+      "pt_br": "Eu acho que não..."
+    },
+    {
+      "id": 1388,
+      "en": "Are you OK?",
+      "pt_br": "está bem?"
+    },
+    {
+      "id": 1389,
+      "en": "What happened?",
+      "pt_br": "O que aconteceu?"
+    },
+    {
+      "id": 1390,
+      "en": "I could give you something",
+      "pt_br": "Posso dar-te uma coisa."
+    },
+    {
+      "id": 1391,
+      "en": "Do you want anything specific?",
+      "pt_br": "quer alguma coisa específica?"
+    },
+    {
+      "id": 1392,
+      "en": "Sure thing",
+      "pt_br": "Claro."
+    },
+    {
+      "id": 1393,
+      "en": "I need it, though...",
+      "pt_br": "Mas preciso dele..."
+    },
+    {
+      "id": 1394,
+      "en": "I actually just found it lying around...",
+      "pt_br": "Na verdade, encontrei-o por aí..."
+    },
+    {
+      "id": 1395,
+      "en": "Um, I can’t dive down underwater...",
+      "pt_br": "Não posso mergulhar debaixo d'água..."
+    },
+    {
+      "id": 1396,
+      "en": "It felt nice!",
+      "pt_br": "Senti-me bem!"
+    },
+    {
+      "id": 1397,
+      "en": "It was awesome!",
+      "pt_br": "Foi fantástico!"
+    },
+    {
+      "id": 1398,
+      "en": "Nice to meet you!",
+      "pt_br": "Prazer em conhecê-lo!"
+    },
+    {
+      "id": 1399,
+      "en": "Hello there!",
+      "pt_br": "Olá!"
+    },
+    {
+      "id": 1400,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 1401,
+      "en": "Probably!",
+      "pt_br": "Provavelmente!"
+    },
+    {
+      "id": 1402,
+      "en": "Yeah! It’s a building kit!",
+      "pt_br": "Sim! É um kit de construção!"
+    },
+    {
+      "id": 1403,
+      "en": "It’s for making buildings",
+      "pt_br": "É para fazer edifícios"
+    },
+    {
+      "id": 1404,
+      "en": "That sure is a lot of buddies!",
+      "pt_br": "São mesmo muitos amigos!"
+    },
+    {
+      "id": 1405,
+      "en": "I dunno if I can remember all that!",
+      "pt_br": "Não sei se me consigo lembrar de tudo isso!"
+    },
+    {
+      "id": 1406,
+      "en": "I’m already under the sea",
+      "pt_br": "Já estou debaixo do mar"
+    },
+    {
+      "id": 1407,
+      "en": "Looks like it’s doing OK",
+      "pt_br": "Parece que ele está fazendo OK"
+    },
+    {
+      "id": 1408,
+      "en": "Thanks!",
+      "pt_br": "Obrigado!"
+    },
+    {
+      "id": 1409,
+      "en": "I’ll go find it",
+      "pt_br": "Eu vou encontrá-lo"
+    },
+    {
+      "id": 1410,
+      "en": "Yep, that’s right!",
+      "pt_br": "Sim, isso mesmo!"
+    },
+    {
+      "id": 1411,
+      "en": "They taught me <$cdef(27)>Dive</color>!",
+      "pt_br": "Eles ensinaram-me. <$cdef(27)>Mergulhar</color>!"
+    },
+    {
+      "id": 1412,
+      "en": "Yeah!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 1413,
+      "en": "I agree!",
+      "pt_br": "Concordo!"
+    },
+    {
+      "id": 1414,
+      "en": "What’s the matter?",
+      "pt_br": "Qual é o problema?"
+    },
+    {
+      "id": 1415,
+      "en": "Looking for something?",
+      "pt_br": "Procuras alguma coisa?"
+    },
+    {
+      "id": 1416,
+      "en": "I can go take a look",
+      "pt_br": "Posso ir dar uma vista de olhos."
+    },
+    {
+      "id": 1417,
+      "en": "Where’s the cave?",
+      "pt_br": "Onde é a caverna?"
+    },
+    {
+      "id": 1418,
+      "en": "I found it",
+      "pt_br": "Encontrei-o."
+    },
+    {
+      "id": 1419,
+      "en": "It’s a <$cdef(27)>pearl</color>!",
+      "pt_br": "É um <$cdef(27)>pérola</color>!"
+    },
+    {
+      "id": 1420,
+      "en": "Ask who?",
+      "pt_br": "Perguntar a quem?"
+    },
+    {
+      "id": 1421,
+      "en": "What Pokémon?",
+      "pt_br": "Que Pokémon?"
+    },
+    {
+      "id": 1422,
+      "en": "I’ll talk to Cloyster!",
+      "pt_br": "Vou falar com Cloyster!"
+    },
+    {
+      "id": 1423,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 1424,
+      "en": "It got prettied up!",
+      "pt_br": "Ficou bonito!"
+    },
+    {
+      "id": 1425,
+      "en": "It’s sparkly and shiny!",
+      "pt_br": "É brilhante e brilhante!"
+    },
+    {
+      "id": 1426,
+      "en": "Look at this <$cdef(27)>pearl</color>...",
+      "pt_br": "Olha para isto. <$cdef(27)>pérola</color>..."
+    },
+    {
+      "id": 1427,
+      "en": "See how dirty it is?",
+      "pt_br": "vê como está sujo?"
+    },
+    {
+      "id": 1428,
+      "en": "Really?!",
+      "pt_br": "A sério?"
+    },
+    {
+      "id": 1429,
+      "en": "Thank you!",
+      "pt_br": "Obrigado!"
+    },
+    {
+      "id": 1430,
+      "en": "I have some now!",
+      "pt_br": "Já tenho alguns!"
+    },
+    {
+      "id": 1431,
+      "en": "OK! Maybe later",
+      "pt_br": "Talvez mais tarde."
+    },
+    {
+      "id": 1432,
+      "en": "What do you need?",
+      "pt_br": "Do que precisas?"
+    },
+    {
+      "id": 1433,
+      "en": "Do you need some help?",
+      "pt_br": "Precisas de ajuda?"
+    },
+    {
+      "id": 1434,
+      "en": "What do they need?",
+      "pt_br": "Do que precisam eles?"
+    },
+    {
+      "id": 1435,
+      "en": "Yeah, they might need that",
+      "pt_br": "Sim, eles podem precisar disso."
+    },
+    {
+      "id": 1436,
+      "en": "What do they need?",
+      "pt_br": "Do que precisam eles?"
+    },
+    {
+      "id": 1437,
+      "en": "Yeah, they might need that",
+      "pt_br": "Sim, eles podem precisar disso."
+    },
+    {
+      "id": 1438,
+      "en": "I used bubbles on them!",
+      "pt_br": "Usei bolhas neles!"
+    },
+    {
+      "id": 1439,
+      "en": "They just needed some air!",
+      "pt_br": "Eles só precisavam de ar!"
+    },
+    {
+      "id": 1440,
+      "en": "What’s wrong?",
+      "pt_br": "O que há de errado?"
+    },
+    {
+      "id": 1441,
+      "en": "Go for it",
+      "pt_br": "Vai em frente."
+    },
+    {
+      "id": 1442,
+      "en": "Maybe you just need to cut it?",
+      "pt_br": "Talvez só precises de cortá-la?"
+    },
+    {
+      "id": 1443,
+      "en": "I don’t think the rind is very yummy",
+      "pt_br": "Eu não acho que a casca é muito gostoso"
+    },
+    {
+      "id": 1444,
+      "en": "You sure may",
+      "pt_br": "Claro que pode."
+    },
+    {
+      "id": 1445,
+      "en": "This is mine...",
+      "pt_br": "Isto é meu..."
+    },
+    {
+      "id": 1446,
+      "en": "Tell me about your underwater buddies",
+      "pt_br": "Fala-me dos teus amigos subaquáticos."
+    },
+    {
+      "id": 1447,
+      "en": "The one with the coral horns",
+      "pt_br": "Aquele com os cornos de coral"
+    },
+    {
+      "id": 1448,
+      "en": "The shy, spiky one",
+      "pt_br": "O tímido, espesso"
+    },
+    {
+      "id": 1449,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 1450,
+      "en": "I’ll bust it all up!",
+      "pt_br": "Vou acabar com tudo!"
+    },
+    {
+      "id": 1451,
+      "en": "I don’t feel anything...",
+      "pt_br": "Eu não sinto nada..."
+    },
+    {
+      "id": 1452,
+      "en": "Yeah, it’s kinda mystical",
+      "pt_br": "Sim, é um pouco místico."
+    },
+    {
+      "id": 1453,
+      "en": "Something you love?",
+      "pt_br": "Algo que ames?"
+    },
+    {
+      "id": 1454,
+      "en": "What do you love?",
+      "pt_br": "O que é que tu amas?"
+    },
+    {
+      "id": 1455,
+      "en": "I don’t feel anything...",
+      "pt_br": "Eu não sinto nada..."
+    },
+    {
+      "id": 1456,
+      "en": "Yeah, it’s kinda mystical",
+      "pt_br": "Sim, é um pouco místico."
+    },
+    {
+      "id": 1457,
+      "en": "I got you!",
+      "pt_br": "Apanhei-te!"
+    },
+    {
+      "id": 1458,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1459,
+      "en": "The floaty pink one",
+      "pt_br": "O rosa flutuante"
+    },
+    {
+      "id": 1460,
+      "en": "What’s wrong?",
+      "pt_br": "O que há de errado?"
+    },
+    {
+      "id": 1461,
+      "en": "Are you crying?",
+      "pt_br": "está a chorar?"
+    },
+    {
+      "id": 1462,
+      "en": "I’ll look for it",
+      "pt_br": "Vou procurá-lo."
+    },
+    {
+      "id": 1463,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 1464,
+      "en": "I guess it’s yours, then!",
+      "pt_br": "Eu acho que é seu, então!"
+    },
+    {
+      "id": 1465,
+      "en": "You can have it back!",
+      "pt_br": "pode tê-lo de volta!"
+    },
+    {
+      "id": 1466,
+      "en": "I maybe already found it",
+      "pt_br": "Talvez já o tenha encontrado."
+    },
+    {
+      "id": 1467,
+      "en": "You mean this thing?",
+      "pt_br": "Referes-te a esta coisa?"
+    },
+    {
+      "id": 1468,
+      "en": "I can make you one",
+      "pt_br": "Posso fazer-te um."
+    },
+    {
+      "id": 1469,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 1470,
+      "en": "The one with the charming whiskers",
+      "pt_br": "Aquele com os bigodes encantadores"
+    },
+    {
+      "id": 1471,
+      "en": "Let’s hear it!",
+      "pt_br": "Vamos ouvi - lo!"
+    },
+    {
+      "id": 1472,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1473,
+      "en": "BOO!",
+      "pt_br": "Boo!"
+    },
+    {
+      "id": 1474,
+      "en": "Are you OK?",
+      "pt_br": "está bem?"
+    },
+    {
+      "id": 1475,
+      "en": "What are you two saying?",
+      "pt_br": "O que estão a dizer?"
+    },
+    {
+      "id": 1476,
+      "en": "I don’t understand...",
+      "pt_br": "Eu não entendo..."
+    },
+    {
+      "id": 1477,
+      "en": "So what did they look like?",
+      "pt_br": "Então, como eram?"
+    },
+    {
+      "id": 1478,
+      "en": "Now I wanna know too...",
+      "pt_br": "Agora também quero saber..."
+    },
+    {
+      "id": 1479,
+      "en": "I think that might be enough...",
+      "pt_br": "Acho que pode ser o suficiente..."
+    },
+    {
+      "id": 1480,
+      "en": "I kinda agree with them, I think",
+      "pt_br": "Acho que concordo com eles."
+    },
+    {
+      "id": 1481,
+      "en": "It’s your happy face",
+      "pt_br": "É o seu rosto feliz"
+    },
+    {
+      "id": 1482,
+      "en": "It’s your sad face",
+      "pt_br": "É o seu rosto triste"
+    },
+    {
+      "id": 1483,
+      "en": "Yeah, it IS pretty great!",
+      "pt_br": "Sim, é muito bom!"
+    },
+    {
+      "id": 1484,
+      "en": "Makes me wanna dance too!",
+      "pt_br": "Também me dá vontade de dançar!"
+    },
+    {
+      "id": 1485,
+      "en": "I think I already did it",
+      "pt_br": "Acho que já o fiz."
+    },
+    {
+      "id": 1486,
+      "en": "Does this look good?",
+      "pt_br": "Isto parece-te bem?"
+    },
+    {
+      "id": 1487,
+      "en": "Sure thing",
+      "pt_br": "Claro."
+    },
+    {
+      "id": 1488,
+      "en": "I guess...",
+      "pt_br": "Acho que..."
+    },
+    {
+      "id": 1489,
+      "en": "<$cdef(27)><$cname(562)></color> needs help!",
+      "pt_br": "<$cdef(27)><$cname(562)></color> Precisa de ajuda!"
+    },
+    {
+      "id": 1490,
+      "en": "Let’s <$cdef(27)><$spwname(1)></color> something!",
+      "pt_br": "Vamos <$cdef(27)><$spwname(1)></color> Alguma coisa!"
+    },
+    {
+      "id": 1491,
+      "en": "What’re you wondering about?",
+      "pt_br": "O que você está pensando sobre?"
+    },
+    {
+      "id": 1492,
+      "en": "What’s on your mind?",
+      "pt_br": "O que está em sua mente?"
+    },
+    {
+      "id": 1493,
+      "en": "Someone else",
+      "pt_br": "Outra pessoa."
+    },
+    {
+      "id": 1494,
+      "en": "What buddies?",
+      "pt_br": "Que amigos?"
+    },
+    {
+      "id": 1495,
+      "en": "Who are they?",
+      "pt_br": "Quem são eles?"
+    },
+    {
+      "id": 1496,
+      "en": "Let’s put that on hold a sec...",
+      "pt_br": "Vamos colocar isso em espera um segundo..."
+    },
+    {
+      "id": 1497,
+      "en": "What about helping <$cname(562)> out?",
+      "pt_br": "Que tal ajudar? <$cname(562)> Sair?"
+    },
+    {
+      "id": 1498,
+      "en": "You mean <$cdef(27)>rugs</color>?",
+      "pt_br": "Quer dizer... <$cdef(27)>tapetes</color>?"
+    },
+    {
+      "id": 1499,
+      "en": "Hmmm... I dunno...",
+      "pt_br": "Não sei..."
+    },
+    {
+      "id": 1500,
+      "en": "Hehehe. Yesss, I nailed it",
+      "pt_br": "Sim, sim, eu acertei"
+    },
+    {
+      "id": 1501,
+      "en": "Why’re you interested in <$cdef(27)>rugs</color>?",
+      "pt_br": "Por que você está interessado em <$cdef(27)>tapetes</color>?"
+    },
+    {
+      "id": 1502,
+      "en": "Oh right, <$cdef(27)>rugs</color>! Yeah!",
+      "pt_br": "Oh, certo. <$cdef(27)>tapetes</color>Sim!"
+    },
+    {
+      "id": 1503,
+      "en": "Why’re you interested in <$cdef(27)>rugs</color>?",
+      "pt_br": "Por que você está interessado em <$cdef(27)>tapetes</color>?"
+    },
+    {
+      "id": 1504,
+      "en": "You, I guess...",
+      "pt_br": "Tu, acho eu..."
+    },
+    {
+      "id": 1505,
+      "en": "The <$cdef(27)>rug</color>, obviously",
+      "pt_br": "A <$cdef(27)>tapete</color>, obviamente"
+    },
+    {
+      "id": 1506,
+      "en": "You mean <$cdef(27)>rugs</color>?",
+      "pt_br": "Quer dizer... <$cdef(27)>tapetes</color>?"
+    },
+    {
+      "id": 1507,
+      "en": "Hmmm... I dunno...",
+      "pt_br": "Não sei..."
+    },
+    {
+      "id": 1508,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1509,
+      "en": "It’s mine, though...",
+      "pt_br": "É meu, porém..."
+    },
+    {
+      "id": 1510,
+      "en": "You, I guess...",
+      "pt_br": "Tu, acho eu..."
+    },
+    {
+      "id": 1511,
+      "en": "The <$cdef(27)>rug</color>, obviously",
+      "pt_br": "A <$cdef(27)>tapete</color>, obviamente"
+    },
+    {
+      "id": 1512,
+      "en": "Do you like it?",
+      "pt_br": "Gostas?"
+    },
+    {
+      "id": 1513,
+      "en": "How is it?",
+      "pt_br": "Como está?"
+    },
+    {
+      "id": 1514,
+      "en": "Something you love?",
+      "pt_br": "Algo que ames?"
+    },
+    {
+      "id": 1515,
+      "en": "What do you love?",
+      "pt_br": "O que é que tu amas?"
+    },
+    {
+      "id": 1516,
+      "en": "I think I can make something like that!",
+      "pt_br": "Acho que consigo fazer algo assim!"
+    },
+    {
+      "id": 1517,
+      "en": "I’ll give it a go and see what I can do!",
+      "pt_br": "Vou tentar e ver o que posso fazer!"
+    },
+    {
+      "id": 1518,
+      "en": "Do you like it?",
+      "pt_br": "Gostas?"
+    },
+    {
+      "id": 1519,
+      "en": "How is it?",
+      "pt_br": "Como está?"
+    },
+    {
+      "id": 1520,
+      "en": "Sure is! Here you go!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 1521,
+      "en": "Oh, uh... This one is mine...",
+      "pt_br": "Este é meu..."
+    },
+    {
+      "id": 1522,
+      "en": "What <$cdef(27)>post</color>?",
+      "pt_br": "O quê? <$cdef(27)>post</color>?"
+    },
+    {
+      "id": 1523,
+      "en": "I’m curious too",
+      "pt_br": "Também estou curioso"
+    },
+    {
+      "id": 1524,
+      "en": "That thing lights up?",
+      "pt_br": "Essa coisa acende-se?"
+    },
+    {
+      "id": 1525,
+      "en": "Why do you think that?",
+      "pt_br": "Porque achas isso?"
+    },
+    {
+      "id": 1526,
+      "en": "Yep, I sure did",
+      "pt_br": "- Sim, com certeza."
+    },
+    {
+      "id": 1527,
+      "en": "Yeah, it lit up, huh",
+      "pt_br": "Sim, iluminou-se."
+    },
+    {
+      "id": 1528,
+      "en": "I can get some to come out!",
+      "pt_br": "Posso arranjar um pouco para sair!"
+    },
+    {
+      "id": 1529,
+      "en": "I’ll make some homes",
+      "pt_br": "Vou fazer algumas casas"
+    },
+    {
+      "id": 1530,
+      "en": "What do you mean?",
+      "pt_br": "O que quer dizer?"
+    },
+    {
+      "id": 1531,
+      "en": "Tell me! Tell me!",
+      "pt_br": "Diz-me!"
+    },
+    {
+      "id": 1532,
+      "en": "There are more Pokémon now!",
+      "pt_br": "Há mais Pokémon agora!"
+    },
+    {
+      "id": 1533,
+      "en": "It’s gotten really lively!",
+      "pt_br": "Ficou muito animado!"
+    },
+    {
+      "id": 1534,
+      "en": "The <$cdef(27)>Pokémon Center</color>!",
+      "pt_br": "A <$cdef(27)>Centro Pokémon</color>!"
+    },
+    {
+      "id": 1535,
+      "en": "We fixed up that building!",
+      "pt_br": "Arranjámos aquele edifício!"
+    },
+    {
+      "id": 1536,
+      "en": "Well, we found it, but...",
+      "pt_br": "Bem, encontrámos-o, mas..."
+    },
+    {
+      "id": 1537,
+      "en": "It’s in pretty bad shape!",
+      "pt_br": "Está em muito mau estado!"
+    },
+    {
+      "id": 1538,
+      "en": "I’ll go look for it",
+      "pt_br": "Vou procurá-lo."
+    },
+    {
+      "id": 1539,
+      "en": "Leave it to me!",
+      "pt_br": "Deixa isso comigo!"
+    },
+    {
+      "id": 1540,
+      "en": "Good idea!",
+      "pt_br": "Boa ideia!"
+    },
+    {
+      "id": 1541,
+      "en": "I’ll give it a go!",
+      "pt_br": "Vou dar uma chance!"
+    },
+    {
+      "id": 1542,
+      "en": "Of course!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1543,
+      "en": "Here ya go!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 1544,
+      "en": "Of course!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1545,
+      "en": "Here ya go!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 1546,
+      "en": "Of course!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1547,
+      "en": "Here ya go!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 1548,
+      "en": "Really?!",
+      "pt_br": "A sério?"
+    },
+    {
+      "id": 1549,
+      "en": "Thank you!",
+      "pt_br": "Obrigado!"
+    },
+    {
+      "id": 1550,
+      "en": "Sure thing!",
+      "pt_br": "Claro!"
+    },
+    {
+      "id": 1551,
+      "en": "YEEEAAAH!",
+      "pt_br": "Sim!"
+    },
+    {
+      "id": 1552,
+      "en": "I dunno, sounds really hot...",
+      "pt_br": "Não sei, parece muito quente..."
+    },
+    {
+      "id": 1553,
+      "en": "I don’t think I can do that...",
+      "pt_br": "Eu não acho que eu possa fazer isso..."
+    },
+    {
+      "id": 1554,
+      "en": "Other Pokémon might not like that...",
+      "pt_br": "O outro Pokémon pode não gostar disso..."
+    },
+    {
+      "id": 1555,
+      "en": "That might cause some problems...",
+      "pt_br": "Isso pode causar alguns problemas..."
+    }
+  ]
+}

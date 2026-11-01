@@ -1,0 +1,579 @@
+{
+  "entry_index": 3253,
+  "bin_id": "0x824b00",
+  "decompressed_size": 65536,
+  "first_tag_offset": 3192,
+  "total_strings": 114,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motionoff(1,804)><$voicel(1,10)>Yeeeh! Piacere di conoscerti!<clear><br><$comeff(1,10)><$facial(1,1)><$motion(1,803)><$voicel(1,7)>Questo cespuglio d'erba alta è piccolino, ma ci si sta<br>benissimo!<clear><br><$comeff(1,21)><$facial(1,5)><$motion(1,801)><$voicel(1,9)>Mi piace un sacco vivere in mezzo al verde, con tanti fiori<br>e tante piante!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Senti un po', per caso sai qual è il posto più assolato<br>di questa zona?<clear><br><$voicel(1,3)><$emotion(1,13)>A me piace starmene al sole tutti i giorni, ma non<br>conosco bene i dintorni...<clear><br><$voicel(1,7)><$comeff(1,5)><$motion(1,802)>Ah, che maleducazione! Scusa! È la prima volta che<br>ci incontriamo e ti sto già inondando di chiacchiere!<slide><br><$voicel(1,10)><$comeff(1,9)><$motion(1,801)>Vabbè dai, spero che faremo amicizia!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(1,9)><$emotion(1,14)>Ma guarda un po'! Piacere di fare la tua conoscenza.<br>Per caso sei <gen;-2(stato attirato,stata attirata)> dal profumo del mio fiore?<clear><br>... <wait(0.8)><$voicel(1,3)><$comeff(1,3)>Ah no?<wait(1.0)><br><$emotion(1,1)><$comeff(1,10)><$motion(1,802)>Pardon, temo di essere stata troppo precipitosa.<clear><br><$voicel(1,7)>Ad ogni modo, non credi che questo profumo dolce<br>e delicato mi si addica alla perfezione?<clear><br><$voicel(1,9)><$motion(1,806)><$comeff(1,9)>Se vorrai incontrarmi di nuovo, ti basterà farti guidare<br>dal tuo naso.",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(1,8)><$facial(1,13)><$comeff(1,5)>Ehi!<wait(1.0)> <$comeff(1,10)><$facial(1,4)>Attent<gen;-2(o,a)> alla mia coda!<br><$motion(1,803)>Se la tocchi, rischi di bruciarti!<clear><br><$voicel(1,5)><$emotion(1,3)>Guarda che mi è già capitato. Una volta un mio amico<br>l'ha pestata e se l'è presa con me perché scottava!<clear><br><$voicel(1,9)><$motion(1,807)><$comeff(1,4)>Tra l'altro, mi ha fatto un male che non ti dico!<br>Mi è quasi scappata una fiammata dalla bocca!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(1,9)><$comeff(1,3)>Oh?<wait(0.8)> Abbiamo incrociato gli sguardi!<br>Beh, <$motion(1,802)>allora parte la sfida!<clear><br>...<wait(1.0)><$voicel(1,8)><$comeff(1,6)> 'Spetta un secondo...<wait(0.8)> Tu<$motion(1,805)> sembri un essere umano, <$voicel(1,10)>ma<br>in realtà sei un Pokémon!<clear><br><$voicel(1,5)><$comeff(1,14)>Quindi c'è qualcun altro oltre a me che sa imitare<br>gli esseri umani!<clear><br><$voicel(1,8)><$comeff(1,10)><$motion(1,803)>Beh, allora dobbiamo per forza fare amicizia!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(1,7)><$comeff(1,1)>Ohilà, tu vivi da queste parti, per caso?<br>Non è che conosci qualcuno di forte?<clear><br><$voicel(1,8)><$motion(1,807)>Noi forti ci capiamo al volo, c'è qualcosa di speciale<br>che ci accomuna.<clear><br><$facial(1,4)><$voicel(1,9)><$comeff(1,10)><$motion(1,801)>Mi piacerebbe trovare un Pokémon forte più o meno<br>come me, così potremmo diventare amici.<clear><br><$facial(1,1)><$voicel(1,5)><$motion(1,805)>Solo che tu... non sembri mica tanto forte.<clear><br><$lookat(0,1,1)><waitactor(0)><$motion(0,748)><wait(0.9)><$voicel(1,10)><$motion(1,802)><$comeff(1,5)>Uoh! Hai usato Pistolacqua...?!<br>Allora non sei poi così male!<clear><br><$voicel(1,9)><$facial(1,4)><$comeff(1,9)><$motion(1,801)>Bene, vuol dire che da oggi siamo amici!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motionoff(1,803)><$voicel(1,7)>Uauh, piacere di conoscerti!<br>Benvenut<gen;-2(o,a)> a casa mia!<clear><br><$facial(1,4)><$voicel(1,10)>Cioè, l'ho chiamata casa mia...<br><$comeff(1,13)><$facial(1,5)><$motionoff(1,801)><$voicel(1,9)>ma in realtà abito qui solo da oggi.<clear><br><$comeff(1,1)><$facial(1,1)><$voicel(1,5)>Comunque niente male questo posto, vero?<br>Se mi chiudo nel guscio mentre sono qui dentro...<slide><br><$facial(1,1)><$voicel(1,8)>sono al sicuro come in una botte di ferro.<clear><br><$comeff(1,21)><$facial(1,4)><$motionoff(1,816)><$voicel(1,7)>E poi posso esercitarmi con Pistolacqua finché mi pare!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<$voicel(1,8)><$comeff(1,1)>Salve! Piacere di conoscerti! Ricordati di questa faccia,<br>perché la vedrai spesso in giro!<clear><br><$voicel(1,7)><$motion(1,805)><$comeff(1,6)>Come? Ti stai dando da fare per rendere questo posto<br>un paradiso per i Pokémon?<clear><br>... <wait(0.7)><$voicel(1,6)><$motion(1,803)><$comeff(1,5)>Complimenti! Stima totale!<clear><br><$voicel(1,9)><$motion(1,801)><$comeff(1,21)>Se hai bisogno di una mano, conta pure sul sottoscritto.<br><$voicel(1,10)><$motion(1,806)>Saremo soci per la pelle!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "<$voicel(1,10)><$motion(1,803)><$comeff(1,12)>Oh! Ciao, piccolin<gen;-2(o,a)>. Come sei vivace!<clear><br><$voicel(1,5)><$comeff(1,6)>Perché corri di qua e di là come <gen;-2(uno scalmanato,una scalmanata)>?<clear><br><$voicel(1,7)><$motion(1,805)><$comeff(1,14)>Ah, spargi acqua e fai crescere fiori e piante per rendere<br>questo posto più accogliente per i Pokémon?<clear><br><$facial(1,5)><$voicel(1,9)><$motion(1,801)><$comeff(1,10)>Che brav<gen;-2(o,a)>! Un comportamento esemplare!<br><$facial(1,1)>Vorrei contribuire anch'io in qualche modo...<clear><br><$facial(1,10)><$voicel(1,2)><$motion(1,807)><$comeff(1,18)>Ma se mi mettessi ad annaffiare, spazzerei via tutto quello<br>che hai realizzato finora...<$facial(1,1)><clear><br><$motion(1,802)><$voicel(1,7)><$comeff(1,1)>Ad ogni modo, se c'è qualcosa che posso fare per aiutarti,<br>non esitare a dirmelo. Hai tutto il mio sostegno!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "<$comeff(1,5)><$motionoff(1,807)><$facial(1,13)><$voicel(1,10)>Ah! Un essere umano!<br>Per caso vuoi catturarmi?!<clear><br><$comeff(1,14)><$facial(1,1)>... <wait(1.1)><$voicel(1,8)>Mh?<$comeff(1,6)><$motionoff(1,803)> <wait(1.2)><$voicel(1,9)><$facial(1,4)><$motionoff(1,801)><$comeff(1,21)>Adesso che ti guardo bene...<br>non sei un essere umano, ma un Pokémon.<clear><br><$comeff(1,13)><$voicel(1,7)><$pkcry;1(1,2)>! Ho incontrato un Pokémon che<br>riesce a trasformarsi in un essere umano... <$facial(1,5)><$motionoff(1,804)><$voicel(1,9)>Che storia!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<$motion(1,806)><$voicel(1,3)><$comeff(1,5)>Oh! E tu chi sei? Qui c'ero prima io...<clear><br><$motion(0,824)><$comeff(0,1)><wait(0.9)><$motion(0,652)><wait(0.75)><$motion(1,803)><$voicel(1,8)><$comeff(1,6)>Ma dai?! Sei tu che hai creato questo ambientino?<br><$voicel(1,6)>L'hai fatto per farci vivere i Pokémon, dici?<clear><br><$facial(1,4)><$motion(1,807)><$voicel(1,9)><$comeff(1,21)>Che roba! Rispetto totale, zi<gen;-2(o,a)>! Dico sul serio!<clear><br><$motion(1,801)><$voicel(1,7)><$comeff(1,10)>Allora mi ci stabilisco volentieri pure io. Ci si vede in giro!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "<$motion(1,805)><$comeff(1,14)><$voicel(1,3)>Puff pant.. Anf, che stanchezza, sono tutt'un acciacco...<br>Mi fermo un attimo qui per riposarmi.<$lookat(1,1,0)><waitactor(1)><$comeff(1,5)><wait(1.2)><clear><br><$motion(1,803)><$voicel(1,8)>Oh cielo, non avrai mica sentito quello che ho detto?<br>Che imbarazzo...<clear><br><$motion(1,802)><$voicel(1,5)><$comeff(1,10)>Ho provato ad alzarmi in volo dopo tanto tempo e non<br>ti dico che fatica... Forse è perché ho dormito a lungo.<clear><br><$facial(1,4)><$motion(1,806)><$voicel(1,9)><$comeff(1,21)>Però volare nel cielo azzurro è stupendo!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(1,9)><$motion(1,803)><$comeff(1,10)><$pkcry;0(1,2)>!!!<wait(0.5)><clear><br><$voicel(1,8)><$comeff(1,1)><$motion(1,801)>Eh eh eh! T'ho fatto paura, eh?!<clear><br><$motion(1,805)><$voicel(1,3)>... <wait(0.5)>La tua espressione non è cambiata di una virgola.<br>Non dirmi che non ti sei spaventat<gen;-2(o,a)>?!<clear><br><$motion(1,802)><$comeff(1,14)><$voicel(1,5)>Strano... E io che pensavo di essermi mosso di nascosto.<clear><br><$motion(1,806)><$comeff(1,21)><$voicel(1,8)>C'è una sola spiegazione: tu non sei <gen;-2(un tipo,una tipa)> qualunque!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "<$comeff(1,1)><$motion(1,816)><$voicel(1,9)>Shah! Piacere di conoscerti! <wait(0.4)><$motion(0,215)><clear><br>...<wait(0.7)> Ehi! <$voicel(1,8)><$comeff(1,6)><$motion(1,802)>Com'è che non hai paura di me?<clear><br><$comeff(1,14)><$voicel(1,3)><$motion(1,806)>Se la fanno tutti sotto vedendo il motivo che ho sulla<br>pancia, e quando li saluto, scappano via.<slide><br><$comeff(1,7)><$voicel(1,4)><$motion(1,807)>Quando succede, io ci rimango un po' male.<clear><br><$comeff(1,9)><$voicel(1,9)><$motion(1,803)>Però, tu non hai fatto una piega! Dobbiamo assolutamente<br>diventare amici!",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<$motion(1,805)>... ... ...<wait(0.5)><clear><br><$facial(1,3)><$motion(1,824)><$voicel(1,10)><$comeff(1,1)>Ah, piacere di conoscerti!<clear><br><$facial(1,5)><$motion(1,806)><$voicel(1,9)><$comeff(1,21)>È la prima volta che capito da queste parti, ma ho già<br>capito che si sta troppo bene qui!<clear><br><$motion(1,805)><$voicel(1,7)><$comeff(1,10)>Idea! Battiamo le code in segno di amicizia!<br><$voicel(1,8)><$comeff(1,9)>...<wait(0.9)><$comeff(1,6)><$facial(1,9)>?<wait(0.5)><clear><br><$facial(1,13)><$voicel(1,10)><$comeff(1,5)><$motion(1,803)>Ah, no! Scusa! <wait(0.5)><$facial(1,1)><$motion(1,801)>Non avevo notato che non hai la coda!<br><$voicel(1,6)><$facial(1,4)><$comeff(1,13)><$motion(1,801)>Però fa niente, eh? Possiamo essere amici lo stesso!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$voicel(1,8)><$motion(1,816)>Ju... <wait(0.3)>Juuu...<wait(0.6)><br><$voicel(1,7)><$motion(1,801)><$comeff(1,21)>Adesso sì che sento una bella carica.<clear><br><$lookat(1,1,0)><waitactor(1)><$voicel(1,10)><$comeff(1,1)><$motion(1,802)>Oh cielo! Mi stavi guardando? Nooo, che vergogna!<br>Vorrei sprofondare.<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,803)>Stavo caricando di elettricità la mia coda per scacciare<br>la sonnolenza.<clear><br><$voicel(1,7)><$motion(1,814)><$comeff(1,13)>Devi sapere che senza elettricità le mie energie sono pari<br>a zero. Juuu!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "<$facial(1,4)><$motion(1,806)><$comeff(1,10)><$voicel(1,9)>Cle <wait(0.3)>cle <wait(0.3)>cle <wait(0.3)>aaahn...<wait(0.3)><br><$motion(1,817)>Clecle cleee!<clear><br><$facial(1,1)><$motion(1,803)><$comeff(1,6)><$voicel(1,5)>La danza che ho appena eseguito era un disastro, vero...?<br>È che sono in piedi da poco e devo ancora carburare.<slide><br><$facial(1,14)><$motion(1,802)><$comeff(1,1)><$voicel(1,7)>Di solito ballo benissimo, te l'assicuro!<clear><br><$facial(1,1)><$motion(1,801)><$comeff(1,20)><$voicel(1,10)>Ah...! Mi è venuta un'idea! Ti faccio vedere un ultimo<br>volteggio, così ti rifai gli occhi!<slide><br><$motionoff(1,804)><$voicel(1,8)>In realtà, io so volare, ma solo per un po'.<clear><br><$facial(1,4)><$comeff(1,1)><$voicel(1,10)>Allora vado, eh.<br>... <wait(0.3)><$motion(1,801)>Oplà!<clear><br><$facial(1,1)><$comeff(1,14)><$voicel(1,6)>... <wait(1.6)><$facial(1,9)><$motion(1,802)><$comeff(1,6)>Mh? Non riesco a volare. Forse ho messo su qualche<br>chilo... Uhm...",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "<$motion(1,816)><$voicel(1,10)><$comeff(1,10)>Oh, ma che Pokémon adorabile!<clear><br><$motion(1,803)><$voicel(1,9)><$comeff(1,1)>Sentendo il rumore dei tuoi passi che si avvicinavano ho<br>pensato...<clear><br><$motion(1,805)><$voicel(1,5)><$comeff(1,1)>\"Questa camminata assomiglia a quella di un essere<br>umano, ma ha qualcosa di strano... <wait(0.7)><$motion(1,802)><$comeff(1,6)>Chi può mai essere?\"<clear><br><$motion(1,806)><$voicel(1,7)><$comeff(1,21)>Non avrei mai immaginato che fosse un <$cdef(27)>Ditto</color> con le<br>sembianze di un essere umano!<clear><br><$motion(1,801)><$voicel(1,9)><$comeff(1,13)>La cosa mi ha sorpreso un po', ma sono comunque felice<br>di fare la tua conoscenza!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(1,5)><$motion(1,802)><$comeff(1,14)>Ehm, scusa un secondo. Frush frush... Frush frush...<wait(0.5)><br><$comeff(1,21)><$voicel(1,7)><$motion(1,801)>Uff, ho finito!<clear><br><$voicel(1,8)><$motion(1,817)><$comeff(1,10)>Con tutte queste code, ci metto un sacco a lisciarmi<br>il pelo.<clear><br><$voicel(1,9)><$motion(1,803)><$comeff(1,1)>Ecco, adesso che sono presentabile posso salutarti<br>come si deve. <$facial(1,4)><$voicel(1,10)><$motion(1,816)><$comeff(1,13)>Piacere di conoscerti!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$motion(1,803)><$voicel(1,6)><$comeff(1,14)>Oh... <wait(0.7)><$voicel(1,5)>Credevo fossi un essere umano...<wait(0.5)><br><$motion(1,807)>E invece no.<clear><br><$facial(1,4)><$motion(1,801)><$voicel(1,7)><$comeff(1,9)>Devi sapere che un tempo se ne vedevano parecchi<br>da queste parti.<slide><br><$facial(1,1)><$motion(1,805)><$voicel(1,8)><$comeff(1,6)>Mi chiedo dove siano andati a finire...<clear><br>Di buono c'è che ora è molto più tranquillo,<br><$motion(1,802)><$voicel(1,5)><$comeff(1,14)>ma questa desolazione mette un po' di malinconia.",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(1,9)><$motion(1,801)><$comeff(1,13)>Plipuff... ♪ Jiggly jiggly puff... ♪<$motion(0,219)><br><$voicel(1,5)><$comeff(1,1)><$motion(1,803)>Mmh... Dimmi, come ti è sembrata la mia canzone?<clear><br><$voicel(1,3)><$motion(1,802)><$comeff(1,6)>... <wait(0.6)>Eh? Ti è venuto sonno?<br><wait(0.6)><$motion(0,508)>O quella è la tua espressione normale?<clear><br><$voicel(1,6)><$comeff(1,9)><$motion(1,816)>Comunque, ecco, torna a sentirmi cantare di nuovo,<br>se ti va.",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "<$comeff(1,5)><$motion(1,816)><$voicel(1,9)>Tuff!<wait(0.5)><$comeff(0,5)><$motion(0,82)> <$comeff(1,1)><$motion(1,803)><$voicel(1,7)>Ciao, piacere di conoscerti!<br>Eh eh eh, ti ho spaventat<gen;-2(o,a)> per caso?<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,6)>Se inalo una grande quantità di aria, il mio corpo si gonfia<br>a dismisura.<clear><br><$comeff(1,21)><$motion(1,802)><$voicel(1,8)>In questo modo, anche i Pokémon più minacciosi<br>si spaventano e se la danno a gambe.<slide><br><$comeff(1,13)><$motion(1,801)><$voicel(1,10)>Se ti capita di venire attaccat<gen;-2(o,a)>, provaci anche tu!",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "<$motion(1,816)><$voicel(1,10)><$comeff(1,1)>Cavoli! Questo sì che è un bell'ambiente!<wait(0.9)><br><$lookat(1,1,0)><waitactor(1)><$voicel(1,8)>... Come?<clear><br><$motion(1,802)><$voicel(1,6)>Questo posto... <$comeff(1,6)>L'hai preparato tu?<br><$motion(1,801)><$voicel(1,9)><$comeff(1,10)>Grande! Grazie!<clear><br><$motion(1,807)><$voicel(1,10)><$comeff(1,9)>Vieni a trovarmi, quando ti capita! Non sai com'è<br>divertente giocare a nascondino di notte!",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "<$comeff(1,5)><$motion(1,803)><$voicel(1,10)>Ehi! Cosa ci fai nel mio territorio?<clear><br><$comeff(1,1)><$motion(1,815)><$voicel(1,7)>Guarda che se hai brutte intenzioni, ti succhio il sangue<br>fino a prosciugarti!<clear><br>... <wait(0.8)><$motion(1,827)><$comeff(1,6)><$voicel(1,6)>Eh? <wait(0.3)>Questo ambiente lo hai costruito tu?<br><$comeff(1,21)><$facial(1,5)><$motion(1,801)><$voicel(1,10)>No, vabbè, che storia!<clear><br><$comeff(1,10)><$voicel(1,7)>A pensarci bene, non si è mai visto un essere cattivo con<br>un'espressione imbambolata come la tua.<clear><br><$comeff(1,13)><$motion(1,802)><$voicel(1,9)>Beh, piacere di conoscerti, allora!",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "<$motion(1,802)><$voicel(1,3)>Ahi! Che male...<wait(0.5)> Guarda che non è erba questa!<br><$comeff(1,2)><$voicel(1,4)>È <$facial(1,9)>la mia testa. <$comeff(1,1)><$motion(1,807)><$voicel(1,5)><$facial(1,1)>Uff, che spavento...<clear><br><$comeff(1,14)><$motion(1,805)><$voicel(1,7)>Ogni volta così. Se provo a fare un pisolino, qualcuno<br>mi scambia per un ciuffo d'erba.<clear><br><$comeff(1,13)><$facial(1,4)><$motion(1,806)><$voicel(1,10)>Se ti metti a strappare erba qui intorno, vacci piano, ok?",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "<$motion(1,801)><$comeff(1,9)><$voicel(1,9)>Come si sta bene qui... Mi viene da sbavare... <$comeff(0,5)><$voicel(1,1)><$comeff(1,19)><$motion(1,816)>Glooon...<wait(0.3)><$motion(0,81)><$comeff(0,19)><wait(2.5)><br><$voicel(1,7)><$motion(1,803)><$comeff(1,6)>Ehm, non hai una bella cera. Ti senti bene?<clear><br><$motion(0,824)><$comeff(0,1)><wait(0.9)><$motion(0,652)><wait(0.75)><$motion(1,817)><$voicel(1,3)><$comeff(1,6)>Come...? C'è una puzza insopportabile?<br>Non capisco a cosa ti riferisci... <$voicel(1,3)><$comeff(1,19)><$comeff(0,19)>Glooon...<clear><br><$comeff(1,14)><$motion(1,803)><$voicel(1,5)>Mmh... <wait(0.9)>Anzi, a dirla tutta... <wait(0.6)><$comeff(1,6)><$motion(1,802)>Io sento un buon profumo...",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "<$comeff(1,6)><$motion(1,803)><$voicel(1,5)>Mh, sei forse stat<gen;-2(o,a)> attirat<gen;-2(o,a)> qui dalla bellezza<br>dei miei petali?<clear><br><$voicel(1,7)><$comeff(1,9)>Permettimi di impartirti una lezione di vita.<wait(0.6)><br>Conosci il detto \"in pulchritudine venenum\"?<clear><br><$comeff(1,14)><$motion(1,802)><$voicel(1,9)>Ebbene, ci sono dei fiori che è meglio ammirare<br>rimanendo a debita distanza.<clear><br><$voicel(1,7)><$motion(1,801)><$comeff(1,1)>Ma io ho un animo gentile, non temere.<wait(0.9)><br><$voicel(1,3)>E poi tu... non hai un aspetto molto invitante.<slide><br><$comeff(1,9)><$voicel(1,6)>Ah! Ignorami, parlavo tra me e me.",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "<$voicel(1,5)><$motion(1,814)><$comeff(1,14)>Mmh... Non ce ne sono.<clear><br><$lookat(1,1,0)><waitactor(1)><$voicel(1,6)><$comeff(1,5)>Ah... Scusa<$motion(1,826)>, non ti avevo vist<gen;-2(o,a)>! Volevi parlare con me?<br><$voicel(1,8)>Io stavo cercando delle bacche. <clear><br><$voicel(1,9)><$motion(1,803)><$comeff(1,10)><$facial(1,4)>Ho appena finito di mangiare, ma ho già fame di nuovo.<clear><br><$voicel(1,7)><$comeff(1,6)><$motion(1,806)>Forse è perché... devo crescere e diventare grande<br>grande. <$voicel(1,9)><$motion(1,801)><$comeff(1,21)><$facial(1,5)>Che bello che sarebbe! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "<$comeff(1,1)><$motion(1,801)><$voicel(1,7)>Salve. Piacere di fare la tua conoscenza.<br>Stai cercando anche tu un posto in cui vivere?<clear><br><$comeff(1,14)><$motion(1,824)><$voicel(1,5)>Io ho appena scoperto questa zona.<br><$comeff(1,21)><$motion(1,816)><$voicel(1,9)>C'è un'umidità nell'aria che è molto piacevole.<clear><br><$voicel(1,8)><$motion(1,802)><$comeff(1,13)>Per un po' rimarrò qui a rilassarmi.",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "<$comeff(1,21)><$motion(1,801)><$voicel(1,7)>Uauh, che bel chiarore! <$comeff(1,1)><$voicel(1,10)>Ah... Piacere!<br><$comeff(1,6)><$motion(1,803)><$voicel(1,9)>Non dirmi che tutta questa luce ha attirato qui anche te.<clear><br><$comeff(1,10)><$voicel(1,10)>Andremo d'accordo, me lo sento! <$motion(1,801)><$comeff(1,21)><$voicel(1,5)>Chissà come mai<br>le cose luminose mi attirano così tanto...<clear><br><$voicel(1,7)>È proprio un bel mistero.",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<$comeff(1,5)><$voicel(1,10)>Oh!<wait(0.6)><$comeff(0,5)><$motion(0,82)> <$motion(1,817)>Fliflit!<clear><br><$comeff(1,23)><$motion(1,801)><$voicel(1,5)>Chiedo venia, ma mi hai proprio colt<gen;-3(o,a)> di sorpresa! Non<br>mi aspettavo che mi rivolgessi la parola così di colpo.<clear><br><$comeff(1,6)><$motion(1,803)><$voicel(1,8)>Ma visto che ci siamo... Che rapporto hai con il veleno?<clear><br><$comeff(0,5)><$comeff(1,14)><$motion(1,807)><$voicel(1,3)>Sappi che se sbatto le ali con troppa energia, finisco per<br>spargere intorno polvere velenosa.<wait(0.3)><$motion(0,81)><$comeff(0,19)><clear><br><$comeff(1,19)><$motion(1,802)><$voicel(1,4)>Forse per un po' ti girerà la testa... Mi dispiace.",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<$voicel(1,10)><$comeff(1,5)><$motion(1,817)>Plop!<wait(0.35)><$comeff(0,5)><$motion(0,182)><wait(0.5)><clear><br><$voicel(1,9)><$comeff(1,1)>Ah, scusami!<br>Ti ho fatto spaventare?<clear><br><$voicel(1,8)><$comeff(1,9)><$motion(1,801)>Forse avrei dovuto dirtelo prima, ma... piacere<br>di conoscerti!<clear><br><$voicel(1,7)><$comeff(1,13)><$motion(1,802)>La terra qui intorno è morbida e umida al punto giusto.<br>Mi piace un sacco!<clear><br><$voicel(1,5)><$motion(1,803)>Pensavo di venire a vivere da queste parti.<br>Spero che diventeremo amici!<wait(0.5)><$motion(0,181)>",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "<$voicel(1,10)><$motion(1,817)><$comeff(1,5)>Ahia!<wait(0.6)><$comeff(0,5)><$motion(0,82)><$comeff(1,5)><wait(0.9)><wait(0.35)> Che botta...<clear><br><$voicel(1,8)>Scusa! Ti sei fatt<gen;-2(o,a)> male anche tu?<clear><br><$voicel(1,7)><$motion(1,802)><$comeff(1,19)>Pensa che l'ultima volta, emergendo in superficie,<br>ho sbattuto contro una roccia.<slide><br><$voicel(1,10)><$comeff(1,1)><$motion(1,803)>Meno male che questa volta ho trovato te.<clear><br><$voicel(1,5)>Forse era destino che ci incontrassimo così.<clear><br><$voicel(1,9)><$motion(1,801)><$comeff(1,10)>Mi auguro che saremo amici da oggi!",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "<$voicel(1,10)><$comeff(1,5)><$motion(1,805)><$facial(1,13)>Meow meow...?<clear><br><$voicel(1,7)><$comeff(1,4)><$motion(1,807)><$facial(1,13)>Miao... Miah!!<br>È sparito... il miao tesoro è sparitooo!!<clear><br><$facial(1,1)><$voicel(1,5)><$emotion(1,29)>Ehi, tu! Senti, amic<gen;-2(o,a)>! Mica hai visto il mio tesoro?<br><$voicel(1,4)><$emotion(1,46)>Era rotolato quaggiù, ma ora non c'è più...<clear><br><$voicel(1,5)><$comeff(1,3)><$motion(1,805)><$facial(1,9)>E vabbè dai, ciccia! Mi toccherà cercarmene uno nuovo...<br>Qui attorno si sente giusto profumo di tesori!<slide><br><$voicel(1,8)><$emotion(1,49)>Ah! Miagari aiutami anche tu, ok?",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(1,6)><$motion(1,801)><$comeff(1,1)>Mh? Non ti ho mai vist<gen;-2(o,a)> da queste parti...<clear><br><$voicel(1,7)><$comeff(1,9)><$motion(1,803)>Allora, se permetti, ti porgo il mio primo saluto.<$motion(1,807)><wait(2.4)><br><$voicel(1,9)>Spero apprezzerai il mio elegante inchino...<$motion(0,215)><wait(2.1)><clear><br><wait(0.9)><wait(0.9)><wait(0.3)><$voicel(1,10)><$comeff(1,5)><$motion(1,803)>Oh, cielo! Che saluto impeccabile!<clear><br><$voicel(1,7)><$motion(1,802)><$comeff(1,21)>Mi duole ammettere che il tuo inchino è più elegante<br>del mio. <$voicel(1,10)><$motion(1,803)><$comeff(1,13)>Eh eh eh! Alla prossima!",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "<$comeff(1,6)><$motion(1,816)><$voicel(1,1)><wait(0.3)>Ehm...<wait(0.8)> <wait(0.8)>Cos'è che ho fatto ieri?<wait(0.6)> Non mi ricordo...<clear><br><$voicel(1,5)><$comeff(1,14)>Ah...<wait(0.5)> E tu saresti...?<wait(0.5)><wait(0.9)><br><$motion(1,802)>Per caso<wait(0.5)> ci conosciamo? Siamo amici?<clear><br><$comeff(1,9)><$motion(1,801)><$voicel(1,7)>No...?<wait(0.2)><wait(0.9)> Allora<wait(0.5)> piacere di conoscerti. Magari, che so...<br><$voicel(1,10)><$comeff(1,13)>potremmo diventare amici<wait(0.5)> da oggi in poi?",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "<$comeff(1,21)><$motion(1,801)><$voicel(1,9)><$facial(1,4)>Uaah, che bello qui intorno! C'è pace, l'acqua è pulita...<br>Si sta una meraviglia!<clear><br><$voicel(1,8)>Vuoi fare una nuotata anche tu?<br><wait(0.8)><$motion(1,824)><$comeff(1,6)>Eh? Non sai nuotare?<clear><br><$comeff(1,14)><$motion(1,805)><$voicel(1,7)>A giudicare dagli arti morbidi che sembri avere,<br>pensavo fossi <gen;-2(un provetto nuotatore,una provetta nuotatrice)>...",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "<$comeff(1,10)><$motion(1,816)><$voicel(1,9)>Grooou!<$motion(0,82)><$comeff(0,5)><clear><br><$voicel(1,8)><$comeff(1,1)>Oh, scusa! Ti ho spaventat<gen;-2(o,a)>?<clear><br><$comeff(1,14)><$motion(1,817)><$voicel(1,5)>Ho pensato che fossi venut<gen;-2(o,a)> a rubarmi la casa...<clear><br><$voicel(1,10)><$motion(1,802)><$comeff(1,5)>Ma non hai per niente l'aria minacciosa.<br><$voicel(1,8)>Avevo frainteso completamente!<clear><br><$voicel(1,7)><$motion(1,801)><$comeff(1,13)>Mi piacerebbe fare amicizia con te!",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "<$motion(1,802)><$comeff(1,23)><$voicel(1,3)>Ohi ohi... Sono un acciacco vivente...<clear><br><$motion(1,817)><$facial(1,3)><$comeff(1,22)><$voicel(1,9)><$textsize(2)>GROOOO!</textsize><clear><br><$facial(1,2)><$motion(1,803)><$comeff(1,1)><$voicel(1,8)>Eh? Oh, scusami tanto! Ti ho fatto prendere<br>un coccolone?<clear><br><$facial(1,4)><$comeff(1,10)><$voicel(1,5)>Ho dormito troppo e così ho pensato di fare una corsetta<br>per riprendermi dal torpore.<clear><br><$motion(1,801)><$comeff(1,9)><$voicel(1,10)>Insomma, stavo cercando di darmi la giusta carica!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "<$voicel(1,10)><$motion(1,815)><$comeff(1,12)>Uaaah! Perdono!<$comeff(0,12)><wait(0.35)><$motion(0,182)><wait(0.7)><clear><br><$voicel(1,3)><$motion(1,802)>Sai...<$comeff(1,17)> Le zampe mi sono spuntate da poco e non mi riesce<br>ancora di camminare bene.<clear><br><$voicel(1,8)><$motion(1,803)><$comeff(1,1)>Ah... Ma tu le zampe non ce le hai proprio!<clear><br><$voicel(1,10)><$motion(0,181)><wait(2.3)><$motion(1,816)><$comeff(1,5)>Uaaah! Ti sono spuntati i piedi?!<wait(1.1)><$motion(0,250)><br><wait(1.4)><$voicel(1,8)><$motion(1,806)><$comeff(1,10)>E cammini tranquillamente!<clear><br><$voicel(1,9)><$motion(1,802)><$comeff(1,14)>Incredibile! Ti ci vuole poco per diventare abile<br>nei movimenti! <$voicel(1,7)><$motion(1,801)><$comeff(1,10)>Ti ammiro tantissimo!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "<$motion(1,802)><$voicel(1,10)><$comeff(1,21)>Che acqua pulita...<br><$lookat(1,1,0)><waitactor(1)><$motion(1,803)><$voicel(1,7)><$comeff(1,5)>Piacere! Anche tu sei venut<gen;-2(o,a)> a farti una nuotata?<clear><br><$motion(1,801)><$voicel(1,9)><$comeff(1,10)>Senti, se mi tuffo prima io, l'acqua potrebbe diventare<br>un po' vischiosa... <$motion(1,817)><$voicel(1,10)><$comeff(1,13)>Meglio se nuoti prima tu...",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "<$motion(1,801)><$comeff(1,1)><$voicel(1,9)>Wraaad!<clear><br><$motion(1,816)><$comeff(1,10)><$voicel(1,10)>Che te ne pare dei miei fantastici pugni? Guarda che<br>riesco a spaccare pure le rocce!<$motion(0,518)><wait(2.7)><$motion(0,519)><clear><br><$motion(1,801)><$motion(1,803)><$comeff(1,11)>Cos...?!<br><$voicel(1,8)>Accidenti... Pure tu mica scherzi!<clear><br><$motion(1,802)><$comeff(1,23)><$voicel(1,3)>Voglia di litigare con te non ne ho di certo,<br>ma se per caso... e dico \"per caso\"... eh?<clear><br><$voicel(1,5)>Insomma, se per qualche motivo litighiamo,<br><$motion(1,814)><$comeff(1,10)><$voicel(1,10)>ce la risolviamo con una gara di nuoto, ok?",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "<$comeff(1,15)>...<wait(0.9)> ...<wait(0.9)><wait(0.9)><br><$motion(1,802)><$comeff(1,9)><$voicel(1,3)>Ci voleva proprio una bella dormita.<clear><br>...<$comeff(1,6)><$voicel(1,6)> Uh? E tu chi sei?<clear><br><$voicel(1,7)>Mah, non mi sembri un<gen;-2(o,a)> pericolos<gen;-2(o,a)>.<clear><br><$motion(1,803)><$comeff(1,16)><$voicel(1,5)>Quasi quasi dormo un altro po'...",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "<$facial(1,2)><$comeff(1,14)>Ommm...<wait(0.9)> Ommm...<wait(0.9)><clear><br><$voicel(1,5)>Scusa, adesso sto meditando.<br>Potresti evitare di rivolgermi la parola?<clear><br><$comeff(1,14)>Ommm...<wait(0.9)> Ommm...<wait(0.5)> <$facial(1,3)><$voicel(1,8)><$motion(1,803)><$comeff(1,12)>Anzi... a pensarci meglio...<br><$voicel(1,7)><$motion(1,801)><$comeff(1,1)>Mi farebbe piacere fare amicizia con te.<clear><br>Non conosco bene la zona e questo mi fa venire<br>un po' l'ansia.<$facial(1,2)><$comeff(1,14)> Ommm...<wait(0.9)> Ommm...<wait(0.9)>",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "<$comeff(1,14)><$motion(1,802)><$voicel(1,8)>Uh?<br>Tu sei...<wait(1.55)><$voicel(1,6)><$comeff(1,6)> <$cdef(27)>Ditto</color>, presumo.<clear><br><$comeff(1,13)><$motion(1,801)><$voicel(1,7)><$facial(1,4)>Vedere un Pokémon assumere sembianze umane è<br>uno spettacolo che vale mille anni di vita!<clear><br><$comeff(1,14)><$motion(1,803)><$voicel(1,5)><$facial(1,1)>Tuttavia, riflettendoci, non mi sembra che ci siano umani<br>qui intorno. <$comeff(1,6)><$motion(1,801)><$voicel(1,6)>Come hai fatto a trasformarti?<clear><br><$comeff(1,13)><$motion(1,802)><$voicel(1,9)><$facial(1,4)>Anzi, non dirmelo. Cercherò di risolvere il quesito<br>da solo. Sarà più stimolante per il mio cervello.",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "<$motion(1,803)><$comeff(1,6)><$voicel(1,5)>Ehi, tu! Sai se c'è qualche roccia grande qui intorno?<clear><br><$facial(1,9)><$motion(1,814)><$comeff(1,1)><$voicel(1,7)>Mentre dormivo mi si sono rammolliti i muscoli.<br><$facial(1,1)><$voicel(1,8)>Devo fare un po' di allenamento per tornare in forma.<clear><br><$motion(1,801)><$comeff(1,10)><$voicel(1,9)>Più sono pesanti le rocce e meglio è.<br>Altrimenti non c'è gusto!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "<$motion(1,814)><$comeff(1,13)><$voicel(1,10)>Pant... pant...<clear><br><$motion(1,801)><$comeff(1,10)><$voicel(1,9)>Mi guardavi mentre mi allenavo? Che te ne pare?<br>Hai visto che pugni micidiali?<clear><br><$motion(1,803)><$comeff(1,5)><$voicel(1,5)>... Se non ti ha fatto né caldo né freddo... <$voicel(1,8)>vuol dire che<br>nemmeno tu scherzi!<clear><br><$motion(1,815)><$voicel(1,9)>Yaaa! Uuusss! Yata-taaaaaa!<br>Che mi dici ora, eh?<slide><br><$voicel(1,1)><$motion(1,802)><$comeff(1,11)>Niente, non batti ciglio...<clear><br><$motion(1,801)><$comeff(1,1)><$voicel(1,3)>Comunque... ci ho messo solo la metà della mia forza,<br>non credere.",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "<$comeff(1,1)><$motion(1,814)><$voicel(1,10)>Braccia!<clear><br><$comeff(1,5)><$motion(1,817)><$voicel(1,10)>Schiena!<clear><br><$comeff(1,22)><$motion(1,816)><$voicel(1,8)>Petto!<clear><br><$comeff(1,21)><$motion(1,801)><$voicel(1,10)><$facial(1,4)>Ottimo! Anche oggi muscoli perfetti e forma smagliante!<wait(1.8)><$comeff(1,5)><$motion(1,803)><wait(1.2)><$lookat(1,1,0)><waitactor(1)><clear><br><$voicel(1,7)><$facial(1,13)>Uh? E tu chi sei? Da quanto eri qui a guardarmi?<br><$comeff(1,10)><$motion(1,827)><$voicel(1,5)><$facial(1,1)>Non mi dire che anche tu sei appassionat<gen;-2(o,a)> di muscoli.<clear><br><$comeff(1,13)><$motion(1,825)><$voicel(1,9)><$facial(1,1)>Allora vuoi allenarti con me? I muscoli sono una<br>delle certezze della vita!",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "<$comeff(1,14)><$motion(1,802)><$voicel(1,3)>Uff... non vedo l'ora di diventare grande.<br><$comeff(1,9)><$motion(1,801)><$voicel(1,7)><$facial(1,4)>Così sicuramente mi spunterà un bel fiore...<clear><br><$comeff(1,6)><$motion(1,827)><$voicel(1,8)><$facial(1,1)>Tu cosa ne pensi, eeeh? <$comeff(1,1)><$motion(1,803)><$voicel(1,10)>Mi spunterà, veeero?<br><$comeff(1,21)><$motion(1,801)><$voicel(1,9)><$facial(1,4)>Io credo che mi spunterà sicuramente!",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Ah, salve! Onorato di conoscerti, collega!<clear><br><$comeff(1,5)><$facial(1,1)><$motion(1,824)><$voicel(1,7)>Oh, però fammi un favore. Se vedi che ho fame,<br>non ti avvicinare troppo.<clear><br><$comeff(1,19)><$facial(1,9)><$motion(1,802)><$voicel(1,3)>Il fatto è che quando mi si sveglia l'appetito ho il vizio<br>di divorare e sciogliere dentro di me qualsiasi cosa.<clear><br><$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,10)>Guuuurgle...<clear><br><$comeff(1,4)><$facial(1,9)><$motion(1,802)><$voicel(1,7)>Ah, scusa, collega... Mi sa che è meglio che ci salutiamo.<br>Ci riaggiorniamo!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,806)><$voicel(1,9)>Aaah, che pace! Sto così bene qui che senza<br>accorgermene ho sbavato un po'.<clear><br><$comeff(1,5)><$motionoff(1,804)><$voicel(1,8)>Eh? L'hai creato tu questo paradiso? Ma è una meraviglia!<br>Grazie infinite, eh!<clear><br><$comeff(1,13)><$motion(1,801)><$voicel(1,7)>Starò attento a non sbavare dentro questa nuova casetta,<br>se no va a finire che si scioglie!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "<$comeff(1,5)><$facial(1,9)><$motion(1,803)><$voicel(1,4)>Ahia! E rieccoci con le pedate!<clear><br><$comeff(1,14)><$motion(1,802)><$voicel(1,3)>Pensavo di poter stare tranquillo visto che qui non ci sono<br>esseri umani intorno...<clear><br><$comeff(1,1)><$facial(1,1)><$motion(1,805)><$voicel(1,8)>Uh? Ah, ma tu sei un Pokémon!<clear><br><$comeff(1,14)><$motion(1,807)><$voicel(1,5)>Quindi ora devo anche considerare che a calpestarmi<br>potrebbe essere un Pokémon con l'aspetto di un umano.<slide><br><$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Capito! Ho imparato qualcosa di nuovo!",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "<$motion(1,17)><$comeff(1,9)><$voicel(1,8)><$facial(1,4)>Mh mh mmmh... Ah, che bontà...<clear><br><$voicel(1,6)><$emotion(1,14)><$facial(1,1)>Ah! Ciao, piacere...<clear><br><$voicel(1,7)><$emotion(1,39)>Le rocce di qui sono fresche fresche, una vera<br>squisitezza... Potrei mangiarne a tonnellate...<clear><br><$voicel(1,5)><$emotion(1,49)>Se anche tu trovi qualche roccia buona, mi faresti<br>un fischio, gentilmente? Apprezzerei tanto...!",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "... 3<wait(1.2)><$motion(1,803)><$comeff(1,14)>... 2<wait(1.2)><$motion(1,807)>... 1<wait(1.2)><$motion(1,801)><$comeff(1,5)>... <wait(1.6)><$voicel(1,6)><$comeff(1,6)>Eh?<$lookat(1,1,0)><waitactor(1)><clear><br><$comeff(1,11)><$facial(1,13)><$motion(1,815)><$voicel(1,10)><$textsize(2)>Aaah!</textsize><clear><br><$comeff(1,10)><$motion(1,803)><$voicel(1,9)>Cielo! A momenti mi viene un colpo! E tu chi sei?<br>Cosa ci fai qui? È pericoloso, sai?<clear><br><$comeff(1,14)><$facial(1,1)><$motion(1,807)><$voicel(1,8)>Ho dormito così tanto che adesso mi sento<br>completamente nel pallone.<clear><br><$comeff(1,5)><$motion(1,814)><$voicel(1,7)>Ero proprio sul punto di provocare una grande<br>esplosione per liberarmi dal torpore!<clear><br><$comeff(1,21)><$motion(1,825)><$voicel(1,9)>... Ah, però vedo che mi è passato con lo spavento che<br>mi hai fatto prendere.<slide><br><$comeff(1,13)><$facial(1,4)><$motion(1,817)><$voicel(1,7)>Allora, tutto a posto. Grazie tante!",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "... ... ... <wait(1.2)><$motion(1,806)><$voicel(1,6)><$comeff(1,6)>Uuuhm?<clear><br><$voicel(1,7)><$comeff(1,14)>Ehm...<wait(0.6)><br>...<wait(1.0)> Chi sei?<slide><br><$voicel(1,6)><$comeff(1,6)><$motion(1,803)>Ehm... Cosa volevo dire...?<clear><br><$voicel(1,7)><$comeff(1,14)>Ah...<wait(0.6)><br>Ehm...<wait(1.0)> Ci conosciamo?<slide><br><$voicel(1,6)><$comeff(1,6)><$motion(1,803)>Non mi sembra...<clear><br><$voicel(1,8)><$comeff(1,6)><$motion(1,802)>Ah, no?<clear><br><$voicel(1,10)><$comeff(1,14)>Beh... Allora...<wait(1.0)><br><$motion(1,801)><$voicel(1,9)><$comeff(1,21)><$facial(1,5)>Piacere...",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "<$comeff(1,5)><$facial(1,13)><$motionoff(1,804)><$voicel(1,10)>Ah, questa sì che è un'idea geniale, eh!<clear><br><$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Ehi, senti qua! Ti insegno una cosa.<clear><br><$comeff(1,13)>...<wait(0.8)> ...<wait(0.8)><$facial(1,1)><$comeff(1,14)><br>...<wait(0.8)> ...<slide><br><$comeff(1,6)><$motion(1,802)><$voicel(1,8)>Oh, mi è sfuggita di mente...<clear><br><$comeff(1,21)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Pazienza, non importa! Spero di rivederti presto.",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,5)>Mag-g-g-g...<$lookat(1,1,0)><waitactor(1)><clear><br><$comeff(1,5)><$motion(1,803)><$voicel(1,8)>Essere umano! Emissione onde amichevoli.<clear><br><$comeff(1,13)><$facial(1,1)><$motionoff(1,817)><$voicel(1,7)>Pi pi pi... Hello - hello - ciao.<br>Merci - xie xie - arigatou - grazie.<clear><br><$comeff(1,6)><$facial(1,9)><$motion(1,802)><$voicel(1,3)>... Reazione deludente.<br>Cosa fare?<$motion(0,182)><wait(1.4)><clear><br><$comeff(1,5)><$facial(1,4)><$motion(1,805)><$voicel(1,9)>Ah! Sei un Pokémon.<wait(1.3)><br><$comeff(1,13)><$motion(0,181)>Mi auguro futura amicizia.",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "<$comeff(1,10)><$motion(1,814)><$voicel(1,5)>Bz bz bz...<br>Piacere.<clear><br><$comeff(1,6)><$motion(1,827)><$voicel(1,7)>Tre Magnemite attaccati insieme.<br>È questo che stai pensando?<clear><br><$comeff(1,9)><$motion(1,803)><$voicel(1,8)>Confermo. Siamo semplicemente attaccati insieme.<clear><br><$comeff(1,10)><$motion(1,802)><$voicel(1,7)>Dall'esterno è difficile capire, ma abbiamo una tecnica<br>per andare d'accordo.<clear><br><$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,10)>Deduzione: anche io e te possiamo andare d'accordo.",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "<$emotion(1,14)><$voicel(1,7)>Uh?! Qualcuno sta cercando di introdursi nel mio<br>territorio! Vuoi confiscarmi il mio porro?!<clear><br><$comeff(1,22)><$motionoff(1,804)><$voicel(1,9)>Questo porro è il mio fedele compagno da anni e anni!<br>Non permetterò a nessuno di portarmelo via! Fatti sotto!!<clear><br><$comeff(1,14)><$voicel(1,5)>... ... ...<br>...<wait(0.8)><$comeff(1,6)><$motion(1,803)>Oh? A quanto pare mi sbagliavo...<slide><br><$comeff(1,10)><$motion(1,801)><$voicel(1,8)>Scusa se ho pensato male di te!<clear><br><$comeff(1,21)><$motion(1,803)><$voicel(1,10)>Fiuuu... Adesso che mi sento più tranquill<gen;-3(o,a)>, però,<br>mi è venuta fame.<clear><br><$comeff(1,14)><$motion(1,806)><$voicel(1,6)>Certo che questo porro ha un aspetto invitante...",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "<$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Oooooh! Finalmente un essere umano!<br>Bene, lo seguo!<wait(1.3)><$motion(0,182)><wait(1.3)><clear><br><$comeff(1,5)><$facial(1,1)><$motionoff(1,804)><$voicel(1,8)>Eh? Cosa?!<br>Sei solo un Pokémon...<clear><br><$comeff(1,17)><$facial(1,9)><$motion(1,802)><$voicel(1,3)>Pensavo: gli esseri umani hanno sempre dei rifiuti squisiti<br>con sé, ma... ho fatto male i conti.<$facial(1,1)><$motion(0,181)><wait(2.5)><$motion(0,824)><wait(1.0)><$motion(0,652)><wait(0.9)><clear><br>... Uh?<$motion(1,803)><$voicel(1,7)><$comeff(1,6)> Anche tu sei alla ricerca di esseri umani?<clear><br><$comeff(1,21)><$facial(1,5)><$motion(1,806)><$voicel(1,9)>Capisco. Se posso aiutarti in qualche modo, fammi sapere!",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "<$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Oh, piacere di conoscerti.<br>Senti, posso chiederti una cosa?<clear><br><$comeff(1,6)><$motion(1,803)><$voicel(1,7)>Sai per caso qual è il posto più suuudicio della zona?<clear><br><$comeff(1,14)><$facial(1,9)><$motion(1,806)><$voicel(1,5)>Un tempo era così facile trovare fognature,<br>posti melmosi...<clear><br><$comeff(1,19)><$motion(1,802)><$voicel(1,3)>... invece adesso sono diventati una rarità. Secondo me,<br>questa è una vera emergenza ambientale.",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Guah! Questo posto è favoloso per viverci.<br>È pure riparato dal vento.<clear><br><$facial(1,1)><$motion(1,805)><$voicel(1,7)>Io non ho paura di niente, però il vento forte<br>mi si porta via.<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,806)><$voicel(1,10)>Per questo, se posso lo evito!",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>... Ciao. Questo posto non è male: buio e tranquillo.<clear><br><$comeff(1,9)><$facial(1,1)><$motion(1,807)><$voicel(1,5)>Se poi passassero anche degli umani ogni tanto,<br>sarebbe ancora meglio.<clear><br><$voicel(1,7)><$motion(1,805)>Potrei avvicinarmi di nascosto, toccargli la spalla e...<br>vederli scappare urlando come ossessi.<slide><br><$comeff(1,10)><$facial(1,5)><$motionoff(1,804)><$voicel(1,9)>Un vero spasso.",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "<$comeff(1,1)><$motion(1,803)><$voicel(1,5)>Uuuh? Che strano... L'ombra di quest<gen;-2(o tipo,a tipa)> è anomala.<br><$comeff(1,6)><$facial(1,9)><$motion(1,801)><$voicel(1,3)>Non riesco a entrarci.<wait(1.3)><$facial(1,1)><$motion(0,182)><wait(1.3)><clear><br><$comeff(1,5)><$motion(1,802)><$voicel(1,10)>Aaah!<br><wait(1.2)>Ma non sei un essere umano!<slide><br><$motion(0,181)><wait(2.2)><$comeff(1,10)><$facial(1,4)><$motionoff(1,804)><$voicel(1,9)>Complimenti! Ti sei camuffat<gen;-2(o,a)> proprio bene!<clear><br><$motion(1,806)><$voicel(1,5)><$comeff(1,14)>Comunque è strano che non ci sia nessun umano in giro.<br><$comeff(1,6)><$facial(1,9)><$motion(1,807)><$voicel(1,7)>Chissà che fine hanno fatto...",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "<$voicel(1,5)><$motion(1,806)>Uh...?<wait(1.8)><br><$comeff(1,6)><$facial(1,4)><$motion(1,805)><$voicel(1,8)>Te la cavi bene a scavare.<clear><br><$voicel(1,7)><$motion(1,807)><$facial(1,1)><$comeff(1,14)>Io e te siamo di un tipo diverso, ma qualcosa mi dice che<br>anche tu saresti capace di scavare a piacimento...<clear><br><$voicel(1,5)>E cambiare la conformazione del terreno<br>come più ti aggrada.<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Ne hai tutto il potenziale! Lasciatelo dire da uno che<br>se ne intende.",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "<$motion(1,806)><$voicel(1,7)>Ah, salve... Piacere...<wait(1.2)><$comeff(1,6)><br>Non sei un essere umano, giusto?<slide><br><$motion(0,40)><wait(1.7)><$comeff(1,21)><$facial(1,4)><$motion(1,801)><$voicel(1,8)>Ah, meno male...<clear><br><$comeff(1,14)><$facial(1,1)><$motion(1,806)><$voicel(1,5)>Gli esseri umani mi scambiano sempre per una Poké Ball<br>e mi toccano, mi rigirano tra le mani...<clear><br><$comeff(1,19)><$facial(1,9)><$motion(1,802)><$voicel(1,3)>Poi quando si beccano la scossa mi sento anche in colpa.<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Spero che con te andrò d'accordo. Bzzzap...",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,10)>Oh! Questo posto è un capolavoro!<clear><br><$voicel(1,7)>Eh? L'hai fatto tu?<br><$facial(1,13)><$comeff(1,21)><$motionoff(1,804)>Che professionista! Hai tutto il mio rispetto, collega!<clear><br><$comeff(1,13)><$motion(1,816)><$voicel(1,9)>Mi ci installo con piacere. Starò attento a non esplodere!",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "<$comeff(1,6)><$motion(1,803)><$voicel(1,10)>Mh? E tu che cerchi?<br>... Aspetta là un attimo!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "<$comeff(1,10)><$motion(1,807)><$voicel(1,10)>Che ve ne pare? Da come si è conciat<gen;-2(o,a)> non so se fidarmi.",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "<$comeff(1,10)><$motion(1,807)><$voicel(1,10)>Mah, se ce l<gen;-2(o,a)> facciamo amic<gen;-2(o,a)> secondo me siamo a posto.<br>Non mi pare un pericolo.",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "<$comeff(1,10)><$motion(1,807)><$voicel(1,10)>Sono d'accordo.",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "<$comeff(1,10)><$motion(1,807)><$voicel(1,10)>Vabbè... Ci sto anch'io.",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "<$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,10)>... Eccoci qua, scusa se ti abbiamo tenuto in sospeso!<br>Pensavamo: facciamo amicizia, dai!",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "<$comeff(1,1)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Ehi, tu, senti un po'!<clear><br><$comeff(1,14)><$facial(1,1)><$motion(1,802)><$voicel(1,3)>Mi è venuto sonno e vorrei riposarmi.",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "<$comeff(1,10)><$motion(1,805)><$voicel(1,8)>Però io voglio mangiare delle bacche...",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "<$comeff(1,9)><$motion(1,806)><$voicel(1,7)>E io voglio fare una passeggiata...",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "<$comeff(1,6)><$motion(1,803)><$voicel(1,7)>... Ci sarà un modo per mangiare, fare una passeggiata<br>e dormire allo stesso tempo?",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "<$voicel(1,8)><$facial(1,13)><$motion(1,899)><$comeff(1,5)>Uah! Un essere umano...!<clear><br><$voicel(1,3)><$comeff(1,17)><$motion(1,802)><$facial(1,1)>Anzi, no... Ora che ti guardo meglio, sei un Pokémon! ♪<br>Fiuuu... Allora posso stare tranquill<gen;-3(o,a)>! ♪<clear><br><$voicel(1,5)><$facial(1,1)><$motion(1,666)>Questo posticino è proprio sereno... Mi sa che<br>me ne starò qui per un po'!<slide><br><$voicel(1,8)><$emotion(1,38)>Vedrai che andremo d'accordo, noi due!<clear><br><$voicel(1,3)><$comeff(1,14)><$facial(1,9)><$motion(1,805)>Scommetto che anche alla mamma sarebbe piaciuto<br>questo posto qui...",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "<$voicel(1,6)><$emotion(1,14)>Salve! È un vero piacere fare la tua conoscenza.<clear><br><$voicel(1,3)><$comeff(1,6)><$motion(1,805)>Ma toglimi una curiosità... Come mai hai un aspetto<br>così inusitato?<wait(1.2)><$motion(0,824)><wait(1.0)><$motion(0,652)><wait(0.5)><clear><br><$voicel(1,6)><$comeff(1,14)>Ah, capisco... Dunque stai cercando gli esseri umani.<br>Tutto quadra adesso.<clear><br><$voicel(1,7)><$motion(1,806)><$comeff(1,20)>Pensavo... E se ti assistessi anch'io in questa ricerca?<clear><br><$voicel(1,5)><$emotion(1,14)>Posso ben immaginare il dolore che si prova a essere<br>separati dai propri preziosi compagni...",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "<$comeff(1,10)><$motion(1,814)><$voicel(1,9)><$textsize(2)>Yaaaaah!</textsize><wait(0.65)><$comeff(0,5)><$motion(0,132)><clear><br><$comeff(1,6)><$motion(1,803)><$voicel(1,5)>Ops... Tutto bene? Se ti ho spaventato, chiedo scusa.<clear><br><$facial(1,4)><$motion(1,806)><$voicel(1,7)>Appena ho un po' di tempo mi alleno a tirare calci.<br><$comeff(1,13)><$motionoff(1,804)><$voicel(1,8)>Fai attenzione quando passi da queste parti!<clear><br><$comeff(1,10)><$facial(1,1)><$motion(1,815)><$voicel(1,9)>Basso!<wait(1.2)><br><$motion(1,814)><$comeff(1,10)>Medio!<slide><br><$comeff(1,10)><$motion(1,802)><$voicel(1,10)>Alto!<clear><br><$comeff(1,13)><$facial(1,4)><$motion(1,817)><$voicel(1,7)>Anche oggi i miei calci sono rapidi e potenti! Gah ah ah!",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "<$voicel(1,10)><$comeff(1,10)><$motion(1,814)>Swish... swi-wish!<wait(0.8)><$comeff(1,10)><$motion(1,815)><clear><br><$comeff(1,1)><$motion(1,803)><$voicel(1,9)>Oh, ciao.<br>Vuoi allenarti con me?<clear><br><$comeff(1,14)><$motion(1,802)><$voicel(1,5)>... Ah, però aspetta. Tra poco è l'ora della pausa.<clear><br><$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Fare pause regolari è il segreto per non crollare stremati.<br>Risentiamoci più tardi per l'allenamento.",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "<$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Ciao, piacere. Questo posto non è male... è pieno<br>di spazzatura!<clear><br><$comeff(1,10)><$motion(1,815)><$voicel(1,9)>Con questo buon odore nell'aria viene voglia di fare dei<br>bei respiri profondi.<clear><br><$facial(1,1)><$motion(1,803)><$voicel(1,7)>Hiuuu.... fiuuu...<br><$comeff(1,14)><$motion(1,803)><$voicel(1,7)>Hiuuu.... fiuuu...<clear><br><$comeff(1,14)><$voicel(1,3)>Ah! Devo fare attenzione, se no finisce che esplodo...<br><$comeff(1,9)><$motion(1,816)>Buuuh...<clear><br><$comeff(1,10)><$motion(1,815)><$voicel(1,5)>Ci è mancato poco... Che paura...<br>Adesso posso rilassarmi. Bastava far uscire un po' di gas.<slide><br><$comeff(1,21)><$facial(1,4)><$motion(1,817)><$voicel(1,7)>Scusa la puzza...",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Oh! Un essere umano! Mi chiedevo giusto<br>dov'eravate finiti, eh...<wait(1.0)><$motion(0,824)><wait(1.0)><$motion(0,652)><wait(0.5)><clear><br><$voicel(1,5)><$comeff(1,4)><$motion(1,805)>Come...? Sei un Pokémon, tu...? E gli esseri umani sono<br>spariti tutti...?<clear><br><$voicel(1,3)><$emotion(1,46)>Aaaah, capisco capisco... Sigh... Un po' mi mancano, eh...<clear><br><$voicel(1,7)><$emotion(1,6)>Ancora mi ricordo le loro città pieeene zeppe di persone,<br>e tutto quel bel fumo nero che si sollevava da camini<slide><br>e ciminiere...",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "<$comeff(1,10)><$motion(1,801)><$voicel(1,8)>Ehilà! È un piacere conoscerti! Aspetta, non ti muovere!<clear><br><$motion(1,802)>... <wait(2.0)><$comeff(1,5)><$motion(1,803)><$voicel(1,7)>Ok, ho capito tutto! <$comeff(1,21)><$facial(1,4)><$motion(1,805)><$voicel(1,10)>Hai passato il vibe check!<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,7)>Io sono molto perspicace e mi fido del mio giudizio<br>sugli altri!<clear><br><$comeff(1,13)><$motion(1,807)><$voicel(1,9)>Spero tanto che andremo d'accordo!",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "<$facial(1,4)><$comeff(1,21)><$motion(1,801)><$voicel(1,10)>Come si sta bene qui con questo tepore.<br>Voglio vivere qui!<clear><br><$comeff(1,10)><$motion(1,803)><$voicel(1,7)>Se hai voglia di fare un pisolino anche tu,<br>vieni a trovarmi.<clear><br><$comeff(1,5)><$motion(1,805)><$voicel(1,9)>Ah, però t'avviso: mi agito spesso nel sonno. Quindi<br>se finisci in un groviglio di liane, scusami!",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "<$motion(1,816)><$comeff(1,10)>... ... ...<br>... ... ...<slide><br><$voicel(1,6)><$comeff(1,14)>Ehm... Senti, collega, per caso...<clear><br><$comeff(1,6)><$voicel(1,5)>... tu lo vedi questo muro?<wait(0.8)> <$facial(1,4)><$comeff(1,21)><$motion(1,803)><$voicel(1,10)>Complimenti! Non è da tutti!<clear><br><$comeff(1,13)><$motion(1,801)><$voicel(1,7)>È la prova che hai un cuore puro. Mi auguro che<br>diventeremo grandi soci!",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "<$comeff(1,10)><$motion(1,814)><$voicel(1,9)>Scyyyth! Scyyyth!!<br><$comeff(1,6)><$motion(1,803)><$voicel(1,5)>... Mmmh? Che c'è, volevi qualcosa?<turn(1,60)><$lookat(1,0,1)><waitactor(1)><clear><br><$motion(1,806)><$voicel(1,6)>Scusa, eh, ma ti tocca avere pazienza. Mi sto allenando,<br>sto facendo le mie cento falciate giornaliere.<clear><br><$comeff(1,10)><$motion(1,815)><$voicel(1,9)>Scyyyth! Scyyyth!!<wait(1.8)><br><$comeff(1,6)><$motion(1,807)>Uhm... A che falciata sono arrivato?<clear><br><$comeff(1,1)><$motion(1,801)><$voicel(1,7)>Ma sì, ma chi se ne importa! Adesso mi riposo un attimo.",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "<$comeff(1,13)><$motion(1,827)><$voicel(1,10)>Gnam gnam... Munch munch... Bzzt bzzt...<clear><br><$facial(1,4)><$comeff(1,21)><$motion(1,801)><$voicel(1,9)>Ah, l'elettricità! Lo spuntino più buono che ci sia!<clear><br><$facial(1,1)><$comeff(1,6)><$motion(1,803)><$voicel(1,7)>E tu chi saresti? Scusa, eh, ma ho una fame pazzesca.<br><$comeff(1,14)><$motion(1,802)><$voicel(1,5)>Non ci penso neanche a darti un po' della mia elettricità!<clear><br><$comeff(1,6)><$motion(1,803)><$voicel(1,6)>Come? L'elettricità tu non te la mangi?<br><$comeff(1,10)><$motion(1,807)><$voicel(1,10)>Ci credo... È per stomaci forti. Peggio per te!",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "<$facial(1,13)><$comeff(1,5)><$motion(1,803)><$voicel(1,8)>Mag! Ehm... Cioè, insomma... Piacere... <$motion(1,802)><$voicel(1,3)>È un sacco che<br>non parlo con nessuno... E sono un po' a disagio, ecco...<slide><br><$comeff(1,14)><$motion(1,806)><$voicel(1,5)>Ah, che batticuore...!<clear><br><$voicel(1,7)><$motion(1,850)><$comcan(1)>Maaag!<clear><br><$comeff(1,19)><$motion(1,807)><$voicel(1,4)>Scusa, non volevo sputare fuoco, ma a volte mi capita...<br><$facial(1,4)><$comeff(1,21)><$motion(1,803)><$voicel(1,5)>Torna a trovarmi, vuoi...? Mi farebbe piacere<slide><br>chiacchierare ancora con te...",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "<$comeff(1,1)><$facial(1,4)><$motion(1,803)><$voicel(1,10)>Uoh oh oh... Che giornata magnifica! <$comeff(1,13)><$motion(1,801)><$voicel(1,9)>Quest'oggi le mie<br>corna sono ancora più rilucenti del solito.<slide><br><$facial(1,1)><$comeff(1,6)><$motion(1,827)><$voicel(1,5)>Non trovi? <$voicel(1,6)>Scommetto che mi darai ragione anche tu!<clear><br><$facial(1,4)><$comeff(1,9)><$motion(1,803)><$voicel(1,8)>Queste corna strabilianti sarebbero capaci di mettere<br>in fuga persino quella canaglia di <$cdef(27)>Heracross</color>! <$comeff(1,10)><$motion(1,801)><$voicel(1,9)>Gah ah ah!",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "<$comeff(1,10)><$motion(1,801)><$voicel(1,10)>Splic! Splash! Splishsplash!<wait(1.2)><br>Splush... <$comeff(1,5)>Ah! Scusa, scusa!<slide><br><$facial(1,4)><$comeff(1,1)><$voicel(1,8)>Ero così pres<gen;-3(o,a)> che non ti ho neanche salutato...!<clear><br><$comeff(1,13)><$voicel(1,7)><$motion(1,816)>Lo so che non fungo tantissimo...<br>Ma sarei felice se potessimo diventare soci!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,815)><$voicel(1,9)>Ah, a proposito! Ti faccio vedere subito come festeggio<br>quando sono felice! Splic! Splash! Splishsplash!<wait(0.25)><$comeff(1,10)>",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "<$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Aaah, che bella dormita!<br>...<wait(1.5)><$comeff(1,6)><$motion(1,803)><$voicel(1,6)> Mmmh? E tu chi saresti?<slide><br><$motion(1,805)><$voicel(1,7)>Non avevi mica intenzione di attaccarmi nel sonno, spero!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,802)><$voicel(1,10)>Avevo giusto voglia di sgranchirmi un po' queste vecchie<br>ossa... Quindi fatti sotto!<clear><br><$comeff(1,6)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>Mmmh... Aspetta un attimo... <$comeff(1,1)><$motion(1,827)><$voicel(1,7)>Sbaglio o di umani qui<br>intorno non ce n'è nemmeno l'ombra?<clear><br><$comeff(1,22)><$facial(1,7)><$motion(1,825)><$voicel(1,9)>E allora niente! Non ci sarebbe gusto ad andare su<br>tutte le furie. Rimandiamo la lotta alla prossima volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "<$comeff(1,14)><$voicel(1,5)>Oh, ma guarda un po'...<wait(0.8)><$motion(1,801)><$comeff(1,3)><$motion(1,803)> Certo che hai un aspetto<br>proprio strano, tu! <$comeff(1,9)><$facial(1,4)><$motion(1,805)><$voicel(1,9)>Sembri quasi un essere umano...<clear><br><$facial(1,1)><$voicel(1,9)>...<wait(1.3)> Sai, anch'io avevo una persona che mi era molto cara.<br><$motion(1,806)><$voicel(1,9)>Spesso mi saliva in groppa e oplà, ecco che partivamo<slide><br>alla volta di mille avventure!<clear><br><$facial(1,4)><$motion(1,801)><$voicel(1,7)><$comeff(1,9)>Ah, che nostalgia... ♥",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motionoff(1,804)><$voicel(1,10)>Ah! Ciao! Piacere! Abiti da queste parti, tu?<br><$comeff(1,13)><$facial(1,1)><$motion(1,806)><$voicel(1,8)>Sembra un bel posto! Ci si vive bene? Mi pare di sì!<clear><br><$comeff(1,10)><$facial(1,14)><$motion(1,805)><$voicel(1,7)>I prati fioriti mi fanno venire voglia di rotolarmici dentro<br>e prendere un po' il sole... <$comeff(1,21)><$facial(1,5)><$motion(1,801)><$voicel(1,9)>Però anche di notte mi sa<slide><br>che qui c'è da divertirsi!",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "<$comeff(1,1)><$motion(1,803)><$voicel(1,8)>Salve, piacere di conoscerti. Questo sembra un posto<br>davvero splendido.<clear><br><$voicel(1,6)><$comeff(1,14)>Peccato che...<wait(1.2)><$comeff(1,9)> manchi un po' di umidità, mi spiego?<turn(1,50)><$lookat(1,0,1)><waitactor(1)><$motion(1,816)><wait(1.3)><turn(0,310)><waitactor(0)><$motion(0,748)><wait(1.2)><$comeff(1,5)><$lookat(1,1,0)><waitactor(1)><clear><br><$voicel(1,8)>Uah! <wait(1.2)><$comeff(1,3)><$motion(1,824)><$voicel(1,10)>Che colpo, non me lo aspettavo proprio!<$lookat(0,1,1)><waitactor(0)><clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,5)>Però, beh... Adesso l'umidità è al punto giusto.<br>Sei un Pokémon premuroso, tu.<slide><br><$comeff(1,21)><$motion(1,801)><$voicel(1,7)>Sarei felice se potessimo fare amicizia.",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "<$comeff(1,5)><$facial(1,13)><$motionoff(1,804)><$voicel(1,10)>Gah! Ehi, mi hai fatto venire un colpo! <$comeff(1,23)><$facial(1,9)><$motion(1,802)><$voicel(1,7)>Non te l'hanno<br>insegnato che non si parla alla gente così di botto?<clear><br>Forse non ti sembra a vedermi così tosto, ma guarda che<br>ho lo spavento facile!<clear><br><$facial(1,1)><$comeff(1,1)><$motion(1,803)><$voicel(1,8)>Ah, e occhio: quando c'è brutto tempo devi fare ancora<br>più attenzione!<clear><br><$comeff(1,10)><$motion(1,805)><$voicel(1,7)>Quando mi spavento, mi viene da gridare e bum,<br>giù fulmini!<clear><br><$facial(1,4)><$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>E siccome i fulmini mi fanno prendere un colpo, mi viene<br>da gridare di nuovo, e così via...",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "<$comeff(1,13)><$motion(1,803)><$voicel(1,9)>Ooooh! Ma ciao! Non sai quanto tempo è che non<br>chiacchiero con un altro Pokémon! Che mood!<clear><br><$comeff(1,5)><$facial(1,4)><$motion(1,816)><$voicel(1,7)>Ho un'idea geniale: perché non facciamo amicizia?<br>Ci stai, vero?<clear><br><$comeff(1,10)><$motion(1,801)><$voicel(1,10)>Eh eh eh! Sono così felice che sento come un fuoco<br>che mi brucia dentro!<slide><br><$comeff(1,14)>...<wait(1.2)><$facial(1,1)><$motion(1,807)><$voicel(1,8)> Che caldo, però, mamma mia...",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "<$comeff(1,14)><$voicel(1,6)><$motionoff(1,805)>Pory... Pory...<wait(1.8)><$voicel(1,7)><$comeff(1,6)><$motionoff(1,803)> Posizione attuale: sconosciuta.<br>Dove mi trovo? <$comeff(1,1)><$voicel(1,5)>Sei stat<gen;-2(o,a)> tu a farmi venire qui?<clear><br><$motionoff(1,806)><$facial(1,13)><$voicel(1,7)>Io vivevo in un computer.<br><$comeff(1,13)><$motionoff(1,801)><$facial(1,4)><$voicel(1,9)>Questo cielo: sconfinato. E l'aria: fresca.",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "<$comeff(1,6)><$motion(1,803)><$voicel(1,7)>Mmmh? Ohibò! E tu chi saresti?<br>Sei uno dei Pokémon che vivono da queste parti?<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,7)>Beh, allora piacere di conoscerti! Questo posto fa proprio<br>al caso mio. Mi piace!<clear><br><$comeff(1,14)><$motion(1,805)><$voicel(1,7)>Non so come mai, ma ho come l'impressione di aver<br>già visto questo luogo... Tanto, tanto tempo fa...<slide><br><$comeff(1,13)><$motion(1,801)><$voicel(1,7)>È proprio un bel mistero!",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "<$comeff(1,16)><$motionoff(1,804)><$voicel(1,5)>Yaaawn...<br>... <wait(0.8)><$comeff(1,15)>Ronf...<clear><br><$voicel(1,10)>Snoooor...<br>... <wait(0.8)><$comeff(1,5)><$voicel(1,8)><$motion(1,803)>Lax!!<clear><br><$comeff(1,6)><$motion(1,805)><$voicel(1,5)>Mmmh? Ma come, ero convint<gen;-3(o,a)> di stare facendo<br>una bella scorpacciata...<slide><br><$comeff(1,7)><$motion(1,802)><$voicel(1,4)>Allora era un sogno?<clear><br><$emotion(1,29)><$voicel(1,6)>Mh? E tu...? Da quanto sei lì, eh?<br><$emotion(1,38)><$voicel(1,10)>Beh, non ha importanza...",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "<$motion(1,804)><$comeff(1,5)>Gyaoooh!<wait(1.4)><clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,805)>Ma pensa... Hai fatto tu questo edificio per me?<clear><br><$voicel(1,7)><$emotion(1,39)>Senti che bel freschino, si sta proprio bene! Mi ricorda<br>un po' dove vivevo prima.<clear><br><$voicel(1,5)><$comeff(1,10)><$motion(1,805)>Dev'essere stata un'impresa mettere in piedi un edificio<br>di queste dimensioni!<slide><br><$voicel(1,8)><$motion(1,803)><$comeff(1,9)>Grazie di cuore!",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "<$voicel(1,7)><$motion(1,859)><$textsize(2)>Bzzt bzzt bzzt...</textsize><clear><br><$voicel(1,9)><$emotion(1,38)>Gnaaah... Grande! Proprio quello che mi ci voleva<br>per svegliarmi!<clear><br><$lookat(1,0,0)><$voicel(1,5)><$comeff(1,5)><$motion(1,807)>Ehi, ma questo posto l'hai fatto tu? Dai, troppo forte!",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "<$voicel(1,7)><$comeff(1,14)><$motion(1,803)>Umph... E allora, chi è che mi disturba?! Non si può<br>neanche riposare in un vulcano in santa pace?<wait(1.0)><$motion(0,824)><wait(1.0)><$motion(0,652)><wait(0.5)><clear><br><$voicel(1,6)><$comeff(1,5)><$motion(1,801)>Ma...? Questo posto l'hai fatto tu? <$voicel(1,7)><$comeff(1,9)><$motionoff(1,804)>Ma pensa!<br>Allora debbo proprio ringraziarti.<clear><br><$voicel(1,5)><$motion(1,666)><$comeff(1,3)>Chiedo scusa se ti ho guardato storto, giovane. Spero che<br>non te la sia presa!",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "<$comeff(1,21)><$motion(1,801)><$voicel(1,9)>Ah! Aspetta aspetta! Ma tu sei proprio della taglia giusta!<br><$comeff(1,14)><$motion(1,806)><$voicel(1,8)>Sai... io ce la sto mettendo tutta per crescere...<clear><br><$comeff(1,13)><$motion(1,807)><$voicel(1,7)>Voglio diventare grande proprio quanto te!<br>Vuoi essere mi<gen;-2(o,a)> amic<gen;-2(o,a)>? Così mi puoi insegnare!<clear><br><$comeff(1,5)><$motion(1,804)>Come come? Quando ti trasformi puoi diventare<br>ancora più grande...?<clear><br><$comeff(1,19)><$motion(1,802)><$voicel(1,3)>Ma uffa... Io ho fatto, boh... non so più nemmeno quante<br>mute, e ancora sono così!<slide><br><$comeff(1,6)><$motion(1,803)><$voicel(1,8)>Non è mica giusto, eh!",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "<$voicel(1,8)><$emotion(1,14)>Oh... Uhm... Piacere...!<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,21)><$facial(1,4)>Certo che questo posto, ecco... non è male...<br>Sembra fare al caso mio...<clear><br><$voicel(1,4)><$comeff(1,17)><$facial(1,4)><$motion(1,806)>Poi con il bel tempo ci si starebbe ancora meglio...<br>Mi pare...<wait(1.0)><$facial(1,1)><$motion(0,824)><wait(1.0)><$motion(0,652)><wait(0.7)><clear><br><$voicel(1,7)><$comeff(1,5)><$motion(1,803)>Come? L'hai creato tu...? Oooh! Che lavorone!<clear><br><$voicel(1,7)><$emotion(1,8)>Mi piacerebbe trasferirmi da queste parti, quindi...<br>ecco... insomma... spero che andremo d'accordo!",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "<$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Yaaawn! Che bel sonnellino che mi sono fatt<gen;-3(o,a)>!<br>...<wait(0.8)><$comeff(1,5)><$facial(1,1)><$motion(1,805)><$voicel(1,7)> Oh, ma dimentico le buone maniere... Piacere!<slide><br>Da dove sei saltat<gen;-2(o,a)> fuori, tu, eh?<clear><br><$facial(1,4)>...<wait(0.8)><$comeff(1,15)><$voicel(1,4)> Zzz...<clear><br>...<wait(0.8)><$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,8)> Ah!<wait(0.8)><$voicel(1,7)><$facial(1,1)> Perdonami, perdonami! <$comeff(1,10)><$facial(1,4)><$voicel(1,9)>Qui si dorme talmente bene,<br>non ce la faccio proprio a resistere!<clear><br><$facial(1,1)><$voicel(1,8)>Come? L'hai realizzata tu, questa casa?<$voicel(1,7)><$facial(1,4)><$comeff(1,21)><$motionoff(1,804)><br>Ma è incredibile! Che lavorone!<clear><br><$comeff(1,13)><$motion(1,807)><$voicel(1,9)>Riposandomi qui potrò fare il pieno di energia...<br>E volare anche in capo al mondo, eh eh! <$comeff(1,15)><$motion(1,801)><$voicel(1,3)>Yaaaawn...!",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "<$motionoff(1,804)><wait(0.5)><$voicel(1,8)><$comeff(1,5)>Mewww!<clear><br><$voicel(1,5)><$emotion(1,14)>È la seconda volta che le nostre strade si incrociano.<br>A quanto pare il destino insiste a farci incontrare.<clear><br><$voicel(1,3)><$comeff(1,14)><$motion(1,805)>Chissà quante cose hai avuto modo di vedere<br>fino ad oggi e quante ne creerai un domani...<slide><br><$voicel(1,6)><$motion(1,801)>È qualcosa che trovo affascinante.<clear><br><$voicel(1,8)><$emotion(1,49)>Mi piacerebbe avere l'opportunità di discuterne con te.",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "<$voicel(1,5)><$comeff(1,16)><$motion(1,807)>Yaaawn... Che dormita! Ehi, sei stat<gen;-2(o,a)> tu a chiamarmi?<$comcan(1)><br><$voicel(1,4)><$emotion(1,14)>Per caso volevi chiedermi qualcosa?<$motion(0,824)><wait(1.0)><wait(0.8)><$motion(0,652)><wait(0.8)><clear><br><$voicel(1,5)><$comeff(1,6)><$motion(1,805)>Eh? Vorresti fare amicizia con me?!<clear><br><$voicel(1,7)><$emotion(1,8)>Ah ah ah! Ma certo, no problem! Possiamo chiacchierare<br>tutte le volte che vuoi!",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "<$voicel(1,10)><$comeff(1,5)><$motion(1,816)><$facial(1,4)>... Guah!!<clear><br><$voicel(1,3)><$comeff(1,4)><$motion(1,806)>Ah, scusa! M'è preso un colpo a vederti così<br>all'improvviso.<clear><br><$voicel(1,5)><$motion(1,661)><$comeff(1,3)>Comunque, piacere! È la prima volta che vengo qui...<br>Mica male 'sto posto!<slide><br><$voicel(1,10)><$emotion(1,8)>E poi, guarda, le mie fiamme bruciano a tutta potenza!<clear><br><$voicel(1,7)><$emotion(1,49)>Ok, ho deciso! Mi trasferisco qui!",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "<$comeff(1,5)><$motion(1,803)><$voicel(1,10)>Guah! E tu chi è che saresti? <$comeff(1,10)><$motion(1,817)><$voicel(1,9)>Sei venut<gen;-2(o,a)> a rubarmi la casa,<br>scommetto! Allora in guardia! Graaaaah!!<clear><br><$comeff(1,14)><$voicel(1,3)>Mmh... Vedo che le mie minacce non funzionano...<wait(0.8)><br><$comeff(1,6)><$motion(1,807)><$voicel(1,6)>Che c'è? Questo caldo ti ha fatto andare in pappa<slide><br>il cervello?<clear><br><$comeff(1,14)><$motion(1,806)><$voicel(1,5)>O forse... Ma non è che sei <gen;-2(un,una)> <gen;-2(guerriero,guerriera)> fortissim<gen;-2(o,a)>...?<br><$comeff(1,13)><$motionoff(1,804)><$voicel(1,7)>Ok, ho deciso! D'ora in poi sarò tu<gen;-3(o,a)> amic<gen;-3(o,a)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "<$comeff(1,10)><$motion(1,816)><$voicel(1,9)>Bwooooh! <wait(0.4)><$motion(0,132)><$comeff(1,5)>Però! Bel posto, questo. <$comeff(1,9)><$motion(1,803)><$voicel(1,10)>Ho deciso: mi piace!<br><$comeff(1,6)><$motion(1,805)><$voicel(1,7)>... Mmmh? Dimmi. Serve qualcosa?<clear><br><$comeff(1,5)><$voicel(1,8)>Come? L'hai realizzata tu, questa casa? <$comeff(1,21)><$motionoff(1,804)><$voicel(1,9)>Ma pensa te!<br>Davvero un bel lavoro, complimentoni! ★<slide><br>Che ne dici se facciamo amicizia?<clear><br><$voicel(1,8)>Però attenzione: come hai visto, quando mi esalto,<br>finisce sempre che causo una bella esplosione!<slide><br><$comeff(1,13)><$motion(1,807)><$voicel(1,9)>Pokémon avvisato, mezzo salvato! Ah ah ah!",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "...<wait(0.5)><$voicel(1,8)><$comeff(1,1)><$motion(1,803)> Hoo hoo.<wait(0.3)><br>... ... ...<wait(0.7)><$voicel(1,7)><$comeff(1,10)><$motion(1,816)> Hoooh.<clear><br>Ah...<wait(0.3)><$voicel(1,6)><$comeff(1,5)> Piacere. <wait(0.5)>C'è qualcosa che non va...?<$comeff(1,6)> Ehm... Per caso...<br><$motion(1,802)>Ti davo fastidio con il mio verso?<clear><br><$comeff(1,9)><$voicel(1,3)><$motion(1,806)>Quando si fa quest'ora, ecco... mi viene sempre<br>da cantare. Non so perché...<clear><br><$voicel(1,9)><$motion(1,801)>Non preoccuparti, però. Non è un canto triste, ecco...<br><$comeff(1,10)>Hoooh!",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "<$comeff(1,13)><$voicel(1,5)><$motionoff(1,805)><$pkcry;0(1,1)>... Che quiete. Sembra il posto perfetto<br><$voicel(1,6)><$motionoff(1,803)>per dedicarsi alla riflessione in pace.<clear><br><$comeff(1,6)><$voicel(1,3)>Mmmh? Hai un aspetto davvero inusitato.<br>Sembri quasi... un essere umano.<slide><br><$comeff(1,14)><$facial(1,14)><$voicel(1,4)><$motionoff(1,807)>O sei forse un Pokémon...?<clear><br><$comeff(1,9)><$facial(1,4)><$voicel(1,7)><$motionoff(1,801)>Mi sembra un ottimo dilemma su cui riflettere<br>per una nottata intera!",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "<$comeff(1,21)><$facial(1,14)><$voicel(1,9)><$motionoff(1,801)>Uauh! Ma questo posto è perfetto per tessere la mia tela!<clear><br><$comeff(1,5)><$facial(1,1)><$voicel(1,7)><$motionoff(1,802)>Davvero sei stat<gen;-2(o,a)> tu a creare questa casa...?<br>Ma sei bravissim<gen;-2(o,a)>! <$comeff(1,10)><$voicel(1,8)><$mot",
+      "pt_br": ""
+    }
+  ]
+}

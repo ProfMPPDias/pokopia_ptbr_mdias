@@ -1,0 +1,494 @@
+{
+  "entry_index": 2693,
+  "bin_id": "0x6cac00",
+  "decompressed_size": 14752,
+  "first_tag_offset": 1840,
+  "total_strings": 97,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(4,9)><$emotion(4,38)>Ta-daaa! Here’s the machine I was telling you about!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(4,5)><$emotion(4,14)>I’m pretty sure this is a musicky instrument!<clear><br><$voicel(4,5)><$comeff(4,9)><$motion(4,806)>See, it’s got lotsa buttons, and when you push ’em, they<br>make sounds!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(4,6)>Here, watch this... <wait(0.3)><$motion(4,814)><wait(0.3)><$comeff(4,5)><$voicel(4,8)>Yah!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<$se2d(970)>*cha-ching!*",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(4,5)><$emotion(4,8)>Didja hear that? Wasn’t it a pretty sound?!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "*ring ring!*",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "<oneline><$voicel(1,5)><$motion(1,661)>Oh, <$cdef(27)><pname;0></color>, whereabouts<br>are<slide><br>you<slide><br>right now?<clear><br><$voicel(1,8)><$facial(1,4)>I’m trying to polish up my <$cdef(27)>PC </color>skills at the moment.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<$voicel(4,8)><$comeff(4,9)><$motion(4,817)>And a-tap, and a-tap, and a-TAP!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "<$se2d(970)>*cha-ching!* <$se2d(970)>*cha-ching!* <$se2d(970)>*cha-ching!*",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(1,10)><$comeff(1,5)><$motion(1,665)>Wh-what’s all that racket?!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(1,5)><$motion(1,666)>Actually...I get the feeling I’ve heard that sound<br>somewhere before.",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(4,8)><$comeff(4,10)><$motion(4,806)>It’s the sound of this musicky instrument!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "<$se2d(970)>*cha-ching!*",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "<$voicel(1,7)><$motion(1,803)>Oh, wait, now I remember! That’s no instrument—it’s a<br>machine known as a <$cdef(27)><fqty(1)><$ifull(1325)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<$voicel(4,5)><$comeff(4,6)><$motion(4,666)>Huh? What’s a <$cdef(27)><fqty(1)><$ifull(1325)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$voicel(1,7)><$motion(1,661)>It’s a machine humans used to make <$cdef(27)><$spwfull(12)>s</color>!<clear><br><$voicel(1,5)>Whenever they exchanged things with each other, <$voicel(1,7)><$motion(1,803)>for some<br>reason, they also used this machine to go “cha-ching!”",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(4,5)><$emotion(4,53)><$facial(4,4)>Wow, really? That sounds FUN! I wanna use a<br><$cdef(27)><fqty(1)><$ifull(1325)></color> and do some <$cdef(27)><$spwfull(12)>s</color> too!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "<$voicel(1,5)><$motion(1,801)>Hohoho! You know, I think we Pokémon can indeed have<br>some fun imitating humans!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(4,7)><$comeff(4,9)><$motion(4,806)>YAY! Then I’ll start getting ready right away! You should<br>come back to see when I’m finished!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(4,9)><$emotion(4,38)>Ta-daaa! Here’s the machine I was telling you about!",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(4,5)><$emotion(4,14)>I’m pretty sure this is a musicky instrument!<clear><br><$voicel(4,5)><$comeff(4,9)><$motion(4,806)>See, it’s got lotsa buttons, and when you push ’em, they<br>make sounds!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "<$voicel(4,6)>Here, watch this... <wait(0.3)><$motion(4,814)><wait(0.3)><$comeff(4,5)><$voicel(4,8)>Yah!",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "...<wait(0.8)><$voicel(4,4)><$comeff(4,6)><$motion(4,666)>Huh? It’s not working. How come?<clear><br><$voicel(4,5)><$comeff(4,3)><$motion(4,807)>When I poked it before, it made really pretty noises! And<br>I think it even lit up a little.",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "<$voicel(4,5)><$emotion(4,27)>Ohhh, it needs electricity to work? That’s too bad!",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "<oneline><$voicel(4,5)><$comeff(4,3)><$motion(4,666)>Sorry to bug you, <$cdef(27)><pname;0></color>, but could<br>you<slide><br>maybe<slide><br><$voicel(4,5)><$emotion(4,29)>connect<slide><br>electricity<slide><br>to<slide><br>this spot?",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "<$voicel(4,7)><$emotion(4,49)>I want us to play with this machine together!",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(4,8)><$emotion(4,14)>Please hook this machine up to electricity!",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "<$voicel(4,5)><$emotion(4,49)>Then once it’s working, let’s play together!",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "<$voicel(4,5)><$emotion(4,38)>YAY! The machine should work now, right?!",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "<$voicel(4,6)>OK, here I go... <wait(0.3)><$motion(4,814)><wait(0.3)><$comeff(4,5)><$voicel(4,8)>Yah!",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<$se2d(970)>*cha-ching!*",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<$voicel(4,5)><$emotion(4,8)>Didja hear that? Wasn’t it a pretty sound?!",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "*ring ring!*",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "<oneline><$voicel(1,5)><$motion(1,661)>Oh, <$cdef(27)><pname;0></color>, whereabouts<br>are<slide><br>you<slide><br>right now?<clear><br><$voicel(1,8)><$facial(1,4)>I’m trying to polish up my <$cdef(27)>PC </color>skills at the moment.",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(4,8)><$comeff(4,9)><$motion(4,817)>And a-tap, and a-tap, and a-TAP!",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "<$se2d(970)>*cha-ching!* <$se2d(970)>*cha-ching!* <$se2d(970)>*cha-ching!*",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "<$voicel(1,10)><$comeff(1,5)><$motion(1,665)>Wh-what’s all that racket?!",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "<$voicel(1,5)><$motion(1,666)>Actually...I get the feeling I’ve heard that sound<br>somewhere before.",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "<$voicel(4,8)><$comeff(4,10)><$motion(4,806)>It’s the sound of this musicky instrument!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "<$se2d(970)>*cha-ching!*",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "<$voicel(1,7)><$motion(1,803)>Oh, wait, now I remember! That’s no instrument—it’s a<br>machine known as a <$cdef(27)><fqty(1)><$ifull(1325)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "<$voicel(4,5)><$comeff(4,6)><$motion(4,666)>Huh? What’s a <$cdef(27)><fqty(1)><$ifull(1325)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "<$voicel(1,7)><$motion(1,661)>It’s a machine humans used to make <$cdef(27)><$spwfull(12)>s</color>!<clear><br><$voicel(1,5)>Whenever they exchanged things with each other, <$voicel(1,7)><$motion(1,803)>for some<br>reason, they also used this machine to go “cha-ching!”",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "<$voicel(4,5)><$emotion(4,53)><$facial(4,4)>Wow, really? That sounds FUN! I wanna use a<br><$cdef(27)><fqty(1)><$ifull(1325)></color> and do some <$cdef(27)><$spwfull(12)>s</color> too!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "<$voicel(1,5)><$motion(1,801)>Hohoho! You know, I think we Pokémon can indeed have<br>some fun imitating humans!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "<$voicel(4,7)><$comeff(4,9)><$motion(4,806)>YAY! Then I’ll start getting ready right away! You should<br>come back to see when I’m finished!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "<$voicel(4,7)><$emotion(4,14)>OOH, it’s <$cdef(27)><pname;0></color>! How’re you doing?",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "<$voicel(4,9)><$emotion(4,8)>I’m doing GREAT ’cause I get to see YOU!",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,666)>And I’d be doing great swimming in this pool right now,<br>if it wasn’t broken...",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "<$voicel(4,3)>But to fix it, we hafta plug up any holes...<clear><br><$voicel(4,1)><$comeff(4,17)><$motion(4,807)>And then bring a whole bunch of water from<br>somewhere, right?",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "<$voicel(4,5)><$comeff(4,6)><$motion(4,666)>Do you think there’s a Pokémon who could even do all<br>that? Prolly not, huh?",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "<oneline><$voicel(4,9)><$emotion(4,63)>Whaaa?! YOU can do all that, <$cdef(27)><pname;0></color>?<br>That’s<slide><br>AMAZING!<slide><br><$voicel(4,8)><$emotion(4,8)>OK,<slide><br>I’m<slide><br>counting<slide><br>on<slide><br>you, then!",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,666)>But how will you get SO MUCH water here? <$voicel(4,4)><$comeff(4,6)>Are you<br>gonna suck it all up into your tummy or something?!",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "<$voicel(4,7)><$emotion(4,8)>I’m really excited that you’re gonna fix the pool here!",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,666)>But how will you get SO MUCH water here? <$voicel(4,4)><$comeff(4,6)>Are you<br>gonna suck it all up into your tummy or something?!",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "<$voicel(4,9)><$emotion(4,38)>Oh WOWWW! The pool really is fixed!",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "<oneline><$voicel(4,5)><$emotion(4,27)>Thank you for always helping, <$cdef(27)><pname;0></color>!<br>I know<slide><br>I ask<slide><br>for<slide><br>a<slide><br>lotta stuff!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "<$voicel(4,8)><$emotion(4,49)>Don’t forget to come <$cdef(27)><$spwfull(12)></color> with me at the<br><$cdef(27)><fqty(1)><$ifull(1325)></color> too!",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "<$voicel(4,8)><$comeff(4,3)><$motionoff(4,804)>Heya, <$cdef(27)><pname;0></color>!<clear><br><$voicel(4,5)><$emotion(4,6)>I’m a big fan of this spot you made. It’s dark, dingy, and<br>deeelightful! <$voicel(4,8)><$comeff(4,9)>Thanks a bunch!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "<$voicel(4,5)><$comeff(4,14)>Y’know, I bet there are other Pokémon like me who prefer<br>living in dimmer places.<clear><br><$voicel(4,8)><$emotion(4,14)>Maybe you should make homes in covered areas for<br>Pokémon who like it dark.",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "<$voicel(4,7)><$emotion(4,49)>Knowing you, I bet you could even make a ceiling over<br>places that don’t have one already!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "<$voicel(4,7)><$comeff(4,5)><$motionoff(4,804)>Heya, <$cdef(27)><pname;0></color>! Energetic as ever, huh?<clear><br><$voicel(4,4)><$comeff(4,7)><$motion(4,663)>Wish I could say the same, but I don’t feel so great...",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "<$voicel(4,7)><$comeff(4,3)><$motion(4,661)>Everyone’s super happy that the town’s brightened up, so<br>it’s kinda hard to say this, but...<clear><br><$voicel(4,5)><$comeff(4,14)>The truth is, I prefer darkness. <$voicel(4,3)><$comeff(4,7)><$motion(4,666)>Honestly, all this light is<br>kinda messing with me.",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "<$voicel(4,5)><$emotion(4,14)>I’d love to live somewhere with less light and more cover.<br>Know any spots like that?",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "<$voicel(4,7)><$emotion(4,53)>Seriously?! Whoa, thanks! Here’s the kinda home I like.<br>Think you can make this?",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,803)>Think you could make this somewhere covered? The<br>fastest way might be <$voicel(4,4)>to dig out a cave or something.",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "<$voicel(4,8)><$comeff(4,10)><$motionoff(4,804)>Once my spot’s ready, lemme know so I can move in!<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,8)>I’m excited for whatever you come up with!",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "<$voicel(4,8)><$comeff(4,10)><$motionoff(4,804)>Lemme know when you finish making me a home that’s<br>dark and sheltered so I can move right in!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,803)>The fastest way to make a home with cover might be to<br>dig out a cave or something...",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,666)>Uh-huh... Hmmm... I see...",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "<$voicel(4,3)><$comeff(4,7)><$motion(4,663)>This spot is a little too bright for me.<br>I’m real sorry, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "<$voicel(4,7)><$emotion(4,49)>I’d really like you to make my home somewhere darker!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "<$voicel(4,10)><$comeff(4,10)><$motionoff(4,804)>Whoa, this place looks nice and dim!",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "<oneline><$voicel(4,5)><$emotion(4,50)>Thanks again for helping me, <$cdef(27)><pname;0></color>!<br>For real!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "<$voicel(4,5)><$comeff(4,14)>Y’know, I bet there are other Pokémon like me who prefer<br>living in dimmer places.<clear><br><$voicel(4,8)><$emotion(4,14)>Maybe you should make homes in covered areas for<br>Pokémon who like it dark.",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "<oneline><$voicel(4,5)><$emotion(4,27)>Ooh, OOOH, <$cdef(27)><pname;0></color>! I just thought of<br>something<slide><br>really cool!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "<$voicel(4,3)><$comeff(4,6)><$motion(4,666)>You can carry lots ’n’ lots of water, right?",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "<$voicel(4,5)><$emotion(4,39)>Then you could, um, you could make a hot spring that<br>everybody could relax in! Whatcha think?<clear><br><$voicel(4,8)><$comeff(4,3)><$motion(4,806)>Something like this!",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,666)>The only hard part is, it’s gotta be really waaarm water!<br>I mean, it’s a HOT spring!",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Actually, that reminds me. I heard that in the winter,<br><$voicel(4,8)><$emotion(4,8)>humans used to drink nice warm water with all<slide><br>sortsa different flavors in it!",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "<$voicel(4,7)><$emotion(4,49)>And I heard they kept all those different waters in<br>machines called <$cdef(27)><fqty(2)><$ifull(616)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "<$voicel(4,5)><$emotion(4,1)>Could you make a hot spring like this? I wanna relax in it<br>with everybody!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "<$voicel(4,5)><$emotion(4,49)>I heard that humans used machines called<br><$cdef(27)><fqty(2)><$ifull(616)></color> to <$voicel(4,8)><$comeff(4,9)>hold really warm water!",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "<$voicel(4,9)><$emotion(4,8)>Oooh! You got some really warm water!",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "<$voicel(4,7)><$emotion(4,49)>Great! Now go ahead and make a hot spring like this!",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "<$voicel(4,9)><$emotion(4,1)>Oh, <$cdef(27)><pname;0></color>! You got some water!",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "<$voicel(4,5)><$comeff(4,6)><$motion(4,806)>Oh, huh? But we need really WARM water, remember?<br><$voicel(4,4)><$motion(4,807)><$comeff(4,7)><$facial(4,9)>You can’t make a hot spring with water like this!",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,666)>Can you maybe find some really waaarm drinks in a<br><$cdef(27)><fqty(1)><$ifull(616)> </color>instead?",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "<$voicel(4,9)><$emotion(4,38)>YAYYY! It’s a hot spring! It’s so waaarm and nice and<br>PERFECT! <$voicel(4,8)><$comeff(4,8)><$motion(4,806)><$facial(4,4)>Thank you, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "<$voicel(4,5)><$comeff(4,21)><$motion(4,666)><$cdef(27)><fcap><fqty(2)><$ifull(616)></color> sure are useful! You can get all<br>sortsa different waters from them!",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "<$voicel(4,7)><$emotion(4,49)>And I bet you could think of lots of things to do with all<br>that stuff, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "The sound that freaked out <$cdef(27)>Happiny </color>was coming from an<br><$cdef(27)><fqty(1)><$ifull(1702)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "Bring it to <$cdef(27)><$cname(93)> </color>to put their mind at ease!",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "<$voicel(4,7)><$emotion(4,27)>I can sometimes hear this really scary sound from down in<br>the bottom of the ship!",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "<$voicel(4,3)><$comeff(4,14)><$motion(4,666)>It seems like I always hear the sound at the same time<br>of day!<clear><br><$voicel(4,3)><$comeff(4,3)><$motion(4,807)>It’s kinda freaking me out, so could you please go figure<br>out what’s making it?",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "The <$cdef(27)><fqty(1)><$ifull(1702)></color> you picked up on the lower deck must<br>have been making that sound!",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "Show it to <$cdef(27)><$cname(93)></color> to put their mind at ease!",
+      "pt_br": ""
+    }
+  ]
+}

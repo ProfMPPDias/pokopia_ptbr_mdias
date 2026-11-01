@@ -1,0 +1,1334 @@
+{
+  "entry_index": 2012,
+  "bin_id": "0x3da500",
+  "decompressed_size": 65536,
+  "first_tag_offset": 8067,
+  "total_strings": 265,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(1,8)><$motion(1,803)><$comeff(1,9)>Ich bin hocherfreut, deine Bekanntschaft zu machen!<clear><br><$voicel(1,9)><$motion(1,805)><$facial(1,4)><$comeff(1,10)>Mir bereitet es stets große Freude, allerlei Interessantes<br>von unterschiedlichen Pokémon zu erfahren.<clear><br><$voicel(1,7)><$motion(1,801)><$comeff(1,21)>Deswegen ist es mir auch ein besonderes Anliegen,<br>mit dir die Bande der Freundschaft zu knüpfen!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<oneline><$voicel(1,5)><$motion(1,803)><$comeff(1,9)>Unsere Wege kreuzen sich heute zum ersten Mal, oder?<br>Es freut mich sehr, deine Bekanntschaft zu machen!<clear><br><$voicel(1,7)><$comeff(1,10)>Ich schätze mich glücklich, <$cdef(27)><nowner;2> </color>zu<br>meinem<slide><br>Freundeskreis<slide><br>zu zählen.<clear><br><$voicel(1,10)><$emotion(1,39)>Und ich hoffe sehr, Selbiges recht bald auch über dich<br>sagen zu können!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<oneline><$voicel(1,5)><$motion(1,803)><$comeff(1,9)>Unsere Wege kreuzen sich heute zum ersten Mal, oder?<br>Es freut mich sehr, deine Bekanntschaft zu machen!<clear><br><$voicel(1,7)><$comeff(1,10)>Ich schätze mich glücklich, <$cdef(27)><acqpname;2> </color>zu<br>meinem<slide><br>Freundeskreis<slide><br>zu zählen.<clear><br><$voicel(1,10)><$emotion(1,39)>Und ich hoffe sehr, Selbiges recht bald auch über dich<br>sagen zu können!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(1,5)><$motion(1,803)><$comeff(1,9)>Unsere Wege kreuzen sich heute zum ersten Mal, oder?<br>Es freut mich sehr, deine Bekanntschaft zu machen!<clear><br><$voicel(1,7)><$emotion(1,39)>Ich schätze mich glücklich, ein gewisses Ditto zu meinem<br>Freundeskreis zu zählen.<clear><br>Und ich hoffe sehr, Selbiges recht bald auch über dich<br>sagen zu können!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<oneline><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,3)>Sag, <$cdef(27)><pname;0></color>... Ist dieses olfaktorische<br>Genusserlebnis<slide><br>etwa<slide><br>dein Werk?",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<oneline><$comeff(1,9)><$facial(1,4)><$voicel(1,7)><$motion(1,801)>Sei gegrüßt, <$cdef(27)><pname;0></color>! Wie erfreulich,<br>dich mal<slide><br>wieder<slide><br>zu<slide><br>sehen.<slide><br>Gut<slide><br>schaust<slide><br>du<slide><br>aus.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(1,7)><$motion(1,803)><$comeff(1,9)>Unsere Wege kreuzen sich heute zum ersten Mal, oder?<br>Es freut mich sehr, deine Bekanntschaft zu machen!<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,14)>Nun... Der Umstand, dass sich hier schon andere Pokémon<br>niedergelassen haben, ist ein deutliches Indiz dafür, dass<slide><br>es um das hiesige Wohlbefinden gut bestellt sein muss.<clear><br><$voicel(1,8)><$emotion(1,39)>Eventuell sollte auch ich die Möglichkeit in Betracht<br>ziehen, meinen Wohnsitz in diese Gegend zu verlegen.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<$comeff(1,14)><$motion(1,805)><$voicel(1,5)>Sei gegrüßt! Ich gehe wohl recht in der Annahme, dass du<br>in Gefilden fernab von hier heimisch bist, nicht wahr?<clear><br><$comeff(1,3)><$motion(1,803)><$voicel(1,7)>Sollte dir ein Pokémon mit ausgewiesener Expertise in<br>Bezug auf diese Lokalität bekannt sein, so wäre ich dir<slide><br>sehr verbunden, wenn du uns vorstellen könntest!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "<$comeff(1,14)><$motion(1,805)><$voicel(1,5)>Dass mir hier jemand Besuch abstattet, ist ein äußerst<br>rares Phänomen!<clear><br>Überdies scheinst du auch noch eine erhebliche Distanz<br>überbrückt zu haben, um herzugelangen...<clear><br><$comeff(1,3)><$motion(1,807)><$voicel(1,7)>Ich würde ja nur allzu gerne einem Pokémon mit<br>ausgewiesener Expertise in Bezug auf diese Lokalität<slide><br>begegnen.<clear><br><$comeff(1,9)><$motion(1,803)><$voicel(1,9)>Falls du also jemanden kennst, auf den diese Definition<br>zutrifft, so wäre ich dir sehr verbunden, wenn du uns<slide><br>vorstellen könntest!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "<$comeff(1,17)><$facial(1,14)><$voicel(1,5)>Das Rauschen der Wellen ist wahrlich beruhigend.<br>Ein angemessener Hintergrund für tiefgründige Gedanken.",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,805)>Du kannst dir gar nicht vorstellen, welch kompliziertes<br>Unterfangen es ist, mein Fell stets in makelloser Schönheit<slide><br>zu präsentieren...<clear><br><$voicel(1,8)><$emotion(1,49)>Dieses herrliche Haarkleid ist Zeugnis harter Arbeit sowie<br>eiserner Disziplin!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)>Eigenlob ist sonst nicht in meinem Repertoire, doch<br>nachdem ich mein Werk in Augenschein genommen habe,<slide><br>darf ich mit Fug und Recht behaupten:<clear><br>Für <genqty;0(diesen,diese,dieses,diese)> <$cdef(27)><fqty(1)><usingp;0></color> stellt<br>die<slide><br>Bezeichnung<slide><br>„Baukunst“<slide><br>gewiss<slide><br>keine<slide><br>Übertreibung dar!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)><fcap><iart;0()><$cdef(27)><fqty(1)><usingp;0> </color>wie von<br>Meisterhand<slide><br>geschaffen!<slide><br>Ein wahrer<slide><br>Augenschmaus!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "<$comeff(1,6)><$facial(1,1)><$motion(1,805)><$voicel(1,5)>Oh, kann ich dir bei etwas behilflich sein? Benötigst du<br>eventuell Hilfe beim Zerkleinern von Baumstämmen?",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<$comeff(1,9)><$facial(1,1)><$motion(1,661)><$voicel(1,7)>Eine Schatzsuche ist schlichtweg famos. Einfach herrlich,<br>auf was für Raritäten man dabei stoßen kann.",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,8)>Solltest du einmal ein bestimmtes Pokémon suchen, dann<br>bitte mich ruhig um Hilfe. Ich werde dich in Windeseile<slide><br>zu ihm bringen.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,1)>Einen wunderschönen guten Morgen! Ich frage mich,<br>welch erhellende Erkenntnisse dieser taufrische Tag wohl<slide><br>für uns bereithält.",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "<$voicel(1,7)><$emotion(1,50)>Guten Morgen, <$cdef(27)><pname;0></color>!<clear><br>Kann es eine schönere Art geben, einen neuen Tag<br>zu beginnen, als den Morgengruß an dich zu richten?",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(1,5)><$motion(1,803)><$comeff(1,10)>Einen wunderschönen Tag, <$cdef(27)><pname;0></color>!<clear><br>Solltest du jemals meiner Unterstützung bedürfen,<br>so tu dir keinen Zwang an und frage mich einfach!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(1,7)><$motion(1,801)><$comeff(1,6)>Sei mir gegrüßt, <$cdef(27)><pname;0></color>!<br>Wie ist das werte Befinden heute?",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,14)>Über welche Themen des Tagesgeschehens sollte ich<br>meine Gedanken wohl heute kreisen lassen?",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "<$voicel(1,5)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>Eh man sich’s versieht, hält auch schon die Abendstunde<br>Einzug. Sag, wollen wir gemeinsam auf den Einbruch der<slide><br>Nacht warten?",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Sei mir gegrüßt, <$cdef(27)><pname;0></color>!<clear><br>Findest du nicht auch, dass sich die Abendstille bestens<br>eignet, um sich dem Spiel der Gedanken hinzugeben und<slide><br>die Ereignisse des Tages Revue passieren zu lassen?",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "<$voicel(1,5)><$motion(1,666)><$comeff(1,6)>Mich würde ja interessieren, was zu dieser Tageszeit wohl<br>mit der Sonne geschieht...",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Hast du ein bestimmtes Anliegen? Es freut mich stets,<br>wenn ich mein Wissen zum Wohle anderer nutzen kann.",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "<$voicel(1,5)><$emotion(1,55)>Es gibt Tage, da verspürt man förmlich den Drang zum<br>intellektuellen Austausch, zum anregenden Gespräch<slide><br>mit anderen... Und heute ist so ein Tag!",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>Du unternimmst wohl einen kleinen Spaziergang, hm?<br>Vortrefflich! Bewusste Bewegung ist die beste Art,<slide><br>den Kopf freizubekommen.",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)>Sei gegrüßt, <$cdef(27)><pname;0></color>! Na, ist dir<br>etwas<slide><br>Interessantes<slide><br>untergekommen?",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "<$voicel(1,7)><$motion(1,661)><$facial(1,4)><$comeff(1,21)>Es lohnt sich, stets mit offenen Augen durch die Welt zu<br>spazieren. Man entdeckt unterwegs oft Dinge, die einem<slide><br>unerwarteterweise von großem Nutzen sind!",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "<oneline><$voicel(1,7)><$motion(1,801)><$facial(1,4)><$comeff(1,10)>Ab und an sollte ich mich auch der Leibesertüchtigung<br>widmen. Getreu dem Motto: „Mens sana in corpore sano“!<slide><br>Also... „Ein gesunder Geist in einem gesunden Körper“.<clear><br>Am liebsten natürlich an deiner Seite,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<oneline><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Sei gegrüßt, <$cdef(27)><pname;0></color>! Gibt es auch<br>heute<slide><br>wieder<slide><br>etwas<slide><br>Neues,<slide><br>das du mit<slide><br>mir<slide><br>teilen möchtest?",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,3)>Du scheinst dir fürwahr keinen Moment Ruhe zu gönnen,<br>doch bedenke, dass etwas Müßiggang von Zeit zu Zeit<slide><br>unerlässlich ist!",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "<$voicel(1,5)><$emotion(1,55)>Ist dir auch schon einmal aufgefallen, wie rasend schnell<br>die Zeit vergeht, wenn man in Gedanken versunken ist?",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "<$voicel(1,5)><$emotion(1,55)>Mich würde ja schon interessieren, worüber du dich so<br>alles mit deinen anderen Freunden unterhältst...",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(1,5)><$motion(1,666)><$comeff(1,6)>Was mag bloß die Ursache für das verwunderliche<br>Verschwinden der Menschen sein?<slide><br>Diese Frage beschäftigt mich sehr...",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "<$voicel(1,7)><$emotion(1,50)>Tu dir nur keinen Zwang an und frag mich ruhig alles,<br>was dir auf der Seele brennt.<clear><br>Schließlich ist es mir stets ein Vergnügen, mich mit dir<br>auszutauschen.",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "<$voicel(1,3)><$emotion(1,14)>Mh...?<clear><br>Ah, Verzeihung... Ich muss eingedöst sein.",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "<$voicel(1,3)><$motion(1,807)><$facial(1,14)><$comeff(1,16)>*gähn*... Guten Morgen. Bitte gedulde dich ein wenig,<br>bis meine Synapsen wieder voll betriebsfähig sind...",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>Unerforschtes Terrain, quasi Terra incognita...<br>Da bekommt man es schon mit der Angst zu tun,<slide><br>doch die Abenteuerlust überwiegt klar!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>Sobald ich mich an alles hier gewöhnt habe, werde ich<br>die Erkundung der Umgebung ins Auge fassen.<slide><br>Das wird sicher ein wahres Vergnügen!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "<$comeff(1,1)><$motion(1,803)><$voicel(1,5)>Deine Ortskenntnis ist doch sicher formidabel, nicht wahr?<clear><br>Ich hoffe, du fasst es nicht als anmaßend auf, dass ich mich<br>auf deine tatkräftige Hilfe und Unterstützung verlasse!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "<$comeff(1,14)><$motion(1,827)><$voicel(1,5)>Hm, faszinierend... Das <$cdef(27)><$spwfull(1)></color> ist fürwahr eine Tätigkeit<br>mit erstaunlich viel Tiefgang. Daran möchte ich mich in<slide><br>Bälde auch versuchen!",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Die Vorbereitungen fürs <$cdef(27)><$spwfull(1)></color> sind abgeschlossen!<br>Hehe, ich kann es kaum abwarten, mich endlich an die<slide><br>Arbeit zu machen.",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "<oneline><$comeff(1,1)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Die Anzahl der Pokémon hier in der Gegend ist gestiegen.<br>Der bloße Gedanke daran lässt mein Herz höherschlagen!<clear><br>Sag, <$cdef(27)><pname;0></color>, das verdanken wir doch<br>sicher<slide><br>alles dir, oder?",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "<$comeff(1,14)><$motion(1,827)><$voicel(1,5)>Hinsichtlich der Wohnqualität weist meine Bleibe noch<br>Punkte auf, die ich als verbesserungswürdig erachte...",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "<$comeff(1,1)><$facial(1,4)><$motion(1,803)><$voicel(1,7)>Steten Schrittes verwandelt sich meine Bleibe in ein<br>behagliches Heim.<clear><br>Das verdanke ich alles dir, <$cdef(27)><pname;0></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "<$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Meine Bleibe hat den Zenit der Behaglichkeit erreicht!<br>Du bist ein Genie, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "<oneline><$comeff(1,3)><$motion(1,803)><$voicel(1,7)>Sei gegrüßt, <$cdef(27)><pname;0></color>! Es freut mich,<br>dass<slide><br>du<slide><br>das<slide><br>Gespräch<slide><br>mit mir suchst!",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "<oneline><$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Sei gegrüßt, <$cdef(27)><pname;0></color>! Heute ist ein<br>exquisiter Tag,<slide><br>und weißt<slide><br>du auch, warum?<slide><br>Weil ich dir begegnen durfte!",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Ausflüge sind wirklich wunderbar, denn man gewinnt so<br>viele neue Eindrücke. Lass uns das recht bald wiederholen!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "<$comeff(1,3)><$motion(1,803)><$voicel(1,5)>Willkommen zurück, <$cdef(27)><pname;0></color>!<br>Na, hattest du einen amüsanten Ausflug?",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "<oneline><$comeff(1,3)><$motion(1,803)><$voicel(1,5)>Willkommen zurück, <$cdef(27)><pname;0></color>! Du hast ja<br>eine<slide><br>regelrechte<slide><br>Weltreise<slide><br>unternommen.",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>Sollte ich etwas finden, das dir gefallen könnte, werde ich<br>es in einer <$cdef(27)><fqty(1)><$ifull(1460)></color> hinterlegen.",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Ich möchte mich ja nicht selbst loben, aber ich scheine ein<br>Händchen fürs <$cdef(27)><$spwfull(1)> </color>zu haben.<clear><br>Du hast nicht zufällig ein Projekt, bei dem ich meine<br>Fertigkeiten unter Beweis stellen könnte?",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>Der Umgang mit Feuer ist meine Spezialität, musst du<br>wissen. Du kannst mich jederzeit rufen, wenn du meine<slide><br>Hilfe benötigst.",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,3)>Dürfte ich dir meine Hilfe beim Bewässern zur Verfügung<br>stellen?",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,1)>Blumen und Gemüse sowie Pflanzenkunde schlechthin sind<br>mein Fachgebiet.<clear><br>Also lass es mich ruhig wissen, falls es da ein bestimmtes<br>Gewächs gibt, das du gerne anpflanzen möchtest.",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "<oneline><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Solltest du ein paar<br><fqty(2)><$cdef(27)><accclass><pdcitem;0><slide><br></color>finden,<slide><br>so steht<slide><br>es<slide><br>dir frei,<slide><br>sie nach<slide><br>eigenem<slide><br>Gutdünken<slide><br>zu verwenden!",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Treffen wir uns doch in naher Zukunft mal an<br>der <$cdef(27)><fqty(1)><$ifull(1325)></color>.<clear><br>Ich würde dir gern demonstrieren, was für ein Vergnügen<br>das <$cdef(27)><$spwfull(12)></color> bereiten kann!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)>Hoho... Also ich muss schon sagen, die Bleibe von<br><$cdef(27)><wndhmownerpk;0><slide><br></color>lädt zu<slide><br>allerlei<slide><br>interessanten<slide><br>Hypothesen<slide><br>zu<slide><br>seiner<slide><br>Persönlichkeit ein!",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Man kann der Landschaft hier einfach nicht überdrüssig<br>werden.<clear><br>Jeder Blick offenbart bislang Unentdecktes, woran sich das<br>Auge gar nicht sattsehen kann!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)>So <iart;0()><$cdef(27)><class><fqty(1)><usingp;0></color><br><qty;0(ist,sind)><slide><br>wahrlich<slide><br>der<slide><br>reinste<slide><br>Spaß!<slide><br>Wirklich formidabel!<slide><br>Famos!<slide><br>Fabelhaft!",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "<$voicel(1,5)><$emotion(1,64)>Nanu? Was hat es denn damit bloß auf sich? Weißt du<br>zufällig mehr darüber, <$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "<$voicel(1,7)><$emotion(1,6)>Hihihi... <fcap><iart;0()><$cdef(27)><fqty(1)><usingp;0></color>... *kicher*...<br>Ähem! Wie überaus reizend!",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,55)>Hmmm... <iart;0()><$cdef(27)><fqty(1)><usingp;0></color>...<br>Faszinierend.<slide><br>Wirklich faszinierend!",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "<oneline><$voicel(1,9)><$motion(1,803)><$facial(1,4)><$comeff(1,8)>Oh, <iart;0()><$cdef(27)><fqty(1)><usingp;0></color>... Man kann es<br>nicht<slide><br>anders<slide><br>sagen:<slide><br>Ich bin<slide><br>hin<slide><br>und weg!",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "<$voicel(1,5)><$emotion(1,64)>Findest du nicht auch, dass mir das hier wie aus dem<br>Gesicht geschnitten ist?<clear><br>Zu welchem Zweck man wohl ein Abbild von mir<br>angefertigt hat...?",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "<$voicel(1,5)><$motion(1,803)><$facial(1,4)><$comeff(1,1)>*schling* Es wäre eine Schande, diese Gaumenfreude...<br>*schmatz*... nicht voll und ganz... *schluck*... zu genießen!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "<$voicel(1,3)><$emotion(1,41)>Uff... Um das hinunterzuwürgen, benötigt man schon eine<br>gehörige Portion Mut...",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,39)>Auf dich ist schlichtweg immer Verlass,<br><$cdef(27)><pname;0></color>!<clear><br>Wie ich sehe, legst du dich auch heute wieder besonders<br>ins Zeug.",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)>Sieh an, sieh an! Eine tadellose Leistung von<br><$cdef(27)><blsspwkpk;0></color>!<clear><br>Ich habe natürlich nichts anderes erwartet.",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "<$voicel(1,3)><$motion(1,807)><$comeff(1,4)>*schnauf* Beim Fangen habe ich... weder Zeit noch<br>Ausdauer... *keuch* um Gedanken daran zu verschwenden,<slide><br>wie ich mein Körpergewicht möglichst effizient verteile...",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Durch die Interaktion mit <$cdef(27)><nnowpairpk;0><br></color>sehe<slide><br>ich<slide><br>die<slide><br>Welt<slide><br>aus<slide><br>einer<slide><br>völlig<slide><br>neuen<slide><br>Perspektive.",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "<$voicel(1,5)><$motion(1,803)><$facial(1,4)><$comeff(1,1)>Nun denn, es ist schon recht spät. Uns beiden würde jetzt<br>eine Mütze voll Schlaf guttun. Treten wir den Heimweg an!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>So, Zeit für mich, mein Nachtlager aufzusuchen.<br>Ruh du dich bitte auch ausgiebig aus, ja?",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Oh, es graut schon der Morgen! Höchste Zeit also,<br>das Ende meines Tagewerks einzuläuten!<slide><br>Oder vielleicht eher „meines Nachtwerks“? Hohoho!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "<$voicel(1,3)><$motion(1,807)><$comeff(1,17)>Argh, das gleißende Sonnenlicht ist Gift für meine Augen!<br>Ein deutliches Zeichen dafür, dass ich schlafen sollte...",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "<$voicel(1,5)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>Beim Landevorgang ist viel mehr Sorgfalt geboten<br>als beim bloßen Flug in der Luft, musst du wissen.",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "<$comeff(1,14)><$motion(1,805)><$voicel(1,5)>An heißen Tagen meiden andere Pokémon mich häufig.<br>Doch wer könnte es ihnen verübeln? Durch die Sonne<slide><br><$emotion(1,51)><$voicel(1,4)>heizt sich mein Körper nun mal äußerst stark auf.",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "<$voicel(1,5)><$motion(1,807)><$facial(1,4)><$comeff(1,10)>Mein Gift dient einzig dem Schutz und Trutze.<br>Nie käme ich auf die Idee, es wahllos einzusetzen!",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Auf die Robustheit meines Körpers schwöre ich<br>Stein und Bein!<clear><br>Selbst das Felsgestein ringsum hält dem Vergleich mit mir<br>nicht stand.",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "<$voicel(1,5)><$emotion(1,55)>Was die Zukunft wohl für mich bereithält? Werde ich noch<br>an Größe gewinnen oder hat meine Wachstumsphase ihr<slide><br>Endstadium erreicht? Es bleibt spannend!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "<$voicel(1,5)><$emotion(1,55)>Ich schätze mal grob, dass im täglichen Energiebedarf<br>zwischen uns beiden ein Unterschied von circa...<slide><br><$voicel(1,8)><$emotion(1,14)>ja, so um die acht Beeren besteht. Das klingt plausibel!",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Wie es sich wohl anfühlen mag, im Meer zu schwimmen?<br>Hm... Womöglich beschäftigt die Frage mich umso mehr,<slide><br>weil mir dieses Erlebnis auf ewig verwehrt bleibt.",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Wenn ich nach Herzenslust spielen und herumtollen will,<br>dann plansche ich im Wasser. Das ist mein Nonplusultra<slide><br>des Vergnügens!",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "<$voicel(1,7)><$emotion(1,39)>Ich würde mich ja als relativ pflegeleicht beschreiben.<br>Schließlich kann ich meine Nährstoffe sowohl über<slide><br>reguläre Nahrung als auch Sonnenstrahlen beziehen.",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "<$voicel(1,7)><$emotion(1,64)>Der elektrische Strom hat es mir mit seinem famosen<br>Farbenspiel aus blauen und gelben Funken sehr angetan!<slide><br>Ich frage mich, welche wohl seine wahre Farbe ist...?",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "<$comeff(1,3)><$motion(1,666)><$voicel(1,7)>Ich denke, heute werde ich mich der Kunst der Meditation<br>widmen. Tief durchatmen und zur Ruhe kommen.<clear><br><$comeff(1,9)><$motion(1,801)><$voicel(1,10)>Es ist schön, sich von Zeit zu Zeit auch ein wenig<br>Entspannung zu gönnen.",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "<$voicel(1,7)><$motion(1,661)><$facial(1,4)><$comeff(1,9)>Wenn andere mich zum ersten Mal erblicken, jagt ihnen<br>das häufig einen ziemlichen Schrecken ein...<clear><br>Daher gebe ich mir stets große Mühe, einen besonders<br>freundlichen Eindruck zu erwecken.",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "<$comeff(1,6)><$motion(1,803)><$voicel(1,5)>Offenbar haben wir Zuwachs bekommen. Hast du dich<br>schon vorgestellt?",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "<oneline><$comeff(1,6)><$motion(1,803)><$voicel(1,5)>Du bist <$cdef(27)><pname;0></color>, nicht wahr?<br>Und, wie ist<slide><br>das<slide><br>werte<slide><br>Befinden,<slide><br>wenn ich<slide><br>fragen darf?",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "<oneline><$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Sei gegrüßt, <$cdef(27)><pname;0></color>!<br>Welch erquickende<slide><br>Morgenfrische,<slide><br>findest du<slide><br>nicht auch?",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "<oneline><$comeff(1,3)><$facial(1,4)><$motion(1,803)><$voicel(1,7)>Sei gegrüßt, <$cdef(27)><pname;0></color>! Die Sonne blendet<br>ganz<slide><br>schön, oder?",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "<oneline><$comeff(1,9)><$facial(1,4)><$motion(1,803)><$voicel(1,7)>Guten Abend, <$cdef(27)><pname;0></color>! Die Sterne<br>funkeln<slide><br>heute<slide><br>Abend<slide><br>ganz besonders schön, nicht wahr?",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Es regnet – auf meinen Geruchssinn ist eben Verlass!<clear><br>Ich kann es nicht beschreiben, aber es roch schon die<br>ganze Zeit so, als liege Regen in der Luft. Hoho!",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "<oneline><$emotion(1,51)><$voicel(1,3)><$pkcry;0(1,4)>... Hoffentlich macht sich dieser Regen<br>bald rar.",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "<$comeff(1,14)><$motion(1,827)><$voicel(1,5)>So, wie der Himmel aussieht, würde es mich nicht wundern,<br>wenn es heute noch Regen gibt...",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Ich schätze die Gespräche mit <$cdef(27)>Professor Tangoloss </color>sehr.<br>Dabei kommen immer Dinge auf, die man selbst zuvor<slide><br>nicht einmal in Betracht gezogen hat...",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>Verlass dich ruhig auf mich. Ich werde alles fein säuberlich<br>demontieren und keinerlei Spuren hinterlassen!",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "<$voicel(1,5)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Weißt du, welcher Faktor im kulinarischen Metier den<br>Ausschlag über Erfolg oder Misserfolg gibt...?<clear><br>Die Antwort ist so simpel wie prägnant: die Präzision!",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "<$voicel(1,3)><$comeff(1,14)><$motion(1,666)>Nanu? Möchtest du vielleicht etwas mit mir besprechen?",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "<$voicel(1,5)><$comeff(1,3)><$motion(1,805)>Die Gegend hier hat allerlei Interessantes zu bieten.",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Mit dir an der Seite verwandelt sich selbst der alltäglichste<br>Ausflug in ein vergnügliches Abenteuer!",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Unsere eigenen vier Wände sind doch eine wahre<br>Wohlfühloase, findest du nicht auch?<clear><br>Ich könnte den lieben langen Tag einfach nur zu Hause<br>verbringen!",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,805)>Sag, bist du auch schon einmal Zeuge jenes Schattens<br>geworden?<clear><br>So gigantisch ist er in seinen Ausmaßen, dass er beinahe<br>das gesamte Himmelszelt zu bedecken scheint!<clear><br>Wer oder was vermag einen solchen Schatten zu werfen...?<clear><br><$voicel(1,7)><$emotion(1,14)>Wenn du auch in den Genuss dieses seltenen Anblicks<br>kommen willst, solltest du in dieser Gegend stets die<slide><br>Augen offen halten.",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Man soll sich bei seinem Urteil nicht von Äußerlichkeiten<br>leiten lassen.<clear><br>Gerade Pokémon, die nach außen beinahe bösartig<br>wirken, sind oft die treuesten Seelen weit und breit!<clear><br><$voicel(1,6)><$comeff(1,14)><$motion(1,666)><$facial(1,1)>Und in meinem ganz persönlichen Fall, nun ja...",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "<$voicel(1,7)><$comeff(1,14)><$motion(1,805)>Die landläufige Vorstellung, dass ein grimmiges Äußeres<br>nur Nachteile mit sich bringt, kann ich nicht bestätigen.<clear><br>Mitunter kann es auch von Vorteil sein.<clear><br><$voicel(1,6)><$emotion(1,49)>Andere Pokémon treten beispielsweise ungefragt zur Seite,<br>wenn unsereins im Anmarsch ist!",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "<oneline><$voicel(1,5)><$motion(1,805)><$comeff(1,14)>Ich benötige<br><$cdef(27)><nquestinum;1> <accclass><nquestitem;0></color>.<clear><br><$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Falls du mir diesbezüglich weiterhelfen könntest, wäre ich<br>dir zutiefst verbunden.",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Vielen Dank, dass du meinem Wunsch so zeitnah<br>nachgekommen bist!",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Sind dir weitere Orte wie dieser bekannt? Von ihnen geht<br>so ein bezaubernd idyllischer Charme aus, nicht wahr?<clear><br><$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Nur zu gerne würde ich erneut in den Genuss eines<br>vergleichbaren Anblicks kommen!",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "<$voicel(1,9)><$emotion(1,39)>Oh, hast du das etwa eigens für mich Wirklichkeit werden<br>lassen? Du bist formidabel, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "<oneline><$comeff(1,3)><$facial(1,2)><$motion(1,803)><$voicel(1,7)>Sag mal, <$cdef(27)><pname;0></color>, würde es dir etwas<br>ausmachen,<slide><br>die Passierbarkeit<slide><br>dieses Weges<slide><br>zu optimieren?",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Dank dir ist es mir gelungen, ohne große Komplikationen<br>meinen Zielort zu erreichen. Vielen Dank!",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Nanu...? Was ich mir ersehne, befindet sich ja bereits in<br>deinem Besitz!<clear><br>Ich würde mich sehr freuen, wenn du es mit mir teiltest.<br>Na, was sagst du?",
+      "pt_br": ""
+    },
+    {
+      "id": 114,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Da kann man wohl nichts machen. Sag mir doch bitte<br>Bescheid, falls du es dir anders überlegst.",
+      "pt_br": ""
+    },
+    {
+      "id": 115,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Mir steht der Sinn nach einer klugen Konversation mit<br><$cdef(27)><nquestappk;0></color>. Wärst du so gut, mich zu ihm zu führen?",
+      "pt_br": ""
+    },
+    {
+      "id": 116,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Dank dir bin ich zügig und wohlbehalten am Ziel<br>angelangt. Danke sehr, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 117,
+      "en": "<$voicel(1,5)><$motion(1,805)><$facial(1,4)><$comeff(1,6)>Ich interessiere mich sehr für eine Kunstform, die sich<br>anscheinend „Fotografie“ nennt.<clear><br>Würdest du damit vielleicht ein Bild von uns beiden für<br>die Nachwelt festhalten?",
+      "pt_br": ""
+    },
+    {
+      "id": 118,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Sieh einer an... Das ist also ein solches „Foto“...<br>Höchst interessant! Danke, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 119,
+      "en": "<$comeff(1,6)><$motion(1,803)><$voicel(1,7)>Nanu...? Seine Entfernung ist de facto um einiges geringer<br>als die von mir antizipierte Distanz!",
+      "pt_br": ""
+    },
+    {
+      "id": 120,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Ich hätte da eine Bitte an dich, <$cdef(27)><pname;0></color>.<br>Würdest du mir kurz deine Aufmerksamkeit schenken?",
+      "pt_br": ""
+    },
+    {
+      "id": 121,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Verstehe. Dann werde ich es ein andermal erneut<br>versuchen.",
+      "pt_br": ""
+    },
+    {
+      "id": 122,
+      "en": "<oneline><$voicel(1,5)><$motion(1,805)><$comeff(1,14)><fcap><iart;1()><$cdef(27)><fqty(1)><nquestitem;1></color> <qty;1(fehlt,fehlen)> noch bei<br>meiner<slide><br>Bleibe!<clear><br><$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Ich wäre dir sehr verbunden, wenn du mir <genqty;1(einen solchen,eine solche,ein solches,solche)><br>beschaffen könntest!",
+      "pt_br": ""
+    },
+    {
+      "id": 123,
+      "en": "<$voicel(1,9)><$emotion(1,8)><$pkcry;0(1,2)>! Kann ich meinen Sinnen trauen?<br>Tausend Dank, <$cdef(27)><pname;1></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 124,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Nanu...? Hast du solch ein Objekt etwa bereits konstruiert?",
+      "pt_br": ""
+    },
+    {
+      "id": 125,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Nanu...? Hast du etwa bereits platziert, worum ich dich<br>gebeten hatte?",
+      "pt_br": ""
+    },
+    {
+      "id": 126,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>... <$pkcry;0(1,1)>? Dein Gesichtsausdruck spricht Bände!<br>Du hast meinen Wunsch bereits erfüllt, nicht wahr?",
+      "pt_br": ""
+    },
+    {
+      "id": 127,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Ich hätte eine Bitte an dich, <$cdef(27)><pname;0></color>.<clear><br><$voicel(1,8)><$comeff(1,10)>Und zwar habe ich alle hier mit einer Erledigung für mich<br>beauftragt.<clear><br><$voicel(1,6)><$motion(1,805)><$comeff(1,6)>Würdest du mir ebenfalls zur Hand gehen?<br>Das wüsste ich sehr zu schätzen.",
+      "pt_br": ""
+    },
+    {
+      "id": 128,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Die Angelegenheit, mit der ich alle betraut hatte,<br><$voicel(1,8)><$emotion(1,8)>wurde vorhin zum Abschluss gebracht.<clear><br><$voicel(1,6)><$motion(1,803)><$comeff(1,10)>Wenn ich wieder einmal Hilfe benötige, werde ich mich<br>ohne Umschweife an dich wenden.",
+      "pt_br": ""
+    },
+    {
+      "id": 129,
+      "en": "<$comeff(1,3)><$motion(1,803)><$facial(1,4)><$voicel(1,5)>Wenn du ein neues Haus bauen würdest, könnte ich mich<br>an einer größeren architektonischen Vielfalt ergötzen.<clear><br>Aus diesem Grund würde ich eine Expansion der hiesigen<br>Immobilien sehr begrüßen.",
+      "pt_br": ""
+    },
+    {
+      "id": 130,
+      "en": "<$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Sag, du hast tatsächlich ein Haus zur privaten Nutzung<br>errichtet? Tausend Dank, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 131,
+      "en": "<oneline><$comeff(1,14)><$motion(1,806)><$voicel(1,7)>Ich verspüre ein nicht unerhebliches Verlangen,<br><acciart;0()><$cdef(27)><acc><fqty(1)><nquestitem;0></color><slide><br>zu mir zu nehmen!<clear><br>Folglich wäre ich dir sehr dankbar, wenn du mir diese<br>Köstlichkeit kredenzen könntest!",
+      "pt_br": ""
+    },
+    {
+      "id": 132,
+      "en": "<$comeff(1,9)><$facial(1,1)><$motion(1,661)><$voicel(1,7)>Vielen Dank fürs Teilen, <$cdef(27)><pname;0></color>!<br>Das kommt mir sehr entgegen!",
+      "pt_br": ""
+    },
+    {
+      "id": 133,
+      "en": "<$comeff(1,4)><$motion(1,802)><$voicel(1,3)>Ich bin untröstlich. Nächstes Mal werde ich erst nach<br>Abschluss einer eingehenden Vorabprüfung das Wort<slide><br>an dich richten! <clear><br><$comeff(1,3)><$motion(1,803)><$voicel(1,6)>Ich hoffe, dass ich auch weiterhin auf deine tatkräftige<br>Unterstützung werde zählen können!",
+      "pt_br": ""
+    },
+    {
+      "id": 134,
+      "en": "<$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Ich wusste, dass du meinen hohen Erwartungen gerecht<br>werden würdest, <$cdef(27)><pname;0></color>! Tausend Dank!",
+      "pt_br": ""
+    },
+    {
+      "id": 135,
+      "en": "<$comeff(1,6)><$facial(1,1)><$motion(1,803)><$voicel(1,7)>Oh... Hast du etwa zufällig schon vorbereitet, worum ich<br>dich gebeten hatte? Falls ja, wärst du gewillt, es mit mir<slide><br>zu teilen?",
+      "pt_br": ""
+    },
+    {
+      "id": 136,
+      "en": "<$comeff(1,9)><$facial(1,1)><$motion(1,661)><$voicel(1,7)>Vielen Dank fürs Teilen, <$cdef(27)><pname;0></color>!<br>Das kommt mir sehr entgegen!",
+      "pt_br": ""
+    },
+    {
+      "id": 137,
+      "en": "<oneline><$voicel(1,7)><$motion(1,824)><$comeff(1,1)><$facial(1,4)>Ich hätte da eine kleine Aufmerksamkeit für dich,<br><$cdef(27)><pname;0></color>.<clear><br><$voicel(1,9)><$motion(1,801)><$comeff(1,10)><$facial(1,5)>Wenn man bedenkt, was du schon alles für mich getan<br>hast, ist das schließlich das Mindeste.",
+      "pt_br": ""
+    },
+    {
+      "id": 138,
+      "en": "<$comeff(1,7)><$motion(1,802)><$voicel(1,3)>Ich habe konstatiert, dass du von einer außerordentlichen<br>Anzahl an Pokémon umringt bist.<clear><br><$comeff(1,3)><$motion(1,803)><$voicel(1,6)>Da eine weitere Erhöhung der Pokémon-Dichte in deiner<br>Umgebung die Bewegungsfreiheit einschränken würde,<slide><br>muss ich deine Einladung zu diesem Zeitpunkt leider<slide><br>ausschlagen.",
+      "pt_br": ""
+    },
+    {
+      "id": 139,
+      "en": "<$comeff(1,4)><$motion(1,802)><$voicel(1,3)>Ich bitte vielmals um Entschuldigung, doch ich bin zurzeit<br>bedauerlicherweise verhindert.<clear><br>Wäre es möglich, zu einem späteren Zeitpunkt erneut in<br>dieser Angelegenheit das Wort an mich zu richten?",
+      "pt_br": ""
+    },
+    {
+      "id": 140,
+      "en": "<$voicel(1,5)><$motion(1,824)><$comeff(1,3)><$facial(1,1)>So funktioniert also dieses <$cdef(27)><$spwfull(1)></color>... Welch Wunderwerk<br>der menschlichen Technik!",
+      "pt_br": ""
+    },
+    {
+      "id": 141,
+      "en": "<$emotion(1,1)><$voicel(1,8)>Ich werde Sorge tragen, nicht den Anschluss zu verlieren.",
+      "pt_br": ""
+    },
+    {
+      "id": 142,
+      "en": "<$voicel(1,5)><$emotion(1,14)>War es das? Dann verabschiede ich mich.",
+      "pt_br": ""
+    },
+    {
+      "id": 143,
+      "en": "<$voicel(1,1)><$motion(1,807)><$facial(1,9)><$comeff(1,7)>Mir fehlt aktuell leider die Energie für eine Exkursion.<br>Meine Selbstdiagnose lautet: akutes Gastralvakuum.<clear><br>Oder für Laien... Ich habe einen Mordshunger!",
+      "pt_br": ""
+    },
+    {
+      "id": 144,
+      "en": "<$voicel(1,1)><$motion(1,807)><$facial(1,9)><$comeff(1,7)>Mein Hungergefühl ist derart überwältigend, dass ich<br>keinen Schritt mehr tun kann...",
+      "pt_br": ""
+    },
+    {
+      "id": 145,
+      "en": "<$voicel(1,3)><$motion(1,807)><$comeff(1,7)>Es regnet...<clear><br>Wollen wir hoffen, dass dieses Wetterphänomen nicht<br>allzu lange währt!",
+      "pt_br": ""
+    },
+    {
+      "id": 146,
+      "en": "<$voicel(1,3)><$motion(1,807)><$comeff(1,17)>Also wirklich... Mäßige dich, ich bitte darum!",
+      "pt_br": ""
+    },
+    {
+      "id": 147,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Hm... <fcap><iart;0()><$cdef(27)><class><fqty(1)><aireactp;0></color>,<br>nicht schlecht.<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Doch etwas näher an meiner Bleibe könnte ich mehr damit<br>anfangen. Wärst du so freundlich?",
+      "pt_br": ""
+    },
+    {
+      "id": 148,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,39)>So <iart;0()><$cdef(27)><class><fqty(1)><aireactp;0><br></color><qty;0(trifft,treffen)><slide><br>wirklich<slide><br>ganz<slide><br>meinen<slide><br>Geschmack.<slide><br>Vielen Dank!",
+      "pt_br": ""
+    },
+    {
+      "id": 149,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,21)><$pkcry;0(1,2)>... Diese Attacke ist äußerst angenehm.<br>Wirklich äußerst angenehm!",
+      "pt_br": ""
+    },
+    {
+      "id": 150,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)><$pkcry;0(1,3)>...? Was war das gerade eben?",
+      "pt_br": ""
+    },
+    {
+      "id": 151,
+      "en": "<oneline><$voicel(1,3)><$motion(1,805)><$comeff(1,7)>Hm... Wie es aussieht, <qty;0(ist,sind)><br><iart;0()><$cdef(27)><class><fqty(1)><aireactp;0></color><slide><br>von<slide><br>hier<slide><br>verschwunden...",
+      "pt_br": ""
+    },
+    {
+      "id": 152,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,14)>Möglicherweise liegt es daran, dass meine Bleibe<br>wärmer geworden ist...<clear><br><$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Aber es lebt sich hier jetzt wesentlich angenehmer!",
+      "pt_br": ""
+    },
+    {
+      "id": 153,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Die Temperatur meiner Bleibe scheint merklich<br>gestiegen zu sein.<clear><br><$voicel(1,4)><$motion(1,807)><$comeff(1,4)>Wenn dies so weitergeht, droht mir womöglich noch<br>ein Hitzschlag... Welch ein grauenvoller Gedanke!",
+      "pt_br": ""
+    },
+    {
+      "id": 154,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Wenn ich mich nicht irre, ist meine Bleibe ein wenig kühler<br>geworden.<clear><br><$voicel(1,8)><$emotion(1,39)>So lebt es sich gleich viel angenehmer. Wie erfreulich!",
+      "pt_br": ""
+    },
+    {
+      "id": 155,
+      "en": "<oneline><$voicel(1,3)><$motion(1,805)><$facial(1,9)><$comeff(1,7)><$pkcry;0(1,4)>... Bei meiner Bleibe ist es mir ein<br>bisschen<slide><br>zu<slide><br>kalt<slide><br>geworden...",
+      "pt_br": ""
+    },
+    {
+      "id": 156,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Es ist eine wahre Freude, wenn die eigene Bleibe so<br>herrlich hell ist!",
+      "pt_br": ""
+    },
+    {
+      "id": 157,
+      "en": "<oneline><$voicel(1,3)><$motion(1,805)><$comeff(1,14)><$pkcry;0(1,4)>... Meine Bleibe ist ein bisschen heller<br>geworden,<slide><br>findest du nicht auch?<clear><br><$voicel(1,6)><$motion(1,807)><$comeff(1,17)>Ich muss gestehen, dass ich es etwas dunkler bevorzugen<br>würde...",
+      "pt_br": ""
+    },
+    {
+      "id": 158,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>Meine Bleibe ist dunkler geworden. Ein wahrer Glücksfall!",
+      "pt_br": ""
+    },
+    {
+      "id": 159,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,14)>Denkst du nicht auch, dass meine Bleibe ein wenig dunkel<br>geworden ist?<clear><br><$voicel(1,4)><$motion(1,807)><$comeff(1,17)>Ach, das schlägt mir direkt aufs Gemüt...",
+      "pt_br": ""
+    },
+    {
+      "id": 160,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Meine Bleibe weist jetzt eine höhere Luftfeuchtigkeit auf<br>als zuvor. Das finde ich ausgesprochen angenehm.",
+      "pt_br": ""
+    },
+    {
+      "id": 161,
+      "en": "<$comeff(1,14)><$voicel(1,3)>Mir scheint, die Luftfeuchtigkeit an diesem Ort ist<br>überdurchschnittlich hoch...<clear><br><$comeff(1,17)><$voicel(1,5)><$motion(1,802)>Ich persönlich würde etwas trockenere Luft bevorzugen.",
+      "pt_br": ""
+    },
+    {
+      "id": 162,
+      "en": "<$comeff(1,13)><$voicel(1,7)><$motion(1,801)><$facial(1,4)>Ah, die Luft ist merklich trockener als vorher!<br>Das fühlt sich gleich viel angenehmer an.",
+      "pt_br": ""
+    },
+    {
+      "id": 163,
+      "en": "<$comeff(1,17)><$motion(1,802)><$voicel(1,3)><$facial(1,9)>Findest du nicht auch, dass die Luft hier unangenehm<br>trocken ist? Ich wünschte, die Luftfeuchtigkeit wäre<slide><br>etwas höher.",
+      "pt_br": ""
+    },
+    {
+      "id": 164,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Du hast dort hinten etwas für mich abgestellt, nicht wahr?<clear><br><$voicel(1,3)><$motion(1,807)><$comeff(1,7)>Es tut mir leid, aber mir scheint es nicht möglich zu sein,<br>dorthin zu gelangen...<clear><br><$voicel(1,6)><$motion(1,805)><$comeff(1,6)>Könntest du womöglich den Weg ein bisschen freiräumen?",
+      "pt_br": ""
+    },
+    {
+      "id": 165,
+      "en": "<$voicel(1,6)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>Mit Vergnügen! Das kannst du getrost mir überlassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 166,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Irgendetwas hier wirkt seltsam...<clear><br>Was hältst du davon, der Sache auf den Grund zu gehen,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 167,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)><$pkcry;0(1,1)>! Langsam, aber sicher schreitet der<br>Abriss voran!",
+      "pt_br": ""
+    },
+    {
+      "id": 168,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)><$pkcry;0(1,2)>... Welch betörendes Aroma...",
+      "pt_br": ""
+    },
+    {
+      "id": 169,
+      "en": "<$voicel(1,8)><$emotion(1,8)>Das ausgelassene Treiben hier sagt meinem Naturell<br>sehr zu!",
+      "pt_br": ""
+    },
+    {
+      "id": 170,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,21)>Das ist Balsam für Körper und Geist...",
+      "pt_br": ""
+    },
+    {
+      "id": 171,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)>Das <qty;0(ist,sind)><br><iart;0()><$cdef(27)><class><fqty(1)><aireactp;0></color>,<slide><br>wie ich<slide><br><genqty;0(ihn,sie,es,sie)><slide><br>wollte,<slide><br>doch das<slide><br>Wasser<slide><br><$voicel(1,4)>erschwert<slide><br>die<slide><br>Nutzung<slide><br>unnötig.<clear><br><$voicel(1,8)><$emotion(1,38)>Sei so gut und platziere <genqty;0(ihn,sie,es,sie)> doch bitte woanders!",
+      "pt_br": ""
+    },
+    {
+      "id": 172,
+      "en": "<$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Vielen Dank, <$cdef(27)><pname;0></color>!<clear><br>Es ist allein dir zu verdanken, dass hier so ein luxuriöser<br>Lebensstandard herrscht.",
+      "pt_br": ""
+    },
+    {
+      "id": 173,
+      "en": "<$comeff(1,21)><$motion(1,806)><$voicel(1,7)>In einem gewissen Radius um meine Bleibe ist zweifelsohne<br>eine Aufwertung festzustellen.<clear><br>Doch ich wäre dir verbunden, wenn du auch weiterhin die<br>Optimierung der Umgebung im Fokus haben könntest!",
+      "pt_br": ""
+    },
+    {
+      "id": 174,
+      "en": "<oneline><$comeff(1,6)><$facial(1,1)><$motion(1,805)><$voicel(1,5)>Sag, <$cdef(27)><pname;0></color>, steht dir nicht der Sinn<br>nach<slide><br>einer<slide><br>Schatzsuche?<clear><br><$comeff(1,21)><$facial(1,1)><$motion(1,661)><$voicel(1,8)>Nach meinem Dafürhalten ist das <$cdef(27)><fqty(1)><$ifull(2793)></color> ein<br>immens interessantes Instrument, mit dem man sich ruhig<slide><br>einmal eingehender befassen sollte.",
+      "pt_br": ""
+    },
+    {
+      "id": 175,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)>Sei gegrüßt, <$cdef(27)><pname;0></color>.<br>Ist der Weg schon bereit?",
+      "pt_br": ""
+    },
+    {
+      "id": 176,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Wie erfreulich! Dann lass uns aufbrechen.",
+      "pt_br": ""
+    },
+    {
+      "id": 177,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Verstehe. Lass dir ruhig Zeit, es eilt nicht.",
+      "pt_br": ""
+    },
+    {
+      "id": 178,
+      "en": "<oneline><$voicel(1,3)><$motion(1,807)><$comeff(1,7)><$pkcry;0(1,4)>... Hier komme ich immer noch nicht<br>weiter,<slide><br>fürchte ich.<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Es tut mir leid, dich schon wieder damit behelligen zu<br>müssen, aber könntest du den Weg noch ein wenig mehr<slide><br>freiräumen?",
+      "pt_br": ""
+    },
+    {
+      "id": 179,
+      "en": "<$comeff(1,7)><$motion(1,802)><$voicel(1,3)>Ein Durchkommen gestaltet sich hier äußerst kompliziert...<clear><br>Du tätest mir einen großen Gefallen, wenn du die<br>Passierbarkeit optimieren könntest.<clear><br><$comeff(1,9)><$motion(1,803)><$voicel(1,7)>Bei deinen Fertigkeiten sollte die Umsetzung genannten<br>Vorhabens keiner allzu großen Kraftanstrengung bedürfen.",
+      "pt_br": ""
+    },
+    {
+      "id": 180,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)>Mir ist zu Ohren gekommen, dass jemand namens<br><$cdef(27)><wowner;0></color><slide><br>in<slide><br>dieser<slide><br>Gegend<slide><br>wohnhaft ist.<slide><br>Ihr kennt euch,<slide><br>nicht wahr?<clear><br><$voicel(1,7)><$emotion(1,8)>Wenn ich schon hier bin, würde ich gerne die Gelegenheit<br>nutzen und vorgestellt werden.",
+      "pt_br": ""
+    },
+    {
+      "id": 181,
+      "en": "<$comeff(1,3)><$motion(1,803)><$voicel(1,5)>Sehr wohl. Ich kehre zunächst zu meiner Bleibe zurück.",
+      "pt_br": ""
+    },
+    {
+      "id": 182,
+      "en": "<oneline><$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Nanu? Dürfte ich fragen, was du da bei dir hast,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 183,
+      "en": "<$voicel(1,8)><$emotion(1,14)>Hoho. Das ist vollkommen in Ordnung.",
+      "pt_br": ""
+    },
+    {
+      "id": 184,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Voller Dankbarkeit nehme ich dein großzügiges Geschenk<br>entgegen!",
+      "pt_br": ""
+    },
+    {
+      "id": 185,
+      "en": "<oneline><$comeff(1,9)><$motion(1,801)><$voicel(1,10)><$pkcry;0(1,2)>! Wenn ich mich nicht irre, dann hast du<br>da <acciart;1()><fqty(1)><accclass><$cdef(27)><refmateid;1></color><slide><br>bei dir?<slide><br>Wahrlich phänomenal!",
+      "pt_br": ""
+    },
+    {
+      "id": 186,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Dir steht der Sinn also nach einer Schatzjagd, vermute ich?<br>Hoho! Ich werde mich dir gewiss als nützlich erweisen!",
+      "pt_br": ""
+    },
+    {
+      "id": 187,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,39)><$cdef(27)><pname;0></color>, du glaubst nicht, wie dankbar<br>ich<slide><br>für<slide><br>unsere<slide><br>gemeinsamen<slide><br>Momente<slide><br>heiterer<slide><br>Euphorie bin!<clear><br><$voicel(1,6)><$emotion(1,14)>Hoho... Diese Dankbarkeit möchte ich dir gern<br>demonstrieren!",
+      "pt_br": ""
+    },
+    {
+      "id": 188,
+      "en": "<$voicel(1,9)><$emotion(1,7)>Deine Nähe erzeugt stets ein Gefühl von vertrauter<br>Behaglichkeit.<clear><br>Ich hoffe, dass wir noch viele weitere solcher Augenblicke<br>genießen dürfen, von denen unsere Erinnerung dann im<slide><br>Alter zehren kann!",
+      "pt_br": ""
+    },
+    {
+      "id": 189,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,3)>Welch epochale Entdeckung! Sie ist ein Zeugnis deiner<br>harten Arbeit, <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,9)><$emotion(1,8)>Ich hatte enormen Spaß heute. Dies müssen wir unbedingt<br>wiederholen! Also melde dich einfach, einverstanden?",
+      "pt_br": ""
+    },
+    {
+      "id": 190,
+      "en": "<$voicel(1,9)><$emotion(1,7)>Oooh! Um ehrlich zu sein, bin ich ganz versessen auf<br>solche Dinge! Vielen herzlichen Dank dafür!",
+      "pt_br": ""
+    },
+    {
+      "id": 191,
+      "en": "<$comeff(1,14)><$facial(1,2)><$motion(1,805)><$voicel(1,3)>In dieser Richtung liegt ein bestimmter Ort, den ich nur<br>zu gerne ansteuern möchte...",
+      "pt_br": ""
+    },
+    {
+      "id": 192,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,14)>Verstehe... Das Fernweh treibt dich in entlegene Gefilde...<clear><br><$voicel(1,8)><$emotion(1,14)>Dann trennen sich hier vorerst unsere Wege.",
+      "pt_br": ""
+    },
+    {
+      "id": 193,
+      "en": "<$comeff(1,7)><$facial(1,9)><$motion(1,802)><$voicel(1,3)>Allerdings ist der Weg dorthin von eher bescheidener<br>Beschaffenheit, sodass ein solches Unterfangen<slide><br>unweigerlich zum Scheitern verurteilt sein dürfte.",
+      "pt_br": ""
+    },
+    {
+      "id": 194,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Mir scheint, als würde die Wohnfläche dieses Gebäudes<br>nicht ausreichen, um mir ein adäquates Obdach zu bieten.<clear><br>Ich wäre außerordentlich dankbar für ein Gebäude mit<br>einem großzügiger bemessenen Grundriss!",
+      "pt_br": ""
+    },
+    {
+      "id": 195,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)><$pkcry;0(1,2)>! Dieses Gebäude hat mein Interesse<br>geweckt!",
+      "pt_br": ""
+    },
+    {
+      "id": 196,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Bist du dir auch ganz sicher? Dann bin ich dir sehr zu Dank<br>verpflichtet!<clear><br>Ich werde es in eine Heimstätte vielfältiger Feldforschung<br>umwandeln!",
+      "pt_br": ""
+    },
+    {
+      "id": 197,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>Dir gelingt es immer wieder aufs Neue, mich zu<br>beeindrucken, <$cdef(27)><pname;0></color>!<clear><br>Hoho. In jeder kleinen Ecke dieses Werks gibt es<br>faszinierende Feinheiten zu entdecken.",
+      "pt_br": ""
+    },
+    {
+      "id": 198,
+      "en": "<$voicel(1,7)><$motion(1,805)><$facial(1,4)><$comeff(1,6)>Und du scherzt auch nicht? Ich darf dieses stattliche<br>Gebäude wirklich mein Heim nennen?",
+      "pt_br": ""
+    },
+    {
+      "id": 199,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Ich stehe tief in deiner Schuld! Mein Leben hier wird ganz<br>ohne Zweifel ein wahrer Genuss!",
+      "pt_br": ""
+    },
+    {
+      "id": 200,
+      "en": "<$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>Heh, da scheint jemand mit dem falschen Fuß<br>aufgestanden zu sein.",
+      "pt_br": ""
+    },
+    {
+      "id": 201,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,14)>Hm... Ich habe den Eindruck, dass die Kapazität dieses<br>Wohnraumes mit den aktuellen Bewohnern bereits bis zur<slide><br>Schmerzgrenze ausgereizt ist...<clear><br><$voicel(1,4)><$motion(1,807)><$comeff(1,7)>Da ziehe ich mich lieber elegant aus der Affäre und<br>lasse meine Ansprüche auf ein hiesiges Leben fallen.",
+      "pt_br": ""
+    },
+    {
+      "id": 202,
+      "en": "<$voicel(1,9)><$emotion(1,8)>Hoho, auf meinen Instinkt ist also Verlass!<clear><br><$voicel(1,7)><$motion(1,803)><$facial(1,1)><$comeff(1,10)>Gib mir bitte Bescheid, wenn du dich mal wieder der<br>Schatzsuche zugeneigt fühlst!",
+      "pt_br": ""
+    },
+    {
+      "id": 203,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Was hast du da bei dir, <$cdef(27)><pname;0></color>?<br>Dieser geradezu grandiose Glanz...!",
+      "pt_br": ""
+    },
+    {
+      "id": 204,
+      "en": "<$voicel(1,7)><$emotion(1,39)>Für mich...? Hab vielen Dank, darüber freue ich mich<br>wirklich sehr!<clear><br><$voicel(1,6)><$motion(1,803)><$comeff(1,10)>Im Gegenzug möchte ich dir das hier überreichen.",
+      "pt_br": ""
+    },
+    {
+      "id": 205,
+      "en": "<$voicel(1,3)><$emotion(1,14)>Hm... Tut mir leid, aber ich verzichte.<clear><br><$voicel(1,6)><$motion(1,807)><$comeff(1,10)>Es gibt doch gewiss viele andere Pokémon, die sich über<br>solch ein großartiges Geschenk freuen würden.",
+      "pt_br": ""
+    },
+    {
+      "id": 206,
+      "en": "<$voicel(1,3)><$motion(1,805)><$comeff(1,14)>Hm... Nein, das kann ich beim besten Willen nicht<br>annehmen.<clear><br><$voicel(1,6)><$emotion(1,1)>Doch ich weiß die großzügige Geste sehr zu schätzen.",
+      "pt_br": ""
+    },
+    {
+      "id": 207,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Es liegt mir fern, dein Erinnerungsvermögen infrage<br>zu stellen, aber...<clear><br>Ist dir womöglich entfallen, dass es sich hierbei bereits<br>um mein eigenes Zuhause handelt...?",
+      "pt_br": ""
+    },
+    {
+      "id": 208,
+      "en": "<oneline><$comeff(1,6)><$facial(1,2)><$motion(1,803)><$voicel(1,5)>Verzeih bitte, aber könnte ich in dieser Angelegenheit<br>auf deine fachliche Kompetenz zählen,<slide><br><$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 209,
+      "en": "<$voicel(1,6)><$emotion(1,14)>Ich muss dir leider mitteilen, dass deine Zeit soeben<br>abgelaufen ist.",
+      "pt_br": ""
+    },
+    {
+      "id": 210,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,14)>Ich hätte dir Brief und Siegel darauf gegeben, dass mein<br>handverlesenes Team eindrucksvoll siegen würde...<clear><br><$voicel(1,8)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>Doch schließlich umgibt dich nicht umsonst eine Aura<br>der Unbesiegbarkeit!<clear><br><$voicel(1,9)><$emotion(1,39)>Darum möchte ich dir zur Feier deines beeindruckenden<br>Triumphes dieses besonders prachtvolle Geschenk geben.",
+      "pt_br": ""
+    },
+    {
+      "id": 211,
+      "en": "<$voicel(1,8)><$motion(1,805)><$comeff(1,6)><$facial(1,4)>Könnte ich dich womöglich zu einer erneuten Partie<br>überreden?",
+      "pt_br": ""
+    },
+    {
+      "id": 212,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)><$pkcry;0(1,2)>! Das lob ich mir! Ich werde mein ganzes<br>Können in die Waagschale werfen!",
+      "pt_br": ""
+    },
+    {
+      "id": 213,
+      "en": "<$voicel(1,3)><$emotion(1,14)>Das ist schade, aber ich respektiere deine Entscheidung.<clear><br>Ich bin jedenfalls stets bereit, solltest du dem<br>Schnappspiel zugetan sein!",
+      "pt_br": ""
+    },
+    {
+      "id": 214,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Vielen Dank, dass du mich eigens hergeführt hast,<br>doch ich bin leider nicht sonderlich positiv gestimmt.<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)><$facial(1,9)>Ich habe schlicht den Eindruck, dass ich diesen Ort nie<br>als mein Zuhause erachten werde...",
+      "pt_br": ""
+    },
+    {
+      "id": 215,
+      "en": "<$voicel(1,8)><$emotion(1,14)>Verstanden. Ich beginne unverzüglich mit der mir<br>anvertrauten Arbeit.<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,10)>Dies wird allerdings ein wenig Zeit in Anspruch nehmen,<br>also kehre bitte später zur Abholung wieder!",
+      "pt_br": ""
+    },
+    {
+      "id": 216,
+      "en": "<$voicel(1,5)><$emotion(1,14)><$pkcry;0(1,2)>! Sei bitte so gut und gedulde dich noch<br>ein wenig!",
+      "pt_br": ""
+    },
+    {
+      "id": 217,
+      "en": "<oneline><$voicel(1,5)><$motionoff(1,804)><$comeff(1,9)>Tausend Dank für deine Geduld. Du hattest mich ja<br>neulich um etwas gebeten...<clear><br>Also hier. <fcap><iart;0()><$cdef(27)><reftarid;0></color>,<br>gemäß der<slide><br>Bestellung!",
+      "pt_br": ""
+    },
+    {
+      "id": 218,
+      "en": "<$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,4)>Ich bitte vielmals um Verzeihung, doch ich bin aktuell<br>mehr als ausgelastet und kann nicht aushelfen.",
+      "pt_br": ""
+    },
+    {
+      "id": 219,
+      "en": "<$comeff(1,6)><$voicel(1,5)><$motion(1,827)>Welch verwunderliches Vorkommnis! Meine Bleibe ist<br>verschwunden...",
+      "pt_br": ""
+    },
+    {
+      "id": 220,
+      "en": "<$comeff(1,14)><$voicel(1,3)><$motion(1,827)><$facial(1,9)>Merkwürdig... Ich könnte schwören, dass sich meine Bleibe<br>just an dieser Stelle befand...",
+      "pt_br": ""
+    },
+    {
+      "id": 221,
+      "en": "<$comeff(1,6)><$motion(1,827)><$voicel(1,5)>Wie ist es möglich, dass meine Bleibe aus heiterem<br>Himmel verschwinden konnte? Höchst faszinierend...<clear><br><$comeff(1,20)><$motion(1,803)><$voicel(1,7)>Aber dieser fesselnden Fragestellung sollte ich mich später<br>widmen. Zunächst muss ich eine neue Bleibe finden.",
+      "pt_br": ""
+    },
+    {
+      "id": 222,
+      "en": "<$motion(1,803)><$voicel(1,5)>Hast du das erschaffen? Was für ein fulminant fesches<br>Fleckchen!<clear><br><$comeff(1,21)><$voicel(1,7)>Ich glaube, das ist Liebe auf den ersten Blick!<clear><br><$comeff(1,13)><$motion(1,801)><$voicel(1,9)>Hier würde ich mich gern niederlassen, wenn es dir<br>genehm ist. Vielen Dank, <$cdef(27)><pname;1></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 223,
+      "en": "<oneline><$comeff(1,1)><$motion(1,803)><$voicel(1,6)>Hmmm... <iart;0()><class><$cdef(27)><fqty(1)><stfrevp;0></color>?<br>Du bist also meiner Bitte nachgekommen.<clear><br><$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Tausend Dank, <$cdef(27)><pname;1></color>! Das werde ich<br>gleich<slide><br>persönlich<slide><br>unter<slide><br>die<slide><br>Lupe nehmen.",
+      "pt_br": ""
+    },
+    {
+      "id": 224,
+      "en": "<$comeff(1,21)><$facial(1,4)><$motion(1,805)><$voicel(1,7)>Dieses Haus ist eine wahre architektonische Synthese aus<br>Funktionalität und Behaglichkeit!<clear><br>Mit so einem hohen Grad an Wohnqualität lädt es förmlich<br>zu Müßiggang ein.",
+      "pt_br": ""
+    },
+    {
+      "id": 225,
+      "en": "<oneline><$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,5)>Verzeih bitte, dass ich dich störe, aber dürfte ich dich<br>um einen Gefallen bitten?<clear><br>Ich habe hier etwas für <$cdef(27)><refpname;0> </color>und<br>wäre<slide><br>dir<slide><br>sehr<slide><br>verbunden,<slide><br>wenn du es für mich ausliefern könntest.",
+      "pt_br": ""
+    },
+    {
+      "id": 226,
+      "en": "<oneline><$voicel(1,5)><$motion(1,803)><$comeff(1,3)><$facial(1,4)>Sei gegrüßt, <$cdef(27)><pname;0></color>! Gerade steht mir<br>der<slide><br>Sinn<slide><br>nach<slide><br>einem<slide><br>erquickenden<slide><br>Wissensquiz...<clear><br><$voicel(1,8)><$emotion(1,33)>Würdest du mir die Ehre erweisen?",
+      "pt_br": ""
+    },
+    {
+      "id": 227,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)><$pkcry;0(1,2)>! Famos! Dann lass uns keine Zeit<br>verschwenden<slide><br>und<slide><br>direkt<slide><br>anfangen.<clear><br><$voicel(1,5)><$emotion(1,33)>Stell dir vor, <$cdef(27)><sizecmppk;2> </color>und ich stünden<br>nebeneinander...<slide><br>Wer von uns<slide><br>wäre größer?",
+      "pt_br": ""
+    },
+    {
+      "id": 228,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Natürlich, Zeit ist kostbar. Ich werde dich bei späterer<br>Gelegenheit erneut aufsuchen.",
+      "pt_br": ""
+    },
+    {
+      "id": 229,
+      "en": "Diese Antwort ist... <wait(0.4)><$voicel(1,10)><$motion(1,801)><$comeff(1,20)><$facial(1,5)>korrekt!<clear><br><$voicel(1,7)><$motionoff(1,804)><$comeff(1,21)><$facial(1,4)>Man merkt, dass du die anderen Pokémon sehr aufmerksam<br>beobachtest, <$cdef(27)><pname;0></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 230,
+      "en": "Diese Antwort ist... <wait(0.4)><$voicel(1,3)><$motion(1,802)><$comeff(1,3)><$facial(1,9)>leider inkorrekt. Habe ich dich heute<br>etwa auf dem falschen Fuß erwischt?<clear><br><$voicel(1,5)><$emotion(1,39)>Dennoch danke ich dir, dass du den Versuch gewagt hast.<br>Nächstes Mal kennst du bestimmt die richtige Antwort!",
+      "pt_br": ""
+    },
+    {
+      "id": 231,
+      "en": "<$comeff(1,14)><$voicel(1,7)>Hmmm, aber ja... Ein Umzug ist manchmal genau das<br>Richtige, um die Synapsen in Fahrt zu bringen.<clear><br><$comeff(1,13)><$facial(1,4)><$voicel(1,9)><$motion(1,801)>Dann werde ich mich ab heute hier häuslich einrichten!",
+      "pt_br": ""
+    },
+    {
+      "id": 232,
+      "en": "<$voicel(1,8)><$emotion(1,15)>Sei gegrüßt! Bist das etwa du, <$cdef(27)><pname;0></color>?<clear><br><$voicel(1,5)><$emotion(1,32)>Welch ein vollends vortrefflicher Einsatz von<br><$cdef(27)><$spwfull(36)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 233,
+      "en": "<oneline><$voicel(1,3)><$emotion(1,14)>Huch...? Die beengten Verhältnisse hier scheinen einem<br>Schnappspiel diametral im Wege zu stehen...<clear><br><$voicel(1,6)><$motion(1,805)><$comeff(1,6)>Könntest du dem vielleicht irgendwie Abhilfe schaffen,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 234,
+      "en": "<oneline><$voicel(1,3)><$motion(1,807)><$facial(1,9)><$comeff(1,17)><$pkcry;0(1,4)>... Verzeih, aber ich denke nicht,<br>dass dies<slide><br>ein<slide><br>angemessenes<slide><br>Domizil<slide><br>für<slide><br>mich wäre...",
+      "pt_br": ""
+    },
+    {
+      "id": 235,
+      "en": "<$voicel(1,3)><$comeff(1,17)><$facial(1,9)>Leider bin ich im Moment schon gesättigt...<clear><br><$voicel(1,8)><$emotion(1,1)>Aber danke vielmals für die großzügige Geste.",
+      "pt_br": ""
+    },
+    {
+      "id": 236,
+      "en": "<$voicel(1,6)><$emotion(1,29)>Wohin soll ich meinen Wohnsitz verlegen?",
+      "pt_br": ""
+    },
+    {
+      "id": 237,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Verstehe. Das ist dann folglich meine neue Bleibe, richtig?",
+      "pt_br": ""
+    },
+    {
+      "id": 238,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)><$pkcry;0(1,2)>! Famos! Dann lass uns keine Zeit<br>verschwenden<slide><br>und<slide><br>direkt<slide><br>anfangen.<clear><br><$voicel(1,5)><$emotion(1,33)>Stell dir vor, <$cdef(27)><weightcmppk;2> </color>und ich stünden beide auf<br>einer<slide><br>Waage...<slide><br>Wer<slide><br>von<slide><br>uns<slide><br>wäre<slide><br>schwerer?",
+      "pt_br": ""
+    },
+    {
+      "id": 239,
+      "en": "<oneline><$comeff(1,6)><$voicel(1,7)>Hat das dein Interesse geweckt,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 240,
+      "en": "<$comeff(1,1)><$facial(1,4)><$motion(1,803)><$voicel(1,7)>Wie erfreulich! Und was bietest du mir im Tausch dafür an?",
+      "pt_br": ""
+    },
+    {
+      "id": 241,
+      "en": "<$comeff(1,9)><$motion(1,803)><$voicel(1,7)>Verstehe. Falls sich deine Meinung doch ändern sollte,<br>lass es mich wissen.",
+      "pt_br": ""
+    },
+    {
+      "id": 242,
+      "en": "<$comeff(1,21)><$motion(1,801)><$facial(1,5)><$voicel(1,9)>Danke für diesen trefflichen <$spwicon(12)><$cdef(27)>Tausch</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 243,
+      "en": "<$comeff(1,6)><$voicel(1,7)>Nanu, war dein Interesse am <$cdef(27)><$spwfull(12)></color> etwa nur ein<br>flüchtiges?",
+      "pt_br": ""
+    },
+    {
+      "id": 244,
+      "en": "<$comeff(1,21)><$motion(1,801)><$facial(1,5)><$voicel(1,9)>Danke für diesen trefflichen <$spwicon(12)><$cdef(27)>Tausch</color>.<clear><br><$comeff(1,1)><$motion(1,803)><$voicel(1,7)>Damit wäre mein Vorrat an Waren erschöpft. Beehre mich<br>doch beim nächsten Mal wieder!",
+      "pt_br": ""
+    },
+    {
+      "id": 245,
+      "en": "<oneline><$voicel(1,7)><$comeff(1,1)><$motion(1,803)><$facial(1,4)>Sei gegrüßt, <$cdef(27)><pname;0></color>! Ich bin gerade auf<br>dem<slide><br>Weg<slide><br><$voicel(1,8)>zur<slide><br><$cdef(27)><fqty(1)><$ifull(1325)></color>.<clear><br><$voicel(1,10)><$comeff(1,13)><$motion(1,801)>Mein Angebot an Tauschwaren wird selbst den größten<br>Skeptiker überzeugen!",
+      "pt_br": ""
+    },
+    {
+      "id": 246,
+      "en": "<oneline><$voicel(1,6)><$motion(1,824)>Ich bin untröstlich, <$cdef(27)><pname;0></color>...<br>Heute kann<slide><br>ich<slide><br>dir<slide><br>nichts<slide><br>mehr<slide><br>anbieten.<clear><br><$voicel(1,8)><$comeff(1,9)><$motion(1,803)>Für das nächste Mal werde ich wieder eine vorzügliche<br>Auswahl zusammenstellen!",
+      "pt_br": ""
+    },
+    {
+      "id": 247,
+      "en": "<$comeff(1,14)><$facial(1,4)><$voicel(1,7)><$motion(1,803)>Hmmm... Höchst interessant.",
+      "pt_br": ""
+    },
+    {
+      "id": 248,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,3)>Hm? Hast du mir etwas zum Schlemmen vorbeigebracht?<br>Das nehme ich doch gern an.",
+      "pt_br": ""
+    },
+    {
+      "id": 249,
+      "en": "<$voicel(1,3)><$emotion(1,14)>Seit früher Morgenstunde scheinst du rege tätig zu sein.<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Vielleicht sollte ich mich bemühen, meinen heutigen Tag<br>auch ambitionierter zu gestalten...?",
+      "pt_br": ""
+    },
+    {
+      "id": 250,
+      "en": "<$voicel(1,4)><$emotion(1,14)>Wie gleißend das Sonnenlicht zur Mittagszeit ist...<clear><br><$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Was wohl der Grund dafür ist, dass die Sonne derart grell<br>erstrahlt?<clear><br><$voicel(1,3)><$motion(1,807)><$comeff(1,7)><$facial(1,9)>Ich verspüre den Wunsch, sie eingehend zu studieren,<br>aber das blendende Licht macht dies nahezu unmöglich.",
+      "pt_br": ""
+    },
+    {
+      "id": 251,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,805)>Während ich das Abendrot betrachte, lasse ich meine<br>Erinnerungen vor meinem inneren Auge Revue passieren...<clear><br><$voicel(1,7)><$emotion(1,14)>In diesem Sammelsurium von Gedanken den Überblick zu<br>behalten, ist nämlich essenziell!",
+      "pt_br": ""
+    },
+    {
+      "id": 252,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Aus was mag der Mond wohl bestehen?<clear><br><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,9)>Ist er vielleicht aus einer Konvergenz zahlreicher Sterne<br>entstanden?",
+      "pt_br": ""
+    },
+    {
+      "id": 253,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,6)>Weshalb sind <$cdef(27)>Ditto </color>bloß imstande, das Aussehen anderer<br>Pokémon bis ins letzte Detail zu imitieren...?<clear><br><$voicel(1,8)><$motion(1,803)><$comeff(1,10)>Ein ontologisches Enigma, nicht wahr?<clear><br><$voicel(1,5)><$comeff(1,14)>Doch viel mehr noch als das beschäftigt mich die Frage,<br>warum just DEINE Formwandlung nie über ein halbgares<slide><br>Abbild des Originals hinausgeht...?<clear><br><$voicel(1,10)><$emotion(1,8)>Eines Tages wird es mir hoffentlich vergönnt sein,<br>auch dieses Rätsel zu lösen!",
+      "pt_br": ""
+    },
+    {
+      "id": 254,
+      "en": "<$voicel(1,5)><$motion(1,805)><$comeff(1,14)>Pflanzt man einen Samen, so wächst daraus Gemüse.<br>Und aus dem Gemüse wiederum gewinnt man neue Samen.<clear><br><$voicel(1,7)><$motion(1,803)><$comeff(1,5)>Aha! Dir stellt sich die gleiche Frage wie mir, nicht wahr?<br><$voicel(1,10)><$motion(1,807)><$comeff(1,10)>Was kam zuerst? Der Samen oder das Gemüse?",
+      "pt_br": ""
+    },
+    {
+      "id": 255,
+      "en": "<$voicel(1,5)><$motion(1,803)><$comeff(1,10)><$facial(1,4)>Inspiriert von deinem Talent, habe ich mich ein einziges<br>Mal daran gewagt, etwas Eigenes zu gestalten...<clear><br><$voicel(1,3)><$motion(1,805)><$comeff(1,14)><$facial(1,1)>Was dabei entstand, nun ja... schwankte zwischen<br>künstlerischer Ambition und visuellem Verbrechen.<slide><br><$voicel(1,1)><$motion(1,807)>Ein Werk, das sich jeder Beschreibung entzog.<clear><br><$voicel(1,4)><$motion(1,802)><$comeff(1,17)>Kurzum: Ich werde es dauerhaft unter Verschluss halten.",
+      "pt_br": ""
+    },
+    {
+      "id": 256,
+      "en": "<$voicel(1,6)><$motion(1,805)><$comeff(1,6)>Das wäre dann alles für heute, ja?<clear><br><$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>Sehr wohl. Ich hoffe, du beehrst mich recht bald wieder,<br>falls du in der Stimmung bist.",
+      "pt_br": ""
+    },
+    {
+      "id": 257,
+      "en": "<oneline><$voicel(1,5)><$motion(1,803)><$comeff(1,9)><$facial(1,4)><$cdef(27)><pname;0></color>! Kann ich dich vielleicht zum<br><$cdef(27)><$spwfull(12)></color><slide><br>bewegen?",
+      "pt_br": ""
+    },
+    {
+      "id": 258,
+      "en": "<$comeff(1,14)><$motion(1,803)><$voicel(1,5)>Eben habe ich <$cdef(27)><shoppk;0> </color>an der <$cdef(27)><fqty(1)><$ifull(1325)></color> erspäht,<br>und zwar mit allerhand Schätzen im Schlepptau!",
+      "pt_br": ""
+    },
+    {
+      "id": 259,
+      "en": "<$motionoff(1,804)><$comeff(1,21)><$facial(1,4)><$voicel(1,7)>Es kommt mir vor, als wäre das Wasser nun sauberer<br>als damals, als die Menschen noch hier waren.<clear><br><$voicel(1,4)><$facial(1,2)>Dennoch... <wait(1.2)><$emotion(1,59)><$voicel(1,1)>Trotz allem vermisse ich die muntere Kakofonie<br>ihrer Stimmen.",
+      "pt_br": ""
+    },
+    {
+      "id": 260,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Die Hydrierung von Erdboden und Flora in der Gegend<br>scheint dir eine Herzensangelegenheit zu sein!<clear><br><$voicel(1,5)>Angesichts dieser bewundernswerten Bemühungen möchte<br>ich nicht untätig bleiben<$voicel(1,8)><$emotion(1,8)>, sondern ebenfalls einen Beitrag<slide><br>leisten. Lass mich also wissen, wenn ich helfen kann.",
+      "pt_br": ""
+    },
+    {
+      "id": 261,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Schau mal, was ich neulich gefunden habe.<br>Bitte sehr, du kannst es gerne haben!",
+      "pt_br": ""
+    },
+    {
+      "id": 262,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)>Übrigens, ich habe mich neulich mit <$cdef(27)><nlpairpk;0><br></color>getroffen.<clear><br><$voicel(1,8)><$emotion(1,8)>Unser Austausch war erfreulich tiefgehend und schien kein<br>Ende zu finden. Eine erquickliche Erfahrung!",
+      "pt_br": ""
+    },
+    {
+      "id": 263,
+      "en": "<oneline><$voicel(1,9)><$emotion(1,39)>Kannst du dich entsinnen? Du hast mir kürzlich<br><acciart;1()><accclass><$cdef(27)><fqty(1)><nlqueitem;1></color><slide><br>geschenkt.<slide><br><genqty;1(Der gefällt,Die gefällt,Das gefällt,Die gefallen)> mir wirklich sehr.<clear><br><$voicel(1,7)><$motion(1,803)><$comeff(1,9)>An einsamen Abenden unterhalte ich mich sogar ab und<br>an mit <genqty;1(ihm,ihr,ihm,ihnen)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 264,
+      "en": "<$voicel(1,7)><$emotion(1,14)>M",
+      "pt_br": ""
+    }
+  ]
+}

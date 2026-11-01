@@ -1,0 +1,1804 @@
+{
+  "entry_index": 5069,
+  "bin_id": "0xd37d00",
+  "decompressed_size": 21648,
+  "first_tag_offset": 12475,
+  "total_strings": 359,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><fqty(1)><$ifull(1280)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "It’s a tad far away...",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "It’s nice and warm!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "I wonder...",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Hey, <$etpname;0(lnum1)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "I have a favor to ask.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "I can’t wait! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Where is it?",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Aww, so far away...",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "This is no good!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "I can’t wait!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Logs...",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "I wish I had a nice place to sleep...",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "You got any?",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "Wish I had some...",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "This’ll help!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Hohoho!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Houses rule!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "What’s up there?",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Sooo hungry...",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "Won’t you help? ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "Nice rock pile.",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "Yo, where am I?!",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "I can teach ya somethin’ awesome!",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Awesome!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Hey, didja know?",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "What if you tried...",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "It’s a tad far away.",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Hey! Hey, <$cdef(27)><$etpname;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "Oh, what’s this now?",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "Looks like you sprayed some water!",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "That’s a wrap!",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "This building...",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "Thanks a bunch!",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "You find anything?",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "Remember, three pieces of furniture!",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "My home’s gone!",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Lemme teach you!",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "Hey! Heyyy! Anybody out there?!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "What’s on the other side?",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "We need to rescue <$cdef(27)>Onix</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "I smell something...",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "This smell...",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "Oh, I know!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "I got an idea!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "Let’s get this place HUMID!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Do you have a sec?",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "I’ll give it a shot!",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "Just a little bit more...",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Did you rescue <$cdef(27)>Onix</color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "What in the heck should I do?!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "Wish I had a place to live...",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "What kinda seeds are these?",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "Yay!",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "Dang, sliced ’em again...",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Spray a tad more water around.",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "Oooh, hey there...",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "I made it.",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "If only I had a place like this...",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "I’m sorta drowsy...",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "I did it! ...I think.",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "I can feel the power of water!",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "I’d like a place that’s a bit drier...",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "This home’s awesome!",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "Spring water’s, y’know...real nice, isn’t it?",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "A fountain! ...Nice.",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "Glub blub blub.",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Look at all that mud!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "So clean!",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "Needs more color...",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "C’mon, gimme water...",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "I’m happy to see more Pokémon! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "What to do...",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Let’s go together!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "Let’s make a waterfall!",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "So hungry...",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "A Pokémon Center!",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "Hey, got a sec?",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "We need to block the flow of water.",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Will it work now?",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "Can you help us, Professor?",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "*sniff sniff* Any garbage around here?",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "It’s so dark...",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "I’ve never seen such grass before...",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "I sure do love cleaning! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "I made it across!",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "Sorry for the wait, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "It’s so fluffy!",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "Is the <$cdef(27)><fqty(1)><$ifull(1410)></color> ready?!",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "All done!",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "Let’s swim together!",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "This feels great!",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "What’s this?",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "Maybe I can help!",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "Yooo, that’s weird...",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "Now we can swim together!",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "It’s gone...",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "Did you find any <$cdef(27)><fqty(1)><$ifull(107)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "Here’s my spot...",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "I wanna build this, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "Looks like we’re good to start!",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "What a splendid house!",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "Everyone seems happy!",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "You’ve helped so much.",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "Just like the real deal!",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "So pretty...",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "Transform so we can go swimming!",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "Some houses would be good.",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "What’re those noises, yo?",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "What could those noises be?",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "I’ve got it!",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "What IS that?",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "Right next to a machine...",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "Fire’s bright too!",
+      "pt_br": ""
+    },
+    {
+      "id": 114,
+      "en": "This is it!",
+      "pt_br": ""
+    },
+    {
+      "id": 115,
+      "en": "What should we do?",
+      "pt_br": ""
+    },
+    {
+      "id": 116,
+      "en": "I’m scared...",
+      "pt_br": ""
+    },
+    {
+      "id": 117,
+      "en": "I’ll help make electricity!",
+      "pt_br": ""
+    },
+    {
+      "id": 118,
+      "en": "I wish I could help...",
+      "pt_br": ""
+    },
+    {
+      "id": 119,
+      "en": "It’s much brighter now!",
+      "pt_br": ""
+    },
+    {
+      "id": 120,
+      "en": "What was that sound?",
+      "pt_br": ""
+    },
+    {
+      "id": 121,
+      "en": "What an awful mess...",
+      "pt_br": ""
+    },
+    {
+      "id": 122,
+      "en": "Yippee!",
+      "pt_br": ""
+    },
+    {
+      "id": 123,
+      "en": "My heart is beating so fast...",
+      "pt_br": ""
+    },
+    {
+      "id": 124,
+      "en": "Wh—where am I...?",
+      "pt_br": ""
+    },
+    {
+      "id": 125,
+      "en": "Zzz...",
+      "pt_br": ""
+    },
+    {
+      "id": 126,
+      "en": "That Pokémon—!",
+      "pt_br": ""
+    },
+    {
+      "id": 127,
+      "en": "I’m all tingly...",
+      "pt_br": ""
+    },
+    {
+      "id": 128,
+      "en": "Are they OK?",
+      "pt_br": ""
+    },
+    {
+      "id": 129,
+      "en": "Oh no!",
+      "pt_br": ""
+    },
+    {
+      "id": 130,
+      "en": "Oho!",
+      "pt_br": ""
+    },
+    {
+      "id": 131,
+      "en": "Charging complete!",
+      "pt_br": ""
+    },
+    {
+      "id": 132,
+      "en": "Things have gotten brighter!",
+      "pt_br": ""
+    },
+    {
+      "id": 133,
+      "en": "This is it!",
+      "pt_br": ""
+    },
+    {
+      "id": 134,
+      "en": "Here it is!",
+      "pt_br": ""
+    },
+    {
+      "id": 135,
+      "en": "I wanna fix it...",
+      "pt_br": ""
+    },
+    {
+      "id": 136,
+      "en": "Zzznnn?",
+      "pt_br": ""
+    },
+    {
+      "id": 137,
+      "en": "Now this is a surprise!",
+      "pt_br": ""
+    },
+    {
+      "id": 138,
+      "en": "Oh?",
+      "pt_br": ""
+    },
+    {
+      "id": 139,
+      "en": "Zzzngh?",
+      "pt_br": ""
+    },
+    {
+      "id": 140,
+      "en": "What to do...",
+      "pt_br": ""
+    },
+    {
+      "id": 141,
+      "en": "This time for sure...",
+      "pt_br": ""
+    },
+    {
+      "id": 142,
+      "en": "I knew you could do it!",
+      "pt_br": ""
+    },
+    {
+      "id": 143,
+      "en": "There’s somethin’ over there...",
+      "pt_br": ""
+    },
+    {
+      "id": 144,
+      "en": "Let’s all warm up together!",
+      "pt_br": ""
+    },
+    {
+      "id": 145,
+      "en": "Ugh, so bright...",
+      "pt_br": ""
+    },
+    {
+      "id": 146,
+      "en": "Machines are so great!",
+      "pt_br": ""
+    },
+    {
+      "id": 147,
+      "en": "Oh, there it is!",
+      "pt_br": ""
+    },
+    {
+      "id": 148,
+      "en": "This is it!",
+      "pt_br": ""
+    },
+    {
+      "id": 149,
+      "en": "Here it is!",
+      "pt_br": ""
+    },
+    {
+      "id": 150,
+      "en": "Aw yeah, nice and dark!",
+      "pt_br": ""
+    },
+    {
+      "id": 151,
+      "en": "I can’t really see...",
+      "pt_br": ""
+    },
+    {
+      "id": 152,
+      "en": "Yo, you hungry?",
+      "pt_br": ""
+    },
+    {
+      "id": 153,
+      "en": "It’s still kinda bright...",
+      "pt_br": ""
+    },
+    {
+      "id": 154,
+      "en": "Aw yeah, this is nice!",
+      "pt_br": ""
+    },
+    {
+      "id": 155,
+      "en": "Are they all right?!",
+      "pt_br": ""
+    },
+    {
+      "id": 156,
+      "en": "This way!",
+      "pt_br": ""
+    },
+    {
+      "id": 157,
+      "en": "Hrmmm...",
+      "pt_br": ""
+    },
+    {
+      "id": 158,
+      "en": "About that <$cdef(27)>PC</color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 159,
+      "en": "To move something so heavy...",
+      "pt_br": ""
+    },
+    {
+      "id": 160,
+      "en": "About <$cdef(27)>Machoke</color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 161,
+      "en": "Over here!",
+      "pt_br": ""
+    },
+    {
+      "id": 162,
+      "en": "Yeesh, what a mess...",
+      "pt_br": ""
+    },
+    {
+      "id": 163,
+      "en": "That’s it, keep it up!",
+      "pt_br": ""
+    },
+    {
+      "id": 164,
+      "en": "Nice work!",
+      "pt_br": ""
+    },
+    {
+      "id": 165,
+      "en": "Holy hamstrings!",
+      "pt_br": ""
+    },
+    {
+      "id": 166,
+      "en": "Dang, check you out!",
+      "pt_br": ""
+    },
+    {
+      "id": 167,
+      "en": "Did you discover anything?",
+      "pt_br": ""
+    },
+    {
+      "id": 168,
+      "en": "Whose voice was that?!",
+      "pt_br": ""
+    },
+    {
+      "id": 169,
+      "en": "The pursuit of beauty...",
+      "pt_br": ""
+    },
+    {
+      "id": 170,
+      "en": "It was amazing!",
+      "pt_br": ""
+    },
+    {
+      "id": 171,
+      "en": "So hard to get arooouuund here...",
+      "pt_br": ""
+    },
+    {
+      "id": 172,
+      "en": "I maaade it.",
+      "pt_br": ""
+    },
+    {
+      "id": 173,
+      "en": "I know this smell...",
+      "pt_br": ""
+    },
+    {
+      "id": 174,
+      "en": "You stayin’ buff?",
+      "pt_br": ""
+    },
+    {
+      "id": 175,
+      "en": "Hrmmm, to grow <$cdef(27)><fqty(1)><$ifull(20)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 176,
+      "en": "Appearances are important for cooking!",
+      "pt_br": ""
+    },
+    {
+      "id": 177,
+      "en": "Let me teach you!",
+      "pt_br": ""
+    },
+    {
+      "id": 178,
+      "en": "What will you make now?",
+      "pt_br": ""
+    },
+    {
+      "id": 179,
+      "en": "That thing’s really tough...",
+      "pt_br": ""
+    },
+    {
+      "id": 180,
+      "en": "Over here!",
+      "pt_br": ""
+    },
+    {
+      "id": 181,
+      "en": "Is everyone comfortable?",
+      "pt_br": ""
+    },
+    {
+      "id": 182,
+      "en": "A splendid <$cdef(27)><fqty(1)><$ifull(1304)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 183,
+      "en": "What’s that sound...?",
+      "pt_br": ""
+    },
+    {
+      "id": 184,
+      "en": "Hey, everybodyyy!",
+      "pt_br": ""
+    },
+    {
+      "id": 185,
+      "en": "I can’t wait!",
+      "pt_br": ""
+    },
+    {
+      "id": 186,
+      "en": "This should liven things up!",
+      "pt_br": ""
+    },
+    {
+      "id": 187,
+      "en": "My time to shine! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 188,
+      "en": "Sweet! So, next...",
+      "pt_br": ""
+    },
+    {
+      "id": 189,
+      "en": "This could be a problem!",
+      "pt_br": ""
+    },
+    {
+      "id": 190,
+      "en": "Now this party’s really gettin’ started!",
+      "pt_br": ""
+    },
+    {
+      "id": 191,
+      "en": "Vibin’! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 192,
+      "en": "Why, that’s IT!",
+      "pt_br": ""
+    },
+    {
+      "id": 193,
+      "en": "What a party!",
+      "pt_br": ""
+    },
+    {
+      "id": 194,
+      "en": "It’s kinda noisy.",
+      "pt_br": ""
+    },
+    {
+      "id": 195,
+      "en": "How did it go?",
+      "pt_br": ""
+    },
+    {
+      "id": 196,
+      "en": "To the other gate...",
+      "pt_br": ""
+    },
+    {
+      "id": 197,
+      "en": "To the other gate...",
+      "pt_br": ""
+    },
+    {
+      "id": 198,
+      "en": "I think we need more houses!",
+      "pt_br": ""
+    },
+    {
+      "id": 199,
+      "en": "A special <$cdef(27)>salad</color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 200,
+      "en": "I wish I had this kinda <$cdef(27)>bread</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 201,
+      "en": "I gotta find ’em...",
+      "pt_br": ""
+    },
+    {
+      "id": 202,
+      "en": "Uhhh, I’ve got a bad feeling...",
+      "pt_br": ""
+    },
+    {
+      "id": 203,
+      "en": "They haven’t caught on... Right?",
+      "pt_br": ""
+    },
+    {
+      "id": 204,
+      "en": "Treasure! Gotta catch it all. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 205,
+      "en": "I want a home, yo.",
+      "pt_br": ""
+    },
+    {
+      "id": 206,
+      "en": "I gotta go fast!",
+      "pt_br": ""
+    },
+    {
+      "id": 207,
+      "en": "Now, let’s see here...",
+      "pt_br": ""
+    },
+    {
+      "id": 208,
+      "en": "We’re getting close!",
+      "pt_br": ""
+    },
+    {
+      "id": 209,
+      "en": "I’m so hungry...",
+      "pt_br": ""
+    },
+    {
+      "id": 210,
+      "en": "I have a wonderful idea!",
+      "pt_br": ""
+    },
+    {
+      "id": 211,
+      "en": "What could this be?",
+      "pt_br": ""
+    },
+    {
+      "id": 212,
+      "en": "C-could it be?!",
+      "pt_br": ""
+    },
+    {
+      "id": 213,
+      "en": "This ought to work!",
+      "pt_br": ""
+    },
+    {
+      "id": 214,
+      "en": "Lemme tell you!",
+      "pt_br": ""
+    },
+    {
+      "id": 215,
+      "en": "I just remembered!",
+      "pt_br": ""
+    },
+    {
+      "id": 216,
+      "en": "I’m tinkerin’ a ton today!",
+      "pt_br": ""
+    },
+    {
+      "id": 217,
+      "en": "Thirty years o’ makin’ concrete... ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 218,
+      "en": "Makin’ good progress!",
+      "pt_br": ""
+    },
+    {
+      "id": 219,
+      "en": "Right here’s the spot!",
+      "pt_br": ""
+    },
+    {
+      "id": 220,
+      "en": "Let’s scope out the <$cdef(27)>second floor</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 221,
+      "en": "Right around here would be good!",
+      "pt_br": ""
+    },
+    {
+      "id": 222,
+      "en": "What a building!",
+      "pt_br": ""
+    },
+    {
+      "id": 223,
+      "en": "Let’s scope out the <$cdef(27)>second floor</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 224,
+      "en": "Now then, what about the <$cdef(27)>third floor</color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 225,
+      "en": "Last up—the <$cdef(27)>fourth floor</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 226,
+      "en": "Time for the finishing touches!",
+      "pt_br": ""
+    },
+    {
+      "id": 227,
+      "en": "Time to train!",
+      "pt_br": ""
+    },
+    {
+      "id": 228,
+      "en": "Come here!",
+      "pt_br": ""
+    },
+    {
+      "id": 229,
+      "en": "I’m not fully awake yet...",
+      "pt_br": ""
+    },
+    {
+      "id": 230,
+      "en": "Very well done.",
+      "pt_br": ""
+    },
+    {
+      "id": 231,
+      "en": "Part two!",
+      "pt_br": ""
+    },
+    {
+      "id": 232,
+      "en": "Whoa, it’s done!",
+      "pt_br": ""
+    },
+    {
+      "id": 233,
+      "en": "Pretty rad, right?",
+      "pt_br": ""
+    },
+    {
+      "id": 234,
+      "en": "I sure am hungry...",
+      "pt_br": ""
+    },
+    {
+      "id": 235,
+      "en": "They will arrive soon...",
+      "pt_br": ""
+    },
+    {
+      "id": 236,
+      "en": "I know it’s up there!",
+      "pt_br": ""
+    },
+    {
+      "id": 237,
+      "en": "Here it is!",
+      "pt_br": ""
+    },
+    {
+      "id": 238,
+      "en": "So sleepy...",
+      "pt_br": ""
+    },
+    {
+      "id": 239,
+      "en": "This is it!",
+      "pt_br": ""
+    },
+    {
+      "id": 240,
+      "en": "Whoa! Somebody’s here!",
+      "pt_br": ""
+    },
+    {
+      "id": 241,
+      "en": "<$cdef(27)><fcap><$spwfull(17)></color> all the things.",
+      "pt_br": ""
+    },
+    {
+      "id": 242,
+      "en": "Veggies are the BEST!",
+      "pt_br": ""
+    },
+    {
+      "id": 243,
+      "en": "*yaaawn* Uh-oh, not agaaaiiin...",
+      "pt_br": ""
+    },
+    {
+      "id": 244,
+      "en": "C-could it be?!",
+      "pt_br": ""
+    },
+    {
+      "id": 245,
+      "en": "What could this be?",
+      "pt_br": ""
+    },
+    {
+      "id": 246,
+      "en": "What happened on the roof?",
+      "pt_br": ""
+    },
+    {
+      "id": 247,
+      "en": "About that entrance...",
+      "pt_br": ""
+    },
+    {
+      "id": 248,
+      "en": "How lovely that would be...",
+      "pt_br": ""
+    },
+    {
+      "id": 249,
+      "en": "It’s so peaceful here...",
+      "pt_br": ""
+    },
+    {
+      "id": 250,
+      "en": "Reminds me of restaurants from the good old days...",
+      "pt_br": ""
+    },
+    {
+      "id": 251,
+      "en": "I just had a great idea!",
+      "pt_br": ""
+    },
+    {
+      "id": 252,
+      "en": "I cannot remember.",
+      "pt_br": ""
+    },
+    {
+      "id": 253,
+      "en": "At last!",
+      "pt_br": ""
+    },
+    {
+      "id": 254,
+      "en": "Over heeere...",
+      "pt_br": ""
+    },
+    {
+      "id": 255,
+      "en": "Over this wayyy...",
+      "pt_br": ""
+    },
+    {
+      "id": 256,
+      "en": "LET’S DO THIS!",
+      "pt_br": ""
+    },
+    {
+      "id": 257,
+      "en": "Yooouuu’ve got the haaang of it...",
+      "pt_br": ""
+    },
+    {
+      "id": 258,
+      "en": "Let’s make the town all nice!",
+      "pt_br": ""
+    },
+    {
+      "id": 259,
+      "en": "Seems you’ve learned a thing or two...",
+      "pt_br": ""
+    },
+    {
+      "id": 260,
+      "en": "Flooloon...",
+      "pt_br": ""
+    },
+    {
+      "id": 261,
+      "en": "Hmmm... Where should I live?",
+      "pt_br": ""
+    },
+    {
+      "id": 262,
+      "en": "Uhhh... No humans, huh?",
+      "pt_br": ""
+    },
+    {
+      "id": 263,
+      "en": "GAH! Busted!",
+      "pt_br": ""
+    },
+    {
+      "id": 264,
+      "en": "How ya doin’?",
+      "pt_br": ""
+    },
+    {
+      "id": 265,
+      "en": "Oh dear, whatever shall I do?",
+      "pt_br": ""
+    },
+    {
+      "id": 266,
+      "en": "Next, could you...",
+      "pt_br": ""
+    },
+    {
+      "id": 267,
+      "en": "Lastly...",
+      "pt_br": ""
+    },
+    {
+      "id": 268,
+      "en": "It’s harder than I thought...",
+      "pt_br": ""
+    },
+    {
+      "id": 269,
+      "en": "Oho! What’s this?",
+      "pt_br": ""
+    },
+    {
+      "id": 270,
+      "en": "What am I gonna do...",
+      "pt_br": ""
+    },
+    {
+      "id": 271,
+      "en": "I’ve got it!",
+      "pt_br": ""
+    },
+    {
+      "id": 272,
+      "en": "Sure wish I had a buncha different <$cdef(27)>CDs</color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 273,
+      "en": "I’m excited, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 274,
+      "en": "So...hungry...",
+      "pt_br": ""
+    },
+    {
+      "id": 275,
+      "en": "I sure would like me some...",
+      "pt_br": ""
+    },
+    {
+      "id": 276,
+      "en": "Art is hunger...",
+      "pt_br": ""
+    },
+    {
+      "id": 277,
+      "en": "To behold such a sight...",
+      "pt_br": ""
+    },
+    {
+      "id": 278,
+      "en": "I YEARN to <$cdef(27)><$spwfull(21)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 279,
+      "en": "That glimmer in your eye...",
+      "pt_br": ""
+    },
+    {
+      "id": 280,
+      "en": "I’m finished... Kaput!",
+      "pt_br": ""
+    },
+    {
+      "id": 281,
+      "en": "I must try it out!",
+      "pt_br": ""
+    },
+    {
+      "id": 282,
+      "en": "Oh. This place.",
+      "pt_br": ""
+    },
+    {
+      "id": 283,
+      "en": "Where did it go?",
+      "pt_br": ""
+    },
+    {
+      "id": 284,
+      "en": "Well, this is a fine kettle of fish...",
+      "pt_br": ""
+    },
+    {
+      "id": 285,
+      "en": "This is so frustrating!",
+      "pt_br": ""
+    },
+    {
+      "id": 286,
+      "en": "Soup time! ♪ Soup time! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 287,
+      "en": "Yes... YEEESSS!",
+      "pt_br": ""
+    },
+    {
+      "id": 288,
+      "en": "I wonder where they are...",
+      "pt_br": ""
+    },
+    {
+      "id": 289,
+      "en": "Hmmm...",
+      "pt_br": ""
+    },
+    {
+      "id": 290,
+      "en": "Hrrrmmm...",
+      "pt_br": ""
+    },
+    {
+      "id": 291,
+      "en": "What a pickle...",
+      "pt_br": ""
+    },
+    {
+      "id": 292,
+      "en": "Yes, a fine next step.",
+      "pt_br": ""
+    },
+    {
+      "id": 293,
+      "en": "A fine town, if I dare say so myself!",
+      "pt_br": ""
+    },
+    {
+      "id": 294,
+      "en": "Phew...",
+      "pt_br": ""
+    },
+    {
+      "id": 295,
+      "en": "I hope everything is all right...",
+      "pt_br": ""
+    },
+    {
+      "id": 296,
+      "en": "Wait... Could it be?!",
+      "pt_br": ""
+    },
+    {
+      "id": 297,
+      "en": "I’m awfully sleepy...",
+      "pt_br": ""
+    },
+    {
+      "id": 298,
+      "en": "How exciting!",
+      "pt_br": ""
+    },
+    {
+      "id": 299,
+      "en": "Slow and steady!",
+      "pt_br": ""
+    },
+    {
+      "id": 300,
+      "en": "Hm hmm hmmm! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 301,
+      "en": "My brush arm HOWLS with anticipation!",
+      "pt_br": ""
+    },
+    {
+      "id": 302,
+      "en": "Doesn’t it look scrumptious?",
+      "pt_br": ""
+    },
+    {
+      "id": 303,
+      "en": "Yaaaaaay!",
+      "pt_br": ""
+    },
+    {
+      "id": 304,
+      "en": "Thank you so much!",
+      "pt_br": ""
+    },
+    {
+      "id": 305,
+      "en": "They’re not here...",
+      "pt_br": ""
+    },
+    {
+      "id": 306,
+      "en": "I’d love some cotton spores...",
+      "pt_br": ""
+    },
+    {
+      "id": 307,
+      "en": "Are there any around here?",
+      "pt_br": ""
+    },
+    {
+      "id": 308,
+      "en": "Maybe there are none here.",
+      "pt_br": ""
+    },
+    {
+      "id": 309,
+      "en": "Shiny...",
+      "pt_br": ""
+    },
+    {
+      "id": 310,
+      "en": "I want them to shine again...",
+      "pt_br": ""
+    },
+    {
+      "id": 311,
+      "en": "Where’d it go?!",
+      "pt_br": ""
+    },
+    {
+      "id": 312,
+      "en": "Those scales, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 313,
+      "en": "I want to try...",
+      "pt_br": ""
+    },
+    {
+      "id": 314,
+      "en": "I want to do it again...",
+      "pt_br": ""
+    },
+    {
+      "id": 315,
+      "en": "Where are those apples?",
+      "pt_br": ""
+    },
+    {
+      "id": 316,
+      "en": "I’d love to eat them again...",
+      "pt_br": ""
+    },
+    {
+      "id": 317,
+      "en": "I wanna have a contest!",
+      "pt_br": ""
+    },
+    {
+      "id": 318,
+      "en": "That <$cdef(27)><gevcmainpk;0></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 319,
+      "en": "I wanna have a contest!",
+      "pt_br": ""
+    },
+    {
+      "id": 320,
+      "en": "I need something fresh and exciting...",
+      "pt_br": ""
+    },
+    {
+      "id": 321,
+      "en": "Anything exciting goin’ on?",
+      "pt_br": ""
+    },
+    {
+      "id": 322,
+      "en": "What could it be?",
+      "pt_br": ""
+    },
+    {
+      "id": 323,
+      "en": "So hungry...",
+      "pt_br": ""
+    },
+    {
+      "id": 324,
+      "en": "About that <$cdef(27)><fqty(1)><$ifull(7)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 325,
+      "en": "Oh my GOSH!",
+      "pt_br": ""
+    },
+    {
+      "id": 326,
+      "en": "Here looks good!",
+      "pt_br": ""
+    },
+    {
+      "id": 327,
+      "en": "Ready to start?",
+      "pt_br": ""
+    },
+    {
+      "id": 328,
+      "en": "*yawn*...",
+      "pt_br": ""
+    },
+    {
+      "id": 329,
+      "en": "Yooo!",
+      "pt_br": ""
+    },
+    {
+      "id": 330,
+      "en": "You need somethin’?",
+      "pt_br": ""
+    },
+    {
+      "id": 331,
+      "en": "Let’s make it right now, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 332,
+      "en": "It’s finally finished, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 333,
+      "en": "I just remembered!",
+      "pt_br": ""
+    },
+    {
+      "id": 334,
+      "en": "We’ve arrived!",
+      "pt_br": ""
+    },
+    {
+      "id": 335,
+      "en": "They’re too tough...",
+      "pt_br": ""
+    },
+    {
+      "id": 336,
+      "en": "Oh no...",
+      "pt_br": ""
+    },
+    {
+      "id": 337,
+      "en": "Ya need somethin’?",
+      "pt_br": ""
+    },
+    {
+      "id": 338,
+      "en": "All done!",
+      "pt_br": ""
+    },
+    {
+      "id": 339,
+      "en": "I wanna play...",
+      "pt_br": ""
+    },
+    {
+      "id": 340,
+      "en": "OK, next game!",
+      "pt_br": ""
+    },
+    {
+      "id": 341,
+      "en": "*gulp*",
+      "pt_br": ""
+    },
+    {
+      "id": 342,
+      "en": "C’mon, over here!",
+      "pt_br": ""
+    },
+    {
+      "id": 343,
+      "en": "Hmmm...",
+      "pt_br": ""
+    },
+    {
+      "id": 344,
+      "en": "I can’t get through...",
+      "pt_br": ""
+    },
+    {
+      "id": 345,
+      "en": "Find anything?",
+      "pt_br": ""
+    },
+    {
+      "id": 346,
+      "en": "Is that...?",
+      "pt_br": ""
+    },
+    {
+      "id": 347,
+      "en": "I’d like a new home...",
+      "pt_br": ""
+    },
+    {
+      "id": 348,
+      "en": "Best home ever!",
+      "pt_br": ""
+    },
+    {
+      "id": 349,
+      "en": "*sniffle sniffle*",
+      "pt_br": ""
+    },
+    {
+      "id": 350,
+      "en": "What should I do...?",
+      "pt_br": ""
+    },
+    {
+      "id": 351,
+      "en": "Where was it again?",
+      "pt_br": ""
+    },
+    {
+      "id": 352,
+      "en": "Hey, guess what!",
+      "pt_br": ""
+    },
+    {
+      "id": 353,
+      "en": "I wonder why...",
+      "pt_br": ""
+    },
+    {
+      "id": 354,
+      "en": "Over here!",
+      "pt_br": ""
+    },
+    {
+      "id": 355,
+      "en": "It’s this <$cdef(27)>post</color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 356,
+      "en": "It opened!",
+      "pt_br": ""
+    },
+    {
+      "id": 357,
+      "en": "Hmmm...",
+      "pt_br": ""
+    },
+    {
+      "id": 358,
+      "en": "Looks great!",
+      "pt_br": ""
+    }
+  ]
+}

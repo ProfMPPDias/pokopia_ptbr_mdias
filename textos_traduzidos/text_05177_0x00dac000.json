@@ -1,0 +1,1154 @@
+{
+  "entry_index": 5177,
+  "bin_id": "0xdac000",
+  "decompressed_size": 9848,
+  "first_tag_offset": 4152,
+  "total_strings": 229,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$sklfull(1)>",
+      "pt_br": "<$sklfull(1)>"
+    },
+    {
+      "id": 1,
+      "en": "Ditto’s Home",
+      "pt_br": "Lar do Ditto"
+    },
+    {
+      "id": 2,
+      "en": "Making Houses Out of Blocks",
+      "pt_br": "Fazendo casas de blocos"
+    },
+    {
+      "id": 3,
+      "en": "The <fcap><fqty(1)><$ifull(764)>",
+      "pt_br": "A <fcap><fqty(1)><$ifull(764)>"
+    },
+    {
+      "id": 4,
+      "en": "Comfort Level: Pokémon Center",
+      "pt_br": "Nível de conforto: Pokémon Center"
+    },
+    {
+      "id": 5,
+      "en": "<$sklfull(4)>",
+      "pt_br": "<$sklfull(4)>"
+    },
+    {
+      "id": 6,
+      "en": "The Highlight Reel",
+      "pt_br": "A Bobina de Destaque"
+    },
+    {
+      "id": 7,
+      "en": "<$sklfull(2)>",
+      "pt_br": "<$sklfull(2)>"
+    },
+    {
+      "id": 8,
+      "en": "Healing at a Pokémon Center",
+      "pt_br": "Curar - se num Centro Pokémon"
+    },
+    {
+      "id": 9,
+      "en": "Moving Plants With <$sklfull(2)>",
+      "pt_br": "Movendo Plantas Com <$sklfull(2)>"
+    },
+    {
+      "id": 10,
+      "en": "Reaching High Places",
+      "pt_br": "Alcançar Lugares Altos"
+    },
+    {
+      "id": 11,
+      "en": "Stockpile / Spit Out",
+      "pt_br": "Armazenagem / Cuspir"
+    },
+    {
+      "id": 12,
+      "en": "Placing Items at Your Feet",
+      "pt_br": "Colocando itens aos seus pés"
+    },
+    {
+      "id": 13,
+      "en": "Tidying Up Paths",
+      "pt_br": "Arrumar Caminhos"
+    },
+    {
+      "id": 14,
+      "en": "<$iicon(2045)>Storage Boxes",
+      "pt_br": "<$iicon(2045)>Caixas de armazenamento"
+    },
+    {
+      "id": 15,
+      "en": "<$sklfull(5)>",
+      "pt_br": "<$sklfull(5)>"
+    },
+    {
+      "id": 16,
+      "en": "Squeezing Through Tight Spaces",
+      "pt_br": "Espremendo por espaços apertados"
+    },
+    {
+      "id": 17,
+      "en": "Walking and Running",
+      "pt_br": "Andar e Correr"
+    },
+    {
+      "id": 18,
+      "en": "Camera Controls",
+      "pt_br": "Controles de Câmeras"
+    },
+    {
+      "id": 19,
+      "en": "<$sklfull(3)>",
+      "pt_br": "<$sklfull(3)>"
+    },
+    {
+      "id": 20,
+      "en": "Your Bag",
+      "pt_br": "Sua bolsa"
+    },
+    {
+      "id": 21,
+      "en": "Making Habitats",
+      "pt_br": "Fazendo Habitats"
+    },
+    {
+      "id": 22,
+      "en": "Switching Between Moves",
+      "pt_br": "Alternando entre jogadas"
+    },
+    {
+      "id": 23,
+      "en": "Pokémon Traces",
+      "pt_br": "Pokémon Traces"
+    },
+    {
+      "id": 24,
+      "en": "Climbing",
+      "pt_br": "Escalada"
+    },
+    {
+      "id": 25,
+      "en": "Constructing Buildings",
+      "pt_br": "Construindo Edifícios"
+    },
+    {
+      "id": 26,
+      "en": "Placing Furniture & Living in Houses",
+      "pt_br": "Colocando móveis e vivendo em casas"
+    },
+    {
+      "id": 27,
+      "en": "Taking Photos",
+      "pt_br": "Tirando Fotos"
+    },
+    {
+      "id": 28,
+      "en": "Lost Human Relics?",
+      "pt_br": "Relíquias humanas perdidas?"
+    },
+    {
+      "id": 29,
+      "en": "Inhaling",
+      "pt_br": "Inalação"
+    },
+    {
+      "id": 30,
+      "en": "<$sklfull(13)>",
+      "pt_br": "<$sklfull(13)>"
+    },
+    {
+      "id": 31,
+      "en": "Running Out of PP",
+      "pt_br": "Esgotando-se o PP"
+    },
+    {
+      "id": 32,
+      "en": "Running Electricity to Houses",
+      "pt_br": "Executando Eletricidade em Casas"
+    },
+    {
+      "id": 33,
+      "en": "Comfort Level",
+      "pt_br": "Nível de conforto"
+    },
+    {
+      "id": 34,
+      "en": "Comfort Level: Food",
+      "pt_br": "Nível de conforto: Alimentos"
+    },
+    {
+      "id": 35,
+      "en": "Comfort Level: Relaxation",
+      "pt_br": "Nível de conforto: Relaxação"
+    },
+    {
+      "id": 36,
+      "en": "Comfort Level: Toys",
+      "pt_br": "Nível de conforto: Brinquedos"
+    },
+    {
+      "id": 37,
+      "en": "Things Pokémon Like",
+      "pt_br": "Coisas que Pokémon gosta"
+    },
+    {
+      "id": 38,
+      "en": "Preferred Environment",
+      "pt_br": "Ambiente Preferido"
+    },
+    {
+      "id": 39,
+      "en": "Comfort Level: Houses",
+      "pt_br": "Nível de conforto: Casas"
+    },
+    {
+      "id": 40,
+      "en": "Home Brightness",
+      "pt_br": "Brilho Home"
+    },
+    {
+      "id": 41,
+      "en": "Growing Vegetable Crops",
+      "pt_br": "Cultivar culturas vegetais"
+    },
+    {
+      "id": 42,
+      "en": "Specialties",
+      "pt_br": "Especialidades"
+    },
+    {
+      "id": 43,
+      "en": "<fcap><$spwfull(10)>",
+      "pt_br": "<fcap><$spwfull(10)>"
+    },
+    {
+      "id": 44,
+      "en": "<fcap><$spwfull(1)>",
+      "pt_br": "<fcap><$spwfull(1)>"
+    },
+    {
+      "id": 45,
+      "en": "<fcap><$spwfull(5)>",
+      "pt_br": "<fcap><$spwfull(5)>"
+    },
+    {
+      "id": 46,
+      "en": "Environment Level",
+      "pt_br": "Nível de Ambiente"
+    },
+    {
+      "id": 47,
+      "en": "Things Pokémon Dislike",
+      "pt_br": "Coisas que Pokémon não gosta"
+    },
+    {
+      "id": 48,
+      "en": "Home Temperature",
+      "pt_br": "Temperatura inicial"
+    },
+    {
+      "id": 49,
+      "en": "Home Humidity Level",
+      "pt_br": "Nível de umidade inicial"
+    },
+    {
+      "id": 50,
+      "en": "Comfort Level & Habitat Boundaries",
+      "pt_br": "Nível de Conforto e Limites de Habitat"
+    },
+    {
+      "id": 51,
+      "en": "Legendary and Mythical Pokémon",
+      "pt_br": "Pokémon lendário e mítico"
+    },
+    {
+      "id": 52,
+      "en": "<fcap><$spwfull(6)>",
+      "pt_br": "<fcap><$spwfull(6)>"
+    },
+    {
+      "id": 53,
+      "en": "Help from Followers",
+      "pt_br": "Ajuda dos Seguidores"
+    },
+    {
+      "id": 54,
+      "en": "Increasing Humidity: Ground",
+      "pt_br": "Aumentar a Humidade: Solo"
+    },
+    {
+      "id": 55,
+      "en": "Increasing Humidity: Vegetation",
+      "pt_br": "Aumentar a umidade: vegetação"
+    },
+    {
+      "id": 56,
+      "en": "Increasing Humidity: Water Sources",
+      "pt_br": "Aumentar a umidade: fontes de água"
+    },
+    {
+      "id": 57,
+      "en": "<$spwicon(26)>Gather Honey",
+      "pt_br": "<$spwicon(26)>Recolha o mel"
+    },
+    {
+      "id": 58,
+      "en": "<fcap><$spwfull(15)>",
+      "pt_br": "<fcap><$spwfull(15)>"
+    },
+    {
+      "id": 59,
+      "en": "<fcap><$spwfull(16)>",
+      "pt_br": "<fcap><$spwfull(16)>"
+    },
+    {
+      "id": 60,
+      "en": "Walking with Pokémon",
+      "pt_br": "Caminhando com Pokémon"
+    },
+    {
+      "id": 61,
+      "en": "Maximum Pokémon Followers",
+      "pt_br": "Seguidores máximos de Pokémon"
+    },
+    {
+      "id": 62,
+      "en": "Increasing Comfort Level",
+      "pt_br": "Aumentar o Nível de Conforto"
+    },
+    {
+      "id": 63,
+      "en": "Decorating to Improve Comfort",
+      "pt_br": "Decoração para melhorar o conforto"
+    },
+    {
+      "id": 64,
+      "en": "Pokémon Active Hours",
+      "pt_br": "Horas Ativas de Pokémon"
+    },
+    {
+      "id": 65,
+      "en": "Pokémon Living Spaces",
+      "pt_br": "Espaços de Vida Pokémon"
+    },
+    {
+      "id": 66,
+      "en": "Beware Deep Water!",
+      "pt_br": "Cuidado com as águas profundas!"
+    },
+    {
+      "id": 67,
+      "en": "<fcap><$icon(10997)><$spwname(8)>",
+      "pt_br": "<fcap><$icon(10997)><$spwname(8)>"
+    },
+    {
+      "id": 68,
+      "en": "<fcap><$spwfull(8)> and the Rain Dance Site",
+      "pt_br": "<fcap><$spwfull(8)> e o local da dança da chuva"
+    },
+    {
+      "id": 69,
+      "en": "Planting Seeds",
+      "pt_br": "Sementes para plantação"
+    },
+    {
+      "id": 70,
+      "en": "Placing Items",
+      "pt_br": "Colocando itens"
+    },
+    {
+      "id": 71,
+      "en": "Plant Growth",
+      "pt_br": "Crescimento das Plantas"
+    },
+    {
+      "id": 72,
+      "en": "<$sklfull(4)> Tips",
+      "pt_br": "<$sklfull(4)> Dicas"
+    },
+    {
+      "id": 73,
+      "en": "Homes",
+      "pt_br": "Casas"
+    },
+    {
+      "id": 74,
+      "en": "Jump Rope",
+      "pt_br": "Corda de Salto"
+    },
+    {
+      "id": 75,
+      "en": "Hide-and-Sneak",
+      "pt_br": "Esconder e Escorregar"
+    },
+    {
+      "id": 76,
+      "en": "Pokémon Requests",
+      "pt_br": "Pedidos Pokémon"
+    },
+    {
+      "id": 77,
+      "en": "<fcap><$spwfull(25)>",
+      "pt_br": "<fcap><$spwfull(25)>"
+    },
+    {
+      "id": 78,
+      "en": "About Dream Islands",
+      "pt_br": "Sobre as Ilhas dos Sonhos"
+    },
+    {
+      "id": 79,
+      "en": "Time to Ask the Professor!",
+      "pt_br": "Está na hora de perguntar ao Professor!"
+    },
+    {
+      "id": 80,
+      "en": "Life with Your Pokémon Friends",
+      "pt_br": "Vida com seus amigos Pokémon"
+    },
+    {
+      "id": 81,
+      "en": "Picking Up Items",
+      "pt_br": "A Obter os Itens"
+    },
+    {
+      "id": 82,
+      "en": "<$sklfull(6)>",
+      "pt_br": "<$sklfull(6)>"
+    },
+    {
+      "id": 83,
+      "en": "<fcap><$spwfull(11)>",
+      "pt_br": "<fcap><$spwfull(11)>"
+    },
+    {
+      "id": 84,
+      "en": "<fcap><$spwfull(27)>",
+      "pt_br": "<fcap><$spwfull(27)>"
+    },
+    {
+      "id": 85,
+      "en": "The Handy Bag",
+      "pt_br": "A bolsa de mão"
+    },
+    {
+      "id": 86,
+      "en": "Choosing What You Want",
+      "pt_br": "Escolher o que você quer"
+    },
+    {
+      "id": 87,
+      "en": "Camera Tripod",
+      "pt_br": "Tripé da Câmera"
+    },
+    {
+      "id": 88,
+      "en": "Using <fcap><$spwfull(10)> at <$iicon(1446)>Smelting Furnaces",
+      "pt_br": "Utilização <fcap><$spwfull(10)> em <$iicon(1446)>Fornos de fundição"
+    },
+    {
+      "id": 89,
+      "en": "Washing Away Mud",
+      "pt_br": "Lavar Lamas"
+    },
+    {
+      "id": 90,
+      "en": "<fcap><$spwfull(13)>",
+      "pt_br": "<fcap><$spwfull(13)>"
+    },
+    {
+      "id": 91,
+      "en": "<$spwfull(19)>",
+      "pt_br": "<$spwfull(19)>"
+    },
+    {
+      "id": 92,
+      "en": "<fcap><$icon(11222)><$spwname(30)>",
+      "pt_br": "<fcap><$icon(11222)><$spwname(30)>"
+    },
+    {
+      "id": 93,
+      "en": "<fcap><$spwfull(17)>: <fcap><fqty(1)><$ifull(1738)>",
+      "pt_br": "<fcap><$spwfull(17)>: <fcap><fqty(1)><$ifull(1738)>"
+    },
+    {
+      "id": 94,
+      "en": "<fcap><$spwfull(28)>",
+      "pt_br": "<fcap><$spwfull(28)>"
+    },
+    {
+      "id": 95,
+      "en": "<fcap><$spwfull(21)>",
+      "pt_br": "<fcap><$spwfull(21)>"
+    },
+    {
+      "id": 96,
+      "en": "<fcap><$spwfull(31)>",
+      "pt_br": "<fcap><$spwfull(31)>"
+    },
+    {
+      "id": 97,
+      "en": "<$spwfull(29)>",
+      "pt_br": "<$spwfull(29)>"
+    },
+    {
+      "id": 98,
+      "en": "<fcap><$spwfull(23)>",
+      "pt_br": "<fcap><$spwfull(23)>"
+    },
+    {
+      "id": 99,
+      "en": "<fcap><$spwfull(34)>",
+      "pt_br": "<fcap><$spwfull(34)>"
+    },
+    {
+      "id": 100,
+      "en": "<fcap><$spwfull(24)>",
+      "pt_br": "<fcap><$spwfull(24)>"
+    },
+    {
+      "id": 101,
+      "en": "<fcap><$spwfull(32)>",
+      "pt_br": "<fcap><$spwfull(32)>"
+    },
+    {
+      "id": 102,
+      "en": "<fcap><$spwfull(35)>",
+      "pt_br": "<fcap><$spwfull(35)>"
+    },
+    {
+      "id": 103,
+      "en": "<fcap><$spwfull(33)>",
+      "pt_br": "<fcap><$spwfull(33)>"
+    },
+    {
+      "id": 104,
+      "en": "Humidity",
+      "pt_br": "Humidade"
+    },
+    {
+      "id": 105,
+      "en": "Remodeling Buildings",
+      "pt_br": "Remodelar Edifícios"
+    },
+    {
+      "id": 106,
+      "en": "Demolishing Buildings",
+      "pt_br": "Demolindo Edifícios"
+    },
+    {
+      "id": 107,
+      "en": "Relocating Buildings",
+      "pt_br": "Relocando prédios"
+    },
+    {
+      "id": 108,
+      "en": "Return Home",
+      "pt_br": "Voltar para Casa"
+    },
+    {
+      "id": 109,
+      "en": "Human Records",
+      "pt_br": "Registos Humanos"
+    },
+    {
+      "id": 110,
+      "en": "Ask a <$spwfull(29)> About the Mood",
+      "pt_br": "Perguntar a <$spwfull(29)> Sobre o humor"
+    },
+    {
+      "id": 111,
+      "en": "Reporting Completed Requests",
+      "pt_br": "Relatório de Pedidos Concluídos"
+    },
+    {
+      "id": 112,
+      "en": "Return Home Safe and Sound",
+      "pt_br": "Voltar para casa com segurança e som"
+    },
+    {
+      "id": 113,
+      "en": "<$sklfull(10)>",
+      "pt_br": "<$sklfull(10)>"
+    },
+    {
+      "id": 114,
+      "en": "<fcap><$spwfull(9)>",
+      "pt_br": "<fcap><$spwfull(9)>"
+    },
+    {
+      "id": 115,
+      "en": "<fcap><$spwfull(12)>",
+      "pt_br": "<fcap><$spwfull(12)>"
+    },
+    {
+      "id": 116,
+      "en": "<fcap><$bfull(33)>s",
+      "pt_br": "<fcap><$bfull(33)>s"
+    },
+    {
+      "id": 117,
+      "en": "Changing Colors with <fcap><$icon(11008)><$spwname(21)>",
+      "pt_br": "Mudar as Cores com <fcap><$icon(11008)><$spwname(21)>"
+    },
+    {
+      "id": 118,
+      "en": "<fcap><$icon(11008)><$spwname(21)>ing with Balloons",
+      "pt_br": "<fcap><$icon(11008)><$spwname(21)>eng com Balões"
+    },
+    {
+      "id": 119,
+      "en": "Changing Patterns with <fcap><$icon(11008)><$spwname(21)>",
+      "pt_br": "Mudar os Padrões com <fcap><$icon(11008)><$spwname(21)>"
+    },
+    {
+      "id": 120,
+      "en": "<fcap><$icon(11008)><$spwname(21)>ing Different Parts",
+      "pt_br": "<fcap><$icon(11008)><$spwname(21)>ing diferentes peças"
+    },
+    {
+      "id": 121,
+      "en": "Altering the Flow of Water",
+      "pt_br": "Alterando o fluxo de água"
+    },
+    {
+      "id": 122,
+      "en": "<fcap><$spwfull(4)>",
+      "pt_br": "<fcap><$spwfull(4)>"
+    },
+    {
+      "id": 123,
+      "en": "<fcap><$spwfull(17)>",
+      "pt_br": "<fcap><$spwfull(17)>"
+    },
+    {
+      "id": 124,
+      "en": "Sucking Up Liquids",
+      "pt_br": "Sugando líquidos"
+    },
+    {
+      "id": 125,
+      "en": "<fcap><$bfull(34)>s",
+      "pt_br": "<fcap><$bfull(34)>s"
+    },
+    {
+      "id": 126,
+      "en": "<fcap><$bfull(35)>s",
+      "pt_br": "<fcap><$bfull(35)>s"
+    },
+    {
+      "id": 127,
+      "en": "Brightening Areas",
+      "pt_br": "Áreas de Brilho"
+    },
+    {
+      "id": 128,
+      "en": "<$iicon(3268)>Utility Poles",
+      "pt_br": "<$iicon(3268)>Polos utilitários"
+    },
+    {
+      "id": 129,
+      "en": "<fcap><$spwfull(22)>",
+      "pt_br": "<fcap><$spwfull(22)>"
+    },
+    {
+      "id": 130,
+      "en": "<fcap><fqty(1)><$ifull(1410)>s",
+      "pt_br": "<fcap><fqty(1)><$ifull(1410)>s"
+    },
+    {
+      "id": 131,
+      "en": "Generators",
+      "pt_br": "Geradores"
+    },
+    {
+      "id": 132,
+      "en": "Transforming Your Look",
+      "pt_br": "Transformando seu olhar"
+    },
+    {
+      "id": 133,
+      "en": "<fcap><$icon(11008)><$spwname(21)>ing Houses",
+      "pt_br": "<fcap><$icon(11008)><$spwname(21)>ing Casas"
+    },
+    {
+      "id": 134,
+      "en": "Electric Light",
+      "pt_br": "Luz Elétrica"
+    },
+    {
+      "id": 135,
+      "en": "Firelight",
+      "pt_br": "Luz de fogo"
+    },
+    {
+      "id": 136,
+      "en": "Brightness and <$cname;0(272)>’s Flower",
+      "pt_br": "Brilho e <$cname;0(272)>A Flor"
+    },
+    {
+      "id": 137,
+      "en": "Holding Liquids in Your Mouth",
+      "pt_br": "Mantendo líquidos na boca"
+    },
+    {
+      "id": 138,
+      "en": "The <$iicon(1443)>3D Printer",
+      "pt_br": "A <$iicon(1443)>Impressora 3D"
+    },
+    {
+      "id": 139,
+      "en": "Special Conversations Between Pokémon",
+      "pt_br": "Conversas especiais entre Pokémon"
+    },
+    {
+      "id": 140,
+      "en": "Talking to Pokémon",
+      "pt_br": "Conversando com Pokémon"
+    },
+    {
+      "id": 141,
+      "en": "Using <fcap><fqty(1)><$ifull(3994)> to Draw In Pokémon",
+      "pt_br": "Utilização <fcap><fqty(1)><$ifull(3994)> para desenhar em Pokémon"
+    },
+    {
+      "id": 142,
+      "en": "Inviting Pokémon to Live Elsewhere",
+      "pt_br": "Convidando Pokémon a viver em outro lugar"
+    },
+    {
+      "id": 143,
+      "en": "Rippling Water #1",
+      "pt_br": "Água de Rippling # 1"
+    },
+    {
+      "id": 144,
+      "en": "Rippling Water #2",
+      "pt_br": "Água Rippling # 2"
+    },
+    {
+      "id": 145,
+      "en": "Rippling Water #3",
+      "pt_br": "Água Rippling # 3"
+    },
+    {
+      "id": 146,
+      "en": "<fcap><fqty(1)><$ifull(3994)>",
+      "pt_br": "<fcap><fqty(1)><$ifull(3994)>"
+    },
+    {
+      "id": 147,
+      "en": "Dangerous Lost Relics",
+      "pt_br": "Relíquias Perdidas Perigosas"
+    },
+    {
+      "id": 148,
+      "en": "Dowsing",
+      "pt_br": "Dowsing"
+    },
+    {
+      "id": 149,
+      "en": "The Mysterious Mural",
+      "pt_br": "O Mural Misterioso"
+    },
+    {
+      "id": 150,
+      "en": "Visiting Dream Islands",
+      "pt_br": "Ilhas dos Sonhos Visitantes"
+    },
+    {
+      "id": 151,
+      "en": "A New Dream Island Every Day",
+      "pt_br": "Uma Nova Ilha dos Sonhos Todos os dias"
+    },
+    {
+      "id": 152,
+      "en": "Challenges",
+      "pt_br": "Desafios"
+    },
+    {
+      "id": 153,
+      "en": "The Shop",
+      "pt_br": "A Loja"
+    },
+    {
+      "id": 154,
+      "en": "Ordering Items",
+      "pt_br": "Itens de Ordenação"
+    },
+    {
+      "id": 155,
+      "en": "Stamp Rally",
+      "pt_br": "Rally de Carimbo"
+    },
+    {
+      "id": 156,
+      "en": "Discovering New Recipes",
+      "pt_br": "Descobrindo Novas Receitas"
+    },
+    {
+      "id": 157,
+      "en": "Searching for Pokémon with the Pokédex",
+      "pt_br": "Procurando por Pokémon com o Pokédex"
+    },
+    {
+      "id": 158,
+      "en": "Installing <$iicon(1471)>Security Cameras",
+      "pt_br": "Instalando <$iicon(1471)>Câmaras de Segurança"
+    },
+    {
+      "id": 159,
+      "en": "Summoning Drifloon with Dolls",
+      "pt_br": "Convocar Drifloon com Bonecas"
+    },
+    {
+      "id": 160,
+      "en": "Playing Jump Rope",
+      "pt_br": "Jogando corda de salto"
+    },
+    {
+      "id": 161,
+      "en": "Playing Hide-and-Sneak",
+      "pt_br": "Jogando Esconder e Escorregar"
+    },
+    {
+      "id": 162,
+      "en": "Look That Way",
+      "pt_br": "Olha para lá."
+    },
+    {
+      "id": 163,
+      "en": "Using Mouse Controls",
+      "pt_br": "Usar os Controlos do Rato"
+    },
+    {
+      "id": 164,
+      "en": "Dive",
+      "pt_br": "Mergulhar"
+    },
+    {
+      "id": 165,
+      "en": "Powered-Up <$sklfull(10)>",
+      "pt_br": "Alimentado <$sklfull(10)>"
+    },
+    {
+      "id": 166,
+      "en": "Strength",
+      "pt_br": "Dosagem"
+    },
+    {
+      "id": 167,
+      "en": "Using Strength to Rotate Objects",
+      "pt_br": "Usar a Força para Girar os Objectos"
+    },
+    {
+      "id": 168,
+      "en": "Let’s Cook!",
+      "pt_br": "Vamos cozinhar!"
+    },
+    {
+      "id": 169,
+      "en": "Powered-Up <$sklfull(1)>",
+      "pt_br": "Alimentado <$sklfull(1)>"
+    },
+    {
+      "id": 170,
+      "en": "Powered-Up <$sklfull(5)>",
+      "pt_br": "Alimentado <$sklfull(5)>"
+    },
+    {
+      "id": 171,
+      "en": "Powered-Up <$sklfull(3)>",
+      "pt_br": "Alimentado <$sklfull(3)>"
+    },
+    {
+      "id": 172,
+      "en": "Powered-Up <$sklfull(4)>",
+      "pt_br": "Alimentado <$sklfull(4)>"
+    },
+    {
+      "id": 173,
+      "en": "Cooking: Changing Ingredients",
+      "pt_br": "Cozinhar: mudando ingredientes"
+    },
+    {
+      "id": 174,
+      "en": "Cooking: Help from Others",
+      "pt_br": "Cozinhar: Ajuda de outros"
+    },
+    {
+      "id": 175,
+      "en": "<$iicon(1446)>Smelting Furnaces",
+      "pt_br": "<$iicon(1446)>Fornos de fundição"
+    },
+    {
+      "id": 176,
+      "en": "<fcap><$icon(11004)><$spwname(14)>",
+      "pt_br": "<fcap><$icon(11004)><$spwname(14)>"
+    },
+    {
+      "id": 177,
+      "en": "Placing Items to Increase Mood",
+      "pt_br": "Colocando itens para aumentar o humor"
+    },
+    {
+      "id": 178,
+      "en": "Using Food to Increase Mood",
+      "pt_br": "Usando alimentos para aumentar o humor"
+    },
+    {
+      "id": 179,
+      "en": "Party Prep: Cooking",
+      "pt_br": "Preparação da festa: Cozinhar"
+    },
+    {
+      "id": 180,
+      "en": "Using Ancient Artifacts to Increase Mood",
+      "pt_br": "Usando artefatos antigos para aumentar o humor"
+    },
+    {
+      "id": 181,
+      "en": "<$sklfull(12)>",
+      "pt_br": "<$sklfull(12)>"
+    },
+    {
+      "id": 182,
+      "en": "Getting a <fcap><fqty(1)><$ifull(1461)> Working",
+      "pt_br": "Obtendo um <fcap><fqty(1)><$ifull(1461)> A trabalhar"
+    },
+    {
+      "id": 183,
+      "en": "Long-Distance Slicing with <$sklfull(5)>",
+      "pt_br": "Corte de longa distância com <$sklfull(5)>"
+    },
+    {
+      "id": 184,
+      "en": "Party Time!",
+      "pt_br": "Hora da festa!"
+    },
+    {
+      "id": 185,
+      "en": "Party Benefits",
+      "pt_br": "Benefícios da Festa"
+    },
+    {
+      "id": 186,
+      "en": "Pokémon Fossils",
+      "pt_br": "Pokémon Fossils"
+    },
+    {
+      "id": 187,
+      "en": "Railroad Crossings",
+      "pt_br": "Atravessamentos ferroviários"
+    },
+    {
+      "id": 188,
+      "en": "Ask <$cname(562)>",
+      "pt_br": "Perguntar <$cname(562)>"
+    },
+    {
+      "id": 189,
+      "en": "Using <$sklfull(2)> on Coral",
+      "pt_br": "Utilização <$sklfull(2)> em Coral"
+    },
+    {
+      "id": 190,
+      "en": "Moving Underwater with <$sklfull(10)>",
+      "pt_br": "Movendo-se sob a água com <$sklfull(10)>"
+    },
+    {
+      "id": 191,
+      "en": "Breaking Things While <$sklfull(10)>ing",
+      "pt_br": "Quebrando coisas enquanto <$sklfull(10)>ing"
+    },
+    {
+      "id": 192,
+      "en": "<$sklfull(11)>",
+      "pt_br": "<$sklfull(11)>"
+    },
+    {
+      "id": 193,
+      "en": "Setting Up a <$iicon(1457)>Lift",
+      "pt_br": "Configurar um <$iicon(1457)>Levantar"
+    },
+    {
+      "id": 194,
+      "en": "Setting Up an <$iicon(1469)>Elevator",
+      "pt_br": "Configurar um <$iicon(1469)>Elevador"
+    },
+    {
+      "id": 195,
+      "en": "Making Big Buildings",
+      "pt_br": "Construindo Grandes Edifícios"
+    },
+    {
+      "id": 196,
+      "en": "<$icon(11020)>Waterfall",
+      "pt_br": "<$icon(11020)>Cachoeira"
+    },
+    {
+      "id": 197,
+      "en": "<fcap><fqty(2)><$ifull(1677)>",
+      "pt_br": "<fcap><fqty(2)><$ifull(1677)>"
+    },
+    {
+      "id": 198,
+      "en": "<$iicon(602)>Portal Pods",
+      "pt_br": "<$iicon(602)>Pods de Portal"
+    },
+    {
+      "id": 199,
+      "en": "Throwing Away Unwanted Items",
+      "pt_br": "Jogando fora itens indesejados"
+    },
+    {
+      "id": 200,
+      "en": "Changing How Items Attach",
+      "pt_br": "Mudando Como os Itens Anexam"
+    },
+    {
+      "id": 201,
+      "en": "Growing Crops Underwater",
+      "pt_br": "Cultivar colheitas debaixo d'água"
+    },
+    {
+      "id": 202,
+      "en": "Jump Rope Contests",
+      "pt_br": "Concursos de Corda de Salto"
+    },
+    {
+      "id": 203,
+      "en": "Hide-and-Sneak Contests",
+      "pt_br": "Concursos de Esconder e Escorregar"
+    },
+    {
+      "id": 204,
+      "en": "Using <fqty(2)><$ifull(92)>",
+      "pt_br": "Utilização <fqty(2)><$ifull(92)>"
+    },
+    {
+      "id": 205,
+      "en": "<$iicon(4001)>Pokémon Gifts",
+      "pt_br": "<$iicon(4001)>Presentes Pokémon"
+    },
+    {
+      "id": 206,
+      "en": "Inviting Pokémon from Other Towns",
+      "pt_br": "Convidando Pokémon de Outras Cidades"
+    },
+    {
+      "id": 207,
+      "en": "The Communication Wheel",
+      "pt_br": "A Roda da Comunicação"
+    },
+    {
+      "id": 208,
+      "en": "Playing with Others via Link Play",
+      "pt_br": "Jogando com os outros via Link Play"
+    },
+    {
+      "id": 209,
+      "en": "<$stgname;0(13)>",
+      "pt_br": "<$stgname;0(13)>"
+    },
+    {
+      "id": 210,
+      "en": "GameShare",
+      "pt_br": "GameShare"
+    },
+    {
+      "id": 211,
+      "en": "Virtual Mode",
+      "pt_br": "Modo Virtual"
+    },
+    {
+      "id": 212,
+      "en": "A Place to Play Freely with Others",
+      "pt_br": "Um lugar para jogar livremente com outros"
+    },
+    {
+      "id": 213,
+      "en": "Inviting Others to Visit Your World",
+      "pt_br": "Convidou outros a visitar seu mundo"
+    },
+    {
+      "id": 214,
+      "en": "Visiting a Friend’s World",
+      "pt_br": "Visitar o mundo de um amigo"
+    },
+    {
+      "id": 215,
+      "en": "Playing on a Cloud Island",
+      "pt_br": "Jogando em uma ilha de nuvem"
+    },
+    {
+      "id": 216,
+      "en": "Ask Again If You’re Stuck",
+      "pt_br": "Pergunte novamente se você está preso"
+    },
+    {
+      "id": 217,
+      "en": "Making Walkable Roads",
+      "pt_br": "Tornar estradas caminháveis"
+    },
+    {
+      "id": 218,
+      "en": "Making a Darker Home",
+      "pt_br": "Tornando um Lar Mais Escuro"
+    },
+    {
+      "id": 219,
+      "en": "Playing Music",
+      "pt_br": "Tocando Música"
+    },
+    {
+      "id": 220,
+      "en": "Finding Water",
+      "pt_br": "Encontrar a Água"
+    },
+    {
+      "id": 221,
+      "en": "Shops on Cloud Islands",
+      "pt_br": "Lojas em Ilhas Nuvens"
+    },
+    {
+      "id": 222,
+      "en": "Downloadable Content on Cloud Islands",
+      "pt_br": "Conteúdo para download em Ilhas Cloud"
+    },
+    {
+      "id": 223,
+      "en": "<fcap><$spwfull(37)>",
+      "pt_br": "<fcap><$spwfull(37)>"
+    },
+    {
+      "id": 224,
+      "en": "Whirlpools",
+      "pt_br": "Banheiras de hidromassagem"
+    },
+    {
+      "id": 225,
+      "en": "<fcap><$spwfull(8)>ing Underwater",
+      "pt_br": "<fcap><$spwfull(8)>Águas subterrâneas"
+    },
+    {
+      "id": 226,
+      "en": "Cutting Watermelons",
+      "pt_br": "Melancias de corte"
+    },
+    {
+      "id": 227,
+      "en": "<fcap><$spwname(1)>ing Underwater",
+      "pt_br": "<fcap><$spwname(1)>Águas subterrâneas"
+    },
+    {
+      "id": 228,
+      "en": "The Deep Sea",
+      "pt_br": "O Mar Profundo"
+    }
+  ]
+}

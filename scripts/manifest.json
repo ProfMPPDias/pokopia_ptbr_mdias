@@ -1,0 +1,1042 @@
+{
+  "game": "Pokemon Pokopia",
+  "title_id": "0400A3A01EE4C000",
+  "version": "10.0.0 (655360)",
+  "language": "pt_BR",
+  "total_files": 172,
+  "total_strings": 20598,
+  "files": [
+    {
+      "entry_index": 1910,
+      "bin_id": "0x1bb900",
+      "file_name": "text_01910_0x001bb900.json",
+      "string_count": 328
+    },
+    {
+      "entry_index": 1919,
+      "bin_id": "0x1e7b00",
+      "file_name": "text_01919_0x001e7b00.json",
+      "string_count": 368
+    },
+    {
+      "entry_index": 1928,
+      "bin_id": "0x215400",
+      "file_name": "text_01928_0x00215400.json",
+      "string_count": 340
+    },
+    {
+      "entry_index": 1937,
+      "bin_id": "0x243300",
+      "file_name": "text_01937_0x00243300.json",
+      "string_count": 334
+    },
+    {
+      "entry_index": 1946,
+      "bin_id": "0x270d00",
+      "file_name": "text_01946_0x00270d00.json",
+      "string_count": 329
+    },
+    {
+      "entry_index": 1955,
+      "bin_id": "0x2a0200",
+      "file_name": "text_01955_0x002a0200.json",
+      "string_count": 306
+    },
+    {
+      "entry_index": 1964,
+      "bin_id": "0x2d2500",
+      "file_name": "text_01964_0x002d2500.json",
+      "string_count": 345
+    },
+    {
+      "entry_index": 1973,
+      "bin_id": "0x301c00",
+      "file_name": "text_01973_0x00301c00.json",
+      "string_count": 353
+    },
+    {
+      "entry_index": 1982,
+      "bin_id": "0x330b00",
+      "file_name": "text_01982_0x00330b00.json",
+      "string_count": 333
+    },
+    {
+      "entry_index": 1991,
+      "bin_id": "0x361c00",
+      "file_name": "text_01991_0x00361c00.json",
+      "string_count": 315
+    },
+    {
+      "entry_index": 2000,
+      "bin_id": "0x393200",
+      "file_name": "text_02000_0x00393200.json",
+      "string_count": 302
+    },
+    {
+      "entry_index": 2009,
+      "bin_id": "0x3c8400",
+      "file_name": "text_02009_0x003c8400.json",
+      "string_count": 304
+    },
+    {
+      "entry_index": 2018,
+      "bin_id": "0x3fdc00",
+      "file_name": "text_02018_0x003fdc00.json",
+      "string_count": 306
+    },
+    {
+      "entry_index": 2027,
+      "bin_id": "0x430c00",
+      "file_name": "text_02027_0x00430c00.json",
+      "string_count": 380
+    },
+    {
+      "entry_index": 2036,
+      "bin_id": "0x461300",
+      "file_name": "text_02036_0x00461300.json",
+      "string_count": 298
+    },
+    {
+      "entry_index": 2045,
+      "bin_id": "0x495700",
+      "file_name": "text_02045_0x00495700.json",
+      "string_count": 309
+    },
+    {
+      "entry_index": 2054,
+      "bin_id": "0x4c9700",
+      "file_name": "text_02054_0x004c9700.json",
+      "string_count": 379
+    },
+    {
+      "entry_index": 2063,
+      "bin_id": "0x4f2100",
+      "file_name": "text_02063_0x004f2100.json",
+      "string_count": 85
+    },
+    {
+      "entry_index": 2072,
+      "bin_id": "0x501100",
+      "file_name": "text_02072_0x00501100.json",
+      "string_count": 128
+    },
+    {
+      "entry_index": 2234,
+      "bin_id": "0x549800",
+      "file_name": "text_02234_0x00549800.json",
+      "string_count": 490
+    },
+    {
+      "entry_index": 2243,
+      "bin_id": "0x554d00",
+      "file_name": "text_02243_0x00554d00.json",
+      "string_count": 562
+    },
+    {
+      "entry_index": 2270,
+      "bin_id": "0x56d700",
+      "file_name": "text_02270_0x0056d700.json",
+      "string_count": 1556
+    },
+    {
+      "entry_index": 2324,
+      "bin_id": "0x59b100",
+      "file_name": "text_02324_0x0059b100.json",
+      "string_count": 457
+    },
+    {
+      "entry_index": 2351,
+      "bin_id": "0x5b8800",
+      "file_name": "text_02351_0x005b8800.json",
+      "string_count": 73
+    },
+    {
+      "entry_index": 2360,
+      "bin_id": "0x5c1500",
+      "file_name": "text_02360_0x005c1500.json",
+      "string_count": 62
+    },
+    {
+      "entry_index": 2369,
+      "bin_id": "0x5cb000",
+      "file_name": "text_02369_0x005cb000.json",
+      "string_count": 74
+    },
+    {
+      "entry_index": 2378,
+      "bin_id": "0x5d5200",
+      "file_name": "text_02378_0x005d5200.json",
+      "string_count": 75
+    },
+    {
+      "entry_index": 2387,
+      "bin_id": "0x5dee00",
+      "file_name": "text_02387_0x005dee00.json",
+      "string_count": 58
+    },
+    {
+      "entry_index": 2396,
+      "bin_id": "0x5e6700",
+      "file_name": "text_02396_0x005e6700.json",
+      "string_count": 40
+    },
+    {
+      "entry_index": 2405,
+      "bin_id": "0x5ed000",
+      "file_name": "text_02405_0x005ed000.json",
+      "string_count": 76
+    },
+    {
+      "entry_index": 2414,
+      "bin_id": "0x5f7a00",
+      "file_name": "text_02414_0x005f7a00.json",
+      "string_count": 99
+    },
+    {
+      "entry_index": 2423,
+      "bin_id": "0x606e00",
+      "file_name": "text_02423_0x00606e00.json",
+      "string_count": 12
+    },
+    {
+      "entry_index": 2441,
+      "bin_id": "0x60c500",
+      "file_name": "text_02441_0x0060c500.json",
+      "string_count": 162
+    },
+    {
+      "entry_index": 2450,
+      "bin_id": "0x61bd00",
+      "file_name": "text_02450_0x0061bd00.json",
+      "string_count": 38
+    },
+    {
+      "entry_index": 2459,
+      "bin_id": "0x621800",
+      "file_name": "text_02459_0x00621800.json",
+      "string_count": 31
+    },
+    {
+      "entry_index": 2468,
+      "bin_id": "0x626e00",
+      "file_name": "text_02468_0x00626e00.json",
+      "string_count": 68
+    },
+    {
+      "entry_index": 2477,
+      "bin_id": "0x631700",
+      "file_name": "text_02477_0x00631700.json",
+      "string_count": 80
+    },
+    {
+      "entry_index": 2486,
+      "bin_id": "0x63bd00",
+      "file_name": "text_02486_0x0063bd00.json",
+      "string_count": 19
+    },
+    {
+      "entry_index": 2522,
+      "bin_id": "0x642000",
+      "file_name": "text_02522_0x00642000.json",
+      "string_count": 72
+    },
+    {
+      "entry_index": 2531,
+      "bin_id": "0x64ca00",
+      "file_name": "text_02531_0x0064ca00.json",
+      "string_count": 60
+    },
+    {
+      "entry_index": 2540,
+      "bin_id": "0x654500",
+      "file_name": "text_02540_0x00654500.json",
+      "string_count": 74
+    },
+    {
+      "entry_index": 2549,
+      "bin_id": "0x65ea00",
+      "file_name": "text_02549_0x0065ea00.json",
+      "string_count": 39
+    },
+    {
+      "entry_index": 2558,
+      "bin_id": "0x666200",
+      "file_name": "text_02558_0x00666200.json",
+      "string_count": 101
+    },
+    {
+      "entry_index": 2567,
+      "bin_id": "0x673600",
+      "file_name": "text_02567_0x00673600.json",
+      "string_count": 52
+    },
+    {
+      "entry_index": 2576,
+      "bin_id": "0x679d00",
+      "file_name": "text_02576_0x00679d00.json",
+      "string_count": 42
+    },
+    {
+      "entry_index": 2594,
+      "bin_id": "0x680200",
+      "file_name": "text_02594_0x00680200.json",
+      "string_count": 13
+    },
+    {
+      "entry_index": 2621,
+      "bin_id": "0x684d00",
+      "file_name": "text_02621_0x00684d00.json",
+      "string_count": 59
+    },
+    {
+      "entry_index": 2630,
+      "bin_id": "0x68d800",
+      "file_name": "text_02630_0x0068d800.json",
+      "string_count": 82
+    },
+    {
+      "entry_index": 2639,
+      "bin_id": "0x699800",
+      "file_name": "text_02639_0x00699800.json",
+      "string_count": 60
+    },
+    {
+      "entry_index": 2648,
+      "bin_id": "0x6a3a00",
+      "file_name": "text_02648_0x006a3a00.json",
+      "string_count": 53
+    },
+    {
+      "entry_index": 2657,
+      "bin_id": "0x6ab200",
+      "file_name": "text_02657_0x006ab200.json",
+      "string_count": 61
+    },
+    {
+      "entry_index": 2666,
+      "bin_id": "0x6b2900",
+      "file_name": "text_02666_0x006b2900.json",
+      "string_count": 43
+    },
+    {
+      "entry_index": 2675,
+      "bin_id": "0x6b7d00",
+      "file_name": "text_02675_0x006b7d00.json",
+      "string_count": 49
+    },
+    {
+      "entry_index": 2684,
+      "bin_id": "0x6c1000",
+      "file_name": "text_02684_0x006c1000.json",
+      "string_count": 94
+    },
+    {
+      "entry_index": 2693,
+      "bin_id": "0x6cac00",
+      "file_name": "text_02693_0x006cac00.json",
+      "string_count": 97
+    },
+    {
+      "entry_index": 2702,
+      "bin_id": "0x6d3a00",
+      "file_name": "text_02702_0x006d3a00.json",
+      "string_count": 21
+    },
+    {
+      "entry_index": 2711,
+      "bin_id": "0x6d8400",
+      "file_name": "text_02711_0x006d8400.json",
+      "string_count": 46
+    },
+    {
+      "entry_index": 2720,
+      "bin_id": "0x6dfd00",
+      "file_name": "text_02720_0x006dfd00.json",
+      "string_count": 43
+    },
+    {
+      "entry_index": 2729,
+      "bin_id": "0x6e7200",
+      "file_name": "text_02729_0x006e7200.json",
+      "string_count": 39
+    },
+    {
+      "entry_index": 2738,
+      "bin_id": "0x6edb00",
+      "file_name": "text_02738_0x006edb00.json",
+      "string_count": 57
+    },
+    {
+      "entry_index": 2747,
+      "bin_id": "0x6f7800",
+      "file_name": "text_02747_0x006f7800.json",
+      "string_count": 65
+    },
+    {
+      "entry_index": 2756,
+      "bin_id": "0x700e00",
+      "file_name": "text_02756_0x00700e00.json",
+      "string_count": 32
+    },
+    {
+      "entry_index": 2765,
+      "bin_id": "0x708800",
+      "file_name": "text_02765_0x00708800.json",
+      "string_count": 71
+    },
+    {
+      "entry_index": 2774,
+      "bin_id": "0x712e00",
+      "file_name": "text_02774_0x00712e00.json",
+      "string_count": 28
+    },
+    {
+      "entry_index": 2783,
+      "bin_id": "0x717000",
+      "file_name": "text_02783_0x00717000.json",
+      "string_count": 13
+    },
+    {
+      "entry_index": 2801,
+      "bin_id": "0x71ba00",
+      "file_name": "text_02801_0x0071ba00.json",
+      "string_count": 48
+    },
+    {
+      "entry_index": 2810,
+      "bin_id": "0x723500",
+      "file_name": "text_02810_0x00723500.json",
+      "string_count": 10
+    },
+    {
+      "entry_index": 2819,
+      "bin_id": "0x726a00",
+      "file_name": "text_02819_0x00726a00.json",
+      "string_count": 24
+    },
+    {
+      "entry_index": 2828,
+      "bin_id": "0x72b700",
+      "file_name": "text_02828_0x0072b700.json",
+      "string_count": 25
+    },
+    {
+      "entry_index": 2846,
+      "bin_id": "0x731200",
+      "file_name": "text_02846_0x00731200.json",
+      "string_count": 35
+    },
+    {
+      "entry_index": 2855,
+      "bin_id": "0x735700",
+      "file_name": "text_02855_0x00735700.json",
+      "string_count": 35
+    },
+    {
+      "entry_index": 2864,
+      "bin_id": "0x73c100",
+      "file_name": "text_02864_0x0073c100.json",
+      "string_count": 34
+    },
+    {
+      "entry_index": 2873,
+      "bin_id": "0x742300",
+      "file_name": "text_02873_0x00742300.json",
+      "string_count": 53
+    },
+    {
+      "entry_index": 2882,
+      "bin_id": "0x74a500",
+      "file_name": "text_02882_0x0074a500.json",
+      "string_count": 43
+    },
+    {
+      "entry_index": 2891,
+      "bin_id": "0x752100",
+      "file_name": "text_02891_0x00752100.json",
+      "string_count": 21
+    },
+    {
+      "entry_index": 2900,
+      "bin_id": "0x755d00",
+      "file_name": "text_02900_0x00755d00.json",
+      "string_count": 42
+    },
+    {
+      "entry_index": 2909,
+      "bin_id": "0x75ce00",
+      "file_name": "text_02909_0x0075ce00.json",
+      "string_count": 30
+    },
+    {
+      "entry_index": 2918,
+      "bin_id": "0x762700",
+      "file_name": "text_02918_0x00762700.json",
+      "string_count": 39
+    },
+    {
+      "entry_index": 2927,
+      "bin_id": "0x769000",
+      "file_name": "text_02927_0x00769000.json",
+      "string_count": 18
+    },
+    {
+      "entry_index": 2936,
+      "bin_id": "0x76c700",
+      "file_name": "text_02936_0x0076c700.json",
+      "string_count": 35
+    },
+    {
+      "entry_index": 2945,
+      "bin_id": "0x771f00",
+      "file_name": "text_02945_0x00771f00.json",
+      "string_count": 20
+    },
+    {
+      "entry_index": 2954,
+      "bin_id": "0x776600",
+      "file_name": "text_02954_0x00776600.json",
+      "string_count": 28
+    },
+    {
+      "entry_index": 2963,
+      "bin_id": "0x77ae00",
+      "file_name": "text_02963_0x0077ae00.json",
+      "string_count": 45
+    },
+    {
+      "entry_index": 2972,
+      "bin_id": "0x782700",
+      "file_name": "text_02972_0x00782700.json",
+      "string_count": 25
+    },
+    {
+      "entry_index": 2981,
+      "bin_id": "0x787600",
+      "file_name": "text_02981_0x00787600.json",
+      "string_count": 33
+    },
+    {
+      "entry_index": 2990,
+      "bin_id": "0x78d100",
+      "file_name": "text_02990_0x0078d100.json",
+      "string_count": 30
+    },
+    {
+      "entry_index": 2999,
+      "bin_id": "0x792300",
+      "file_name": "text_02999_0x00792300.json",
+      "string_count": 13
+    },
+    {
+      "entry_index": 3008,
+      "bin_id": "0x795b00",
+      "file_name": "text_03008_0x00795b00.json",
+      "string_count": 16
+    },
+    {
+      "entry_index": 3017,
+      "bin_id": "0x799300",
+      "file_name": "text_03017_0x00799300.json",
+      "string_count": 18
+    },
+    {
+      "entry_index": 3026,
+      "bin_id": "0x79d800",
+      "file_name": "text_03026_0x0079d800.json",
+      "string_count": 22
+    },
+    {
+      "entry_index": 3035,
+      "bin_id": "0x7a2300",
+      "file_name": "text_03035_0x007a2300.json",
+      "string_count": 31
+    },
+    {
+      "entry_index": 3044,
+      "bin_id": "0x7a7c00",
+      "file_name": "text_03044_0x007a7c00.json",
+      "string_count": 25
+    },
+    {
+      "entry_index": 3053,
+      "bin_id": "0x7ace00",
+      "file_name": "text_03053_0x007ace00.json",
+      "string_count": 16
+    },
+    {
+      "entry_index": 3071,
+      "bin_id": "0x7b0e00",
+      "file_name": "text_03071_0x007b0e00.json",
+      "string_count": 43
+    },
+    {
+      "entry_index": 3080,
+      "bin_id": "0x7b6900",
+      "file_name": "text_03080_0x007b6900.json",
+      "string_count": 79
+    },
+    {
+      "entry_index": 3089,
+      "bin_id": "0x7c0f00",
+      "file_name": "text_03089_0x007c0f00.json",
+      "string_count": 45
+    },
+    {
+      "entry_index": 3098,
+      "bin_id": "0x7c5700",
+      "file_name": "text_03098_0x007c5700.json",
+      "string_count": 18
+    },
+    {
+      "entry_index": 3107,
+      "bin_id": "0x7c9f00",
+      "file_name": "text_03107_0x007c9f00.json",
+      "string_count": 104
+    },
+    {
+      "entry_index": 3116,
+      "bin_id": "0x7d5200",
+      "file_name": "text_03116_0x007d5200.json",
+      "string_count": 75
+    },
+    {
+      "entry_index": 3125,
+      "bin_id": "0x7dea00",
+      "file_name": "text_03125_0x007dea00.json",
+      "string_count": 39
+    },
+    {
+      "entry_index": 3134,
+      "bin_id": "0x7e4e00",
+      "file_name": "text_03134_0x007e4e00.json",
+      "string_count": 25
+    },
+    {
+      "entry_index": 3143,
+      "bin_id": "0x7e9100",
+      "file_name": "text_03143_0x007e9100.json",
+      "string_count": 20
+    },
+    {
+      "entry_index": 3152,
+      "bin_id": "0x7ed000",
+      "file_name": "text_03152_0x007ed000.json",
+      "string_count": 71
+    },
+    {
+      "entry_index": 3251,
+      "bin_id": "0x808600",
+      "file_name": "text_03251_0x00808600.json",
+      "string_count": 116
+    },
+    {
+      "entry_index": 3269,
+      "bin_id": "0x877e00",
+      "file_name": "text_03269_0x00877e00.json",
+      "string_count": 23
+    },
+    {
+      "entry_index": 3278,
+      "bin_id": "0x87ba00",
+      "file_name": "text_03278_0x0087ba00.json",
+      "string_count": 42
+    },
+    {
+      "entry_index": 3287,
+      "bin_id": "0x882f00",
+      "file_name": "text_03287_0x00882f00.json",
+      "string_count": 164
+    },
+    {
+      "entry_index": 3296,
+      "bin_id": "0x89a900",
+      "file_name": "text_03296_0x0089a900.json",
+      "string_count": 229
+    },
+    {
+      "entry_index": 3305,
+      "bin_id": "0x8b5c00",
+      "file_name": "text_03305_0x008b5c00.json",
+      "string_count": 8
+    },
+    {
+      "entry_index": 3314,
+      "bin_id": "0x8b9200",
+      "file_name": "text_03314_0x008b9200.json",
+      "string_count": 40
+    },
+    {
+      "entry_index": 3323,
+      "bin_id": "0x8c7500",
+      "file_name": "text_03323_0x008c7500.json",
+      "string_count": 10
+    },
+    {
+      "entry_index": 3422,
+      "bin_id": "0x8d1400",
+      "file_name": "text_03422_0x008d1400.json",
+      "string_count": 138
+    },
+    {
+      "entry_index": 3521,
+      "bin_id": "0x8e6b00",
+      "file_name": "text_03521_0x008e6b00.json",
+      "string_count": 78
+    },
+    {
+      "entry_index": 3530,
+      "bin_id": "0x8f1e00",
+      "file_name": "text_03530_0x008f1e00.json",
+      "string_count": 87
+    },
+    {
+      "entry_index": 3539,
+      "bin_id": "0x8fdc00",
+      "file_name": "text_03539_0x008fdc00.json",
+      "string_count": 50
+    },
+    {
+      "entry_index": 3548,
+      "bin_id": "0x904100",
+      "file_name": "text_03548_0x00904100.json",
+      "string_count": 5
+    },
+    {
+      "entry_index": 3557,
+      "bin_id": "0x906400",
+      "file_name": "text_03557_0x00906400.json",
+      "string_count": 48
+    },
+    {
+      "entry_index": 3566,
+      "bin_id": "0x90bf00",
+      "file_name": "text_03566_0x0090bf00.json",
+      "string_count": 4
+    },
+    {
+      "entry_index": 3575,
+      "bin_id": "0x90e600",
+      "file_name": "text_03575_0x0090e600.json",
+      "string_count": 63
+    },
+    {
+      "entry_index": 3593,
+      "bin_id": "0x917100",
+      "file_name": "text_03593_0x00917100.json",
+      "string_count": 51
+    },
+    {
+      "entry_index": 3602,
+      "bin_id": "0x91c300",
+      "file_name": "text_03602_0x0091c300.json",
+      "string_count": 4
+    },
+    {
+      "entry_index": 3611,
+      "bin_id": "0x91e600",
+      "file_name": "text_03611_0x0091e600.json",
+      "string_count": 39
+    },
+    {
+      "entry_index": 3629,
+      "bin_id": "0x925c00",
+      "file_name": "text_03629_0x00925c00.json",
+      "string_count": 57
+    },
+    {
+      "entry_index": 3638,
+      "bin_id": "0x92c500",
+      "file_name": "text_03638_0x0092c500.json",
+      "string_count": 4
+    },
+    {
+      "entry_index": 3647,
+      "bin_id": "0x92f700",
+      "file_name": "text_03647_0x0092f700.json",
+      "string_count": 124
+    },
+    {
+      "entry_index": 3791,
+      "bin_id": "0x949200",
+      "file_name": "text_03791_0x00949200.json",
+      "string_count": 201
+    },
+    {
+      "entry_index": 3800,
+      "bin_id": "0x961c00",
+      "file_name": "text_03800_0x00961c00.json",
+      "string_count": 205
+    },
+    {
+      "entry_index": 3809,
+      "bin_id": "0x97bd00",
+      "file_name": "text_03809_0x0097bd00.json",
+      "string_count": 180
+    },
+    {
+      "entry_index": 3818,
+      "bin_id": "0x993d00",
+      "file_name": "text_03818_0x00993d00.json",
+      "string_count": 169
+    },
+    {
+      "entry_index": 3827,
+      "bin_id": "0x9aa600",
+      "file_name": "text_03827_0x009aa600.json",
+      "string_count": 211
+    },
+    {
+      "entry_index": 3836,
+      "bin_id": "0x9c4500",
+      "file_name": "text_03836_0x009c4500.json",
+      "string_count": 216
+    },
+    {
+      "entry_index": 3845,
+      "bin_id": "0x9dd400",
+      "file_name": "text_03845_0x009dd400.json",
+      "string_count": 197
+    },
+    {
+      "entry_index": 3854,
+      "bin_id": "0x9f5800",
+      "file_name": "text_03854_0x009f5800.json",
+      "string_count": 192
+    },
+    {
+      "entry_index": 3863,
+      "bin_id": "0xa0f400",
+      "file_name": "text_03863_0x00a0f400.json",
+      "string_count": 184
+    },
+    {
+      "entry_index": 3872,
+      "bin_id": "0xa25800",
+      "file_name": "text_03872_0x00a25800.json",
+      "string_count": 194
+    },
+    {
+      "entry_index": 3881,
+      "bin_id": "0xa3e700",
+      "file_name": "text_03881_0x00a3e700.json",
+      "string_count": 168
+    },
+    {
+      "entry_index": 3890,
+      "bin_id": "0xa55300",
+      "file_name": "text_03890_0x00a55300.json",
+      "string_count": 191
+    },
+    {
+      "entry_index": 3899,
+      "bin_id": "0xa6f800",
+      "file_name": "text_03899_0x00a6f800.json",
+      "string_count": 206
+    },
+    {
+      "entry_index": 3908,
+      "bin_id": "0xa88900",
+      "file_name": "text_03908_0x00a88900.json",
+      "string_count": 178
+    },
+    {
+      "entry_index": 4169,
+      "bin_id": "0xab8200",
+      "file_name": "text_04169_0x00ab8200.json",
+      "string_count": 59
+    },
+    {
+      "entry_index": 4178,
+      "bin_id": "0xabbc00",
+      "file_name": "text_04178_0x00abbc00.json",
+      "string_count": 58
+    },
+    {
+      "entry_index": 4187,
+      "bin_id": "0xabf600",
+      "file_name": "text_04187_0x00abf600.json",
+      "string_count": 58
+    },
+    {
+      "entry_index": 4196,
+      "bin_id": "0xac3200",
+      "file_name": "text_04196_0x00ac3200.json",
+      "string_count": 88
+    },
+    {
+      "entry_index": 4205,
+      "bin_id": "0xac6e00",
+      "file_name": "text_04205_0x00ac6e00.json",
+      "string_count": 83
+    },
+    {
+      "entry_index": 4214,
+      "bin_id": "0xacab00",
+      "file_name": "text_04214_0x00acab00.json",
+      "string_count": 83
+    },
+    {
+      "entry_index": 4223,
+      "bin_id": "0xacea00",
+      "file_name": "text_04223_0x00acea00.json",
+      "string_count": 87
+    },
+    {
+      "entry_index": 4232,
+      "bin_id": "0xad2d00",
+      "file_name": "text_04232_0x00ad2d00.json",
+      "string_count": 87
+    },
+    {
+      "entry_index": 4241,
+      "bin_id": "0xad6d00",
+      "file_name": "text_04241_0x00ad6d00.json",
+      "string_count": 87
+    },
+    {
+      "entry_index": 4250,
+      "bin_id": "0xadb000",
+      "file_name": "text_04250_0x00adb000.json",
+      "string_count": 58
+    },
+    {
+      "entry_index": 4259,
+      "bin_id": "0xadef00",
+      "file_name": "text_04259_0x00adef00.json",
+      "string_count": 82
+    },
+    {
+      "entry_index": 4268,
+      "bin_id": "0xae3300",
+      "file_name": "text_04268_0x00ae3300.json",
+      "string_count": 83
+    },
+    {
+      "entry_index": 4277,
+      "bin_id": "0xae7a00",
+      "file_name": "text_04277_0x00ae7a00.json",
+      "string_count": 58
+    },
+    {
+      "entry_index": 4286,
+      "bin_id": "0xaebb00",
+      "file_name": "text_04286_0x00aebb00.json",
+      "string_count": 83
+    },
+    {
+      "entry_index": 4295,
+      "bin_id": "0xaefe00",
+      "file_name": "text_04295_0x00aefe00.json",
+      "string_count": 83
+    },
+    {
+      "entry_index": 4304,
+      "bin_id": "0xaf4100",
+      "file_name": "text_04304_0x00af4100.json",
+      "string_count": 86
+    },
+    {
+      "entry_index": 4313,
+      "bin_id": "0xaf8400",
+      "file_name": "text_04313_0x00af8400.json",
+      "string_count": 81
+    },
+    {
+      "entry_index": 4322,
+      "bin_id": "0xafc300",
+      "file_name": "text_04322_0x00afc300.json",
+      "string_count": 28
+    },
+    {
+      "entry_index": 4340,
+      "bin_id": "0xb01400",
+      "file_name": "text_04340_0x00b01400.json",
+      "string_count": 9
+    },
+    {
+      "entry_index": 4547,
+      "bin_id": "0xb32200",
+      "file_name": "text_04547_0x00b32200.json",
+      "string_count": 249
+    },
+    {
+      "entry_index": 4574,
+      "bin_id": "0xb4a800",
+      "file_name": "text_04574_0x00b4a800.json",
+      "string_count": 43
+    },
+    {
+      "entry_index": 4592,
+      "bin_id": "0xb4e800",
+      "file_name": "text_04592_0x00b4e800.json",
+      "string_count": 41
+    },
+    {
+      "entry_index": 4610,
+      "bin_id": "0xb54300",
+      "file_name": "text_04610_0x00b54300.json",
+      "string_count": 582
+    },
+    {
+      "entry_index": 4835,
+      "bin_id": "0xcca500",
+      "file_name": "text_04835_0x00cca500.json",
+      "string_count": 49
+    },
+    {
+      "entry_index": 5069,
+      "bin_id": "0xd37d00",
+      "file_name": "text_05069_0x00d37d00.json",
+      "string_count": 359
+    },
+    {
+      "entry_index": 5096,
+      "bin_id": "0xd48600",
+      "file_name": "text_05096_0x00d48600.json",
+      "string_count": 52
+    },
+    {
+      "entry_index": 5105,
+      "bin_id": "0xd4cf00",
+      "file_name": "text_05105_0x00d4cf00.json",
+      "string_count": 52
+    },
+    {
+      "entry_index": 5114,
+      "bin_id": "0xd50200",
+      "file_name": "text_05114_0x00d50200.json",
+      "string_count": 52
+    },
+    {
+      "entry_index": 5123,
+      "bin_id": "0xd56200",
+      "file_name": "text_05123_0x00d56200.json",
+      "string_count": 257
+    },
+    {
+      "entry_index": 5150,
+      "bin_id": "0xd67f00",
+      "file_name": "text_05150_0x00d67f00.json",
+      "string_count": 253
+    },
+    {
+      "entry_index": 5177,
+      "bin_id": "0xdac000",
+      "file_name": "text_05177_0x00dac000.json",
+      "string_count": 229
+    },
+    {
+      "entry_index": 5195,
+      "bin_id": "0xdbec00",
+      "file_name": "text_05195_0x00dbec00.json",
+      "string_count": 145
+    },
+    {
+      "entry_index": 5204,
+      "bin_id": "0xdc5a00",
+      "file_name": "text_05204_0x00dc5a00.json",
+      "string_count": 145
+    }
+  ]
+}

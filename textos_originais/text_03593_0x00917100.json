@@ -1,0 +1,264 @@
+{
+  "entry_index": 3593,
+  "bin_id": "0x917100",
+  "decompressed_size": 6800,
+  "first_tag_offset": 1072,
+  "total_strings": 51,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(4,7)><$emotion(4,51)><$facial(4,9)>Ugh, I’m so bored... Where is everyone?",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(4,7)><$comeff(4,6)>Huh? Who are you?",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(4,5)><$emotion(4,27)>Never mind, doesn’t matter! You’re here and I’m bored,<wait(0.3)><br><$voicel(4,8)><$emotion(4,38)>so we should play together!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(4,3)><$comeff(4,3)><$motionoff(4,814)><$facial(4,7)>OK, then let’s have a Bite Battle!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(4,3)><$comeff(4,3)><$motionoff(4,814)><$facial(4,7)>OK, then let’s have a Bite-Off!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(4,9)><$facial(4,4)><$comeff(4,9)><$motion(4,806)>You bite me, I bite you, and whoever bites hardest wins!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(4,1)><$emotion(4,64)>Oh, uh... Looks like you don’t have teeth, huh?<clear><br><$voicel(4,6)><$emotion(4,14)>Guess that means I win!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<$voicel(4,10)><$emotion(4,1)>Aw yeah, I won!<clear><br><$voicel(4,3)><$emotion(4,41)>But...I’m still bored!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "<$voicel(4,10)><$emotion(4,1)>Aw yeah, I won!<clear><br><$voicel(4,3)><$emotion(4,41)>But...I’m still bored!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(4,1)><$emotion(4,29)>Huh? <$cdef(27)><$cname(562)></color> needs my help <$cdef(27)><$spwfull(1)>ing</color> something?",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(4,7)><$emotion(4,65)>Yeah, I guess I can help. Not like I’m doing much...<br>But I still wanna play a little more.",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(4,7)><$emotion(4,1)>Let’s hang out a bit before we go find <$cdef(27)><$cname(562)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(4,3)><$comeff(4,3)><$motionoff(4,814)><$facial(4,7)>Let’s play “<$cdef(27)>look that way</color>!”",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "<$voicel(4,3)><$comeff(4,3)><$motionoff(4,814)><$facial(4,7)>Let’s play “<$cdef(27)>look that way</color>!”",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<$voicel(4,3)><$emotion(4,56)>NO WAY! How did I lose?!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$voicel(4,7)><$emotion(4,38)>Dang... You must be some kinda pro!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(4,4)><$facial(4,7)><$comeff(4,5)><$motion(4,817)>OK, fine! Let’s play something else. And this time,<br>I’M gonna win! C’mon, let’s go over there!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "<$voicel(4,7)><$emotion(4,39)>Aw yeah, I won! Go me!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(4,3)><$emotion(4,50)>You were pretty good, too! <$pkcry;0(4,2)>! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(4,4)><$facial(4,4)><$comeff(4,3)><$motion(4,816)>But I’m not done playing yet! C’mon, let’s go over<br>there next!",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(4,7)><$emotion(4,60)><$pkcry;0(4,1)>! Next up is <$cdef(27)>hide-and-seek</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "<$voicel(4,7)><$emotion(4,65)>I’ll hide, and if you can find me, you win!",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "<$voicel(4,6)><$facial(4,4)><$comeff(4,3)>I’m gonna go hide now. <wait(1.5)><$voicel(4,2)><$facial(4,7)><$motion(4,802)>No peeking, got it?",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "All ready! Think you can find me?",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "<$voicel(4,4)><$facial(4,13)><$comeff(4,5)><$pkcry;0(4,3)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "<$voicel(4,7)><$emotion(4,59)>Dang it, this was such a good hiding spot. You must be<br>some kinda <$cdef(27)>hide-and-seek</color> genius, huh?",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(4,9)><$emotion(4,38)>All right, since you’re so good at games, lemme show you<br>something cool!",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "<$voicel(4,2)><$facial(4,9)><$comeff(4,7)>Awww, you found me...",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "<$voicel(4,9)><$emotion(4,38)>C’mon, follow me!",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "<$voicel(4,7)><$facial(4,4)><$comeff(4,9)><$motion(4,806)>I found this gizmo earlier. Let’s play with it next!",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<$voicel(4,3)><$emotion(4,29)>Wait... It’s not working. How can we turn it on?",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<$voicel(4,4)><$facial(4,4)><$comeff(4,3)>I know! I’ll try biting it. <wait(1.5)><$voicel(4,10)><$facial(4,7)><$motion(4,814)>CHOMP!",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "<$voicel(4,2)><$comeff(4,6)><$facial(4,13)>Really?!<wait(0.5)><$motion(0,824)><$comeff(0,14)><wait(3.3)><$motion(0,652)><$comcan(0)><clear><br><$voicel(4,7)><$facial(4,4)><$motion(4,806)><$comeff(4,5)>Ohhh, so gizmos like this need electricity to work!",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "<$voicel(4,7)><$emotion(4,15)>Oh, right! Gizmos need electricity to work!",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(4,5)><$emotion(4,38)>I know a Pokémon who can make electricity! Pretty sure<br>they used to live somewhere like this...",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "<$voicel(4,9)><$comeff(4,21)><$facial(4,4)><$motionoff(4,804)>I bet if we had a Pokémon like that around, they could<br>power up this gizmo for us!",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "<$voicel(4,9)><$comeff(4,21)><$facial(4,4)><$motionoff(4,804)>I bet a Pokémon who can make electricity could power this<br>up for us!",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "<$voicel(4,5)><$emotion(4,92)>Whoa, check this out! They’re so...bubble-tastic! Hehe!",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "<$voicel(4,7)><$facial(4,4)><$comeff(4,3)>NOW it’s time to play! What fun stuff can we do with<br>these bubbles?",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "<$voicel(4,3)><$emotion(4,15)>ACK! I totally forgot about helping out <$cdef(27)><$cname(562)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "<$voicel(4,3)><$emotion(4,15)>ACK! I totally forgot about helping out <$cdef(27)><$cname(562)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "<$voicel(4,5)><$comeff(4,10)><$facial(4,7)><$motion(4,816)>All right, time to shine! Whenever you’re ready to start<br><$cdef(27)><$spwfull(1)>ing</color>, <$voicel(4,10)><$emotion(4,8)>just take me to <$cdef(27)><$cname(562)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "<$voicel(4,7)><$facial(4,4)><$comeff(4,9)><$motion(4,806)>I found this gizmo earlier. Let’s play with it next!",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "<$voicel(4,1)><$emotion(4,123)>Thing is, I dunno how to make it work. How do I—",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "<$voicel(4,5)><$emotion(4,15)>Wait, it’s working! REALLY working!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "<$voicel(4,9)><$emotion(4,39)>Check out all those bubbles! That looks so awesome!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "<oneline><$voicel(4,4)><$emotion(4,29)>Did you fix it, <$cdef(27)><pname;0></color>? <wait(1.0)><$voicel(4,10)><$facial(4,4)><$comeff(4,10)>Wow, you rule!",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "<$voicel(4,7)><$facial(4,4)><$comeff(4,3)>NOW it’s time to play! What fun stuff can we do with<br>these bubbles?",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "<$voicel(4,3)><$emotion(4,15)>ACK! I totally forgot about helping out <$cdef(27)><$cname(562)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "<$voicel(4,3)><$emotion(4,15)>ACK! I totally forgot about helping out <$cdef(27)><$cname(562)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "<$voicel(4,5)><$comeff(4,10)><$facial(4,7)><$motion(4,816)>All right, time to shine! Whenever you’re ready to start<br><$cdef(27)><$spwfull(1)>ing</color>, <$voicel(4,10)><$emotion(4,8)>just take me to <$cdef(27)><$cname(562)></color>!",
+      "pt_br": ""
+    }
+  ]
+}

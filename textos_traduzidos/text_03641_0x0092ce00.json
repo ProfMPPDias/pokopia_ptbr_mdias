@@ -1,0 +1,29 @@
+{
+  "entry_index": 3641,
+  "bin_id": "0x92ce00",
+  "decompressed_size": 1024,
+  "first_tag_offset": 248,
+  "total_strings": 4,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$emotion(2,13)><$voicel(2,4)>Dieses Pokémon geht VOLL gerne auf Entdeckungsreisen!",
+      "pt_br": "<$emotion(2,13)><$voicel(2,4)>Dieses Pokémon geht VOLL gerne auf Entdeckungsreisen!"
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(2,7)>HM! Vielleicht ist es ja in dieser einen Höhle da drüben?<br>Dadrin hätte es bestimmt viel zu erkunden!",
+      "pt_br": "<$voicel(2,7)>HM! Vielleicht ist es ja in dieser einen Höhle da drüben?<br>Dadrin hätte es bestimmt viel zu erkunden!"
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(2,10)><$facial(2,5)><$motion(2,661)><$comeff(2,21)>Du hast <$cdef(27)><$cname(580)></color> getroffen? Wie schön!!! Wenn es<br>irgendwas braucht, musst du ihm helfen, ja?",
+      "pt_br": "<$voicel(2,10)><$facial(2,5)><$motion(2,661)><$comeff(2,21)>Du hast <$cdef(27)><$cname(580)></color> getroffen? Wie schön!!! Wenn es<br>irgendwas braucht, musst du ihm helfen, ja?"
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(2,10)><$facial(2,5)><$motion(2,668)><$comeff(2,9)>Ihr wart gemeinsam unterwegs? VOLL TOLL!<wait(2.3)><clear><br><$voicel(2,4)><$facial(2,2)><$motion(2,805)><$comeff(2,14)>Wenn <$cdef(27)><$cname(580)></color> immer noch Hilfe bei etwas braucht,<br><$cdef(27)><$voicel(2,10)><$facial(2,4)><$motion(2,661)><$comeff(2,10)></color>kümmer dich bitte darum, ja?",
+      "pt_br": "<$voicel(2,10)><$facial(2,5)><$motion(2,668)><$comeff(2,9)>Ihr wart gemeinsam unterwegs? VOLL TOLL!<wait(2.3)><clear><br><$voicel(2,4)><$facial(2,2)><$motion(2,805)><$comeff(2,14)>Wenn <$cdef(27)><$cname(580)></color> immer noch Hilfe bei etwas braucht,<br><$cdef(27)><$voicel(2,10)><$facial(2,4)><$motion(2,661)><$comeff(2,10)></color>kümmer dich bitte darum, ja?"
+    }
+  ]
+}

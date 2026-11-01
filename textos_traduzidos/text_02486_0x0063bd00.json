@@ -1,0 +1,104 @@
+{
+  "entry_index": 2486,
+  "bin_id": "0x63bd00",
+  "decompressed_size": 3424,
+  "first_tag_offset": 520,
+  "total_strings": 19,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$comeff(1,3)><$motion(1,803)><$voicel(1,7)>That voice... I believe it was coming from the sea!",
+      "pt_br": "<$comeff(1,3)><$motion(1,803)><$voicel(1,7)>Aquela voz... acredito que vinha do mar!"
+    },
+    {
+      "id": 1,
+      "en": "<$emotion(4,60)><$voicel(4,7)>That was LOUD. So much for my nap...",
+      "pt_br": "<$emotion(4,60)><$voicel(4,7)>Isso foi muito alto para a minha sesta..."
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(2,6)><$motion(2,805)><$voicel(2,5)>Who could have a cry like that? I’m kinda scared...<br>But...let’s go check it out!",
+      "pt_br": "<$comeff(2,6)><$motion(2,805)><$voicel(2,5)>Quem poderia ter um choro assim? Eu estou meio assustado...<br>Mas... vamos dar uma olhada!"
+    },
+    {
+      "id": 3,
+      "en": "<$emotion(3,29)><$voicel(3,7)>That was a Pokémon’s voice just now, wasn’t it? Who could<br>it be? This is so EXCITING!",
+      "pt_br": "<$emotion(3,29)><$voicel(3,7)>Essa foi a voz de um Pokémon, não foi?<br>Isto é tão emocionante!"
+    },
+    {
+      "id": 4,
+      "en": "<$emotion(4,38)><$voicel(4,9)>What the heck was that loud cry? We gotta go find out!",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>Que raio foi aquele grito alto?"
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Hurry and rescue <$cdef(27)>Onix </color>from the cave before this rain<br>lets up!",
+      "pt_br": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Rápido e salva-te. <$cdef(27)>Onix </color>Da caverna antes desta chuva<br>Levanta-te!"
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(4,6)><$motion(4,803)><$voicel(4,7)>Yayyy! Rain! D’you think <$cdef(27)>Onix</color> can get out now?",
+      "pt_br": "<$comeff(4,6)><$motion(4,803)><$voicel(4,7)>Yayyy! Chuva! Você acha <$cdef(27)>Onix</color> Já pode sair?"
+    },
+    {
+      "id": 7,
+      "en": "<$emotion(2,1)><$voicel(2,9)>I bet you could just SMASH through those walls and get<br><$cdef(27)>Onix</color> out now!",
+      "pt_br": "<$emotion(2,1)><$voicel(2,9)>Aposto que pode atravessar aquelas paredes e ir<br><$cdef(27)>Onix</color> Saiam já!"
+    },
+    {
+      "id": 8,
+      "en": "<$emotion(3,14)><$voicel(3,7)>Go help <$cdef(27)>Onix</color>! They’re stuck in a cave, right?",
+      "pt_br": "<$emotion(3,14)><$voicel(3,7)>Vai ajudar. <$cdef(27)>Onix</color>Eles estão presos em uma caverna, certo?"
+    },
+    {
+      "id": 9,
+      "en": "<oneline><$emotion(4,29)><$voicel(4,7)><$cdef(27)>Onix</color> needs help, right? You should go see<br>’em, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<oneline><$emotion(4,29)><$voicel(4,7)><$cdef(27)>Onix</color> Precisas de ajuda, não é?<br>'em, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 10,
+      "en": "<$emotion(4,8)><$voicel(4,9)>I’m so glad <$cdef(27)>Onix</color> got out safely! Maybe you should, like,<br>let the <$cdef(27)>professor</color> know too?",
+      "pt_br": "<$emotion(4,8)><$voicel(4,9)>Estou tão feliz <$cdef(27)>Onix</color> Talvez devesses, tipo,<br>deixar o <$cdef(27)>professor</color> sabe também?"
+    },
+    {
+      "id": 11,
+      "en": "<$emotion(2,38)><$voicel(2,9)>We did it! <$cdef(27)>Onix</color> is saved! The <$cdef(27)>professor</color> was so worried!",
+      "pt_br": "<$emotion(2,38)><$voicel(2,9)>Conseguimos! <$cdef(27)>Onix</color> está salvo! <$cdef(27)>professor</color> Estava tão preocupado!"
+    },
+    {
+      "id": 12,
+      "en": "<$emotion(3,38)><$voicel(3,9)>I KNEW you could rescue <$cdef(27)>Onix</color>! Yippee! You should go tell<br>the <$cdef(27)>professor</color>!",
+      "pt_br": "<$emotion(3,38)><$voicel(3,9)>Eu sabia que podias salvar-me. <$cdef(27)>Onix</color>Devias ir dizer-lhe que o teu pai é um idiota.<br>a <$cdef(27)>professor</color>!"
+    },
+    {
+      "id": 13,
+      "en": "<$emotion(4,8)><$voicel(4,9)>I’m glad <$cdef(27)>Onix</color> is OK! You should tell the <$cdef(27)>professor</color>, too!",
+      "pt_br": "<$emotion(4,8)><$voicel(4,9)>Fico contente <$cdef(27)>Onix</color> Está bem! Você deve dizer ao <$cdef(27)>professor</color>Também!"
+    },
+    {
+      "id": 14,
+      "en": "<oneline><$emotion(4,14)><$voicel(4,8)><$cdef(27)><pname;0></color>! Hey, bud! Got a sec? There’s<br>somethin’<slide><br>I<slide><br>wanna<slide><br>talk<slide><br>to<slide><br>you about...",
+      "pt_br": "<oneline><$emotion(4,14)><$voicel(4,8)><$cdef(27)><pname;0></color>Ei, amigo! Tem um segundo?<br>algo’<slide><br>I<slide><br>quer<slide><br>falar<slide><br>para<slide><br>Tu sobre..."
+    },
+    {
+      "id": 15,
+      "en": "<$comeff(4,9)><$facial(4,4)><$motion(4,661)><$voicel(4,9)>Making it rain to help me break outta that cave was pretty<br>wild! <$comeff(4,5)><$motion(4,803)><$voicel(4,10)>I can’t thank ya enough for the help!<clear><br><$emotion(4,51)><$voicel(4,4)>But, uh... To tell you the truth, I don’t do so great in real<br>damp environments...",
+      "pt_br": "<$comeff(4,9)><$facial(4,4)><$motion(4,661)><$voicel(4,9)>Fazer chover para me ajudar a sair daquela caverna era bonito.<br>Selvagem! <$comeff(4,5)><$motion(4,803)><$voicel(4,10)>Não posso agradecer o suficiente pela ajuda!<clear><br><$emotion(4,51)><$voicel(4,4)>Mas, uh... Para dizer a verdade, eu não faço tão grande em real<br>Ambientes húmidos..."
+    },
+    {
+      "id": 16,
+      "en": "<$comeff(4,14)><$facial(4,9)><$motion(4,666)><$voicel(4,7)>If you’re still in a helpin’-Pokémon mood, it’d be real<br>awesome if you could make me a home that stays nice<slide><br>’n’ dry even in the rain. <$comeff(4,6)><$motion(4,661)><$voicel(4,6)>That somethin’ you can do?",
+      "pt_br": "<$comeff(4,14)><$facial(4,9)><$motion(4,666)><$voicel(4,7)>Se você ainda estiver de bom humor, será real<br>incrível se você poderia me fazer um lar que permanece agradável<slide><br>‘n’ seca até mesmo na chuva. <$comeff(4,6)><$motion(4,661)><$voicel(4,6)>Isso é algo que você pode fazer?"
+    },
+    {
+      "id": 17,
+      "en": "<$comeff(4,6)><$motion(4,661)><$voicel(4,6)>You wouldn’t happen to know how to make a home that<br>stays nice ’n’ dry even in the rain, would ya?",
+      "pt_br": "<$comeff(4,6)><$motion(4,661)><$voicel(4,6)>Você não saberia como fazer um lar que<br>fica bom 'n' seco mesmo na chuva, você faria?"
+    },
+    {
+      "id": 18,
+      "en": "<$comeff(4,3)><$facial(4,4)><$motion(4,661)><$voicel(4,7)>Hey, heyyy! You made me a home that’ll stay nice ’n’ dry—<br>just the way I like it! <$emotion(4,8)><$voicel(4,10)>Thanks a ton, bud! You’re the best!",
+      "pt_br": "<$comeff(4,3)><$facial(4,4)><$motion(4,661)><$voicel(4,7)>Hey, heyyy! Você me fez uma casa que vai ficar bom 'n' seco-<br>Tal como eu gosto! <$emotion(4,8)><$voicel(4,10)>Obrigado uma tonelada, amigo! Você é o melhor!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "entry_index": 4343,
+  "bin_id": "0xb01d00",
+  "decompressed_size": 1320,
+  "first_tag_offset": 502,
+  "total_strings": 9,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><dgt2;1(lnum2)> <accclass><$inamewithnum;0(lnum1,lnum2)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Baue ein neues Haus.",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Baue das Habitat <$cdef(27)><$hatname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<oneline>Bereite <acciart;0()><$cdef(27)><accclass><fqty(1)><$iname;0(lnum1)></color> für<br><$cdef(27)><$cname;1(lnum4)></color> zu.",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<oneline>Mach den Weg zum <$cdef(27)><$gquestdest;0(lnum1)></color><br>leicht begehbar.",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<oneline>Platziere <acciart;0()><$cdef(27)><accclass><fqty(1)><$iname;0(lnum1)> </color>in der<br>Nähe<slide><br>der<slide><br>Bleibe<slide><br>des Pokémon.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "<oneline>Bringe <$cdef(27)><$cname;1(lnum2)></color> in die Nähe von<br><$cdef(27)><$cname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<oneline>Mache ein Foto von dir und<br><$cdef(27)><$cname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Sprich mit <$cdef(27)><$cname;0(lnum1)></color>.",
+      "pt_br": ""
+    }
+  ]
+}

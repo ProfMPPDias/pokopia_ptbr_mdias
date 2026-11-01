@@ -1,0 +1,899 @@
+{
+  "entry_index": 3908,
+  "bin_id": "0xa88900",
+  "decompressed_size": 35592,
+  "first_tag_offset": 2712,
+  "total_strings": 178,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$comeff(1,22)><$motion(1,807)><$facial(1,1)><$voicel(1,7)>Hey! You! Who d’ya think you are, waltzin’ onto my turf?!",
+      "pt_br": "<$comeff(1,22)><$motion(1,807)><$facial(1,1)><$voicel(1,7)>Ei! Você! Quem você pensa que é, valsin' em meu território?!"
+    },
+    {
+      "id": 1,
+      "en": "<$comeff(2,10)><$motion(2,662)><$facial(2,7)><$voicel(2,7)>Watch it, pal—this is MY turf! Now get lost!",
+      "pt_br": "<$comeff(2,10)><$motion(2,662)><$facial(2,7)><$voicel(2,7)>Cuidado, amigo - este é o meu território! Agora, desapareça!"
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(1,5)><$motion(1,801)><$facial(1,7)><$voicel(1,7)>You’ve got some nerve sayin’ that to my face, bud! Guess<br>we’re gonna have to battle to decide whose turf it is!<wait(0.5)><$facial(0,9)><$comeff(0,4)>",
+      "pt_br": "<$comeff(1,5)><$motion(1,801)><$facial(1,7)><$voicel(1,7)>Você tem um pouco de coragem dizendo isso na minha cara, amigo!<br>vamos ter que batalhar para decidir de quem é o território!<wait(0.5)><$facial(0,9)><$comeff(0,4)>"
+    },
+    {
+      "id": 3,
+      "en": "<$comeff(2,10)><$motion(2,807)><$facial(2,7)><$voicel(2,7)>Fine by me! These claws can crush boulders, so pounding<br>you into a pulp’ll be a cinch!<clear><br><$comeff(2,21)><$motion(2,816)><$facial(2,1)><$voicel(2,9)>Snip snap!<wait(1.0)><$motion(2,815)><$facial(2,1)>",
+      "pt_br": "<$comeff(2,10)><$motion(2,807)><$facial(2,7)><$voicel(2,7)>Estas garras podem esmagar pedras, por isso, a bater<br>você em uma polpa 'll ser uma cinta!<clear><br><$comeff(2,21)><$motion(2,816)><$facial(2,1)><$voicel(2,9)>Snip snap!<wait(1.0)><$motion(2,815)><$facial(2,1)>"
+    },
+    {
+      "id": 4,
+      "en": "<$facial(0,1)><$comeff(1,10)><$motion(1,803)><$facial(1,1)><$voicel(1,5)>Hah! You obviously haven’t heard how strong my fangs<br>are, huh?!<clear><br><$comeff(1,3)><$motion(1,806)><$facial(1,4)><$voicel(1,8)>You’re all excited about bustin’ up li’l rocks, but I can rip<br>through sheet iron! <$voicel(1,9)><$motionoff(1,804)><$comeff(1,10)><$facial(1,1)>Sharrrrrr!<wait(1.0)><$motion(1,815)><$facial(1,1)>",
+      "pt_br": "<$facial(0,1)><$comeff(1,10)><$motion(1,803)><$facial(1,1)><$voicel(1,5)>Hah! Você obviamente ainda não ouviu o quão forte minhas presas<br>são, huh?!<clear><br><$comeff(1,3)><$motion(1,806)><$facial(1,4)><$voicel(1,8)>Você está todo animado sobre bustin’ até pedras li’l, mas eu posso rasgar<br>Através de ferro de folha! <$voicel(1,9)><$motionoff(1,804)><$comeff(1,10)><$facial(1,1)>Sharrrrr!<wait(1.0)><$motion(1,815)><$facial(1,1)>"
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(2,8)><$comeff(2,5)>Hold up—sheet iron? <wait(0.8)><$emotion(2,55)><$voicel(2,4)>Dang, this punk actually seems<br>like a pretty tough customer... <wait(0.8)><$comcan(2)><$motion(2,803)><$facial(2,1)><$voicel(2,2)>Snip...",
+      "pt_br": "<$voicel(2,8)><$comeff(2,5)>Segura-te, ferro de folha? <wait(0.8)><$emotion(2,55)><$voicel(2,4)>Caramba, este punk parece mesmo<br>Como um cliente muito duro... <wait(0.8)><$comcan(2)><$motion(2,803)><$facial(2,1)><$voicel(2,2)>Cortar..."
+    },
+    {
+      "id": 6,
+      "en": "<$emotion(1,55)><$voicel(1,1)>Huh... Those claws DO look like they’d be pretty painful.<br>And they seem pretty confident with ’em, too. Maybe this<slide><br>li’l rascal’s kinda tough after all... <$comcan(1)><$motion(1,803)><$facial(1,1)><$voicel(1,4)>Sharrr...<clear><br><$comeff(1,4)><$motion(1,802)><$facial(1,1)><$voicel(1,5)>Ugh. Y’know what? Let’s not. Let’s just not. Fightin’ over<br>silly stuff is pretty silly anyway, right?<clear><br><$comeff(1,10)><$motion(1,807)><$facial(1,4)><$voicel(1,7)>As long as you play it cool around here, I guess we can be<br>friends or whatever!",
+      "pt_br": "<$emotion(1,55)><$voicel(1,1)>Aquelas garras parecem ser muito dolorosas.<br>E eles parecem muito confiantes com eles, também.<slide><br>li’l patife é meio difícil afinal de contas... <$comcan(1)><$motion(1,803)><$facial(1,1)><$voicel(1,4)>Sharrr...<clear><br><$comeff(1,4)><$motion(1,802)><$facial(1,1)><$voicel(1,5)>Ugh. Você sabe o quê? Não vamos. Não vamos. Não vamos. Lutar’ mais<br>As coisas tolas são muito tolas, certo?<clear><br><$comeff(1,10)><$motion(1,807)><$facial(1,4)><$voicel(1,7)>Desde que fiques calmo por aqui, acho que podemos ser...<br>Amigos ou o que seja!"
+    },
+    {
+      "id": 7,
+      "en": "<$comeff(2,4)><$motion(2,805)><$facial(2,1)><$voicel(2,7)>O-oh, yeah, sure! I was thinkin’ the same thing, pal!",
+      "pt_br": "<$comeff(2,4)><$motion(2,805)><$facial(2,1)><$voicel(2,7)>O-oh, sim, claro! Eu estava pensando’ a mesma coisa, amigo!"
+    },
+    {
+      "id": 8,
+      "en": "<$emotion(1,55)><$voicel(1,4)>Hmmm... I just can’t help but wonder...",
+      "pt_br": "<$emotion(1,55)><$voicel(1,4)>Hmmm... Eu simplesmente não posso deixar de pensar..."
+    },
+    {
+      "id": 9,
+      "en": "<$comcan(1)><$comeff(2,6)><$motion(2,666)><$facial(2,2)><$voicel(2,5)>Huh? What’re you, uh, staring at me for?",
+      "pt_br": "<$comcan(1)><$comeff(2,6)><$motion(2,666)><$facial(2,2)><$voicel(2,5)>Porque está a olhar para mim?"
+    },
+    {
+      "id": 10,
+      "en": "<$emotion(1,14)><$voicel(1,5)>Hey, <$cdef(27)><$cname(586)></color>. Do you have, like...legs under the ground?<br><$comeff(1,9)><$motion(1,806)><$facial(1,4)><$voicel(1,8)>I wanna see!",
+      "pt_br": "<$emotion(1,14)><$voicel(1,5)>Olá. <$cdef(27)><$cname(586)></color>tem, tipo... pernas debaixo do chão?<br><$comeff(1,9)><$motion(1,806)><$facial(1,4)><$voicel(1,8)>Quero ver!"
+    },
+    {
+      "id": 11,
+      "en": "<$comeff(2,6)><$motion(2,806)><$facial(2,1)><$voicel(2,10)>Huh? THAT’S what you’re interested in? <wait(2.0)><$comeff(2,14)><$motion(2,807)><$facial(2,14)><$voicel(2,4)>Hmmm...",
+      "pt_br": "<$comeff(2,6)><$motion(2,806)><$facial(2,1)><$voicel(2,10)>Huh? É nisso que você está interessado? <wait(2.0)><$comeff(2,14)><$motion(2,807)><$facial(2,14)><$voicel(2,4)>Hmmm..."
+    },
+    {
+      "id": 12,
+      "en": "<$comcan(2)><$comeff(1,9)><$motion(1,801)><$facial(1,1)><$voicel(1,6)>I just wanna know more about you... <wait(1.2)><$comeff(1,10)><$motion(1,662)><$facial(1,1)><$voicel(1,7)>C’mon, show me!",
+      "pt_br": "<$comcan(2)><$comeff(1,9)><$motion(1,801)><$facial(1,1)><$voicel(1,6)>Só quero saber mais sobre ti... <wait(1.2)><$comeff(1,10)><$motion(1,662)><$facial(1,1)><$voicel(1,7)>Vamos, mostre-me!"
+    },
+    {
+      "id": 13,
+      "en": "<oneline><$comeff(2,5)><$motion(2,801)><$facial(2,1)><$voicel(2,9)><$pkcry;0(2,1)>! You do? That makes me happy! <wait(1.8)><$emotion(2,65)><$facial(2,14)><$voicel(2,2)>Well, if<br>you’re<slide><br>THAT<slide><br>interested,<slide><br>I<slide><br>can<slide><br>show<slide><br>you.<slide><br><$facial(2,1)><$motion(2,806)><$comeff(2,9)><$voicel(2,8)>But<slide><br>only<slide><br>you, OK?",
+      "pt_br": "<oneline><$comeff(2,5)><$motion(2,801)><$facial(2,1)><$voicel(2,9)><$pkcry;0(2,1)>Isso faz-me feliz! <wait(1.8)><$emotion(2,65)><$facial(2,14)><$voicel(2,2)>Bem, se<br>você é<slide><br>Isso.<slide><br>interessado,<slide><br>I<slide><br>pode<slide><br>mostrar<slide><br>Você.<slide><br><$facial(2,1)><$motion(2,806)><$comeff(2,9)><$voicel(2,8)>Mas...<slide><br>apenas<slide><br>Tu, está bem?"
+    },
+    {
+      "id": 14,
+      "en": "<oneline><$emotion(2,14)><$voicel(2,7)><$motion(0,157)>Oh. <$cdef(27)><pname;0></color>, close your eyes, would<br>you?<slide><br><$comeff(2,14)><$motion(2,802)><$facial(2,1)><$voicel(2,6)>I only<slide><br>wanna<slide><br>show Barboach.",
+      "pt_br": "<oneline><$emotion(2,14)><$voicel(2,7)><$motion(0,157)>Oh, sim. <$cdef(27)><pname;0></color>, fecha os olhos, seria<br>E tu?<slide><br><$comeff(2,14)><$motion(2,802)><$facial(2,1)><$voicel(2,6)>Eu só<slide><br>quer<slide><br>Mostra ao Barboach."
+    },
+    {
+      "id": 15,
+      "en": "<$voicel(1,9)>Whoa, awesome! So THAT’S how you look under there...",
+      "pt_br": "<$voicel(1,9)>Uau, incrível! Então é assim que você olha lá embaixo..."
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(2,8)><$comeff(2,10)><$motion(2,807)><$facial(2,1)>Hehe... It’s kinda embarrassing...",
+      "pt_br": "<$voicel(2,8)><$comeff(2,10)><$motion(2,807)><$facial(2,1)>Hehe... é um pouco embaraçoso..."
+    },
+    {
+      "id": 17,
+      "en": "<$comeff(1,3)><$motion(1,666)><$facial(1,1)><$voicel(1,8)>Sooo...under the ground, <$cdef(27)><$cname(586)> </color>is—",
+      "pt_br": "<$comeff(1,3)><$motion(1,666)><$facial(1,1)><$voicel(1,8)>Sob o chão, <$cdef(27)><$cname(586)> </color>É..."
+    },
+    {
+      "id": 18,
+      "en": "<$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,9)>Ahhh! Stop, stop! Could you keep it a secret between you<br>and me, <$cdef(27)><$cname(560)></color>?",
+      "pt_br": "<$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,9)>Podem guardar segredo entre vocês?<br>e eu, <$cdef(27)><$cname(560)></color>?"
+    },
+    {
+      "id": 19,
+      "en": "<$emotion(1,31)><$voicel(1,3)>*sigh* I’ve been feeling so slowww lately...",
+      "pt_br": "<$emotion(1,31)><$voicel(1,3)>*suspiro * Eu tenho me sentido tão lentoww ultimamente ..."
+    },
+    {
+      "id": 20,
+      "en": "<$emotion(2,32)><$voicel(2,5)>You wanna get amped up? I know a good way to do that!",
+      "pt_br": "<$emotion(2,32)><$voicel(2,5)>Eu sei uma boa maneira de fazer isso!"
+    },
+    {
+      "id": 21,
+      "en": "<$emotion(1,53)><$voicel(1,7)>Reeeaaally? Tell me more...",
+      "pt_br": "<$emotion(1,53)><$voicel(1,7)>Conta-me mais..."
+    },
+    {
+      "id": 22,
+      "en": "<$comeff(2,10)><$motion(2,817)><$facial(2,1)><$voicel(2,9)>Just do this!",
+      "pt_br": "<$comeff(2,10)><$motion(2,817)><$facial(2,1)><$voicel(2,9)>Faz isto!"
+    },
+    {
+      "id": 23,
+      "en": "<$emotion(1,59)><$voicel(1,3)>Awww... I can’t do that...",
+      "pt_br": "<$emotion(1,59)><$voicel(1,3)>Awww... Eu não posso fazer isso..."
+    },
+    {
+      "id": 24,
+      "en": "<$emotion(2,55)><$voicel(2,5)>Huh, OK... Then how about just moving around a bit?<clear><br><$comeff(2,10)><$motion(2,806)><$facial(2,4)><$voicel(2,9)>Like this! See?",
+      "pt_br": "<$emotion(2,55)><$voicel(2,5)>Está bem, então que tal mudares-te um pouco?<clear><br><$comeff(2,10)><$motion(2,806)><$facial(2,4)><$voicel(2,9)>Assim!"
+    },
+    {
+      "id": 25,
+      "en": "<$emotion(1,50)><$voicel(1,6)>Oh, yeah... I think I can do thaaat. <wait(1.2)><$comeff(1,3)><$motion(1,814)><$facial(1,2)><$voicel(1,8)>Hyaaa.",
+      "pt_br": "<$emotion(1,50)><$voicel(1,6)>Sim, acho que consigo fazer isso. <wait(1.2)><$comeff(1,3)><$motion(1,814)><$facial(1,2)><$voicel(1,8)>Hyaaa."
+    },
+    {
+      "id": 26,
+      "en": "<$emotion(2,1)><$voicel(2,7)>Whoa, nice! Now pick up the pep!",
+      "pt_br": "<$emotion(2,1)><$voicel(2,7)>Agora, apanha a animação!"
+    },
+    {
+      "id": 27,
+      "en": "<$comeff(1,10)><$motion(1,814)><$facial(1,1)><$voicel(1,8)>Phew... <wait(1.0)><$comeff(1,10)><$motion(1,817)><$facial(1,7)><$voicel(1,10)>Hya... Hyaaaaaa!<clear><br><$emotion(1,59)><$voicel(1,2)><$kfacial(1)>*pant* *wheeze* Urrrrgh...",
+      "pt_br": "<$comeff(1,10)><$motion(1,814)><$facial(1,1)><$voicel(1,8)>Ufa... <wait(1.0)><$comeff(1,10)><$motion(1,817)><$facial(1,7)><$voicel(1,10)>Hyaaaaaaaa!<clear><br><$emotion(1,59)><$voicel(1,2)><$kfacial(1)>* Pantera* * Wheeze* Urrrrgh..."
+    },
+    {
+      "id": 28,
+      "en": "<$comeff(2,6)><$motion(2,805)><$facial(2,1)><$voicel(2,5)>All warmed up? OK, next up: let’s race! <wait(0.3)><$motionoff(2,804)><$comeff(2,9)><$facial(2,4)><$voicel(2,7)>Full speed ahead!",
+      "pt_br": "<$comeff(2,6)><$motion(2,805)><$facial(2,1)><$voicel(2,5)>Tudo aquecido? OK, próximo: vamos correr! <wait(0.3)><$motionoff(2,804)><$comeff(2,9)><$facial(2,4)><$voicel(2,7)>Velocidade máxima à frente!"
+    },
+    {
+      "id": 29,
+      "en": "<$comeff(1,11)><$motion(1,815)><$facial(1,13)><$voicel(1,7)>What? Nooo... That was enough...<clear><br><$voicel(1,2)>Um... <$lookat(1,0,1)><$lookat(1,1,1)><turn(1,180)><waitactor(1)><$comeff(1,4)><$motion(1,807)><$facial(1,4)><$voicel(1,6)>Oh yeah... I have some important things to do<br>today... <$comeff(1,10)><$motion(1,801)><$facial(1,9)><$voicel(1,9)>I should really get going. See you laaater...",
+      "pt_br": "<$comeff(1,11)><$motion(1,815)><$facial(1,13)><$voicel(1,7)>- Não, já chega.<clear><br><$voicel(1,2)>Um... <$lookat(1,0,1)><$lookat(1,1,1)><turn(1,180)><waitactor(1)><$comeff(1,4)><$motion(1,807)><$facial(1,4)><$voicel(1,6)>Tenho coisas importantes para fazer.<br>Hoje... <$comeff(1,10)><$motion(1,801)><$facial(1,9)><$voicel(1,9)>Tenho de ir andando."
+    },
+    {
+      "id": 30,
+      "en": "<$comeff(2,14)><$facial(2,1)><$voicel(2,2)>What? But we just got started...",
+      "pt_br": "<$comeff(2,14)><$facial(2,1)><$voicel(2,2)>Mas começámos agora..."
+    },
+    {
+      "id": 31,
+      "en": "<$emotion(1,1)><$voicel(1,7)>Y’know, <$cdef(27)><$cname(595)></color>... Lookin’ at your jaw makes me feel like<br>we might be distant relatives or somethin’!",
+      "pt_br": "<$emotion(1,1)><$voicel(1,7)>Você sabe, <$cdef(27)><$cname(595)></color>... Olhando para o seu maxilar me faz sentir como<br>podemos ser parentes distantes ou algo assim!"
+    },
+    {
+      "id": 32,
+      "en": "<$emotion(2,8)><$voicel(2,7)>I kinda get the same feelin’ ’bout you when I take a<br>gander at them claws o’ yers!",
+      "pt_br": "<$emotion(2,8)><$voicel(2,7)>Eu meio que tenho o mesmo sentimento 'sobre você quando eu tomar um<br>Olhe para as garras deles!"
+    },
+    {
+      "id": 33,
+      "en": "<$emotion(1,55)><$voicel(1,6)>My...claws?<clear><br><$emotion(1,27)><$voicel(1,7)>Yooo! I think I figured it out! It’s ’cause we both got these<br>cool jagged edges!",
+      "pt_br": "<$emotion(1,55)><$voicel(1,6)>As minhas... garras?<clear><br><$emotion(1,27)><$voicel(1,7)>Yooo! Eu acho que eu descobri isso! É ’porque nós dois temos estes<br>Arestas frias e irregulares!"
+    },
+    {
+      "id": 34,
+      "en": "<$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,8)>Hey! Ya might be onto somethin’ there!",
+      "pt_br": "<$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,8)>Hey! Você pode estar em alguma coisa’ lá!"
+    },
+    {
+      "id": 35,
+      "en": "<$comeff(1,20)><$motion(1,806)><$facial(1,1)><$voicel(1,7)>That gives me a great idea! <$cdef(27)><$cname(595)></color>, let’s make a group<br><$comeff(1,6)><$motion(1,662)><$facial(1,4)><$voicel(1,6)>dedicated to tellin’ people how cool jagged edges are!",
+      "pt_br": "<$comeff(1,20)><$motion(1,806)><$facial(1,1)><$voicel(1,7)>Isso dá-me uma grande ideia! <$cdef(27)><$cname(595)></color>, vamos fazer um grupo<br><$comeff(1,6)><$motion(1,662)><$facial(1,4)><$voicel(1,6)>dedicado a dizer às pessoas como as bordas irregulares são legais!"
+    },
+    {
+      "id": 36,
+      "en": "<$comeff(2,9)><$motion(2,806)><$facial(2,1)><$voicel(2,7)>Ohhh! Good idea! I reckon we could call ourselves the<br>Jagged Coalition!<clear><br><$emotion(2,55)><$voicel(2,5)>Let’s get to work right away! We can start by makin’ all the<br>buildings round here nice ’n’ jagged.",
+      "pt_br": "<$comeff(2,9)><$motion(2,806)><$facial(2,1)><$voicel(2,7)>Boa ideia, acho que podemos chamar-nos<br>Coalizão Jagged!<clear><br><$emotion(2,55)><$voicel(2,5)>Vamos começar a trabalhar imediatamente! Podemos começar por fazer todos os<br>edifícios por aqui agradável 'n' irregular."
+    },
+    {
+      "id": 37,
+      "en": "<$comcan(2)><$emotion(1,8)><$voicel(1,7)>YEAH! And we can make the ground all jagged, too!<clear><br><$emotion(1,197)><$voicel(1,5)>But, uh... I guess it wouldn’t be very nice to mess with the<br>town <$comeff(1,4)><$facial(1,9)><$voicel(1,4)><$cdef(27)><pname;0> </color>made for us, huh...",
+      "pt_br": "<$comcan(2)><$emotion(1,8)><$voicel(1,7)>E também podemos fazer o chão ficar embaçado!<clear><br><$emotion(1,197)><$voicel(1,5)>Mas, uh... Eu acho que não seria muito bom para mexer com o<br>cidade <$comeff(1,4)><$facial(1,9)><$voicel(1,4)><$cdef(27)><pname;0> </color>Feito para nós, huh..."
+    },
+    {
+      "id": 38,
+      "en": "<oneline><$comcan(1)><$emotion(2,27)><$voicel(2,6)>Huh... S’pose you’re right...<clear><br><$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,7)><$cdef(27)><pname;0> </color>should be the one to decide<br>how<slide><br>jagged<slide><br>things<slide><br>are<slide><br>round here!",
+      "pt_br": "<oneline><$comcan(1)><$emotion(2,27)><$voicel(2,6)>Huh... Suponha que você está certo...<clear><br><$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,7)><$cdef(27)><pname;0> </color>deve ser o único a decidir<br>como<slide><br>irregular<slide><br>coisas<slide><br>are<slide><br>Por aqui!"
+    },
+    {
+      "id": 39,
+      "en": "<$emotion(1,14)><$voicel(1,6)>Yeah! OK, <$cdef(27)><pname;0></color>...<clear><br><$comeff(1,21)><$motion(1,644)><$facial(1,1)>If ya ever need a reference for how to make the town a li’l<br>more jagged, <$voicel(1,7)>just think of my claws, yo!",
+      "pt_br": "<$emotion(1,14)><$voicel(1,6)>Está bem. <$cdef(27)><pname;0></color>...<clear><br><$comeff(1,21)><$motion(1,644)><$facial(1,1)>Se você precisar de uma referência para como fazer da cidade um li’l<br>mais irregular, <$voicel(1,7)>Pensa nas minhas garras, meu!"
+    },
+    {
+      "id": 40,
+      "en": "<$comeff(2,10)><$motion(2,805)><$facial(2,2)><$voicel(2,7)>Naw, you’d be better off referencin’ these jaws o’ mine.<br>That’ll make things look a li’l more fancy!",
+      "pt_br": "<$comeff(2,10)><$motion(2,805)><$facial(2,2)><$voicel(2,7)>Não, você seria melhor fora de referência’ estas mandíbulas o’ mina.<br>Isso vai fazer as coisas parecerem um li'l mais extravagante!"
+    },
+    {
+      "id": 41,
+      "en": "<$comeff(1,17)><$motion(1,807)><$facial(1,1)><$voicel(1,6)>I dunno, yo... We’re both members of the Jagged<br>Coalition, so maybe either’s fine?<clear><br><$motionoff(1,804)><$comeff(1,3)><$facial(1,1)><$voicel(1,1)>...I think the shape of my claws is a li’l cooler, though.",
+      "pt_br": "<$comeff(1,17)><$motion(1,807)><$facial(1,1)><$voicel(1,6)>Eu não sei, yo... Nós dois somos membros do Jagged<br>Coalizão, então, talvez algum dos dois esteja bem?<clear><br><$motionoff(1,804)><$comeff(1,3)><$facial(1,1)><$voicel(1,1)>...Eu acho que a forma das minhas garras é um li’l mais frio, no entanto."
+    },
+    {
+      "id": 42,
+      "en": "<$comcan(1)><$voicel(2,4)>Mebbe you’re right... <wait(1.0)><$comeff(2,10)><$motion(2,662)><$voicel(2,10)>Though I reckon the shape o’ my<br>jaws would make a stronger impression!",
+      "pt_br": "<$comcan(1)><$voicel(2,4)>Mebbe você está certo... <wait(1.0)><$comeff(2,10)><$motion(2,662)><$voicel(2,10)>Embora eu ache que a forma do meu<br>Os maxilares causariam uma impressão mais forte!"
+    },
+    {
+      "id": 43,
+      "en": "<$emotion(1,39)><$voicel(1,7)>Hey, <$cdef(27)><$cname(576)></color>! The ocean is so huge, isn’t it? <$comeff(1,6)><$motion(1,666)><$facial(1,2)><$voicel(1,6)>Do you<br>know what’s beyond the ocean?",
+      "pt_br": "<$emotion(1,39)><$voicel(1,7)>Olá. <$cdef(27)><$cname(576)></color>O oceano é tão grande, não é? <$comeff(1,6)><$motion(1,666)><$facial(1,2)><$voicel(1,6)>Tu sabe?<br>sabe o que está além do oceano?"
+    },
+    {
+      "id": 44,
+      "en": "<$emotion(2,38)><$voicel(2,8)>Well, the thing is, the ocean goes on FOREVER! <$emotion(2,55)><$voicel(2,5)>And the<br>more you swim, the more sides of it you’ll see!<clear><br>Like, some parts of the ocean are super cold with floating<br>ice, <$comeff(2,9)><$motion(2,806)><$facial(2,4)><$voicel(2,8)><$kfacial(2)>and others are super warm and crystal clear!",
+      "pt_br": "<$emotion(2,38)><$voicel(2,8)>Bem, o problema é que o oceano continua para sempre! <$emotion(2,55)><$voicel(2,5)>E o<br>mais você nada, mais lados dele você vai ver!<clear><br>Algumas partes do oceano são super frias com flutuação.<br>gelo, <$comeff(2,9)><$motion(2,806)><$facial(2,4)><$voicel(2,8)><$kfacial(2)>e outros são super quentes e cristalinas!"
+    },
+    {
+      "id": 45,
+      "en": "<$comeff(1,21)><$motion(1,806)><$facial(1,4)><$voicel(1,9)>Whoa, that’s so cool!",
+      "pt_br": "<$comeff(1,21)><$motion(1,806)><$facial(1,4)><$voicel(1,9)>Uau, isso é tão legal!"
+    },
+    {
+      "id": 46,
+      "en": "<$comeff(2,14)><$motion(2,666)><$facial(2,1)><$voicel(2,3)>But there is ONE weird thing about it all...",
+      "pt_br": "<$comeff(2,14)><$motion(2,666)><$facial(2,1)><$voicel(2,3)>Mas há uma coisa estranha sobre tudo isso..."
+    },
+    {
+      "id": 47,
+      "en": "<$comcan(2)><$emotion(1,29)><$voicel(1,6)>Ooh, what’s that?",
+      "pt_br": "<$comcan(2)><$emotion(1,29)><$voicel(1,6)>O que é isso?"
+    },
+    {
+      "id": 48,
+      "en": "<$comeff(2,4)><$motion(2,807)><$facial(2,9)><$voicel(2,3)>You see, whenever I KEEP swimming for a looong time,<br>I eventually end up right back where I started!<clear><br><$comeff(2,6)><$facial(2,1)><$voicel(2,6)>I wonder why that is.",
+      "pt_br": "<$comeff(2,4)><$motion(2,807)><$facial(2,9)><$voicel(2,3)>sabe, sempre que eu continuo a nadar durante um tempo de banho,<br>Acabei por voltar para onde comecei!<clear><br><$comeff(2,6)><$facial(2,1)><$voicel(2,6)>Pergunto-me porquê."
+    },
+    {
+      "id": 49,
+      "en": "<$comeff(1,14)><$motion(1,666)><$facial(1,2)><$voicel(1,3)>Huh, that’s strange... Maybe the ocean is telling you <$comeff(1,6)><$voicel(1,6)>this is<br>where you’re meant to return to?<clear><br><$comeff(1,9)><$motion(1,807)><$facial(1,4)><$voicel(1,7)>I’d love to go swimming with you someday and solve that<br>mystery, <$cdef(27)><$cname(576)></color>!",
+      "pt_br": "<$comeff(1,14)><$motion(1,666)><$facial(1,2)><$voicel(1,3)>Huh, isso é estranho ... Talvez o oceano está dizendo a você <$comeff(1,6)><$voicel(1,6)>Isto é...<br>para onde você está destinado a voltar?<clear><br><$comeff(1,9)><$motion(1,807)><$facial(1,4)><$voicel(1,7)>Eu adoraria ir nadar com você algum dia e resolver isso<br>mistério, <$cdef(27)><$cname(576)></color>!"
+    },
+    {
+      "id": 50,
+      "en": "<$comeff(1,17)><$motion(1,805)><$facial(1,4)><$voicel(1,6)>You really scared me the other day, ya know that, <$cdef(27)>Frillish</color>?<br>If ya go too deep like that, you could drown!",
+      "pt_br": "<$comeff(1,17)><$motion(1,805)><$facial(1,4)><$voicel(1,6)>Assustaste-me no outro dia. <$cdef(27)>Frillish</color>?<br>Se fores muito fundo assim, pode afogar-te!"
+    },
+    {
+      "id": 51,
+      "en": "<$comeff(2,22)><$motion(2,662)><$facial(2,1)><$voicel(2,9)>Ugh! I already told you, I’m NOT gonna drown!<clear><br><$motionoff(2,804)><$comeff(2,10)><$facial(2,1)><$voicel(2,7)>I was just gently floating down to the ocean floor. Gently!",
+      "pt_br": "<$comeff(2,22)><$motion(2,662)><$facial(2,1)><$voicel(2,9)>Já te disse, não vou afogar-me!<clear><br><$motionoff(2,804)><$comeff(2,10)><$facial(2,1)><$voicel(2,7)>Estava a flutuar suavemente até ao fundo do oceano."
+    },
+    {
+      "id": 52,
+      "en": "<$emotion(1,27)><$voicel(1,9)>Seriously?! Swimmin’ down super deep like that is no big<br>deal for you?",
+      "pt_br": "<$emotion(1,27)><$voicel(1,9)>Sério?! Nadando’ para baixo super profundo como que não é grande<br>Um acordo para ti?"
+    },
+    {
+      "id": 53,
+      "en": "<$emotion(2,8)><$voicel(2,8)>Mm-hmm! It’s totally OK!<clear><br><$comeff(2,21)><$motion(2,806)><$facial(2,1)><$voicel(2,5)>The deep sea’s so wide open. Down there, I can just relax<br>and swim however I want.<clear><br><$comeff(2,20)><$motion(2,644)><$facial(2,4)><$voicel(2,7)>Oh, hey! We should all go there together sometime!",
+      "pt_br": "<$emotion(2,8)><$voicel(2,8)>Está tudo bem!<clear><br><$comeff(2,21)><$motion(2,806)><$facial(2,1)><$voicel(2,5)>O mar profundo é tão largo aberto. Lá em baixo, eu posso apenas relaxar<br>e nadar como eu quiser.<clear><br><$comeff(2,20)><$motion(2,644)><$facial(2,4)><$voicel(2,7)>Devíamos ir todos juntos um dia destes!"
+    },
+    {
+      "id": 54,
+      "en": "<$emotion(1,59)><$voicel(1,5)>Oof. I dunno... The deep sea’s all cold and dark and stuff.<br>Might be kinda rough for <$cdef(27)><pname;0></color>.",
+      "pt_br": "<$emotion(1,59)><$voicel(1,5)>Oof. Eu não sei... O mar profundo é todo frio e escuro e tal.<br>Pode ser um pouco difícil para <$cdef(27)><pname;0></color>."
+    },
+    {
+      "id": 55,
+      "en": "<$comeff(2,6)><$motion(2,806)><$facial(2,1)><$voicel(2,6)>Really? I’m sure it’d be a breeze for them!",
+      "pt_br": "<$comeff(2,6)><$motion(2,806)><$facial(2,1)><$voicel(2,6)>Realmente? Tenho certeza que seria uma brisa para eles!"
+    },
+    {
+      "id": 56,
+      "en": "<$emotion(1,55)><$voicel(1,3)>I know YOU don’t think it’d be a problem, but...<clear><br><$comeff(1,3)><$motion(1,807)><$facial(1,2)><$voicel(1,7)>I guess I can always rescue everybody if it comes to that.<br>Maybe it’ll be fine!",
+      "pt_br": "<$emotion(1,55)><$voicel(1,3)>Eu sei que você não acha que seria um problema, mas...<clear><br><$comeff(1,3)><$motion(1,807)><$facial(1,2)><$voicel(1,7)>Acho que posso sempre salvar toda a gente, se for preciso.<br>Talvez fique tudo bem!"
+    },
+    {
+      "id": 57,
+      "en": "<$emotion(2,8)><$voicel(2,7)>Ahaha! Swimming in the deep sea all together sounds<br>SO fun! ♪",
+      "pt_br": "<$emotion(2,8)><$voicel(2,7)>Ahaha! Nadando no mar profundo todos juntos sons<br>Tão divertido!"
+    },
+    {
+      "id": 58,
+      "en": "<$emotion(1,38)><$voicel(1,7)>I wanna be a cool grown-up like you, <$cdef(27)><$cname(600)></color>!",
+      "pt_br": "<$emotion(1,38)><$voicel(1,7)>Quero ser um adulto fixe como tu. <$cdef(27)><$cname(600)></color>!"
+    },
+    {
+      "id": 59,
+      "en": "<$emotion(2,50)><$voicel(2,4)>Why thank you, little one. What a sweet thing to say.<br><wait(1.0)><$emotion(2,55)><$voicel(2,6)>But growing up can be rather...<clear><br><$comeff(2,17)><$facial(2,14)><$voicel(2,2)>*sigh*",
+      "pt_br": "<$emotion(2,50)><$voicel(2,4)>Obrigado, pequenina, que coisa simpática de se dizer.<br><wait(1.0)><$emotion(2,55)><$voicel(2,6)>Mas crescer pode ser um pouco...<clear><br><$comeff(2,17)><$facial(2,14)><$voicel(2,2)>*suspiro *"
+    },
+    {
+      "id": 60,
+      "en": "<$emotion(1,27)><$voicel(1,10)>Huh? What is it?!",
+      "pt_br": "<$emotion(1,27)><$voicel(1,10)>O que foi?"
+    },
+    {
+      "id": 61,
+      "en": "<$comeff(2,7)><$motion(2,807)><$facial(2,1)><$voicel(2,3)>It isn’t all sunshine and roses.<clear><br><$comeff(2,18)><$motion(2,806)><$facial(2,14)><$voicel(2,1)>My scales no longer shine like they used to, and my<br>strength is nothing like it once was...<clear><br><$voicel(2,6)>Just thinking of it makes me gnash my teeth! <wait(1.2)><$comeff(2,10)><$motion(2,802)><$facial(2,2)><$voicel(2,9)>*chomp*",
+      "pt_br": "<$comeff(2,7)><$motion(2,807)><$facial(2,1)><$voicel(2,3)>Nem tudo é sol e rosas.<clear><br><$comeff(2,18)><$motion(2,806)><$facial(2,14)><$voicel(2,1)>As minhas escamas já não brilham como costumavam brilhar, e a minha<br>a força não é nada como era uma vez...<clear><br><$voicel(2,6)>Só de pensar nisso, fico a ranger os dentes! <wait(1.2)><$comeff(2,10)><$motion(2,802)><$facial(2,2)><$voicel(2,9)>* Chomp *"
+    },
+    {
+      "id": 62,
+      "en": "<$comeff(1,6)><$motion(1,666)><$facial(1,2)><$voicel(1,6)>Huh? Are you sure you’re not just imagining that?<clear><br><$motionoff(1,804)><$comeff(1,10)><$facial(1,1)><$voicel(1,7)>I mean, I saw you chomp a huge boulder to bits with your<br>big teeth!",
+      "pt_br": "<$comeff(1,6)><$motion(1,666)><$facial(1,2)><$voicel(1,6)>Tem certeza de que não está apenas imaginando isso?<clear><br><$motionoff(1,804)><$comeff(1,10)><$facial(1,1)><$voicel(1,7)>Quero dizer, vi-te a mastigar uma pedra enorme com o teu<br>Dentes grandes!"
+    },
+    {
+      "id": 63,
+      "en": "<$comeff(2,5)><$motion(2,662)><$facial(2,1)><$voicel(2,6)>Yes, well, it looked so full of nutrients...<wait(1.0)><$comeff(2,4)><$motion(2,807)><$facial(2,1)><$voicel(2,8)> But I digress!<clear><br><$comeff(2,21)><$motion(2,805)><$facial(2,1)><$voicel(2,5)>You are absolutely splendid just as you are now, <$cdef(27)><$cname(598)></color>.<br>I don’t think <$motion(2,807)><$facial(2,1)><$voicel(2,8)>you need to be in any hurry to grow up.",
+      "pt_br": "<$comeff(2,5)><$motion(2,662)><$facial(2,1)><$voicel(2,6)>Sim, bem, parecia tão cheio de nutrientes...<wait(1.0)><$comeff(2,4)><$motion(2,807)><$facial(2,1)><$voicel(2,8)> Mas eu digresso!<clear><br><$comeff(2,21)><$motion(2,805)><$facial(2,1)><$voicel(2,5)>Você é absolutamente esplêndido assim como você é agora, <$cdef(27)><$cname(598)></color>.<br>Eu não acho <$motion(2,807)><$facial(2,1)><$voicel(2,8)>tem de ter pressa para crescer."
+    },
+    {
+      "id": 64,
+      "en": "<$comcan(2)><$emotion(1,83)><$voicel(1,4)>Hmmm...<clear><br><$motion(1,801)><$comeff(1,10)><$voicel(1,9)>No, I really do wanna hurry and grow up! I wanna be a<br>cool and strong adult!",
+      "pt_br": "<$comcan(2)><$emotion(1,83)><$voicel(1,4)>Hmmm...<clear><br><$motion(1,801)><$comeff(1,10)><$voicel(1,9)>Não, eu quero mesmo que te apresses e cresças!<br>adulto fresco e forte!"
+    },
+    {
+      "id": 65,
+      "en": "<$comeff(2,14)><$motion(2,806)><$facial(2,1)><$voicel(2,3)>I see... Well, if you’re absolutely certain, <$emotion(2,14)><$voicel(2,8)>you ought to<br>focus on developing your mind.<clear><br><$emotion(2,39)><$voicel(2,5)>After all, maturity grows from the inside out, not the other<br>way around.",
+      "pt_br": "<$comeff(2,14)><$motion(2,806)><$facial(2,1)><$voicel(2,3)>Eu vejo... bem, se você tem certeza absoluta, <$emotion(2,14)><$voicel(2,8)>Devias...<br>Concentre-se em desenvolver sua mente.<clear><br><$emotion(2,39)><$voicel(2,5)>Afinal, a maturidade cresce de dentro para fora, não a outra.<br>Bem à volta."
+    },
+    {
+      "id": 66,
+      "en": "<$motion(1,666)><$comeff(1,14)><$facial(1,1)><$voicel(1,4)><$voicel(1,5)>Inside? So you mean <$voicel(1,5)>I just need to talk like you, <$cdef(27)><$cname(600)></color>?<clear><br><$comcan(1)>... ... ...<clear><br><$voicel(1,8)><$comeff(1,21)>Why, hello! My name is <$cdef(27)><$cname(598)></color>. <wait(1.0)><$motionoff(1,804)><$comeff(1,10)><$facial(1,1)><$voicel(1,9)>*chomp*<clear><br><$comeff(1,6)><$motion(1,806)><$facial(1,1)><$voicel(1,4)>Like that?",
+      "pt_br": "<$motion(1,666)><$comeff(1,14)><$facial(1,1)><$voicel(1,4)><$voicel(1,5)>Então, quer dizer... <$voicel(1,5)>Só preciso de falar como tu. <$cdef(27)><$cname(600)></color>?<clear><br><$comcan(1)>... ... ...<clear><br><$voicel(1,8)><$comeff(1,21)>Olá, o meu nome é <$cdef(27)><$cname(598)></color>. <wait(1.0)><$motionoff(1,804)><$comeff(1,10)><$facial(1,1)><$voicel(1,9)>* Chomp *<clear><br><$comeff(1,6)><$motion(1,806)><$facial(1,1)><$voicel(1,4)>Assim?"
+    },
+    {
+      "id": 67,
+      "en": "<$motion(2,803)><$facial(2,1)><$voicel(2,2)>That isn’t quite what I meant...",
+      "pt_br": "<$motion(2,803)><$facial(2,1)><$voicel(2,2)>Isso não é bem o que eu quis dizer..."
+    },
+    {
+      "id": 68,
+      "en": "<$comeff(2,21)><$motion(2,807)><$facial(2,1)><$voicel(2,7)>My goodness, how elegant you look when you swim!<br>And the light emitted by your fins is simply mesmerizing.<clear><br><$comeff(2,6)><$motion(2,666)><$facial(2,2)><$voicel(2,6)>Might I convince you to honor me with a dance?",
+      "pt_br": "<$comeff(2,21)><$motion(2,807)><$facial(2,1)><$voicel(2,7)>Meu Deus, como ficas elegante quando nadas!<br>E a luz emitida pelas suas barbatanas é simplesmente hipnotizante.<clear><br><$comeff(2,6)><$motion(2,666)><$facial(2,2)><$voicel(2,6)>Posso convencê-lo a honrar-me com uma dança?"
+    },
+    {
+      "id": 69,
+      "en": "<$emotion(1,47)><$voicel(1,1)>I don’t knowww. That seems like a lot of effort...",
+      "pt_br": "<$emotion(1,47)><$voicel(1,1)>Eu não seiww. Isso parece muito esforço..."
+    },
+    {
+      "id": 70,
+      "en": "<$motionoff(2,804)><$comeff(2,4)><$facial(2,1)><$voicel(2,7)>Oh, come now, don’t be like that. Please?",
+      "pt_br": "<$motionoff(2,804)><$comeff(2,4)><$facial(2,1)><$voicel(2,7)>Oh, vamos lá, não seja assim. Por favor?"
+    },
+    {
+      "id": 71,
+      "en": "<$emotion(1,55)><$voicel(1,3)>Well... OK. If you help me with some things, then mayyybe<br>I can dance with you...",
+      "pt_br": "<$emotion(1,55)><$voicel(1,3)>Se me ajudares com umas coisas, Mayyybe...<br>Posso dançar com você..."
+    },
+    {
+      "id": 72,
+      "en": "<$comcan(1)><$emotion(2,29)><$voicel(2,7)>Oh? What sorts of things do you need help with?<br>Whatever they are, I’d be happy to oblige.",
+      "pt_br": "<$comcan(1)><$emotion(2,29)><$voicel(2,7)>Em que tipo de coisas precisas de ajuda?<br>O que quer que sejam, eu ficaria feliz em ajudar."
+    },
+    {
+      "id": 73,
+      "en": "<$emotion(1,8)><$voicel(1,7)>Yayyy. First, I need a berry...",
+      "pt_br": "<$emotion(1,8)><$voicel(1,7)>Primeiro, preciso de uma fruta..."
+    },
+    {
+      "id": 74,
+      "en": "<$comeff(2,3)><$voicel(2,6)>All right. Here you are.",
+      "pt_br": "<$comeff(2,3)><$voicel(2,6)>Muito bem, aqui está."
+    },
+    {
+      "id": 75,
+      "en": "<$comeff(1,14)><$motion(1,806)><$facial(1,1)><$voicel(1,5)>Next, I want to hear some really nice music...",
+      "pt_br": "<$comeff(1,14)><$motion(1,806)><$facial(1,1)><$voicel(1,5)>A seguir, quero ouvir uma música muito boa..."
+    },
+    {
+      "id": 76,
+      "en": "<$comcan(1)><$comeff(2,17)><$motion(2,805)><$facial(2,14)><$voicel(2,1)>I see... Well, if you insist, I can serenade you a bit.<clear><br><$comeff(2,13)><$motion(2,817)><$facial(2,1)><$facial(1,4)><$voicel(2,9)>Laaa! ♪ La la laaa la la laaa! ♪",
+      "pt_br": "<$comcan(1)><$comeff(2,17)><$motion(2,805)><$facial(2,14)><$voicel(2,1)>Bem, se insistes, posso fazer-te uma serenata.<clear><br><$comeff(2,13)><$motion(2,817)><$facial(2,1)><$facial(1,4)><$voicel(2,9)>La laaa la laaa!"
+    },
+    {
+      "id": 77,
+      "en": "<$comcan(2)><$comeff(1,10)><$motion(1,807)><$facial(1,4)><$voicel(1,6)>Laaastly, I need someone to clean my home.",
+      "pt_br": "<$comcan(2)><$comeff(1,10)><$motion(1,807)><$facial(1,4)><$voicel(1,6)>Laaastly, preciso de alguém para limpar a minha casa."
+    },
+    {
+      "id": 78,
+      "en": "... ... ...<wait(1.0)><br><$emotion(2,59)><$voicel(2,3)>This is the last thing you need, yes?<clear><br><$motionoff(2,804)><$comeff(2,10)><$facial(2,1)><$voicel(2,9)>If so, then all right. I will help you clean!",
+      "pt_br": "... ... ...<wait(1.0)><br><$emotion(2,59)><$voicel(2,3)>É a última coisa que precisas, não é?<clear><br><$motionoff(2,804)><$comeff(2,10)><$facial(2,1)><$voicel(2,9)>Se sim, então tudo bem. Eu ajudo-te a limpar!"
+    },
+    {
+      "id": 79,
+      "en": "<$emotion(1,6)><$voicel(1,9)>Really? Thank you... I’ll for suuure dance with you after<br>you finish.",
+      "pt_br": "<$emotion(1,6)><$voicel(1,9)>Realmente? Obrigado... Eu vou para a dança suuure com você depois<br>Acaba."
+    },
+    {
+      "id": 80,
+      "en": "<$emotion(2,39)><$voicel(2,7)>Dancing with you has been nothing short of incredible!<br>We should do this again.",
+      "pt_br": "<$emotion(2,39)><$voicel(2,7)>Dançar com você tem sido nada menos que incrível!<br>Devíamos fazer isto outra vez."
+    },
+    {
+      "id": 81,
+      "en": "<$emotion(1,216)><$voicel(1,7)>Oooh... Will you help me out again next time?",
+      "pt_br": "<$emotion(1,216)><$voicel(1,7)>Ajudas-me outra vez da próxima vez?"
+    },
+    {
+      "id": 82,
+      "en": "<$emotion(2,59)><$voicel(2,2)>Erm, well... <wait(2.0)><$comeff(2,7)><$motion(2,803)><$facial(2,14)><$voicel(2,4)>No, I think not.",
+      "pt_br": "<$emotion(2,59)><$voicel(2,2)>Bem... <wait(2.0)><$comeff(2,7)><$motion(2,803)><$facial(2,14)><$voicel(2,4)>Não, acho que não."
+    },
+    {
+      "id": 83,
+      "en": "<$emotion(2,344)><$voicel(2,3)>Dear...did you make that mess earlier? There were berries<br>scattered everywhere!",
+      "pt_br": "<$emotion(2,344)><$voicel(2,3)>Querida... fizeste aquela confusão mais cedo?<br>Espalhados por todo o lado!"
+    },
+    {
+      "id": 84,
+      "en": "<$comeff(1,5)><$motion(1,803)><$facial(1,9)><$voicel(1,9)>Hm?! U-uh... I dunno nothin’ ’bout that. Must’ve been<br>somebody else!",
+      "pt_br": "<$comeff(1,5)><$motion(1,803)><$facial(1,9)><$voicel(1,9)>Hm?! U-uh... Eu não sei nada sobre isso. Deve ter sido<br>Outra pessoa!"
+    },
+    {
+      "id": 85,
+      "en": "<$motion(2,644)><$facial(2,7)><$voicel(2,2)>... ... ...<br><wait(0.3)><$comeff(1,4)><$facial(1,9)><$kfacial(1)><wait(2.0)><$motionoff(2,804)><$comeff(2,10)><$facial(2,7)><$voicel(2,9)><$kfacial(2)>Lying really doesn’t suit you, you know.",
+      "pt_br": "<$motion(2,644)><$facial(2,7)><$voicel(2,2)>... ... ...<br><wait(0.3)><$comeff(1,4)><$facial(1,9)><$kfacial(1)><wait(2.0)><$motionoff(2,804)><$comeff(2,10)><$facial(2,7)><$voicel(2,9)><$kfacial(2)>Mentir realmente não combina com você, você sabe."
+    },
+    {
+      "id": 86,
+      "en": "<$comeff(1,7)><$motion(1,662)><$voicel(1,9)>Ack! Well, shucks... Nothin’ gets past ya, does it?",
+      "pt_br": "<$comeff(1,7)><$motion(1,662)><$voicel(1,9)>Ack! Bem, shucks... Nada passa por você, não é?"
+    },
+    {
+      "id": 87,
+      "en": "<$kfacial(1)><$emotion(2,12)><$voicel(2,3)>Your face gives everything away plain as day! You really<br>should keep things more tidy.",
+      "pt_br": "<$kfacial(1)><$emotion(2,12)><$voicel(2,3)>A tua cara dá tudo de forma clara!<br>deve manter as coisas mais arrumadas."
+    },
+    {
+      "id": 88,
+      "en": "<$emotion(1,58)><$voicel(1,2)>S-sorry... I’ll do better...",
+      "pt_br": "<$emotion(1,58)><$voicel(1,2)>Desculpe... Vou fazer melhor..."
+    },
+    {
+      "id": 89,
+      "en": "<$comeff(2,10)><$motion(2,662)><$facial(2,7)><$voicel(2,8)><$kfacial(2)>Come to think of it, you’ve been letting a lot of things<br>go lately, haven’t you?<slide><br><$textsize(0)><wait(1.2)><$comeff(2,14)><$voicel(2,4)>Why, just the other day...</textsize>",
+      "pt_br": "<$comeff(2,10)><$motion(2,662)><$facial(2,7)><$voicel(2,8)><$kfacial(2)>Pensando bem, você tem deixado muitas coisas<br>ir ultimamente, não é?<slide><br><$textsize(0)><wait(1.2)><$comeff(2,14)><$voicel(2,4)>Porquê, no outro dia...</textsize>"
+    },
+    {
+      "id": 90,
+      "en": "<$textsize(0)><$emotion(1,31)><$voicel(1,2)>Aw, here it goes... This’s gonna be a long one, I reckon.<br><wait(1.5)><$voicel(1,4)><$comeff(1,6)><$facial(1,10)>Say, <$cdef(27)><pname;0></color>, think ya could lend me a hand here?</textsize>",
+      "pt_br": "<$textsize(0)><$emotion(1,31)><$voicel(1,2)>Aw, aqui vai... Este vai ser um longo, eu acho.<br><wait(1.5)><$voicel(1,4)><$comeff(1,6)><$facial(1,10)>Diz, <$cdef(27)><pname;0></color>Achas que me podias ajudar aqui?</textsize>"
+    },
+    {
+      "id": 91,
+      "en": "<oneline><$facial(1,1)><$emotion(2,27)><$voicel(2,8)>Oh, goodness! I’m sorry you had to see such a<br>scene, <$cdef(27)><pname;0></color>!<wait(2.4)><$lookat(2,0,1)><$lookat(2,1,1)><waitactor(2)><$lookat(1,0,2)><$lookat(1,1,2)><waitactor(1)><clear><br><$emotion(2,240)><$voicel(2,5)>Well, I’ll let you off the hook for now out of respect for<br>sweet little <$cdef(27)><pname;1></color>, <$comeff(2,10)><$motion(2,662)><$facial(2,7)><$voicel(2,10)>but you really need<slide><br>to get<slide><br>your<slide><br>act<slide><br>together!",
+      "pt_br": "<oneline><$facial(1,1)><$emotion(2,27)><$voicel(2,8)>Oh, meu Deus! Sinto muito que você tinha que ver tal um<br>cena, <$cdef(27)><pname;0></color>!<wait(2.4)><$lookat(2,0,1)><$lookat(2,1,1)><waitactor(2)><$lookat(1,0,2)><$lookat(1,1,2)><waitactor(1)><clear><br><$emotion(2,240)><$voicel(2,5)>Bem, vou deixá-lo fora do gancho por agora, por respeito para<br>doce pouco <$cdef(27)><pname;1></color>, <$comeff(2,10)><$motion(2,662)><$facial(2,7)><$voicel(2,10)>Mas tu realmente precisas.<slide><br>para obter<slide><br>a sua<slide><br>ato<slide><br>Juntos!"
+    },
+    {
+      "id": 92,
+      "en": "<oneline><$emotion(1,14)><$voicel(1,8)>Yep, yep! Message received! I’ll do better, like I said!<$textsize(0)><wait(2.4)><$lookat(1,0,0)><$lookat(1,1,0)><waitactor(1)><$lookat(0,0,1)></textsize><clear><br><$emotion(1,8)><$voicel(1,3)><$textsize(0)>Mighty grateful to ya, <$cdef(27)><pname;0></color>. Ya spared me from<br>gettin’<slide><br>an earful!</textsize>",
+      "pt_br": "<oneline><$emotion(1,14)><$voicel(1,8)>Yep! Mensagem recebida! Eu vou fazer melhor, como eu disse!<$textsize(0)><wait(2.4)><$lookat(1,0,0)><$lookat(1,1,0)><waitactor(1)><$lookat(0,0,1)></textsize><clear><br><$emotion(1,8)><$voicel(1,3)><$textsize(0)>Muito grato a você, <$cdef(27)><pname;0></color>Você me poupou de<br>Obtenção»<slide><br>Um ouvido!</textsize>"
+    },
+    {
+      "id": 93,
+      "en": "<$emotion(2,230)><$voicel(2,6)><$facial(1,1)>Did you say something?",
+      "pt_br": "<$emotion(2,230)><$voicel(2,6)><$facial(1,1)>Disseste alguma coisa?"
+    },
+    {
+      "id": 94,
+      "en": "<$comeff(1,4)><$motion(1,807)><$facial(1,10)><$voicel(1,9)><$facial(0,18)>Nope, nope! No words bein’ said over here!",
+      "pt_br": "<$comeff(1,4)><$motion(1,807)><$facial(1,10)><$voicel(1,9)><$facial(0,18)>Não, não, não! Não há palavras que estejam sendo ditas aqui!"
+    },
+    {
+      "id": 95,
+      "en": "<$cdef(27)><$comcan(2)><$emotion(1,5)><$voicel(1,9)><pname;0></color>?!",
+      "pt_br": "<$cdef(27)><$comcan(2)><$emotion(1,5)><$voicel(1,9)><pname;0></color>?!"
+    },
+    {
+      "id": 96,
+      "en": "<oneline><$facial(1,9)><$emotion(2,14)><$voicel(2,8)>You think so too, <$cdef(27)><pname;0></color>? Of course<br>you<slide><br>do!<slide><br><wait(2.4)><$lookat(2,0,1)><$lookat(2,1,1)><waitactor(2)><$lookat(1,0,2)><$lookat(1,1,2)><waitactor(1)><$comeff(2,14)><$facial(2,7)><$voicel(2,10)>After<slide><br>all,<slide><br>darling,<slide><br>you always...",
+      "pt_br": "<oneline><$facial(1,9)><$emotion(2,14)><$voicel(2,8)>Tu também achas isso. <$cdef(27)><pname;0></color>Claro.<br>você<slide><br>Faz!<slide><br><wait(2.4)><$lookat(2,0,1)><$lookat(2,1,1)><waitactor(2)><$lookat(1,0,2)><$lookat(1,1,2)><waitactor(1)><$comeff(2,14)><$facial(2,7)><$voicel(2,10)>Após<slide><br>todos,<slide><br>Querida,<slide><br>Tu sempre..."
+    },
+    {
+      "id": 97,
+      "en": "<$motionoff(2,804)><$comeff(2,10)><$facial(2,7)><$voicel(2,7)>...and so I really must insist that you try a little harder<br>next time!",
+      "pt_br": "<$motionoff(2,804)><$comeff(2,10)><$facial(2,7)><$voicel(2,7)>...e por isso tenho de insistir para que te esforces mais.<br>Da próxima vez!"
+    },
+    {
+      "id": 98,
+      "en": "<$emotion(1,31)><$voicel(1,2)>Y-yeah, I gotcha... I’ll do better, I promise...",
+      "pt_br": "<$emotion(1,31)><$voicel(1,2)>Sim, eu tenho você... Eu vou fazer melhor, eu prometo..."
+    },
+    {
+      "id": 99,
+      "en": "<$emotion(2,234)><$voicel(2,8)>Ha. Ha. Ha. That story. It was very funny.",
+      "pt_br": "<$emotion(2,234)><$voicel(2,8)>Essa história foi muito engraçada."
+    },
+    {
+      "id": 100,
+      "en": "Um... <wait(1.0)><$voicel(1,1)><$emotion(1,157)>Yo, <$cdef(27)><$cname(579)></color>, are you laughin’ right now or, uh...",
+      "pt_br": "Um... <wait(1.0)><$voicel(1,1)><$emotion(1,157)>Yo, <$cdef(27)><$cname(579)></color>, você está rindo’ agora ou, uh..."
+    },
+    {
+      "id": 101,
+      "en": "<$comeff(2,6)><$motion(2,666)><$facial(2,2)><$voicel(2,3)>Yes, I laughed. You ask a question, but its answer is<br>obvious. Why?",
+      "pt_br": "<$comeff(2,6)><$motion(2,666)><$facial(2,2)><$voicel(2,3)>Sim, eu ri-me. Você faz uma pergunta, mas a resposta é<br>Porquê?"
+    },
+    {
+      "id": 102,
+      "en": "<$emotion(1,228)><$voicel(1,5)>Sorry, but, uh...it’s kinda hard to tell your emotions just by<br>lookin’ at you, y’know?<clear><br><$emotion(1,55)><$voicel(1,3)>Sometimes I can’t tell <$voicel(1,4)><$motion(1,803)>whether you’re angry or laughin’<br>or what...",
+      "pt_br": "<$emotion(1,228)><$voicel(1,5)>Desculpe, mas, uh... é meio difícil dizer as suas emoções apenas por<br>Olhando para você, sabe?<clear><br><$emotion(1,55)><$voicel(1,3)>Às vezes eu não posso dizer <$voicel(1,4)><$motion(1,803)>se você está com raiva ou rindo’<br>Ou o quê..."
+    },
+    {
+      "id": 103,
+      "en": "<$comcan(1)><$emotion(2,79)><$voicel(2,4)>I do not believe it. It is simple.<clear><br><$voicel(2,6)>Look at me. <wait(1.0)><$voicel(2,10)><$emotion(2,50)>This face. It is happiness. And this face... <wait(1.5)><br><$emotion(2,171)><$voicel(2,2)>It is sadness.",
+      "pt_br": "<$comcan(1)><$emotion(2,79)><$voicel(2,4)>Não acredito, é simples.<clear><br><$voicel(2,6)>Olha para mim. <wait(1.0)><$voicel(2,10)><$emotion(2,50)>Esta cara, é felicidade, e esta cara... <wait(1.5)><br><$emotion(2,171)><$voicel(2,2)>É tristeza."
+    },
+    {
+      "id": 104,
+      "en": "<$comcan(2)><$emotion(1,78)><$voicel(1,5)>...Nope. Still confused.",
+      "pt_br": "<$comcan(2)><$emotion(1,78)><$voicel(1,5)>Não, ainda confuso."
+    },
+    {
+      "id": 105,
+      "en": "<oneline><$comeff(2,7)><$motion(2,803)><$facial(2,1)><$voicel(2,3)>I cannot believe it.<$lookat(2,0,0)><$lookat(2,1,0)><waitactor(2)><$lookat(1,0,0)><$lookat(1,1,0)><waitactor(1)><$lookat(0,0,2)><clear><br><$comeff(2,6)><$voicel(2,6)><$cdef(27)><pname;0></color>. You understand, yes? <wait(1.2)><$comeff(2,9)><$motion(2,806)><$facial(2,1)><$voicel(2,8)>What<br>emotion<slide><br>does<slide><br>my<slide><br>face<slide><br>show now?",
+      "pt_br": "<oneline><$comeff(2,7)><$motion(2,803)><$facial(2,1)><$voicel(2,3)>Não posso acreditar.<$lookat(2,0,0)><$lookat(2,1,0)><waitactor(2)><$lookat(1,0,0)><$lookat(1,1,0)><waitactor(1)><$lookat(0,0,2)><clear><br><$comeff(2,6)><$voicel(2,6)><$cdef(27)><pname;0></color>Percebes, sim? <wait(1.2)><$comeff(2,9)><$motion(2,806)><$facial(2,1)><$voicel(2,8)>O quê?<br>emoção<slide><br>faz<slide><br>minha<slide><br>face<slide><br>Mostrar agora?"
+    },
+    {
+      "id": 106,
+      "en": "<$emotion(2,39)><$voicel(2,9)>Yes. That is correct. Very correct. <$lookat(2,0,1)><$lookat(2,1,1)><waitactor(2)><$emotion(2,234)><$voicel(2,8)>See? It is simple.",
+      "pt_br": "<$emotion(2,39)><$voicel(2,9)>Sim, está correcto, muito correcto. <$lookat(2,0,1)><$lookat(2,1,1)><waitactor(2)><$emotion(2,234)><$voicel(2,8)>É simples."
+    },
+    {
+      "id": 107,
+      "en": "<$emotion(1,164)><$voicel(1,3)>Whaaat? How’d you know?! Do you two have some kind<br>of special bond or somethin’?<clear><br><$emotion(1,135)><$voicel(1,6)>’Cause, y’know...it’s kinda hard to read your expressions<br>too, <$cdef(27)><pname;0></color>.<wait(1.0)><$comeff(0,11)><$facial(0,9)>",
+      "pt_br": "<$emotion(1,164)><$voicel(1,3)>Whaaat? Como você sabia?! Vocês dois têm algum tipo<br>de vínculo especial ou algo assim?<clear><br><$emotion(1,135)><$voicel(1,6)>‘Porque, você sabe... é meio difícil ler suas expressões<br>Também. <$cdef(27)><pname;0></color>.<wait(1.0)><$comeff(0,11)><$facial(0,9)>"
+    },
+    {
+      "id": 108,
+      "en": "<$emotion(2,56)><$voicel(2,1)>Oh no. That is not correct. Maybe my emotions are unclear.<br>Maybe it is true.",
+      "pt_br": "<$emotion(2,56)><$voicel(2,1)>Talvez as minhas emoções não sejam claras.<br>Talvez seja verdade."
+    },
+    {
+      "id": 109,
+      "en": "<$emotion(1,37)><$voicel(1,7)>Don’t worry about it too much, yo. I’ll do my best to learn!<br>I’ll be an expert at readin’ your emotions in no time!",
+      "pt_br": "<$emotion(1,37)><$voicel(1,7)>Não se preocupe muito com isso, yo. Eu vou fazer o meu melhor para aprender!<br>Eu serei um especialista em ler’ suas emoções em nenhum momento!"
+    },
+    {
+      "id": 110,
+      "en": "<$comeff(2,9)><$motion(2,806)><$facial(2,1)><$voicel(2,8)><$cdef(27)><$cname(601)></color>. I thank you.",
+      "pt_br": "<$comeff(2,9)><$motion(2,806)><$facial(2,1)><$voicel(2,8)><$cdef(27)><$cname(601)></color>Agradeço-te."
+    },
+    {
+      "id": 111,
+      "en": "<$emotion(1,55)><$voicel(1,2)>Wait, don’t tell me. I got this... <wait(1.5)><$emotion(1,140)><$voicel(1,7)>That’s your sad face, right?",
+      "pt_br": "<$emotion(1,55)><$voicel(1,2)>Espere, não me diga. Eu tenho isso... <wait(1.5)><$emotion(1,140)><$voicel(1,7)>Essa é a sua cara triste, certo?"
+    },
+    {
+      "id": 112,
+      "en": "<$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,9)>Incorrect. It is my happy face.",
+      "pt_br": "<$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,9)>Incorrecto. É o meu rosto feliz."
+    },
+    {
+      "id": 113,
+      "en": "<$emotion(2,39)><$voicel(2,7)>You’re the coolest,<$cdef(27)> <$cname(602)></color>! Not only are you super<br>strong, but you’re super fast when you need to be!<clear><br><$motionoff(2,804)><$comeff(2,10)><$facial(2,1)><$voicel(2,8)>I wanna be as strong as you someday! Um...<wait(1.2)><$comeff(2,6)><$voicel(2,6)>got any tips?",
+      "pt_br": "<$emotion(2,39)><$voicel(2,7)>Você é o mais legal,<$cdef(27)> <$cname(602)></color>Não só és super<br>forte, mas você é super rápido quando você precisa ser!<clear><br><$motionoff(2,804)><$comeff(2,10)><$facial(2,1)><$voicel(2,8)>Quero ser tão forte como tu um dia!<wait(1.2)><$comeff(2,6)><$voicel(2,6)>tem alguma dica?"
+    },
+    {
+      "id": 114,
+      "en": "<$motionoff(1,804)><$comeff(1,10)><$facial(1,1)><$voicel(1,7)>Easy! Just battle a bunch of strong Pokémon! Can’t get<br>battle hardened without a li’l battle!",
+      "pt_br": "<$motionoff(1,804)><$comeff(1,10)><$facial(1,1)><$voicel(1,7)>Fácil! Basta lutar um monte de forte Pokémon! Não pode obter<br>batalha endurecida sem uma batalha li'l!"
+    },
+    {
+      "id": 115,
+      "en": "<$emotion(2,27)><$voicel(2,9)>Wait, like a REAL battle?! But...what if I don’t win?<br><wait(1.0)><$emotion(2,58)><$voicel(2,8)>N-not that I’m scared or anything, obviously!",
+      "pt_br": "<$emotion(2,27)><$voicel(2,9)>Espere, como uma batalha REAL?! Mas...e se eu não ganhar?<br><wait(1.0)><$emotion(2,58)><$voicel(2,8)>N-Não que eu estou com medo ou qualquer coisa, obviamente!"
+    },
+    {
+      "id": 116,
+      "en": "<$emotion(1,227)><$voicel(1,7)>Another easy answer! Feel like you’re gonna lose? Just<br>run away! Simple!",
+      "pt_br": "<$emotion(1,227)><$voicel(1,7)>Outra resposta fácil! Sente que você vai perder?<br>Foge, é simples!"
+    },
+    {
+      "id": 117,
+      "en": "<$emotion(2,199)><$voicel(2,9)>Huh?! You can just run away?!",
+      "pt_br": "<$emotion(2,199)><$voicel(2,9)>pode simplesmente fugir?"
+    },
+    {
+      "id": 118,
+      "en": "<$emotion(1,167)><$voicel(1,3)>Kinda defeats the purpose if you get hurt real bad and<br>can’t battle anymore, right? Sometimes you gotta know<slide><br>when to run away and fight another day!<clear><br><$comeff(1,10)><$motion(1,662)><$facial(1,1)><$voicel(1,6)>Keep on gainin’ experience bit by bit, and eventually<br>you can win and won’t have to run anymore!",
+      "pt_br": "<$emotion(1,167)><$voicel(1,3)>Meio que derrota o propósito se você se machucar muito e<br>não pode mais batalhar, certo? Às vezes você tem que saber<slide><br>Quando fugir e lutar outro dia!<clear><br><$comeff(1,10)><$motion(1,662)><$facial(1,1)><$voicel(1,6)>Continue ganhando’ experiência pouco a pouco, e eventualmente<br>você pode ganhar e não terá que correr mais!"
+    },
+    {
+      "id": 119,
+      "en": "<$emotion(2,39)><$voicel(2,8)>Whoa... You’re so smart, <$cdef(27)><$cname(602)></color>!<clear><br><$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,9)>OK, I’m gonna take on a ton of tough opponents so I can<br>get as strong as you!",
+      "pt_br": "<$emotion(2,39)><$voicel(2,8)>Whoa... Você é tão inteligente, <$cdef(27)><$cname(602)></color>!<clear><br><$comeff(2,10)><$motion(2,662)><$facial(2,1)><$voicel(2,9)>OK, eu vou assumir uma tonelada de adversários duros para que eu possa<br>Fica tão forte como tu!"
+    },
+    {
+      "id": 120,
+      "en": "<$emotion(1,50)><$voicel(1,8)>Yeah! That’s the spirit!",
+      "pt_br": "<$emotion(1,50)><$voicel(1,8)>Sim! Esse é o espírito!"
+    },
+    {
+      "id": 121,
+      "en": "<oneline><$voicel(2,6)><$comeff(2,3)>Hey, <$cdef(27)><pname;0></color>! Guess what! <wait(1.2)><$voicel(2,8)><$emotion(2,49)>Dancing with<br><$cdef(27)><$cname(550)></color><slide><br>is<slide><br>SUPER fun!",
+      "pt_br": "<oneline><$voicel(2,6)><$comeff(2,3)>Olá. <$cdef(27)><pname;0></color>Adivinha! <wait(1.2)><$voicel(2,8)><$emotion(2,49)>Dançar com<br><$cdef(27)><$cname(550)></color><slide><br>é<slide><br>Muito divertido!"
+    },
+    {
+      "id": 122,
+      "en": "<$emotion(1,39)><$voicel(1,7)>Hehe... Um, all I’m doing is making sounds with my shell,<br>though. <$motion(1,805)><$facial(1,1)><$voicel(1,4)>Like this...<clear><br><$emotion(1,754)><$voicel(1,8)>Tonk! Tonk! Tonk!",
+      "pt_br": "<$emotion(1,39)><$voicel(1,7)>Tudo o que estou a fazer é fazer sons com a minha concha,<br>Embora. <$motion(1,805)><$facial(1,1)><$voicel(1,4)>Assim...<clear><br><$emotion(1,754)><$voicel(1,8)>Tonk!"
+    },
+    {
+      "id": 123,
+      "en": "<$comeff(2,9)><$motion(2,668)><$facial(2,5)><$voicel(2,7)>See? Isn’t that a great beat? It just makes me start dancing!<br>I can’t help it!",
+      "pt_br": "<$comeff(2,9)><$motion(2,668)><$facial(2,5)><$voicel(2,7)>Viu? Não é uma grande batida? Só me faz começar a dançar!<br>Não consigo evitar!"
+    },
+    {
+      "id": 124,
+      "en": "<$facial(1,4)><$comeff(2,10)><$motion(2,664)><$facial(2,4)><$voicel(2,9)>OK, everybody... LET’S DANCE!",
+      "pt_br": "<$facial(1,4)><$comeff(2,10)><$motion(2,664)><$facial(2,4)><$voicel(2,9)>OK, pessoal... vamos dançar!"
+    },
+    {
+      "id": 125,
+      "en": "<$comeff(1,3)><$motion(1,806)><$facial(1,1)><$voicel(1,6)>All right, here I go! <wait(1.0)><$emotion(1,613)><$kfacial(1)><$voicel(1,6)><$motion(2,824)><$facial(2,4)><$comeff(2,9)><$motion(0,221)>Tonk! Tonk! Tonk!",
+      "pt_br": "<$comeff(1,3)><$motion(1,806)><$facial(1,1)><$voicel(1,6)>Muito bem, aqui vou eu! <wait(1.0)><$emotion(1,613)><$kfacial(1)><$voicel(1,6)><$motion(2,824)><$facial(2,4)><$comeff(2,9)><$motion(0,221)>Tonk!"
+    },
+    {
+      "id": 126,
+      "en": "<$facial(0,4)><$comeff(2,21)><$motion(2,663)><$facial(2,5)><$voicel(2,8)><$kfacial(2)>Wheeee, that was so fun! ♪",
+      "pt_br": "<$facial(0,4)><$comeff(2,21)><$motion(2,663)><$facial(2,5)><$voicel(2,8)><$kfacial(2)>Foi tão divertido!"
+    },
+    {
+      "id": 127,
+      "en": "<$emotion(1,8)><$voicel(1,9)>Yeah, it was! We should dance again sometime!",
+      "pt_br": "<$emotion(1,8)><$voicel(1,9)>Devíamos dançar outra vez, um dia destes!"
+    },
+    {
+      "id": 128,
+      "en": "<$emotion(2,94)><$voicel(2,3)>Huge jaw... Cool crest...<clear><br><$emotion(2,38)><$voicel(2,8)>You look just like my other friends!",
+      "pt_br": "<$emotion(2,94)><$voicel(2,3)>Grande mandíbula, crista fresca...<clear><br><$emotion(2,38)><$voicel(2,8)>Pareces-te com os meus outros amigos!"
+    },
+    {
+      "id": 129,
+      "en": "<$comeff(1,6)><$motion(1,803)><$facial(1,4)><$voicel(1,5)>Oh yeah? I’d love to meet ’em. Where are they?",
+      "pt_br": "<$comeff(1,6)><$motion(1,803)><$facial(1,4)><$voicel(1,5)>Oh sim? Eu adoraria conhecê-los. Onde eles estão?"
+    },
+    {
+      "id": 130,
+      "en": "<$comeff(2,4)><$motion(2,805)><$facial(2,9)><$voicel(2,1)><$kfacial(2)>That’s the thing... I dunno where they went. They all<br>disappeared...",
+      "pt_br": "<$comeff(2,4)><$motion(2,805)><$facial(2,9)><$voicel(2,1)><$kfacial(2)>Aí é que está... eu não sei para onde eles foram.<br>Desapareceu..."
+    },
+    {
+      "id": 131,
+      "en": "<$comeff(1,3)><$motion(1,806)><$facial(1,9)><$voicel(1,3)>Aw, really? That’s rough, pal... I hope ya find ’em soon.",
+      "pt_br": "<$comeff(1,3)><$motion(1,806)><$facial(1,9)><$voicel(1,3)>Ah, realmente? Isso é duro, amigo... Espero que você encontrá-los em breve."
+    },
+    {
+      "id": 132,
+      "en": "<$comeff(2,10)><$motion(2,807)><$facial(2,9)><$voicel(2,7)>Don’t give me that sad look! I’m not lonely at all—not<br>even a little bit! Just kinda, y’know...alone.<clear><br><$motion(2,806)><$facial(2,10)><$voicel(2,2)>I’m sure they’ll come back someday. I just gotta wait.",
+      "pt_br": "<$comeff(2,10)><$motion(2,807)><$facial(2,9)><$voicel(2,7)>Não me dê esse olhar triste! Eu não estou sozinho em tudo – não<br>mesmo um pouco! Apenas um pouco, você sabe... sozinho.<clear><br><$motion(2,806)><$facial(2,10)><$voicel(2,2)>Tenho certeza que eles vão voltar algum dia. Eu só tenho que esperar."
+    },
+    {
+      "id": 133,
+      "en": "<$voicel(1,2)>... ... ...<clear><br><$emotion(1,229)><$voicel(1,6)>OK, here’s what we’re gonna do!<clear><br><$facial(2,1)><$comeff(1,10)><$motionoff(1,804)><$facial(1,4)><$voicel(1,9)>I’ll be your emergency friend until your other friends<br>get back!<clear><br><$emotion(1,50)><$voicel(1,7)><$kfacial(1)>So if you’re ever in a bind, just lemme know and I’ll come<br>help ya!",
+      "pt_br": "<$voicel(1,2)>... ... ...<clear><br><$emotion(1,229)><$voicel(1,6)>OK, aqui está o que vamos fazer!<clear><br><$facial(2,1)><$comeff(1,10)><$motionoff(1,804)><$facial(1,4)><$voicel(1,9)>Serei seu amigo de emergência até seus outros amigos<br>Para trás!<clear><br><$emotion(1,50)><$voicel(1,7)><$kfacial(1)>Então, se você alguma vez estiver em um aperto, apenas deixe-me saber e eu irei<br>Ajudem-me!"
+    },
+    {
+      "id": 134,
+      "en": "<$emotion(2,27)><$voicel(2,6)>Really?! <wait(1.0)><$comeff(2,21)><$facial(2,4)><$voicel(2,7)>Wow, thanks a bunch!<clear><br>And if you ever need help, <$comeff(2,10)><$motionoff(2,804)><$facial(2,4)><$voicel(2,9)>I’ve got your back!",
+      "pt_br": "<$emotion(2,27)><$voicel(2,6)>A sério? <wait(1.0)><$comeff(2,21)><$facial(2,4)><$voicel(2,7)>Uau, muito obrigado!<clear><br>E se precisares de ajuda, <$comeff(2,10)><$motionoff(2,804)><$facial(2,4)><$voicel(2,9)>Eu te protejo!"
+    },
+    {
+      "id": 135,
+      "en": "<$emotion(2,50)><$voicel(2,7)>We’ve changed so muuuch since we were kids. <$emotion(2,55)><$voicel(2,4)>We’re all<br>grown up now...",
+      "pt_br": "<$emotion(2,50)><$voicel(2,7)>Nós mudamos muito desde que éramos crianças. <$emotion(2,55)><$voicel(2,4)>Somos todos<br>Cresceste agora..."
+    },
+    {
+      "id": 136,
+      "en": "<$comcan(2)><$emotion(1,32)><$voicel(1,5)>You can say that again! Jus’ thinkin’ ’bout it is makin’ me<br>all nostalgic.",
+      "pt_br": "<$comcan(2)><$emotion(1,32)><$voicel(1,5)>Você pode dizer isso de novo! Jus’ pensando 'sobre ele está me fazendo<br>Tudo nostálgico."
+    },
+    {
+      "id": 137,
+      "en": "<$comeff(2,6)><$motion(2,806)><$facial(2,2)><$voicel(2,5)>I was just thiiinking. What if we could grow up even more?<br>How would you want to chaaange?",
+      "pt_br": "<$comeff(2,6)><$motion(2,806)><$facial(2,2)><$voicel(2,5)>E se pudéssemos crescer ainda mais?<br>Como é que quer chaaange?"
+    },
+    {
+      "id": 138,
+      "en": "<$emotion(1,55)><$voicel(1,3)>Hm... Not sure more growin’ is in the cards fer me.<br>I’m pretty long in the tooth as it is...<clear><br><$emotion(1,434)><$voicel(1,7)>But if we’re jus’ talkin’ what-ifs, I guess I’d like this great<br>jaw o’ mine to get even bigger ’n’ more imposin’!",
+      "pt_br": "<$emotion(1,55)><$voicel(1,3)>Hm... Não sei se mais crescer’ está nas cartas me fer.<br>Eu sou bastante longo no dente como ele é...<clear><br><$emotion(1,434)><$voicel(1,7)>Mas se nós estamos apenas falando’ o que-ses, eu acho que eu gostaria que este grande<br>mandíbula o’ mina para obter ainda maior 'n' mais imposto!"
+    },
+    {
+      "id": 139,
+      "en": "<$emotion(2,39)><$voicel(2,7)>Whoa, yeah... That would be suuuper cool.",
+      "pt_br": "<$emotion(2,39)><$voicel(2,7)>Isso seria mais fixe."
+    },
+    {
+      "id": 140,
+      "en": "<$emotion(1,230)><$voicel(1,6)>How ’bout you?",
+      "pt_br": "<$emotion(1,230)><$voicel(1,6)>Que dizer de você?"
+    },
+    {
+      "id": 141,
+      "en": "<$comeff(2,10)><$facial(2,4)><$motionoff(2,804)><$voicel(2,9)>Me? Hmmm... I would like to get even strooonger, with<br>big, powerful arms to match...",
+      "pt_br": "<$comeff(2,10)><$facial(2,4)><$motionoff(2,804)><$voicel(2,9)>Gostaria de me vingar, com o meu pai.<br>Braços grandes e poderosos para combinar..."
+    },
+    {
+      "id": 142,
+      "en": "<$emotion(1,8)><$voicel(1,7)>Sounds like a mighty fine way to grow! Plus, you’d be able<br>to help <$cdef(27)><pname;0> </color>do even more stuff!",
+      "pt_br": "<$emotion(1,8)><$voicel(1,7)>Soa como uma maneira muito boa de crescer! Além disso, você seria capaz<br>para ajudar <$cdef(27)><pname;0> </color>Fazer mais coisas!"
+    },
+    {
+      "id": 143,
+      "en": "<$emotion(2,39)><$voicel(2,7)>Hehehe... Sooo many possibilities. I hope we really can<br>keep growing.",
+      "pt_br": "<$emotion(2,39)><$voicel(2,7)>Tantas possibilidades.<br>Continua a crescer."
+    },
+    {
+      "id": 144,
+      "en": "<$comeff(1,10)><$motion(1,802)><$facial(1,4)><$voicel(1,9)>Gwahaha! That excitement o’ yers is contagious, I tell<br>ya what!",
+      "pt_br": "<$comeff(1,10)><$motion(1,802)><$facial(1,4)><$voicel(1,9)>Gwahaha! Essa emoção é contagioso, eu digo<br>O quê?"
+    },
+    {
+      "id": 145,
+      "en": "<$motion(1,805)><$facial(1,1)><$voicel(1,4)>I’m bored... <wait(3.0)><$emotion(1,8)><$voicel(1,6)>Hey, <$cdef(27)><$cname(580)></color>, tell me a scary story!",
+      "pt_br": "<$motion(1,805)><$facial(1,1)><$voicel(1,4)>Estou entediado... <wait(3.0)><$emotion(1,8)><$voicel(1,6)>Olá. <$cdef(27)><$cname(580)></color>Conta-me uma história de terror!"
+    },
+    {
+      "id": 146,
+      "en": "<$emotion(2,55)><$voicel(2,3)>A scary story, huh? Let me think... <wait(0.9)>OK, I’ll tell ya about the<br><$emotion(2,38)><$voicel(2,8)>monster I saw living way down in the deep sea.",
+      "pt_br": "<$emotion(2,55)><$voicel(2,3)>Uma história de terror? <wait(0.9)>OK, eu vou te falar sobre o<br><$emotion(2,38)><$voicel(2,8)>Um monstro que vi no fundo do mar."
+    },
+    {
+      "id": 147,
+      "en": "<$emotion(1,159)><$voicel(1,7)>Oooh, a deep-sea monster?! What was it like?<br>Tell me, tell me!",
+      "pt_br": "<$emotion(1,159)><$voicel(1,7)>Como foi?<br>Diz-me, diz-me!"
+    },
+    {
+      "id": 148,
+      "en": "<$comeff(2,21)><$motion(2,803)><$facial(2,14)><$voicel(2,8)>I’ll do ya one better—I’ll show ya!<wait(1.5)><$facial(2,2)><$lookat(2,0,0)><$lookat(2,1,0)><waitactor(2)><$lookat(0,0,2)><waitactor(0)><clear><br><$emotion(2,230)><$voicel(2,3)>Hey, think you could help me out with some storytellin’,<br><$cdef(27)><pname;0></color>?<clear><br>I’m gonna start by describing the monster, and I want you<br><$emotion(2,8)><$voicel(2,8)>to transform to demonstrate what it looks like!<clear><br><$comeff(2,3)><$motion(2,806)><$facial(2,4)><$voicel(2,2)><$textsize(0)>Oh, and don’t worry—this story’s a work of fiction!</textsize><wait(0.8)><$motion(0,40)>",
+      "pt_br": "<$comeff(2,21)><$motion(2,803)><$facial(2,14)><$voicel(2,8)>Eu vou fazer-lhe um melhor - eu vou mostrar-lhe!<wait(1.5)><$facial(2,2)><$lookat(2,0,0)><$lookat(2,1,0)><waitactor(2)><$lookat(0,0,2)><waitactor(0)><clear><br><$emotion(2,230)><$voicel(2,3)>Ei, acho que você poderia me ajudar com um pouco de enredo’,<br><$cdef(27)><pname;0></color>?<clear><br>Vou começar descrevendo o monstro, e eu quero você<br><$emotion(2,8)><$voicel(2,8)>transformar-se para demonstrar o que parece!<clear><br><$comeff(2,3)><$motion(2,806)><$facial(2,4)><$voicel(2,2)><$textsize(0)>Oh, e não se preocupe - esta história é uma obra de ficção!</textsize><wait(0.8)><$motion(0,40)>"
+    },
+    {
+      "id": 149,
+      "en": "<$emotion(1,8)><$voicel(1,10)>Yippee! I can’t wait to see this!",
+      "pt_br": "<$emotion(1,8)><$voicel(1,10)>Yippee! Mal posso esperar para ver isso!"
+    },
+    {
+      "id": 150,
+      "en": "<$voicel(2,2)><$motion(2,806)>All right, here it goes.<clear><br><$emotion(2,55)><$voicel(2,4)>So this monster had <$voicel(2,6)>a shell and a tail...<wait(0.5)><$motion(0,522)><wait(4.0)><$motion(0,523)>",
+      "pt_br": "<$voicel(2,2)><$motion(2,806)>Muito bem, aqui vai.<clear><br><$emotion(2,55)><$voicel(2,4)>Então, este monstro tinha... <$voicel(2,6)>Uma concha e uma cauda...<wait(0.5)><$motion(0,522)><wait(4.0)><$motion(0,523)>"
+    },
+    {
+      "id": 151,
+      "en": "<$comcan(2)><$comeff(1,3)><$motion(1,806)><$facial(1,1)><$voicel(1,8)>Uh-huh! And?",
+      "pt_br": "<$comcan(2)><$comeff(1,3)><$motion(1,806)><$facial(1,1)><$voicel(1,8)>E depois?"
+    },
+    {
+      "id": 152,
+      "en": "<$comeff(2,4)><$motion(2,663)><$facial(2,1)><$voicel(2,4)>And its right hand was, uh... <wait(1.0)><$comeff(2,5)><$facial(2,2)><$voicel(2,6)>Oh yeah!<clear><br><$comeff(2,10)><$motion(2,662)><$facial(2,7)><$voicel(2,7)>Its right hand was a big ol’ scythe!<wait(0.5)><$motion(0,520)><wait(2.4)><$motion(0,521)>",
+      "pt_br": "<$comeff(2,4)><$motion(2,663)><$facial(2,1)><$voicel(2,4)>E a mão direita era... <wait(1.0)><$comeff(2,5)><$facial(2,2)><$voicel(2,6)>Oh, sim!<clear><br><$comeff(2,10)><$motion(2,662)><$facial(2,7)><$voicel(2,7)>Sua mão direita era uma grande foice!<wait(0.5)><$motion(0,520)><wait(2.4)><$motion(0,521)>"
+    },
+    {
+      "id": 153,
+      "en": "<$comeff(1,6)><$motion(1,666)><$facial(1,2)><$voicel(1,6)>Oooh, and what else?!",
+      "pt_br": "<$comeff(1,6)><$motion(1,666)><$facial(1,2)><$voicel(1,6)>Oooh, e que mais?"
+    },
+    {
+      "id": 154,
+      "en": "<$emotion(2,55)><$voicel(2,4)>Its left hand was...<wait(1.0)><$comeff(2,4)><$facial(2,10)><$motion(2,802)><$voicel(2,2)>uhhh...<wait(1.0)><$emotion(2,14)><$voicel(2,8)> Oh yeah, I remember!<clear><br><$motion(2,644)><$comeff(2,23)><$facial(2,7)><$voicel(2,9)>It was a huge, fierce-lookin’ fist!<$motion(0,518)><wait(2.7)><$motion(0,519)>",
+      "pt_br": "<$emotion(2,55)><$voicel(2,4)>A sua mão esquerda era...<wait(1.0)><$comeff(2,4)><$facial(2,10)><$motion(2,802)><$voicel(2,2)>Uhhh...<wait(1.0)><$emotion(2,14)><$voicel(2,8)> Sim, eu lembro-me!<clear><br><$motion(2,644)><$comeff(2,23)><$facial(2,7)><$voicel(2,9)>Era um punho enorme, de olhar feroz!<$motion(0,518)><wait(2.7)><$motion(0,519)>"
+    },
+    {
+      "id": 155,
+      "en": "<oneline><$facial(1,14)><$voicel(1,2)>Pfff... <wait(1.2)><$motionoff(1,804)><$comeff(1,10)><$facial(1,1)><$voicel(1,9)>Ahahaha!<clear><br><$motion(1,807)><$facial(1,14)><$voicel(1,5)><$comeff(1,17)>That’s just regular ol’ <$cdef(27)><pname;0></color>! Not even<br>CLOSE<slide><br>to<slide><br>a<slide><br>scary monster!",
+      "pt_br": "<oneline><$facial(1,14)><$voicel(1,2)>Pfff... <wait(1.2)><$motionoff(1,804)><$comeff(1,10)><$facial(1,1)><$voicel(1,9)>Ahahaha!<clear><br><$motion(1,807)><$facial(1,14)><$voicel(1,5)><$comeff(1,17)>Isso é apenas regular ol’ <$cdef(27)><pname;0></color>Nem sequer.<br>FECHAR<slide><br>para<slide><br>a<slide><br>Monstro assustador!"
+    },
+    {
+      "id": 156,
+      "en": "<$motionoff(2,804)><$facial(2,10)><$comeff(2,11)><$voicel(2,9)>Ack! Busted!",
+      "pt_br": "<$motionoff(2,804)><$facial(2,10)><$comeff(2,11)><$voicel(2,9)>Apanhado!"
+    },
+    {
+      "id": 157,
+      "en": "<$comeff(2,18)><$motion(2,663)><$facial(2,9)><$voicel(2,2)><$kfacial(2)>*sigh*...",
+      "pt_br": "<$comeff(2,18)><$motion(2,663)><$facial(2,9)><$voicel(2,2)><$kfacial(2)>*suspiro *..."
+    },
+    {
+      "id": 158,
+      "en": "<$comcan(2)><$comeff(1,6)><$motion(1,666)><$facial(1,2)><$voicel(1,5)>What’s wrong, sweetie? Why are you sighing?",
+      "pt_br": "<$comcan(2)><$comeff(1,6)><$motion(1,666)><$facial(1,2)><$voicel(1,5)>O que há de errado, querida? Por que você está suspirando?"
+    },
+    {
+      "id": 159,
+      "en": "<$comeff(2,3)><$facial(2,1)><$voicel(2,6)>Um, well... A little while ago, we were all racing each<br>other. <wait(1.2)><$emotion(2,291)><$voicel(2,4)>But I kept coming in last!<clear><br><$comeff(2,4)><$motion(2,807)><$facial(2,10)><$voicel(2,2)>No matter how much I practice, I just can’t get faster.",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$voicel(2,6)>Há pouco, estávamos todos a correr.<br>outro. <wait(1.2)><$emotion(2,291)><$voicel(2,4)>Mas eu continuei a vir em último!<clear><br><$comeff(2,4)><$motion(2,807)><$facial(2,10)><$voicel(2,2)>Não importa o quanto eu pratiquei, eu simplesmente não consigo ficar mais rápido."
+    },
+    {
+      "id": 160,
+      "en": "<$facial(2,9)><$comeff(1,10)><$motionoff(1,804)><$facial(1,1)><$voicel(1,7)>Not giving up and continuing to practice even when you’re<br>losing is really quite admirable, dear! Have a little more<slide><br>confidence in yourself!",
+      "pt_br": "<$facial(2,9)><$comeff(1,10)><$motionoff(1,804)><$facial(1,1)><$voicel(1,7)>Não desistir e continuar a praticar mesmo quando você está<br>perder é realmente muito admirável, querida! Ter um pouco mais<slide><br>confiança em si mesmo!"
+    },
+    {
+      "id": 161,
+      "en": "<$emotion(2,178)><$voicel(2,1)>You... You really think so? But I don’t think I can win.",
+      "pt_br": "<$emotion(2,178)><$voicel(2,1)>Você... você realmente acha isso? Mas eu não acho que eu posso ganhar."
+    },
+    {
+      "id": 162,
+      "en": "<$comeff(1,17)><$motion(1,807)><$facial(1,14)><$voicel(1,5)>Well if that’s how you’re going to be about it, I guess I’ll<br>have to give you that self-confidence myself!<clear><br><$motion(1,816)><$comeff(1,21)><$facial(1,1)><$voicel(1,8)>Look here, hon—concentrate on the patterns on my body.<clear><br><$emotion(1,55)><$voicel(1,3)>That’s right. Now...you’re becoming a faaaster runner.<br>Faaaster and faaaster...",
+      "pt_br": "<$comeff(1,17)><$motion(1,807)><$facial(1,14)><$voicel(1,5)>Bem, se é assim que você vai ser sobre isso, eu acho que eu vou<br>Tenho que te dar essa autoconfiança eu mesmo!<clear><br><$motion(1,816)><$comeff(1,21)><$facial(1,1)><$voicel(1,8)>Olha, querida, concentra-te nos padrões do meu corpo.<clear><br><$emotion(1,55)><$voicel(1,3)>Isso mesmo. Agora ... você está se tornando um corredor faaaster.<br>Faaaster e Faaaster..."
+    },
+    {
+      "id": 163,
+      "en": "<$comcan(1)><$comeff(2,14)><$motion(2,803)><$facial(2,1)><$voicel(2,8)>Faster...",
+      "pt_br": "<$comcan(1)><$comeff(2,14)><$motion(2,803)><$facial(2,1)><$voicel(2,8)>Mais rápido..."
+    },
+    {
+      "id": 164,
+      "en": "<$comcan(2)><$emotion(1,38)><$voicel(1,7)>And you’ll neeever lose a race again...",
+      "pt_br": "<$comcan(2)><$emotion(1,38)><$voicel(1,7)>E você vai precisar perder uma corrida novamente..."
+    },
+    {
+      "id": 165,
+      "en": "<$voicel(2,2)>... ... ...<wait(1.2)><br><$emotion(2,99)><$voicel(2,8)>I’m feeling a little more confident now, I think!<clear><br><$emotion(2,38)><$voicel(2,9)>OK. In the next race, I’m gonna try my best!",
+      "pt_br": "<$voicel(2,2)>... ... ...<wait(1.2)><br><$emotion(2,99)><$voicel(2,8)>Estou me sentindo um pouco mais confiante agora, eu acho!<clear><br><$emotion(2,38)><$voicel(2,9)>OK. Na próxima corrida, eu vou tentar o meu melhor!"
+    },
+    {
+      "id": 166,
+      "en": "<$motionoff(1,804)><$comeff(1,9)><$facial(1,1)><$voicel(1,8)>Hee hee, that’s the spirit, sweetie!",
+      "pt_br": "<$motionoff(1,804)><$comeff(1,9)><$facial(1,1)><$voicel(1,8)>Hee hee, esse é o espírito, querida!"
+    },
+    {
+      "id": 167,
+      "en": "<$comeff(2,10)><$motion(2,662)><$facial(2,4)><$voicel(2,10)>Hahaha! You’re pretty funny, <$cdef(27)><$cname(577)></color>!<clear><br><$emotion(2,14)><$voicel(2,6)>I guess I kinda misjudged you, yo! <$emotion(2,55)><$voicel(2,4)>It’s just that I heard<br>rumors you were a real meanie, so...",
+      "pt_br": "<$comeff(2,10)><$motion(2,662)><$facial(2,4)><$voicel(2,10)>Hahaha! Você é muito engraçado, <$cdef(27)><$cname(577)></color>!<clear><br><$emotion(2,14)><$voicel(2,6)>Acho que te julguei mal, meu! <$emotion(2,55)><$voicel(2,4)>É só que eu ouvi<br>Há rumores de que eras mesmo mau, por isso..."
+    },
+    {
+      "id": 168,
+      "en": "<$comcan(2)><$emotion(1,27)><$voicel(1,7)>Wha—?! There’s a rumor like that?! I’m...I’m not mean...<br><wait(1.0)><$motion(1,666)><$facial(1,1)><$voicel(1,2)>I-I just get a little hungry sometimes...",
+      "pt_br": "<$comcan(2)><$emotion(1,27)><$voicel(1,7)>O que -?! Há um rumor como esse?! Eu sou ... Eu não sou mau ...<br><wait(1.0)><$motion(1,666)><$facial(1,1)><$voicel(1,2)>Às vezes fico com um pouco de fome..."
+    },
+    {
+      "id": 169,
+      "en": "<$motion(2,807)><$voicel(2,2)>A little hungry, huh? Hm... <wait(1.2)><$emotion(2,40)><$voicel(2,8)>Ohhh! I think I get it now!",
+      "pt_br": "<$motion(2,807)><$voicel(2,2)>Um pouco esfomeado, não é? <wait(1.2)><$emotion(2,40)><$voicel(2,8)>Acho que já percebi!"
+    },
+    {
+      "id": 170,
+      "en": "<$emotion(1,59)><$voicel(1,5)>Wh-what do you mean?",
+      "pt_br": "<$emotion(1,59)><$voicel(1,5)>O que quer dizer?"
+    },
+    {
+      "id": 171,
+      "en": "<$comeff(2,10)><$motion(2,662)><$facial(2,4)><$voicel(2,7)>I bet you accidentally ate everybody’s berries! <$motion(2,805)><$comeff(2,3)><$facial(2,1)><$voicel(2,6)>I get it,<br>yo! Stuff like that just happens sometimes. It’s no biggie!",
+      "pt_br": "<$comeff(2,10)><$motion(2,662)><$facial(2,4)><$voicel(2,7)>Aposto que você acidentalmente comeu as bagas de todos! <$motion(2,805)><$comeff(2,3)><$facial(2,1)><$voicel(2,6)>Já percebi.<br>Coisas assim só acontecem às vezes. Não é nada demais!"
+    },
+    {
+      "id": 172,
+      "en": "<$comeff(1,6)><$motion(1,803)><$facial(1,1)><$voicel(1,4)>Huh?<br><wait(2.0)><$voicel(1,2)>... ... ...<clear><br><$comeff(1,10)><$motion(1,802)><$facial(1,1)><$voicel(1,7)>Oh, y-yeah! I just couldn’t resist...you know?",
+      "pt_br": "<$comeff(1,6)><$motion(1,803)><$facial(1,1)><$voicel(1,4)>Huh?<br><wait(2.0)><$voicel(1,2)>... ... ...<clear><br><$comeff(1,10)><$motion(1,802)><$facial(1,1)><$voicel(1,7)>Oh, sim! Eu só não pude resistir ... você sabe?"
+    },
+    {
+      "id": 173,
+      "en": "<$emotion(2,793)><$voicel(2,10)>Hahaha! Just watch out in the future and you’ll be fine!<clear><br><$emotion(2,39)><$voicel(2,7)>Actually, y’know what? Just let me know whenever you get<br>hungry! I’d be happy to share some food with you!",
+      "pt_br": "<$emotion(2,793)><$voicel(2,10)>Hahaha! Basta ter cuidado no futuro e você vai ficar bem!<clear><br><$emotion(2,39)><$voicel(2,7)>Na verdade, você sabe o quê? Apenas me avise sempre que você chegar<br>fome! Eu ficaria feliz em compartilhar alguma comida com você!"
+    },
+    {
+      "id": 174,
+      "en": "<$comeff(1,3)><$facial(1,1)><$voicel(1,8)>O-oh, really? <wait(1.0)><$voicel(1,2)><$motion(1,666)><$facial(1,14)>Well then...<clear><br><$motionoff(1,804)><$comeff(1,8)><$facial(1,1)><$voicel(1,7)>Your spines look kinda tasty,<$cdef(27)> <$cname(603)></color>... Could I...maybe<br>try one?",
+      "pt_br": "<$comeff(1,3)><$facial(1,1)><$voicel(1,8)>A sério? <wait(1.0)><$voicel(1,2)><$motion(1,666)><$facial(1,14)>Bem, então...<clear><br><$motionoff(1,804)><$comeff(1,8)><$facial(1,1)><$voicel(1,7)>As tuas espinhas parecem um pouco saborosas.<$cdef(27)> <$cname(603)></color>...podia eu...talvez<br>Tentar um?"
+    },
+    {
+      "id": 175,
+      "en": "<$comeff(2,6)><$facial(2,1)><$voicel(2,2)>... ... ...<wait(1.2)><br><$comeff(2,10)><$motion(2,802)><$facial(2,4)><$voicel(2,5)>Hahaha! You’re jokin’, huh? My spines aren’t food!",
+      "pt_br": "<$comeff(2,6)><$facial(2,1)><$voicel(2,2)>... ... ...<wait(1.2)><br><$comeff(2,10)><$motion(2,802)><$facial(2,4)><$voicel(2,5)>Hahaha! Você está brincando, hein? Minhas espinhas não são comida!"
+    },
+    {
+      "id": 176,
+      "en": "<$comeff(1,4)><$motion(1,801)><$facial(1,1)><$voicel(1,7)>Oh... D-duh, obviously! I was just joking, so don’t worry<br>about it...",
+      "pt_br": "<$comeff(1,4)><$motion(1,801)><$facial(1,1)><$voicel(1,7)>Oh... D-duh, obviamente! Eu estava apenas brincando, então não se preocupe<br>Sobre isso..."
+    },
+    {
+      "id": 177,
+      "en": "<$comeff(2,9)><$motion(2,662)><$facial(2,4)><$voicel(2,10)>Haha! Not gonna lie, you almost had me for a second<br>there! Yep, you sure are a funny one, <$cdef(27)><$cname(577)></color>!",
+      "pt_br": "<$comeff(2,9)><$motion(2,662)><$facial(2,4)><$voicel(2,10)>Não vou mentir, quase me apanhaste.<br>Sim, és mesmo engraçado. <$cdef(27)><$cname(577)></color>!"
+    }
+  ]
+}

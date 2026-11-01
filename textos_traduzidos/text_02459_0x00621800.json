@@ -1,0 +1,164 @@
+{
+  "entry_index": 2459,
+  "bin_id": "0x621800",
+  "decompressed_size": 5056,
+  "first_tag_offset": 440,
+  "total_strings": 31,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(3,7)><$emotion(3,14)><$facial(3,4)>Hey, guess what! I thought up a way you could raise the<br>humidity!",
+      "pt_br": "<$voicel(3,7)><$emotion(3,14)><$facial(3,4)>sabe que mais, pensei numa forma de aumentares o<br>Humidade!"
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(3,5)>When I was really little, I used to play in a big field<br>of flowers. <$voicel(3,10)><$emotion(3,8)>It always felt SOOO nice!",
+      "pt_br": "<$voicel(3,5)>Quando era muito pequena, costumava jogar num campo grande.<br>de flores. <$voicel(3,10)><$emotion(3,8)>Sempre me senti tão bem!"
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(3,6)><$motion(3,805)><$comeff(3,14)>It looked kinda like this...",
+      "pt_br": "<$voicel(3,6)><$motion(3,805)><$comeff(3,14)>Parecia mais ou menos assim..."
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(3,9)><$motion(3,801)><$facial(3,5)><$comeff(3,21)>I think if we had a really big flower field like that here, the<br>air would get more humid too!",
+      "pt_br": "<$voicel(3,9)><$motion(3,801)><$facial(3,5)><$comeff(3,21)>Acho que se tivéssemos um grande campo de flores como aquele aqui, o<br>O ar também ficaria mais húmido!"
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(3,5)><$motion(3,807)>Flower seeds normally take a li’l while to grow after you<br>plant them...<clear><br><$voicel(3,7)><$motion(3,803)><$facial(3,4)><$comeff(3,9)>But if you bring me along, I can make ’em<br>grow INSTANTLY!",
+      "pt_br": "<$voicel(3,5)><$motion(3,807)>Sementes de flores normalmente tomar um li’l enquanto crescer depois de você<br>Planta-os...<clear><br><$voicel(3,7)><$motion(3,803)><$facial(3,4)><$comeff(3,9)>Mas se você me levar junto, eu posso fazê-los<br>Crescer Imediatamente!"
+    },
+    {
+      "id": 5,
+      "en": "By the way, flower seeds are sold at the <$cdef(27)>PC shop</color>!",
+      "pt_br": "A propósito, as sementes de flores são vendidas no <$cdef(27)>Loja de computadores</color>!"
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(3,6)><$motion(3,805)><$comeff(3,6)>Do you think you can make a really big flower field?",
+      "pt_br": "<$voicel(3,6)><$motion(3,805)><$comeff(3,6)>Achas que consegues fazer um campo de flores muito grande?"
+    },
+    {
+      "id": 7,
+      "en": "<$voicel(3,7)><$motion(3,803)><$comeff(3,9)><$facial(3,4)>If you take me to where you planted the seeds, I can make<br>’em grow SUPER fast!",
+      "pt_br": "<$voicel(3,7)><$motion(3,803)><$comeff(3,9)><$facial(3,4)>Se me levares para onde plantaste as sementes, eu posso fazer<br>Eles crescem rápido!"
+    },
+    {
+      "id": 8,
+      "en": "You may know this already, but flower seeds are sold at<br>the <$cdef(27)>PC shop</color>!",
+      "pt_br": "Você pode saber isso já, mas sementes de flores são vendidas em<br>a <$cdef(27)>Loja de computadores</color>!"
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(3,9)><$emotion(3,7)>Oh, WOWWW!!! It’s just like the flower fields I used<br>to play in when I was little!",
+      "pt_br": "<$voicel(3,9)><$emotion(3,7)>Oh, WOWW!!!! É como os campos de flores que eu usei<br>Para brincar quando eu era pequeno!"
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(3,8)>Thank you, <$cdef(27)><pname;0></color>!<clear><br><$voicel(3,5)><$comeff(3,9)>I think it’ll get even more humid around here, the more<br>healthy plants and trees there are!",
+      "pt_br": "<$voicel(3,8)>Obrigado. <$cdef(27)><pname;0></color>!<clear><br><$voicel(3,5)><$comeff(3,9)>Eu acho que vai ficar ainda mais úmido por aqui, mais<br>Há plantas saudáveis e árvores!"
+    },
+    {
+      "id": 11,
+      "en": "<oneline><$voicel(3,7)><$emotion(3,14)><$facial(3,4)>Hey! Hey, <$cdef(27)><pname;0></color>! Guess what!<br><$voicel(3,10)><$motion(3,801)><$comeff(3,10)>I thought<slide><br>of<slide><br>ANOTHER<slide><br>way<slide><br>to<slide><br>make<slide><br>this<slide><br>place<slide><br>more humid!",
+      "pt_br": "<oneline><$voicel(3,7)><$emotion(3,14)><$facial(3,4)>Olá. <$cdef(27)><pname;0></color>Adivinha!<br><$voicel(3,10)><$motion(3,801)><$comeff(3,10)>Eu pensei...<slide><br>de<slide><br>OUTRA<slide><br>caminho<slide><br>para<slide><br>make<slide><br>isto<slide><br>local<slide><br>Mais húmido!"
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(3,7)><$motion(3,805)><$comeff(3,14)>So, um, you know how I was talking about the place where<br>I lived before? There was a really big, really pretty forest<slide><br>near there, <$voicel(3,6)><$motion(3,807)>and that area was always SUPER humid!",
+      "pt_br": "<$voicel(3,7)><$motion(3,805)><$comeff(3,14)>Então, sabe como eu estava a falar sobre o lugar onde...<br>Havia uma floresta muito grande e muito bonita.<slide><br>perto dali, <$voicel(3,6)><$motion(3,807)>e aquela área era sempre SUPER úmida!"
+    },
+    {
+      "id": 13,
+      "en": "<$voicel(3,7)><$comeff(3,9)><$motion(3,806)><$facial(3,4)>So I was hoping you could water the dried-up trees around<br>here and make ’em all healthy again!<clear><br><$voicel(3,10)><$comeff(3,21)><$motion(3,801)><$facial(3,5)>I bet that’d make the place even more humid!",
+      "pt_br": "<$voicel(3,7)><$comeff(3,9)><$motion(3,806)><$facial(3,4)>Esperava que pudesses regar as árvores secas à volta.<br>aqui e torná-los todos saudáveis novamente!<clear><br><$voicel(3,10)><$comeff(3,21)><$motion(3,801)><$facial(3,5)>Aposto que isso tornaria o lugar ainda mais úmido!"
+    },
+    {
+      "id": 14,
+      "en": "<$voicel(3,7)><$motionoff(3,804)><$facial(3,4)><$comeff(3,10)>If you see any dried-up trees, could you please<br>water them?<clear><br><$voicel(3,10)><$motion(3,803)><$facial(3,1)><$comeff(3,20)>Oh, wait a second! I just remembered something!",
+      "pt_br": "<$voicel(3,7)><$motionoff(3,804)><$facial(3,4)><$comeff(3,10)>Se vires alguma árvore seca, pode por favor?<br>- Regar-lhes?<clear><br><$voicel(3,10)><$motion(3,803)><$facial(3,1)><$comeff(3,20)>Acabei de me lembrar de uma coisa!"
+    },
+    {
+      "id": 15,
+      "en": "<$voicel(3,7)>There were lots and lots of dried-up trees on the beach<br>over that way!",
+      "pt_br": "<$voicel(3,7)>Havia muitas árvores secas na praia.<br>Por ali!"
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(3,7)><$emotion(3,14)>Oooh, the trees around here look so much healthier now!<br>Did YOU do that? <$voicel(3,10)><$emotion(3,6)>Thank you!",
+      "pt_br": "<$voicel(3,7)><$emotion(3,14)>As árvores por aqui parecem muito mais saudáveis agora!<br>Fizeste isso? <$voicel(3,10)><$emotion(3,6)>Obrigado!"
+    },
+    {
+      "id": 17,
+      "en": "<$voicel(3,5)><$motion(3,666)>By the way, didja know that you can also plant new trees<br>from seeds? <$voicel(3,8)><$facial(3,4)><$comeff(3,9)>Here—try it out!",
+      "pt_br": "<$voicel(3,5)><$motion(3,666)>A propósito, didja sabia que você também pode plantar novas árvores<br>De sementes? <$voicel(3,8)><$facial(3,4)><$comeff(3,9)>Aqui, experimenta!"
+    },
+    {
+      "id": 18,
+      "en": "You got some <$cdef(27)><fqty(2)><$ifull(1822)></color>!",
+      "pt_br": "Tu tem algum <$cdef(27)><fqty(2)><$ifull(1822)></color>!"
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(3,5)><$motion(3,805)><$comeff(3,14)>The seeds can really take a long time to grow after you<br>plant them, though.<clear><br><$voicel(3,7)><$motion(3,801)><$facial(3,4)><$comeff(3,10)>But I can help—um, just a little—when you’re growing trees<br>’n’ flowers ’n’ stuff!",
+      "pt_br": "<$voicel(3,5)><$motion(3,805)><$comeff(3,14)>As sementes podem realmente levar muito tempo para crescer depois de você<br>Mas plantem-nos.<clear><br><$voicel(3,7)><$motion(3,801)><$facial(3,4)><$comeff(3,10)>Mas eu posso ajudar - um, apenas um pouco - quando você está crescendo árvores<br>'n’ coisas de flores 'n'!"
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(1,5)><$emotion(1,14)>I see a lot more healthy trees around here than before.",
+      "pt_br": "<$voicel(1,5)><$emotion(1,14)>Vejo muito mais árvores saudáveis por aqui do que antes."
+    },
+    {
+      "id": 21,
+      "en": "<$voicel(1,8)><$emotion(1,8)>Thanks to them, the air feels a bit more humid too!",
+      "pt_br": "<$voicel(1,8)><$emotion(1,8)>Graças a eles, o ar parece um pouco mais úmido também!"
+    },
+    {
+      "id": 22,
+      "en": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>It seems that having more healthy flowers around increases<br>the humidity as well!",
+      "pt_br": "<$voicel(1,7)><$motion(1,803)><$facial(1,4)><$comeff(1,10)>Parece que ter flores mais saudáveis ao redor aumenta<br>A humidade também!"
+    },
+    {
+      "id": 23,
+      "en": "<$voicel(1,5)><$motion(1,661)><$comeff(1,14)>Growing various other plants might be a good idea too.",
+      "pt_br": "<$voicel(1,5)><$motion(1,661)><$comeff(1,14)>Cultivar várias outras plantas pode ser uma boa idéia também."
+    },
+    {
+      "id": 24,
+      "en": "<$voicel(3,9)><$motion(3,803)><$facial(3,4)><$comeff(3,21)>If there are any plants you want to grow faster, then come<br>and get me!",
+      "pt_br": "<$voicel(3,9)><$motion(3,803)><$facial(3,4)><$comeff(3,21)>Se houver alguma planta que você quer crescer mais rápido, então venha<br>E apanha-me!"
+    },
+    {
+      "id": 25,
+      "en": "<$voicel(3,8)><$motion(3,805)><$comeff(3,10)>I wonder how <$cdef(27)>Slowpoke</color>’s doing with that yawn!",
+      "pt_br": "<$voicel(3,8)><$motion(3,805)><$comeff(3,10)>Pergunto-me como <$cdef(27)>Slowpoke</color>Está fazendo com que bocejo!"
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(2,8)>Hey, <$motion(2,803)><$comeff(2,3)><$cdef(27)><pname;0></color>! I’ve got an idea!",
+      "pt_br": "<$voicel(2,8)>Olá. <$motion(2,803)><$comeff(2,3)><$cdef(27)><pname;0></color>Eu tenho uma idéia!"
+    },
+    {
+      "id": 27,
+      "en": "<$voicel(2,9)><$motion(2,801)><$comeff(2,8)>I bet if there was a spot around here with some tall grass<br>near water, it’d be nice and <$cdef(27)>humid</color>—just the way I like it!",
+      "pt_br": "<$voicel(2,9)><$motion(2,801)><$comeff(2,8)>Aposto que se houvesse um lugar por aqui com alguma erva alta<br>perto da água, seria bom e <$cdef(27)>húmido</color>- tal como eu gosto!"
+    },
+    {
+      "id": 28,
+      "en": "<$voicel(2,8)><$comeff(2,6)>I was thinking... Maybe you could make an area like that?",
+      "pt_br": "<$voicel(2,8)><$comeff(2,6)>Estava a pensar... talvez pudesses fazer uma área dessas?"
+    },
+    {
+      "id": 29,
+      "en": "<$voicel(2,8)><$motion(2,803)><$comeff(2,8)>Do you think you could grow some grass near the water<br>around here? I bet it’d be nice and <$cdef(27)>humid</color>!",
+      "pt_br": "<$voicel(2,8)><$motion(2,803)><$comeff(2,8)>Achas que pode plantar erva perto da água?<br>por aqui? Eu aposto que seria bom e <$cdef(27)>húmido</color>!"
+    },
+    {
+      "id": 30,
+      "en": "<oneline><$voicel(2,9)><$motion(2,801)><$comeff(2,9)>You made a <flow><$cdef(27)><$hatname(31)></color> habitat? Thanks so much,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": "<oneline><$voicel(2,9)><$motion(2,801)><$comeff(2,9)>Tu fizeste um... <flow><$cdef(27)><$hatname(31)></color> Habitat? Muito obrigado,<br><$cdef(27)><pname;0></color>!"
+    }
+  ]
+}

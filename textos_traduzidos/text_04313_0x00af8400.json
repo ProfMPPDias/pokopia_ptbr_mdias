@@ -1,0 +1,414 @@
+{
+  "entry_index": 4313,
+  "bin_id": "0xaf8400",
+  "decompressed_size": 3576,
+  "first_tag_offset": 1269,
+  "total_strings": 81,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$etpkcrygt;0(lnum1)>. Let us become friends.",
+      "pt_br": "<$etpkcrygt;0(lnum1)>Vamos tornar-nos amigos."
+    },
+    {
+      "id": 1,
+      "en": "Let us get to work.",
+      "pt_br": "Vamos começar a trabalhar."
+    },
+    {
+      "id": 2,
+      "en": "It is going well.",
+      "pt_br": "Está a correr bem."
+    },
+    {
+      "id": 3,
+      "en": "Just a small bit more.",
+      "pt_br": "Só mais um pouco."
+    },
+    {
+      "id": 4,
+      "en": "<$etpkcryhp;0(lnum1)>! ♪",
+      "pt_br": "<$etpkcryhp;0(lnum1)>! ♪"
+    },
+    {
+      "id": 5,
+      "en": "Oh no. It is raining. I will go home.",
+      "pt_br": "Não, está a chover, vou para casa."
+    },
+    {
+      "id": 6,
+      "en": "<$etpkcrygt;0(lnum1)>. That appears delicious.",
+      "pt_br": "<$etpkcrygt;0(lnum1)>Isso parece delicioso."
+    },
+    {
+      "id": 7,
+      "en": "I would like to hunt for treasure.",
+      "pt_br": "Gostaria de caçar tesouros."
+    },
+    {
+      "id": 8,
+      "en": "The road is difficult for travel.",
+      "pt_br": "A estrada é difícil de viajar."
+    },
+    {
+      "id": 9,
+      "en": "I have become tired...",
+      "pt_br": "Estou cansado..."
+    },
+    {
+      "id": 10,
+      "en": "I have arrived.",
+      "pt_br": "Eu cheguei."
+    },
+    {
+      "id": 11,
+      "en": "<$etpkcrysd;0(lnum1)>. It is hard to pass by.",
+      "pt_br": "<$etpkcrysd;0(lnum1)>É difícil de passar."
+    },
+    {
+      "id": 12,
+      "en": "Treasure found! <$etpkcrygt;0(lnum1)>.",
+      "pt_br": "Tesouro encontrado! <$etpkcrygt;0(lnum1)>."
+    },
+    {
+      "id": 13,
+      "en": "Treasure found—above!",
+      "pt_br": "Tesouro encontrado - acima!"
+    },
+    {
+      "id": 14,
+      "en": "Treasure found—below!",
+      "pt_br": "Tesouro encontrado - abaixo!"
+    },
+    {
+      "id": 15,
+      "en": "<$etpkcryhp;0(lnum1)>. Something is in the area.",
+      "pt_br": "<$etpkcryhp;0(lnum1)>Há alguma coisa na área."
+    },
+    {
+      "id": 16,
+      "en": "I do not think treasure is here.",
+      "pt_br": "Acho que o tesouro não está aqui."
+    },
+    {
+      "id": 17,
+      "en": "Let us look farther on.",
+      "pt_br": "Vamos olhar mais adiante."
+    },
+    {
+      "id": 18,
+      "en": "Oh. Oh? Something is nearby.",
+      "pt_br": "Algo está por perto."
+    },
+    {
+      "id": 19,
+      "en": "Are we prepared to go?",
+      "pt_br": "Estamos preparados para ir?"
+    },
+    {
+      "id": 20,
+      "en": "Oh. I cannot go forward.",
+      "pt_br": "Não posso ir em frente."
+    },
+    {
+      "id": 21,
+      "en": "I want the object to be closer.",
+      "pt_br": "Quero que o objecto esteja mais perto."
+    },
+    {
+      "id": 22,
+      "en": "Wow. My thanks.",
+      "pt_br": "Os meus agradecimentos."
+    },
+    {
+      "id": 23,
+      "en": "<$cdef(27)><fcap><fqty(1)><class><$ifull;0(lnum1)></color>.",
+      "pt_br": "<$cdef(27)><fcap><fqty(1)><class><$ifull;0(lnum1)></color>."
+    },
+    {
+      "id": 24,
+      "en": "It is so warm! ♪",
+      "pt_br": "Está tão quente!"
+    },
+    {
+      "id": 25,
+      "en": "It is a small bit hot.",
+      "pt_br": "Está um pouco quente."
+    },
+    {
+      "id": 26,
+      "en": "Such coolness! ♪",
+      "pt_br": "Que fixe!"
+    },
+    {
+      "id": 27,
+      "en": "It is a small bit cold.",
+      "pt_br": "Está um pouco frio."
+    },
+    {
+      "id": 28,
+      "en": "It became brighter! ♪",
+      "pt_br": "Tornou-se mais brilhante!"
+    },
+    {
+      "id": 29,
+      "en": "It is maybe too bright.",
+      "pt_br": "Talvez seja demasiado brilhante."
+    },
+    {
+      "id": 30,
+      "en": "Hooray! It became darker. ♪",
+      "pt_br": "Tornou-se mais escuro."
+    },
+    {
+      "id": 31,
+      "en": "It is a small bit too dark.",
+      "pt_br": "Está um pouco escuro demais."
+    },
+    {
+      "id": 32,
+      "en": "The humidity. It is nice. ♪",
+      "pt_br": "A humidade é boa."
+    },
+    {
+      "id": 33,
+      "en": "It is a small bit too humid.",
+      "pt_br": "É um pouco demasiado húmido."
+    },
+    {
+      "id": 34,
+      "en": "Air is dry! ♪",
+      "pt_br": "O ar está seco!"
+    },
+    {
+      "id": 35,
+      "en": "Air is maybe too dry.",
+      "pt_br": "O ar está demasiado seco."
+    },
+    {
+      "id": 36,
+      "en": "I cannot pass here.",
+      "pt_br": "Não posso passar por aqui."
+    },
+    {
+      "id": 37,
+      "en": "Hooray! I would like to live here. ♪",
+      "pt_br": "Eu gostaria de viver aqui."
+    },
+    {
+      "id": 38,
+      "en": "It is nice, this home.",
+      "pt_br": "Esta casa é bonita."
+    },
+    {
+      "id": 39,
+      "en": "Please do come trade.",
+      "pt_br": "Por favor, venha trocar."
+    },
+    {
+      "id": 40,
+      "en": "The smallness is maybe too much.",
+      "pt_br": "A pequenez é talvez demasiado."
+    },
+    {
+      "id": 41,
+      "en": "I will follow.",
+      "pt_br": "Eu sigo-te."
+    },
+    {
+      "id": 42,
+      "en": "Bye. Bye.",
+      "pt_br": "Adeus."
+    },
+    {
+      "id": 43,
+      "en": "I will build well.",
+      "pt_br": "Vou construir bem."
+    },
+    {
+      "id": 44,
+      "en": "*sniff sniff sniff*",
+      "pt_br": "*Sniff sniff sniff *"
+    },
+    {
+      "id": 45,
+      "en": "I am sorry. Right now, I am unable.",
+      "pt_br": "Lamento, mas neste momento não posso."
+    },
+    {
+      "id": 46,
+      "en": "About this? It is complete.",
+      "pt_br": "Está completo."
+    },
+    {
+      "id": 47,
+      "en": "Leave it up to me.",
+      "pt_br": "Deixa isso comigo."
+    },
+    {
+      "id": 48,
+      "en": "This place. It seems interesting.",
+      "pt_br": "Este lugar parece interessante."
+    },
+    {
+      "id": 49,
+      "en": "You are holding something. What is it?",
+      "pt_br": "está a segurar em alguma coisa."
+    },
+    {
+      "id": 50,
+      "en": "I will search for you.",
+      "pt_br": "Vou procurar-te."
+    },
+    {
+      "id": 51,
+      "en": "I am sorry. I am very hungry now.",
+      "pt_br": "Desculpa, estou com muita fome agora."
+    },
+    {
+      "id": 52,
+      "en": "Oh. Is there a Pokémon here?",
+      "pt_br": "Está aqui algum Pokémon?"
+    },
+    {
+      "id": 53,
+      "en": "It amazes.",
+      "pt_br": "Surpreende-me."
+    },
+    {
+      "id": 54,
+      "en": "I am expending much effort.",
+      "pt_br": "Estou a gastar muito esforço."
+    },
+    {
+      "id": 55,
+      "en": "This feeling is a nice one.",
+      "pt_br": "Este sentimento é bom."
+    },
+    {
+      "id": 56,
+      "en": "Please wait. I am not there.",
+      "pt_br": "Por favor, espera."
+    },
+    {
+      "id": 57,
+      "en": "Oh no. I cannot go there.",
+      "pt_br": "Não, não posso ir lá."
+    },
+    {
+      "id": 58,
+      "en": "Here I go. I will do it for you.",
+      "pt_br": "Aqui vou eu, vou fazê-lo por ti."
+    },
+    {
+      "id": 59,
+      "en": "Water is required first.",
+      "pt_br": "A água é necessária primeiro."
+    },
+    {
+      "id": 60,
+      "en": "You are hiding. Where?",
+      "pt_br": "- está a esconder-te."
+    },
+    {
+      "id": 61,
+      "en": "Not here.",
+      "pt_br": "Aqui não."
+    },
+    {
+      "id": 62,
+      "en": "Suspicious.",
+      "pt_br": "Suspeita."
+    },
+    {
+      "id": 63,
+      "en": "I smell you.",
+      "pt_br": "Estou a cheirar-te."
+    },
+    {
+      "id": 64,
+      "en": "I am good at detection.",
+      "pt_br": "Sou bom a detectar."
+    },
+    {
+      "id": 65,
+      "en": "You have been found.",
+      "pt_br": "Foste encontrado."
+    },
+    {
+      "id": 66,
+      "en": "In this place, I do this.",
+      "pt_br": "Neste lugar, eu faço isto."
+    },
+    {
+      "id": 67,
+      "en": "I cannot wait.",
+      "pt_br": "Mal posso esperar."
+    },
+    {
+      "id": 68,
+      "en": "Excitement. My anticipation is great.",
+      "pt_br": "A minha expectativa é grande."
+    },
+    {
+      "id": 69,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>. Yay.",
+      "pt_br": "<fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>Sim."
+    },
+    {
+      "id": 70,
+      "en": "<$etpkcryhp;0(lnum1)>. ♪ <$etpkcryhp;1(lnum1)>. ♪",
+      "pt_br": "<$etpkcryhp;0(lnum1)>. ♪ <$etpkcryhp;1(lnum1)>. ♪"
+    },
+    {
+      "id": 71,
+      "en": "I will do good work.",
+      "pt_br": "Vou fazer um bom trabalho."
+    },
+    {
+      "id": 72,
+      "en": "It is nice.",
+      "pt_br": "É bonito."
+    },
+    {
+      "id": 73,
+      "en": "A good living space.",
+      "pt_br": "Um bom espaço para viver."
+    },
+    {
+      "id": 74,
+      "en": "A place without water would be...",
+      "pt_br": "Um lugar sem água seria..."
+    },
+    {
+      "id": 75,
+      "en": "Let us eat.",
+      "pt_br": "Vamos comer."
+    },
+    {
+      "id": 76,
+      "en": "It cannot grow larger in this state.",
+      "pt_br": "Não pode crescer neste estado."
+    },
+    {
+      "id": 77,
+      "en": "It was not reality. I only imagined.",
+      "pt_br": "Não era a realidade, só imaginei."
+    },
+    {
+      "id": 78,
+      "en": "There is a noise. What is it?",
+      "pt_br": "Há um barulho."
+    },
+    {
+      "id": 79,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>. Yay.",
+      "pt_br": "<fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>Sim."
+    },
+    {
+      "id": 80,
+      "en": "<$cdef(27)>Bubbles</color>. It needs some.",
+      "pt_br": "<$cdef(27)>Bolhas</color>Precisa de um pouco."
+    }
+  ]
+}

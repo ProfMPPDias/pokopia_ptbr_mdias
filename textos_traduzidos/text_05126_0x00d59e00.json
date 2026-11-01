@@ -1,0 +1,1294 @@
+{
+  "entry_index": 5126,
+  "bin_id": "0xd59e00",
+  "decompressed_size": 16336,
+  "first_tag_offset": 2962,
+  "total_strings": 257,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$spwname(11)></color>.",
+      "pt_br": "<$cdef(27)><$spwname(11)></color>."
+    },
+    {
+      "id": 1,
+      "en": "Es gibt niemanden, den du rufen kannst.",
+      "pt_br": "Es gibt niemanden, den du rufen kannst."
+    },
+    {
+      "id": 2,
+      "en": "Es sind nicht genug Pokémon zum Helfen da.",
+      "pt_br": "Es sind nicht genug Pokémon zum Helfen da."
+    },
+    {
+      "id": 3,
+      "en": "Pflüge den Boden, bevor du ihn bepflanzt.",
+      "pt_br": "Pflüge den Boden, bevor du ihn bepflanzt."
+    },
+    {
+      "id": 4,
+      "en": "Es ist noch nicht fertig... Komm später wieder.",
+      "pt_br": "Es ist noch nicht fertig... Komm später wieder."
+    },
+    {
+      "id": 5,
+      "en": "Keine der Items in deinem Inventar sind hier verstaut.",
+      "pt_br": "Keine der Items in deinem Inventar sind hier verstaut."
+    },
+    {
+      "id": 6,
+      "en": "Das kannst du zu diesem Zeitpunkt oder an diesem Ort nicht einsetzen.",
+      "pt_br": "Das kannst du zu diesem Zeitpunkt oder an diesem Ort nicht einsetzen."
+    },
+    {
+      "id": 7,
+      "en": "Du kannst jetzt keine Attacken einsetzen.",
+      "pt_br": "Du kannst jetzt keine Attacken einsetzen."
+    },
+    {
+      "id": 8,
+      "en": "Speichervorgang abgeschlossen.",
+      "pt_br": "Speichervorgang abgeschlossen."
+    },
+    {
+      "id": 9,
+      "en": "Speichervorgang fehlgeschlagen.",
+      "pt_br": "Speichervorgang fehlgeschlagen."
+    },
+    {
+      "id": 10,
+      "en": "Darauf kannst du jetzt nicht zugreifen.",
+      "pt_br": "Darauf kannst du jetzt nicht zugreifen."
+    },
+    {
+      "id": 11,
+      "en": "Es bringt nichts, noch mehr davon zu platzieren.",
+      "pt_br": "Es bringt nichts, noch mehr davon zu platzieren."
+    },
+    {
+      "id": 12,
+      "en": "Kann nicht genutzt werden, da die Stückzahl zu groß ist.",
+      "pt_br": "Kann nicht genutzt werden, da die Stückzahl zu groß ist."
+    },
+    {
+      "id": 13,
+      "en": "Diese Sprache ist aktuell bereits ausgewählt.",
+      "pt_br": "Diese Sprache ist aktuell bereits ausgewählt."
+    },
+    {
+      "id": 14,
+      "en": "Das würde keine Wirkung zeigen.",
+      "pt_br": "Das würde keine Wirkung zeigen."
+    },
+    {
+      "id": 15,
+      "en": "Es gibt derzeit nichts, was du entgegennehmen könntest.",
+      "pt_br": "Es gibt derzeit nichts, was du entgegennehmen könntest."
+    },
+    {
+      "id": 16,
+      "en": "Das ist derzeit nicht möglich.",
+      "pt_br": "Das ist derzeit nicht möglich."
+    },
+    {
+      "id": 17,
+      "en": "Keine der hier verstauten Items sind in deinem Inventar.",
+      "pt_br": "Keine der hier verstauten Items sind in deinem Inventar."
+    },
+    {
+      "id": 18,
+      "en": "Du kannst momentan nicht einkaufen.",
+      "pt_br": "Du kannst momentan nicht einkaufen."
+    },
+    {
+      "id": 19,
+      "en": "Tapeten kannst du nur in Innenräumen anbringen.",
+      "pt_br": "Tapeten kannst du nur in Innenräumen anbringen."
+    },
+    {
+      "id": 20,
+      "en": "Diese Wände lassen sich nicht tapezieren.",
+      "pt_br": "Diese Wände lassen sich nicht tapezieren."
+    },
+    {
+      "id": 21,
+      "en": "Dein Inventar ist voll!",
+      "pt_br": "Dein Inventar ist voll!"
+    },
+    {
+      "id": 22,
+      "en": "Du musst den Boden vor dem Einpflanzen bewässern.",
+      "pt_br": "Du musst den Boden vor dem Einpflanzen bewässern."
+    },
+    {
+      "id": 23,
+      "en": "Diese Information kennst du bereits.",
+      "pt_br": "Diese Information kennst du bereits."
+    },
+    {
+      "id": 24,
+      "en": "Das kannst du noch nicht auswählen.",
+      "pt_br": "Das kannst du noch nicht auswählen."
+    },
+    {
+      "id": 25,
+      "en": "Fehler bei der Sicherung des Spielstandes.",
+      "pt_br": "Fehler bei der Sicherung des Spielstandes."
+    },
+    {
+      "id": 26,
+      "en": "Du hast nicht genügend AP!",
+      "pt_br": "Du hast nicht genügend AP!"
+    },
+    {
+      "id": 27,
+      "en": "Diese Attacke musst du erst registrieren.",
+      "pt_br": "Diese Attacke musst du erst registrieren."
+    },
+    {
+      "id": 28,
+      "en": "Hier ist nichts registriert.",
+      "pt_br": "Hier ist nichts registriert."
+    },
+    {
+      "id": 29,
+      "en": "Du hast nicht genug Materialien.",
+      "pt_br": "Du hast nicht genug Materialien."
+    },
+    {
+      "id": 30,
+      "en": "Du hast nicht genug Materialien.",
+      "pt_br": "Du hast nicht genug Materialien."
+    },
+    {
+      "id": 31,
+      "en": "In Gebäuden solltest du das lieber sein lassen.",
+      "pt_br": "In Gebäuden solltest du das lieber sein lassen."
+    },
+    {
+      "id": 32,
+      "en": "Das geht nicht, während du verwandelt bist.",
+      "pt_br": "Das geht nicht, während du verwandelt bist."
+    },
+    {
+      "id": 33,
+      "en": "Du hast nicht genug Life-Münzen.",
+      "pt_br": "Du hast nicht genug Life-Münzen."
+    },
+    {
+      "id": 34,
+      "en": "Das ist ausverkauft.",
+      "pt_br": "Das ist ausverkauft."
+    },
+    {
+      "id": 35,
+      "en": "Du kannst gerade nicht speichern.",
+      "pt_br": "Du kannst gerade nicht speichern."
+    },
+    {
+      "id": 36,
+      "en": "Du kannst nichts bestellen, da dein Inventar voll ist.",
+      "pt_br": "Du kannst nichts bestellen, da dein Inventar voll ist."
+    },
+    {
+      "id": 37,
+      "en": "Du kannst keine Attacke entfernen, die gerade aktiv ist.",
+      "pt_br": "Du kannst keine Attacke entfernen, die gerade aktiv ist."
+    },
+    {
+      "id": 38,
+      "en": "Das geht leider nicht, da dein Inventar voll ist.",
+      "pt_br": "Das geht leider nicht, da dein Inventar voll ist."
+    },
+    {
+      "id": 39,
+      "en": "Es befindet sich nichts zum Verbrennen darin.",
+      "pt_br": "Es befindet sich nichts zum Verbrennen darin."
+    },
+    {
+      "id": 40,
+      "en": "Dein Inventar ist voll!",
+      "pt_br": "Dein Inventar ist voll!"
+    },
+    {
+      "id": 41,
+      "en": "Es sind nicht genug Pokémon zum Helfen da.",
+      "pt_br": "Es sind nicht genug Pokémon zum Helfen da."
+    },
+    {
+      "id": 42,
+      "en": "Du kannst nur mit essbaren Zutaten kochen.",
+      "pt_br": "Du kannst nur mit essbaren Zutaten kochen."
+    },
+    {
+      "id": 43,
+      "en": "Das sind nicht genug Zutaten.",
+      "pt_br": "Das sind nicht genug Zutaten."
+    },
+    {
+      "id": 44,
+      "en": "Das gehört nicht zum Rezept.",
+      "pt_br": "Das gehört nicht zum Rezept."
+    },
+    {
+      "id": 45,
+      "en": "Nur <$cdef(27)><$strpname;0(lstr1,lnum1)></color> kann das fertigbauen.",
+      "pt_br": "Nur <$cdef(27)><$strpname;0(lstr1,lnum1)></color> kann das fertigbauen."
+    },
+    {
+      "id": 46,
+      "en": "Der Code ist falsch.",
+      "pt_br": "Der Code ist falsch."
+    },
+    {
+      "id": 47,
+      "en": "Du kannst diesen <$cdef(27)><fqty(1)><$iname(1677)></color> nicht wegräumen, da er <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>gehört.",
+      "pt_br": "Du kannst diesen <$cdef(27)><fqty(1)><$iname(1677)></color> nicht wegräumen, da er <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>gehört."
+    },
+    {
+      "id": 48,
+      "en": "Mehr passt nicht hinein.",
+      "pt_br": "Mehr passt nicht hinein."
+    },
+    {
+      "id": 49,
+      "en": "Das kann nicht hierhin bewegt werden.",
+      "pt_br": "Das kann nicht hierhin bewegt werden."
+    },
+    {
+      "id": 50,
+      "en": "Es fehlen Materialien und es sind nicht genug Pokémon zum Helfen da.",
+      "pt_br": "Es fehlen Materialien und es sind nicht genug Pokémon zum Helfen da."
+    },
+    {
+      "id": 51,
+      "en": "Das kann momentan nicht genutzt werden.",
+      "pt_br": "Das kann momentan nicht genutzt werden."
+    },
+    {
+      "id": 52,
+      "en": "Das Fotomotiv ist nicht im Bild.",
+      "pt_br": "Das Fotomotiv ist nicht im Bild."
+    },
+    {
+      "id": 53,
+      "en": "Das Fotomotiv kann nicht kopiert werden.",
+      "pt_br": "Das Fotomotiv kann nicht kopiert werden."
+    },
+    {
+      "id": 54,
+      "en": "Das Fotomotiv ist zu nah an der Kamera.",
+      "pt_br": "Das Fotomotiv ist zu nah an der Kamera."
+    },
+    {
+      "id": 55,
+      "en": "Das Fotomotiv ist zu weit weg von der Kamera.",
+      "pt_br": "Das Fotomotiv ist zu weit weg von der Kamera."
+    },
+    {
+      "id": 56,
+      "en": "Hier kannst du die Kamera nicht hinstellen.",
+      "pt_br": "Hier kannst du die Kamera nicht hinstellen."
+    },
+    {
+      "id": 57,
+      "en": "Der Fotomodus wurde beendet, weil die Kamera gerade nicht genutzt werden kann.",
+      "pt_br": "Der Fotomodus wurde beendet, weil die Kamera gerade nicht genutzt werden kann."
+    },
+    {
+      "id": 58,
+      "en": "Der Fotomodus wurde beendet, weil du Wasser betreten hast.",
+      "pt_br": "Der Fotomodus wurde beendet, weil du Wasser betreten hast."
+    },
+    {
+      "id": 59,
+      "en": "Der Fotomodus wurde beendet, weil die Kamera zu weit weg ist.",
+      "pt_br": "Der Fotomodus wurde beendet, weil die Kamera zu weit weg ist."
+    },
+    {
+      "id": 60,
+      "en": "Du konntest nicht alle Items annehmen, da dein Inventar voll ist.",
+      "pt_br": "Du konntest nicht alle Items annehmen, da dein Inventar voll ist."
+    },
+    {
+      "id": 61,
+      "en": "Für manche Items war kein Platz mehr.",
+      "pt_br": "Für manche Items war kein Platz mehr."
+    },
+    {
+      "id": 62,
+      "en": "Das ist nicht das richtige Item.",
+      "pt_br": "Das ist nicht das richtige Item."
+    },
+    {
+      "id": 63,
+      "en": "Während der Fotoauswahl kannst du nicht umschalten.",
+      "pt_br": "Während der Fotoauswahl kannst du nicht umschalten."
+    },
+    {
+      "id": 64,
+      "en": "Du hast nicht genug Materialien.",
+      "pt_br": "Du hast nicht genug Materialien."
+    },
+    {
+      "id": 65,
+      "en": "Damit kannst du dieses Item nicht ertauschen.",
+      "pt_br": "Damit kannst du dieses Item nicht ertauschen."
+    },
+    {
+      "id": 66,
+      "en": "Dein Tauschpartner scheint kein Interesse daran zu haben.",
+      "pt_br": "Dein Tauschpartner scheint kein Interesse daran zu haben."
+    },
+    {
+      "id": 67,
+      "en": "Ein anderer Spieler benutzt gerade die Kamera. Versuche es später noch mal.",
+      "pt_br": "Ein anderer Spieler benutzt gerade die Kamera. Versuche es später noch mal."
+    },
+    {
+      "id": 68,
+      "en": "Bitte stelle eine Überwachungskamera auf.",
+      "pt_br": "Bitte stelle eine Überwachungskamera auf."
+    },
+    {
+      "id": 69,
+      "en": "Es scheint schon ein Pokémon in der Nähe zu sein.",
+      "pt_br": "Es scheint schon ein Pokémon in der Nähe zu sein."
+    },
+    {
+      "id": 70,
+      "en": "Erhöhe den Umgebungslevel.",
+      "pt_br": "Erhöhe den Umgebungslevel."
+    },
+    {
+      "id": 71,
+      "en": "Erfülle zuerst die nötigen Bedingungen.",
+      "pt_br": "Erfülle zuerst die nötigen Bedingungen."
+    },
+    {
+      "id": 72,
+      "en": "Es gibt keine Challenge, über die Bericht erstattet werden könnte.",
+      "pt_br": "Es gibt keine Challenge, über die Bericht erstattet werden könnte."
+    },
+    {
+      "id": 73,
+      "en": "Über diese Challenge wurde schon Bericht erstattet.",
+      "pt_br": "Über diese Challenge wurde schon Bericht erstattet."
+    },
+    {
+      "id": 74,
+      "en": "Mehr Items können nicht hierhin bewegt werden.",
+      "pt_br": "Mehr Items können nicht hierhin bewegt werden."
+    },
+    {
+      "id": 75,
+      "en": "Mehr Überwachungskameras kannst du nicht benutzen.",
+      "pt_br": "Mehr Überwachungskameras kannst du nicht benutzen."
+    },
+    {
+      "id": 76,
+      "en": "In deinem Beutel ist nicht genug Platz für alle ausgewählten Items.",
+      "pt_br": "In deinem Beutel ist nicht genug Platz für alle ausgewählten Items."
+    },
+    {
+      "id": 77,
+      "en": "Die Stimmung hat noch nicht 100 Punkte erreicht.",
+      "pt_br": "Die Stimmung hat noch nicht 100 Punkte erreicht."
+    },
+    {
+      "id": 78,
+      "en": "Hier ist nicht genügend Platz zum Bauen.",
+      "pt_br": "Hier ist nicht genügend Platz zum Bauen."
+    },
+    {
+      "id": 79,
+      "en": "Auf unebenem Grund kannst du nicht bauen.",
+      "pt_br": "Auf unebenem Grund kannst du nicht bauen."
+    },
+    {
+      "id": 80,
+      "en": "Hier ist nichts, was abgerissen werden könnte.",
+      "pt_br": "Hier ist nichts, was abgerissen werden könnte."
+    },
+    {
+      "id": 81,
+      "en": "Du ziehst bereits ein anderes Gebäude um.",
+      "pt_br": "Du ziehst bereits ein anderes Gebäude um."
+    },
+    {
+      "id": 82,
+      "en": "Du kannst keine weiteren Gebäude errichten.",
+      "pt_br": "Du kannst keine weiteren Gebäude errichten."
+    },
+    {
+      "id": 83,
+      "en": "Du solltest nicht zu viele Bauprojekte gleichzeitig durchführen.",
+      "pt_br": "Du solltest nicht zu viele Bauprojekte gleichzeitig durchführen."
+    },
+    {
+      "id": 84,
+      "en": "Du bist jetzt mit <$cdef(27)><$cname;0(lnum1)> </color>befreundet!",
+      "pt_br": "Du bist jetzt mit <$cdef(27)><$cname;0(lnum1)> </color>befreundet!"
+    },
+    {
+      "id": 85,
+      "en": "Das Bauvorhaben wird abgebrochen...",
+      "pt_br": "Das Bauvorhaben wird abgebrochen..."
+    },
+    {
+      "id": 86,
+      "en": "Deine AP wurden vollständig aufgefüllt!",
+      "pt_br": "Deine AP wurden vollständig aufgefüllt!"
+    },
+    {
+      "id": 87,
+      "en": "Deine AP wurden aufgefüllt!",
+      "pt_br": "Deine AP wurden aufgefüllt!"
+    },
+    {
+      "id": 88,
+      "en": "Da ist wohl jemand gerade beschäftigt.",
+      "pt_br": "Da ist wohl jemand gerade beschäftigt."
+    },
+    {
+      "id": 89,
+      "en": "Da ist wohl jemand gerade in einer anderen Stadt.",
+      "pt_br": "Da ist wohl jemand gerade in einer anderen Stadt."
+    },
+    {
+      "id": 90,
+      "en": "Ein Umzug in ein anderes Gebiet ist nicht möglich.",
+      "pt_br": "Ein Umzug in ein anderes Gebiet ist nicht möglich."
+    },
+    {
+      "id": 91,
+      "en": "Du kannst das Pokémon in deiner Begleitung nicht mitnehmen.",
+      "pt_br": "Du kannst das Pokémon in deiner Begleitung nicht mitnehmen."
+    },
+    {
+      "id": 92,
+      "en": "Es kann dich nur ein Pokémon begleiten.",
+      "pt_br": "Es kann dich nur ein Pokémon begleiten."
+    },
+    {
+      "id": 93,
+      "en": "So kannst du nicht gehen.",
+      "pt_br": "So kannst du nicht gehen."
+    },
+    {
+      "id": 94,
+      "en": "Gleich knallt’s! Gieß schnell Wasser zum Abkühlen drüber!",
+      "pt_br": "Gleich knallt’s! Gieß schnell Wasser zum Abkühlen drüber!"
+    },
+    {
+      "id": 95,
+      "en": "Das scheint etwas Besonderes zu sein! Drücke <$keyicon(6)> schnell hintereinander!",
+      "pt_br": "Das scheint etwas Besonderes zu sein! Drücke <$keyicon(6)> schnell hintereinander!"
+    },
+    {
+      "id": 96,
+      "en": "Bauarbeiten im Gange... Komm später wieder.",
+      "pt_br": "Bauarbeiten im Gange... Komm später wieder."
+    },
+    {
+      "id": 97,
+      "en": "Diese Attacke ist jetzt aktiv.",
+      "pt_br": "Diese Attacke ist jetzt aktiv."
+    },
+    {
+      "id": 98,
+      "en": "Durch den Salat wurde <$cdef(27)><$sklname(1)> </color>verstärkt!",
+      "pt_br": "Durch den Salat wurde <$cdef(27)><$sklname(1)> </color>verstärkt!"
+    },
+    {
+      "id": 99,
+      "en": "Durch die Suppe wurde <$cdef(27)><$sklname(3)> </color>verstärkt!",
+      "pt_br": "Durch die Suppe wurde <$cdef(27)><$sklname(3)> </color>verstärkt!"
+    },
+    {
+      "id": 100,
+      "en": "Durch den Bratling wurde <$cdef(27)><$sklname(4)> </color>verstärkt!",
+      "pt_br": "Durch den Bratling wurde <$cdef(27)><$sklname(4)> </color>verstärkt!"
+    },
+    {
+      "id": 101,
+      "en": "Durch das Brot wurde <$cdef(27)><$sklname(5)> </color>verstärkt!",
+      "pt_br": "Durch das Brot wurde <$cdef(27)><$sklname(5)> </color>verstärkt!"
+    },
+    {
+      "id": 102,
+      "en": "Das Habitat <$cdef(27)><$hatname;0(lnum1)></color> wurde wiederhergestellt.",
+      "pt_br": "Das Habitat <$cdef(27)><$hatname;0(lnum1)></color> wurde wiederhergestellt."
+    },
+    {
+      "id": 103,
+      "en": "Das kann momentan nicht genutzt werden.",
+      "pt_br": "Das kann momentan nicht genutzt werden."
+    },
+    {
+      "id": 104,
+      "en": "Du brauchst nicht mehr als ein Pokémon-Center.",
+      "pt_br": "Du brauchst nicht mehr als ein Pokémon-Center."
+    },
+    {
+      "id": 105,
+      "en": "Das kannst du hier nicht anpflanzen.",
+      "pt_br": "Das kannst du hier nicht anpflanzen."
+    },
+    {
+      "id": 106,
+      "en": "Du<$cdef(27)> </color>hast richtig geraten!",
+      "pt_br": "Du<$cdef(27)> </color>hast richtig geraten!"
+    },
+    {
+      "id": 107,
+      "en": "Du hast falsch geraten!",
+      "pt_br": "Du hast falsch geraten!"
+    },
+    {
+      "id": 108,
+      "en": "Mehr kann nicht verstaut werden.",
+      "pt_br": "Mehr kann nicht verstaut werden."
+    },
+    {
+      "id": 109,
+      "en": "Es konnten nicht alle Items verstaut werden.",
+      "pt_br": "Es konnten nicht alle Items verstaut werden."
+    },
+    {
+      "id": 110,
+      "en": "Dieses Foto zählt bereits zu deinen Schnappschüssen.",
+      "pt_br": "Dieses Foto zählt bereits zu deinen Schnappschüssen."
+    },
+    {
+      "id": 111,
+      "en": "Du musst das Haus zuerst leer räumen.",
+      "pt_br": "Du musst das Haus zuerst leer räumen."
+    },
+    {
+      "id": 112,
+      "en": "Das ist nicht möglich, solange sich noch jemand im Gebäude befindet.",
+      "pt_br": "Das ist nicht möglich, solange sich noch jemand im Gebäude befindet."
+    },
+    {
+      "id": 113,
+      "en": "Du musst zuerst alles entfernen, was am Haus befestigt ist.",
+      "pt_br": "Du musst zuerst alles entfernen, was am Haus befestigt ist."
+    },
+    {
+      "id": 114,
+      "en": "Das ist derzeit nicht möglich.",
+      "pt_br": "Das ist derzeit nicht möglich."
+    },
+    {
+      "id": 115,
+      "en": "Umzug nicht möglich.",
+      "pt_br": "Umzug nicht möglich."
+    },
+    {
+      "id": 116,
+      "en": "Du kannst keine weiteren Häuser errichten.",
+      "pt_br": "Du kannst keine weiteren Häuser errichten."
+    },
+    {
+      "id": 117,
+      "en": "Es bringt nichts, noch mehr davon zu errichten.",
+      "pt_br": "Es bringt nichts, noch mehr davon zu errichten."
+    },
+    {
+      "id": 118,
+      "en": "Aufgrund von Wasser nicht möglich.",
+      "pt_br": "Aufgrund von Wasser nicht möglich."
+    },
+    {
+      "id": 119,
+      "en": "Das kann nicht zerstört werden, da ein anderer Spieler es gerade verwendet.",
+      "pt_br": "Das kann nicht zerstört werden, da ein anderer Spieler es gerade verwendet."
+    },
+    {
+      "id": 120,
+      "en": "Das kann nicht zerstört werden, da gerade <$cdef(27)>getauscht</color> wird.",
+      "pt_br": "Das kann nicht zerstört werden, da gerade <$cdef(27)>getauscht</color> wird."
+    },
+    {
+      "id": 121,
+      "en": "Das kann nicht zerstört werden, da es gerade in Betrieb ist.",
+      "pt_br": "Das kann nicht zerstört werden, da es gerade in Betrieb ist."
+    },
+    {
+      "id": 122,
+      "en": "Das kann jetzt nicht zerstört werden.",
+      "pt_br": "Das kann jetzt nicht zerstört werden."
+    },
+    {
+      "id": 123,
+      "en": "Das solltest du an einer glatten Wand anbringen.",
+      "pt_br": "Das solltest du an einer glatten Wand anbringen."
+    },
+    {
+      "id": 124,
+      "en": "Das solltest du an einer glatten Decke anbringen.",
+      "pt_br": "Das solltest du an einer glatten Decke anbringen."
+    },
+    {
+      "id": 125,
+      "en": "Das kann nicht platziert werden, da ein Gegenstand im Weg ist.",
+      "pt_br": "Das kann nicht platziert werden, da ein Gegenstand im Weg ist."
+    },
+    {
+      "id": 126,
+      "en": "Du besitzt in dieser Stadt bereits ein Zuhause.",
+      "pt_br": "Du besitzt in dieser Stadt bereits ein Zuhause."
+    },
+    {
+      "id": 127,
+      "en": "Das solltest du nicht in Gebäuden platzieren.",
+      "pt_br": "Das solltest du nicht in Gebäuden platzieren."
+    },
+    {
+      "id": 128,
+      "en": "Das solltest du nicht platzieren, solange sich jemand im Gebäude befindet.",
+      "pt_br": "Das solltest du nicht platzieren, solange sich jemand im Gebäude befindet."
+    },
+    {
+      "id": 129,
+      "en": "Das kann hier gerade nicht platziert werden.",
+      "pt_br": "Das kann hier gerade nicht platziert werden."
+    },
+    {
+      "id": 130,
+      "en": "Kann jetzt nicht gepflanzt werden.",
+      "pt_br": "Kann jetzt nicht gepflanzt werden."
+    },
+    {
+      "id": 131,
+      "en": "Du kannst nur nach Pokémon suchen, die du bereits kennst.",
+      "pt_br": "Du kannst nur nach Pokémon suchen, die du bereits kennst."
+    },
+    {
+      "id": 132,
+      "en": "Auf dem Foto sind keine Muster zu sehen.",
+      "pt_br": "Auf dem Foto sind keine Muster zu sehen."
+    },
+    {
+      "id": 133,
+      "en": "Dieses Foto hast du bereits gezeigt.",
+      "pt_br": "Dieses Foto hast du bereits gezeigt."
+    },
+    {
+      "id": 134,
+      "en": "Dieses Item kannst du nicht <$cdef(27)>anmalen</color>.",
+      "pt_br": "Dieses Item kannst du nicht <$cdef(27)>anmalen</color>."
+    },
+    {
+      "id": 135,
+      "en": "Du benötigst zum <$cdef(27)><$spwname(21)></color> mindestens <dgt3;0(lnum1)> davon.",
+      "pt_br": "Du benötigst zum <$cdef(27)><$spwname(21)></color> mindestens <dgt3;0(lnum1)> davon."
+    },
+    {
+      "id": 136,
+      "en": "Das kann nicht geändert werden, während du via Kommunikationsfunktionen spielst.",
+      "pt_br": "Das kann nicht geändert werden, während du via Kommunikationsfunktionen spielst."
+    },
+    {
+      "id": 137,
+      "en": "Es sind keine Sicherungsdaten vorhanden.",
+      "pt_br": "Es sind keine Sicherungsdaten vorhanden."
+    },
+    {
+      "id": 138,
+      "en": "In das kannst du dich nicht verwandeln.",
+      "pt_br": "In das kannst du dich nicht verwandeln."
+    },
+    {
+      "id": 139,
+      "en": "Du kannst deine Haarfarbe nicht ändern, wenn du die Ditto-Farbe verwendest.",
+      "pt_br": "Du kannst deine Haarfarbe nicht ändern, wenn du die Ditto-Farbe verwendest."
+    },
+    {
+      "id": 140,
+      "en": "So kurz vor Abschluss kannst du den Vorgang nicht mehr abbrechen.",
+      "pt_br": "So kurz vor Abschluss kannst du den Vorgang nicht mehr abbrechen."
+    },
+    {
+      "id": 141,
+      "en": "Du hast nichts gefunden...",
+      "pt_br": "Du hast nichts gefunden..."
+    },
+    {
+      "id": 142,
+      "en": "Es sind keine Fotos vorhanden.",
+      "pt_br": "Es sind keine Fotos vorhanden."
+    },
+    {
+      "id": 143,
+      "en": "Wähle, welches Foto gelöscht werden soll.",
+      "pt_br": "Wähle, welches Foto gelöscht werden soll."
+    },
+    {
+      "id": 144,
+      "en": "Bitte folge <$cdef(27)><$strpname;0(lstr1,lnum1)></color>, <gen;0(dem Gastgeber,der Gastgeberin,)>.",
+      "pt_br": "Bitte folge <$cdef(27)><$strpname;0(lstr1,lnum1)></color>, <gen;0(dem Gastgeber,der Gastgeberin,)>."
+    },
+    {
+      "id": 145,
+      "en": "Das kann momentan nicht genutzt werden.",
+      "pt_br": "Das kann momentan nicht genutzt werden."
+    },
+    {
+      "id": 146,
+      "en": "Du hast alle Items erhalten.",
+      "pt_br": "Du hast alle Items erhalten."
+    },
+    {
+      "id": 147,
+      "en": "Das gehört dort nicht hinein.",
+      "pt_br": "Das gehört dort nicht hinein."
+    },
+    {
+      "id": 148,
+      "en": "Du kannst dort kein Item verstauen.",
+      "pt_br": "Du kannst dort kein Item verstauen."
+    },
+    {
+      "id": 149,
+      "en": "Entnimm zuerst die fertiggestellten Items.",
+      "pt_br": "Entnimm zuerst die fertiggestellten Items."
+    },
+    {
+      "id": 150,
+      "en": "Du kannst die Kamera jetzt nicht in Betrieb nehmen.",
+      "pt_br": "Du kannst die Kamera jetzt nicht in Betrieb nehmen."
+    },
+    {
+      "id": 151,
+      "en": "Du kannst jetzt keine Nachrichten verwenden.",
+      "pt_br": "Du kannst jetzt keine Nachrichten verwenden."
+    },
+    {
+      "id": 152,
+      "en": "Du besitzt diesen Stempel bereits.",
+      "pt_br": "Du besitzt diesen Stempel bereits."
+    },
+    {
+      "id": 153,
+      "en": "Du kannst heute keine weiteren Stempel mehr vergeben.",
+      "pt_br": "Du kannst heute keine weiteren Stempel mehr vergeben."
+    },
+    {
+      "id": 154,
+      "en": "Du hast nicht genügend <$cdef(27)><fqty(2)><class><$iname;0(lnum1)></color>.",
+      "pt_br": "Du hast nicht genügend <$cdef(27)><fqty(2)><class><$iname;0(lnum1)></color>."
+    },
+    {
+      "id": 155,
+      "en": "Du musst Items auswählen, um <$cdef(27)>tauschen</color> zu können.",
+      "pt_br": "Du musst Items auswählen, um <$cdef(27)>tauschen</color> zu können."
+    },
+    {
+      "id": 156,
+      "en": "Diesen Knopf kannst du nicht auswählen.",
+      "pt_br": "Diesen Knopf kannst du nicht auswählen."
+    },
+    {
+      "id": 157,
+      "en": "Diese Einstellung kann nicht geändert werden.",
+      "pt_br": "Diese Einstellung kann nicht geändert werden."
+    },
+    {
+      "id": 158,
+      "en": "Diese Funktion kann diesem Knopf nicht zugewiesen werden.",
+      "pt_br": "Diese Funktion kann diesem Knopf nicht zugewiesen werden."
+    },
+    {
+      "id": 159,
+      "en": "Du kannst diese Woche keine Stempel mehr hinzufügen.",
+      "pt_br": "Du kannst diese Woche keine Stempel mehr hinzufügen."
+    },
+    {
+      "id": 160,
+      "en": "Das kann jetzt nicht eingetauscht werden.",
+      "pt_br": "Das kann jetzt nicht eingetauscht werden."
+    },
+    {
+      "id": 161,
+      "en": "Du hast nicht genügend geeignete Items bereitgestellt.",
+      "pt_br": "Du hast nicht genügend geeignete Items bereitgestellt."
+    },
+    {
+      "id": 162,
+      "en": "Bitte warte, bis der eingeladene Spieler eintrifft.",
+      "pt_br": "Bitte warte, bis der eingeladene Spieler eintrifft."
+    },
+    {
+      "id": 163,
+      "en": "In deiner Nähe gibt es nichts, was du <$cdef(27)>anmalen </color>könntest.",
+      "pt_br": "In deiner Nähe gibt es nichts, was du <$cdef(27)>anmalen </color>könntest."
+    },
+    {
+      "id": 164,
+      "en": "In deiner Nähe gibt es nichts, was du <$cdef(27)>anmalen</color> könntest.",
+      "pt_br": "In deiner Nähe gibt es nichts, was du <$cdef(27)>anmalen</color> könntest."
+    },
+    {
+      "id": 165,
+      "en": "Das wurde bereits in derselben Farbe <$cdef(27)>angemalt</color>.",
+      "pt_br": "Das wurde bereits in derselben Farbe <$cdef(27)>angemalt</color>."
+    },
+    {
+      "id": 166,
+      "en": "Sammle zunächst auf, was drinnen auf dem Boden liegt.",
+      "pt_br": "Sammle zunächst auf, was drinnen auf dem Boden liegt."
+    },
+    {
+      "id": 167,
+      "en": "Weiter kannst du dich nicht voranwagen.",
+      "pt_br": "Weiter kannst du dich nicht voranwagen."
+    },
+    {
+      "id": 168,
+      "en": "Wichtige Gegenstände sollten jetzt nicht entnommen werden.",
+      "pt_br": "Wichtige Gegenstände sollten jetzt nicht entnommen werden."
+    },
+    {
+      "id": 169,
+      "en": "Wichtige Gegenstände sollten jetzt nicht abgelegt werden.",
+      "pt_br": "Wichtige Gegenstände sollten jetzt nicht abgelegt werden."
+    },
+    {
+      "id": 170,
+      "en": "Wichtige Gegenstände gehören in den Beutel.",
+      "pt_br": "Wichtige Gegenstände gehören in den Beutel."
+    },
+    {
+      "id": 171,
+      "en": "Damit du es um Hilfe bitten kannst, muss das Pokémon in der Nähe sein.",
+      "pt_br": "Damit du es um Hilfe bitten kannst, muss das Pokémon in der Nähe sein."
+    },
+    {
+      "id": 172,
+      "en": "Wichtige Gegenstände gehören in den Beutel.",
+      "pt_br": "Wichtige Gegenstände gehören in den Beutel."
+    },
+    {
+      "id": 173,
+      "en": "Das ist derzeit nicht möglich.",
+      "pt_br": "Das ist derzeit nicht möglich."
+    },
+    {
+      "id": 174,
+      "en": "Es wurde bereits ein anderes Item hineingesteckt.",
+      "pt_br": "Es wurde bereits ein anderes Item hineingesteckt."
+    },
+    {
+      "id": 175,
+      "en": "Es wurde bereits eine CD eingelegt.",
+      "pt_br": "Es wurde bereits eine CD eingelegt."
+    },
+    {
+      "id": 176,
+      "en": "Aufgrund von Magma nicht möglich.",
+      "pt_br": "Aufgrund von Magma nicht möglich."
+    },
+    {
+      "id": 177,
+      "en": "Das solltest du drinnen lieber nicht einsetzen.",
+      "pt_br": "Das solltest du drinnen lieber nicht einsetzen."
+    },
+    {
+      "id": 178,
+      "en": "Das solltest du während dieses Spiels lieber sein lassen.",
+      "pt_br": "Das solltest du während dieses Spiels lieber sein lassen."
+    },
+    {
+      "id": 179,
+      "en": "Du hast nicht genug Materialien.",
+      "pt_br": "Du hast nicht genug Materialien."
+    },
+    {
+      "id": 180,
+      "en": "Wähle eine Farbe aus.",
+      "pt_br": "Wähle eine Farbe aus."
+    },
+    {
+      "id": 181,
+      "en": "Wähle eine Farbe oder ein Muster aus.",
+      "pt_br": "Wähle eine Farbe oder ein Muster aus."
+    },
+    {
+      "id": 182,
+      "en": "Du solltest nicht noch mehr Möbel platzieren.",
+      "pt_br": "Du solltest nicht noch mehr Möbel platzieren."
+    },
+    {
+      "id": 183,
+      "en": "Vor lauter Gegenständen findet das Pokémon nicht mehr hinaus.",
+      "pt_br": "Vor lauter Gegenständen findet das Pokémon nicht mehr hinaus."
+    },
+    {
+      "id": 184,
+      "en": "Diese Online-Insel kann nicht öffentlich gemacht werden.",
+      "pt_br": "Diese Online-Insel kann nicht öffentlich gemacht werden."
+    },
+    {
+      "id": 185,
+      "en": "Dein Wohlbefinden ist auf <$cdef(27)><flow><$stflevel;1(lnum1)> </color>gestiegen!",
+      "pt_br": "Dein Wohlbefinden ist auf <$cdef(27)><flow><$stflevel;1(lnum1)> </color>gestiegen!"
+    },
+    {
+      "id": 186,
+      "en": "Nur der Gastgeber kann über eine Challenge Bericht erstatten.",
+      "pt_br": "Nur der Gastgeber kann über eine Challenge Bericht erstatten."
+    },
+    {
+      "id": 187,
+      "en": "Dein <$cdef(27)><$sklname(1)></color> ist nicht stark genug...",
+      "pt_br": "Dein <$cdef(27)><$sklname(1)></color> ist nicht stark genug..."
+    },
+    {
+      "id": 188,
+      "en": "Für heute kann kein Bericht mehr erstattet werden.",
+      "pt_br": "Für heute kann kein Bericht mehr erstattet werden."
+    },
+    {
+      "id": 189,
+      "en": "Das ist derzeit nicht möglich.",
+      "pt_br": "Das ist derzeit nicht möglich."
+    },
+    {
+      "id": 190,
+      "en": "Das Pokémon ist beschäftigt. Sprich es später noch mal an.",
+      "pt_br": "Das Pokémon ist beschäftigt. Sprich es später noch mal an."
+    },
+    {
+      "id": 191,
+      "en": "Verbindungsfehler. Alle Items wurden zurückgeschickt.",
+      "pt_br": "Verbindungsfehler. Alle Items wurden zurückgeschickt."
+    },
+    {
+      "id": 192,
+      "en": "Der Aufzug ist in Bewegung.",
+      "pt_br": "Der Aufzug ist in Bewegung."
+    },
+    {
+      "id": 193,
+      "en": "Dieses Gerät wird bereits von jemandem verwendet.",
+      "pt_br": "Dieses Gerät wird bereits von jemandem verwendet."
+    },
+    {
+      "id": 194,
+      "en": "Mehr Items kannst du nicht übergeben.",
+      "pt_br": "Mehr Items kannst du nicht übergeben."
+    },
+    {
+      "id": 195,
+      "en": "So etwas Wichtiges solltest du besser nicht eintauschen.",
+      "pt_br": "So etwas Wichtiges solltest du besser nicht eintauschen."
+    },
+    {
+      "id": 196,
+      "en": "Bitte lies dir die Nutzungsvereinbarung aufmerksam bis zum Ende durch.",
+      "pt_br": "Bitte lies dir die Nutzungsvereinbarung aufmerksam bis zum Ende durch."
+    },
+    {
+      "id": 197,
+      "en": "So etwas Wichtiges solltest du besser nicht anzünden.",
+      "pt_br": "So etwas Wichtiges solltest du besser nicht anzünden."
+    },
+    {
+      "id": 198,
+      "en": "Du musst noch Brennmaterial einfüllen.",
+      "pt_br": "Du musst noch Brennmaterial einfüllen."
+    },
+    {
+      "id": 199,
+      "en": "Das kannst du nicht austauschen.",
+      "pt_br": "Das kannst du nicht austauschen."
+    },
+    {
+      "id": 200,
+      "en": "In der Nähe steht schon solch ein Topf.",
+      "pt_br": "In der Nähe steht schon solch ein Topf."
+    },
+    {
+      "id": 201,
+      "en": "Die Wirkung des Essens ist abgeklungen.",
+      "pt_br": "Die Wirkung des Essens ist abgeklungen."
+    },
+    {
+      "id": 202,
+      "en": "Das hast du bereits erlernt.",
+      "pt_br": "Das hast du bereits erlernt."
+    },
+    {
+      "id": 203,
+      "en": "Ohne Teilnahme an der Challenge kann kein Bericht erstattet werden.",
+      "pt_br": "Ohne Teilnahme an der Challenge kann kein Bericht erstattet werden."
+    },
+    {
+      "id": 204,
+      "en": "Es scheint keine Verbindung zu einer anderen <$cdef(27)><fqty(1)><$iname(1457)> </color>zu bestehen.",
+      "pt_br": "Es scheint keine Verbindung zu einer anderen <$cdef(27)><fqty(1)><$iname(1457)> </color>zu bestehen."
+    },
+    {
+      "id": 205,
+      "en": "Wähle die gewünschte Fahrtrichtung aus.",
+      "pt_br": "Wähle die gewünschte Fahrtrichtung aus."
+    },
+    {
+      "id": 206,
+      "en": "Du hast dein Ziel erreicht!",
+      "pt_br": "Du hast dein Ziel erreicht!"
+    },
+    {
+      "id": 207,
+      "en": "Du hast dein Ziel erreicht!",
+      "pt_br": "Du hast dein Ziel erreicht!"
+    },
+    {
+      "id": 208,
+      "en": "Es scheint keine Verbindung zu einer anderen <$cdef(27)><fqty(1)><$iname(1469)> </color>zu bestehen.",
+      "pt_br": "Es scheint keine Verbindung zu einer anderen <$cdef(27)><fqty(1)><$iname(1469)> </color>zu bestehen."
+    },
+    {
+      "id": 209,
+      "en": "Bei ausreichender Stromversorgung sollte eine Nutzung möglich sein.",
+      "pt_br": "Bei ausreichender Stromversorgung sollte eine Nutzung möglich sein."
+    },
+    {
+      "id": 210,
+      "en": "Die Stromleitung wird durch ein Hindernis unterbrochen.",
+      "pt_br": "Die Stromleitung wird durch ein Hindernis unterbrochen."
+    },
+    {
+      "id": 211,
+      "en": "Du kannst das nicht aufheben, weil sich etwas darauf oder darin befindet.",
+      "pt_br": "Du kannst das nicht aufheben, weil sich etwas darauf oder darin befindet."
+    },
+    {
+      "id": 212,
+      "en": "Solange du mit <$cdef(27)><$spwname(12)> </color>beschäftigt bist, solltest du alles so liegen lassen.",
+      "pt_br": "Solange du mit <$cdef(27)><$spwname(12)> </color>beschäftigt bist, solltest du alles so liegen lassen."
+    },
+    {
+      "id": 213,
+      "en": "Während der Fahrt kannst du das nicht aufheben.",
+      "pt_br": "Während der Fahrt kannst du das nicht aufheben."
+    },
+    {
+      "id": 214,
+      "en": "Beim <$cdef(27)><$spwname(1)> </color>kannst du das nicht einsammeln.",
+      "pt_br": "Beim <$cdef(27)><$spwname(1)> </color>kannst du das nicht einsammeln."
+    },
+    {
+      "id": 215,
+      "en": "Du musst erst dafür sorgen, dass Wasser im Schlauch ist.",
+      "pt_br": "Du musst erst dafür sorgen, dass Wasser im Schlauch ist."
+    },
+    {
+      "id": 216,
+      "en": "Du hast das Habitat <$cdef(27)><$hatname;0(lnum1)></color> entdeckt.",
+      "pt_br": "Du hast das Habitat <$cdef(27)><$hatname;0(lnum1)></color> entdeckt."
+    },
+    {
+      "id": 217,
+      "en": "Hier befindet sich nichts, was du melden könntest.",
+      "pt_br": "Hier befindet sich nichts, was du melden könntest."
+    },
+    {
+      "id": 218,
+      "en": "Das wird gerade schon von jemandem benutzt.",
+      "pt_br": "Das wird gerade schon von jemandem benutzt."
+    },
+    {
+      "id": 219,
+      "en": "Über diese Challenge kannst du keinen Bericht erstatten.",
+      "pt_br": "Über diese Challenge kannst du keinen Bericht erstatten."
+    },
+    {
+      "id": 220,
+      "en": "Das kannst du hier nicht platzieren.",
+      "pt_br": "Das kannst du hier nicht platzieren."
+    },
+    {
+      "id": 221,
+      "en": "Ohne Leitern kannst du das hier nicht platzieren.",
+      "pt_br": "Ohne Leitern kannst du das hier nicht platzieren."
+    },
+    {
+      "id": 222,
+      "en": "Das musst du direkt an einem Block platzieren.",
+      "pt_br": "Das musst du direkt an einem Block platzieren."
+    },
+    {
+      "id": 223,
+      "en": "Die verbundene Maschine benötigt noch mehr Strom.",
+      "pt_br": "Die verbundene Maschine benötigt noch mehr Strom."
+    },
+    {
+      "id": 224,
+      "en": "In diesem Zustand lässt sich das nicht bewegen.",
+      "pt_br": "In diesem Zustand lässt sich das nicht bewegen."
+    },
+    {
+      "id": 225,
+      "en": "In diesem Habitat wohnt schon ein Pokémon. Versuche es woanders.",
+      "pt_br": "In diesem Habitat wohnt schon ein Pokémon. Versuche es woanders."
+    },
+    {
+      "id": 226,
+      "en": "In diesem Habitat könnte ein anderes Pokémon wohnen. Versuche es woanders.",
+      "pt_br": "In diesem Habitat könnte ein anderes Pokémon wohnen. Versuche es woanders."
+    },
+    {
+      "id": 227,
+      "en": "Dieses Habitat ist ungeeignet. Versuche es woanders noch mal.",
+      "pt_br": "Dieses Habitat ist ungeeignet. Versuche es woanders noch mal."
+    },
+    {
+      "id": 228,
+      "en": "Dieses Habitat wurde bereits registriert.",
+      "pt_br": "Dieses Habitat wurde bereits registriert."
+    },
+    {
+      "id": 229,
+      "en": "Wegen eines Verbindungsfehlers hast du deine Begleitung verloren.",
+      "pt_br": "Wegen eines Verbindungsfehlers hast du deine Begleitung verloren."
+    },
+    {
+      "id": 230,
+      "en": "Das ist derzeit nicht möglich.",
+      "pt_br": "Das ist derzeit nicht möglich."
+    },
+    {
+      "id": 231,
+      "en": "Hier solltest du das lieber nicht platzieren.",
+      "pt_br": "Hier solltest du das lieber nicht platzieren."
+    },
+    {
+      "id": 232,
+      "en": "Mehr kannst du hier nicht pflanzen.",
+      "pt_br": "Mehr kannst du hier nicht pflanzen."
+    },
+    {
+      "id": 233,
+      "en": "Solange du das Spiel über die GameShare-Funktion teilst, ist das nicht möglich.",
+      "pt_br": "Solange du das Spiel über die GameShare-Funktion teilst, ist das nicht möglich."
+    },
+    {
+      "id": 234,
+      "en": "Mehr kannst du nicht platzieren.",
+      "pt_br": "Mehr kannst du nicht platzieren."
+    },
+    {
+      "id": 235,
+      "en": "Das kann nur der Verwalter machen.",
+      "pt_br": "Das kann nur der Verwalter machen."
+    },
+    {
+      "id": 236,
+      "en": "Bitte warte, bis dein Besuch eingetroffen ist.",
+      "pt_br": "Bitte warte, bis dein Besuch eingetroffen ist."
+    },
+    {
+      "id": 237,
+      "en": "Deine AP sind bereits vollständig aufgefüllt.",
+      "pt_br": "Deine AP sind bereits vollständig aufgefüllt."
+    },
+    {
+      "id": 238,
+      "en": "Das hast du bereits erlernt.",
+      "pt_br": "Das hast du bereits erlernt."
+    },
+    {
+      "id": 239,
+      "en": "Du hast nicht genug Zutaten.",
+      "pt_br": "Du hast nicht genug Zutaten."
+    },
+    {
+      "id": 240,
+      "en": "Es fehlen Zutaten und es sind nicht genug Pokémon zum Helfen da.",
+      "pt_br": "Es fehlen Zutaten und es sind nicht genug Pokémon zum Helfen da."
+    },
+    {
+      "id": 241,
+      "en": "Driftlon hilft gerade in <$cdef(27)><$stgname;0(lnum1)> </color>aus.",
+      "pt_br": "Driftlon hilft gerade in <$cdef(27)><$stgname;0(lnum1)> </color>aus."
+    },
+    {
+      "id": 242,
+      "en": "Selbst wenn du mehr Pflanzen anbaust, werden sie keine Früchte tragen.",
+      "pt_br": "Selbst wenn du mehr Pflanzen anbaust, werden sie keine Früchte tragen."
+    },
+    {
+      "id": 243,
+      "en": "Das ist derzeit nicht möglich, da mindestens ein Spieler gerade anderweitig beschäftigt ist.",
+      "pt_br": "Das ist derzeit nicht möglich, da mindestens ein Spieler gerade anderweitig beschäftigt ist."
+    },
+    {
+      "id": 244,
+      "en": "Wenn du die Ditto-Farbe verwendest, kannst du die Farbe von Kleidung und Beutel nicht ändern.",
+      "pt_br": "Wenn du die Ditto-Farbe verwendest, kannst du die Farbe von Kleidung und Beutel nicht ändern."
+    },
+    {
+      "id": 245,
+      "en": "Ohne Wasser kannst du nichts bauen, das im oder auf dem Wasser treiben soll.",
+      "pt_br": "Ohne Wasser kannst du nichts bauen, das im oder auf dem Wasser treiben soll."
+    },
+    {
+      "id": 246,
+      "en": "So etwas Wichtiges solltest du besser nicht wegwerfen.",
+      "pt_br": "So etwas Wichtiges solltest du besser nicht wegwerfen."
+    },
+    {
+      "id": 247,
+      "en": "Du kannst diesen <$cdef(27)><fqty(1)><$iname(1677)></color> nicht wegräumen, da er jemand anderem gehört.",
+      "pt_br": "Du kannst diesen <$cdef(27)><fqty(1)><$iname(1677)></color> nicht wegräumen, da er jemand anderem gehört."
+    },
+    {
+      "id": 248,
+      "en": "Du kannst diesen <$cdef(27)><fqty(1)><$iname(1677)> </color>nicht zerstören, da er <$cdef(27)><$strpname;0(lstr1,lnum1)></color> gehört.",
+      "pt_br": "Du kannst diesen <$cdef(27)><fqty(1)><$iname(1677)> </color>nicht zerstören, da er <$cdef(27)><$strpname;0(lstr1,lnum1)></color> gehört."
+    },
+    {
+      "id": 249,
+      "en": "Du kannst diesen <$cdef(27)><fqty(1)><$iname(1677)></color> nicht zerstören, da er jemand anderem gehört.",
+      "pt_br": "Du kannst diesen <$cdef(27)><fqty(1)><$iname(1677)></color> nicht zerstören, da er jemand anderem gehört."
+    },
+    {
+      "id": 250,
+      "en": "Du musst zuerst seinen Wunsch erfüllen!",
+      "pt_br": "Du musst zuerst seinen Wunsch erfüllen!"
+    },
+    {
+      "id": 251,
+      "en": "Die Daten der herunterladbaren Inhalten werden benötigt.",
+      "pt_br": "Die Daten der herunterladbaren Inhalten werden benötigt."
+    },
+    {
+      "id": 252,
+      "en": "Durch den Smoothie wurde <$cdef(27)><$sklname(10)> </color>verstärkt!",
+      "pt_br": "Durch den Smoothie wurde <$cdef(27)><$sklname(10)> </color>verstärkt!"
+    },
+    {
+      "id": 253,
+      "en": "Die Farbe von diesem Bereich kann nicht geändert werden, wenn ein Muster verwendet wird.",
+      "pt_br": "Die Farbe von diesem Bereich kann nicht geändert werden, wenn ein Muster verwendet wird."
+    },
+    {
+      "id": 254,
+      "en": "Die <$cdef(27)><fqty(1)><$iname(1440)></color> muss oben auf dem Haus platziert werden.",
+      "pt_br": "Die <$cdef(27)><fqty(1)><$iname(1440)></color> muss oben auf dem Haus platziert werden."
+    },
+    {
+      "id": 255,
+      "en": "Du kannst Surfer so tief unter Wasser nicht einsetzen.",
+      "pt_br": "Du kannst Surfer so tief unter Wasser nicht einsetzen."
+    },
+    {
+      "id": 256,
+      "en": "Jemandes Bleibe solltest du besser nicht zerstören.",
+      "pt_br": "Jemandes Bleibe solltest du besser nicht zerstören."
+    }
+  ]
+}

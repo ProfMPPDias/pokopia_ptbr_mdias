@@ -1,0 +1,424 @@
+{
+  "entry_index": 4286,
+  "bin_id": "0xaebb00",
+  "decompressed_size": 3680,
+  "first_tag_offset": 1216,
+  "total_strings": 83,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Nicely done, <$cdef(27)><$etpname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "What fun!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "Just leave this to me. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "The real work is just beginning!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "This will be done in no time.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "How exciting. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "It’s raining? I must get home.",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "That looks scrumptious.",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Oh, how I long to search for treasure...",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "I’ll tire myself out getting there...",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Time for a rest, I think.",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "I’m so glad I made it! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "This area’s a little hard to traverse...",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "I found something!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "Something’s just above here.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Something’s just below here.",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "It seems something’s over this way.",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "Hmmm... No luck here, I’m afraid.",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "There’s something over there. I just know it.",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "There’s something nearby—I’m quite sure.",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "Has the path been cleared?",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "Alas, a dead end...",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Could you place it a little closer?",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Oh my, how delightful!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "The <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "How pleasantly warm. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "It’s rather hot...",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "How pleasantly cool. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "It’s rather cold...",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "How pleasantly bright. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "It’s rather bright...",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "How pleasantly dark. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "I prefer a bit more light...",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "How pleasantly humid. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "It’s rather humid...",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "How pleasantly dry. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "It’s rather dry...",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "I can’t get through...",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Well, doesn’t this look homey!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "What a lovely little domicile.",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "I’m glad you came to visit. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "A bit too small, perhaps?",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "All right, let’s be off. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "Let’s do this again. ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "I’m eager to be of help.",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "What a lovely aroma.",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "I’m sorry, but I can’t right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "Our work here is done! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "I’ll handle this.",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "Don’t mind me! Just dropping by.",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "What might that be?",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "I’ll start looking for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "Apologies, but I’m famished right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "What’s this?",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "How wonderful!",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "Hup!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "How pleasant.",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Hold on a moment!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "I’m afraid I can’t go on...",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Let me handle this.",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "We need to start with some water.",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Where could you be?",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "No luck yet...",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "Could that be...?",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "If I follow this scent...",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "Your transformations can’t fool me, little one.",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Ah! There you are.",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "Here goes!",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "That turned out nicely.",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "I’m looking forward to this.",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "I’m all set to start.",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Are we still waiting?",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "What a happy occasion.",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "What a charming space!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "A different spot might be better.",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "There’s plenty to go around.",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "This doesn’t seem like the best spot...",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Must be the wind...",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "I heard something.",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "Could you supply some <$cdef(27)>bubbles</color> first?",
+      "pt_br": ""
+    }
+  ]
+}

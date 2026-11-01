@@ -1,0 +1,419 @@
+{
+  "entry_index": 4261,
+  "bin_id": "0xadff00",
+  "decompressed_size": 4104,
+  "first_tag_offset": 1217,
+  "total_strings": 82,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Sei davvero in gamba, <$cdef(27)><$etpname;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Vedrai, avremo un'intesa perfetta!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "È il momento di mostrare ai giovani come si lavora!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Adesso inizio a fare sul serio!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "Il lavoro è quasi ultimato!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Fiuuuu!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Bah, piove... Meglio rincasare.",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Che leccornia!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Cercare tesori è il mio forte!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "Non c'è proprio verso...",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Ohi ohi, che stanchezza... Sarà la vecchiaia...",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "Eccoci a destinazione!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "Si fa fatica a passare, qui!",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "È qui, me lo sento nelle ossa!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "È quassù, ci scommetto!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "È quaggiù, te lo dico io!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Per di qua!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "Mmmh... Ma dove sarà?",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Che sia per di là?",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "È da queste parti!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "Tutto pronto per partire?",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "Ma... Ma... Non si passa!",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Se fosse un po' più vicino, sarebbe meglio!",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Fantastico, fantastico!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Ohibò! E <dart;0()><fqty(1)><$cdef(27)><$ifull;0(lnum1)></color>?!",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "Oh oh oh! Questo calduccio mi riscalda per bene! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Quello che ci vuole qui è un po' di fresco...",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Che aria fresca che tira! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "Alla mia età servono ambienti più caldi...",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "Finalmente un po' di luce in più! Bene, bene!",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "Ohi ohi... Che luce accecante...",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "C'è meno luce. Che atmosfera rilassante! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "Troppo scuro per i miei gusti...",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Quest'umidità è proprio un toccasana! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "Poveri i miei reumatismi, con questa umidità...",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Ora sì che c'è quell'aria secca che mi ci vuole! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Un po' di umidità in più non guasterebbe...",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "Ma... Ma... Da qui non si passa!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Qua sì che mi posso rilassare come si deve...!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "Un'abitazione bella comoda!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "Oh, eccoti! Che piacere vederti!",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "Non credo che le dimensioni siano grandi il giusto...",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "E sia! Ti seguo!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "Ci vediamo presto!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "Ottimo! Mi metto subito all'opera!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Mamma mia, che profumo!",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "Scusa, eh! Adesso ho altri impegni...",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "So che chi si loda s'imbroda, ma... guarda qua!",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Me ne occuperò io!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "Questo posto è veramente di mio gusto!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "Che cosa hai lì con te?",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "Vedrai che ora ti trovo!",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "Non riesco a muovermi per la fame...",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "Oh, perbacco! E questo che sarà?",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Che talento!",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "E oplà!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "Proprio quel che ci voleva...",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Non correre così, gli anziani si aspettano!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "Ma...! Ma...! Non riesco ad andare fino a lì!",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Molto bene! Lascia pure fare a me!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Per prima cosa, una bella annaffiatina...",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Ma dove sei, ora?",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "Qui non si trova...",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "Oh! Aspetta un attimo...",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "Seguirò il suo odore!",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "Guarda che ci vedo ancora benissimo!",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Eccoti qui, giovane!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "Eeee... Oplà!",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "Ed ecco il mio ingrediente segreto!",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "Che fame...",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>! Bene!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "Non vedo l'ora di sgranchirmi un po' le ossa!",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Eh eh eh... Non vedo proprio l'ora!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "Che capolavoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "Non c'è che dire, c'è proprio una bella atmosfera!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "Onestamente quest'acqua è un po' un problema...",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "Tutto pronto, ed è uscita una meraviglia!",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "Occhio! C'è qualcosa d'intralcio qua sopra.",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Vuoi vedere che me lo sono immaginato? Ah, l'età...",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "Cos'è? Chi è? Ho sentito un rumore!",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "Ohibò! <fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>",
+      "pt_br": ""
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "entry_index": 2657,
+  "bin_id": "0x6ab200",
+  "decompressed_size": 12120,
+  "first_tag_offset": 1263,
+  "total_strings": 61,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$comeff(1,10)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>This town has really gotten brighter thanks to you and<br>your friends, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$comeff(1,10)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>Esta cidade realmente ficou mais brilhante graças a você e<br>os teus amigos, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 1,
+      "en": "<$comeff(1,7)><$facial(1,9)><$motion(1,663)><$voicel(1,3)>But we’re still not seeing a fully bloomed flower field on<br><$cdef(27)>Snorlax</color>’s head.<clear><br><$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>It seems like we’re almost there, but... What else can we<br>possibly do?",
+      "pt_br": "<$comeff(1,7)><$facial(1,9)><$motion(1,663)><$voicel(1,3)>Mas nós ainda não estamos vendo um campo flor totalmente floresceu em<br><$cdef(27)>Snorlax</color>A cabeça.<clear><br><$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Parece que estamos quase lá, mas... O que mais podemos<br>É possível que sim?"
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(1,14)><$facial(1,1)><$motion(1,807)><$voicel(1,4)>Hmmm... I’m not certain we could make it much brighter<br>if we tried.",
+      "pt_br": "<$comeff(1,14)><$facial(1,1)><$motion(1,807)><$voicel(1,4)>Hmmm... Eu não estou certo de que poderíamos torná-lo muito mais brilhante<br>Se tentássemos."
+    },
+    {
+      "id": 3,
+      "en": "<$comeff(1,7)><$facial(1,9)><$motion(1,807)><$voicel(1,2)>Urk! That seems a little harsh...",
+      "pt_br": "<$comeff(1,7)><$facial(1,9)><$motion(1,807)><$voicel(1,2)>Isso parece um pouco áspero..."
+    },
+    {
+      "id": 4,
+      "en": "<$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Pardon me, if I may?",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Desculpe, se me permite?"
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(2,14)><$facial(2,1)><$motion(2,805)><$voicel(2,8)>While I was out and about in town, I stumbled upon quite<br>an intriguing device.",
+      "pt_br": "<$comeff(2,14)><$facial(2,1)><$motion(2,805)><$voicel(2,8)>Enquanto estava na cidade, deparei-me com<br>um dispositivo intrigante."
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(2,3)><$facial(2,1)><$motion(2,666)><$voicel(2,5)>Now, if this device does what I THINK it does...<clear><br><$comeff(2,21)><$facial(2,4)><$motion(2,661)><$voicel(2,7)>It may be just what we need to finally wake <$cdef(27)>Snorlax</color>!",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$motion(2,666)><$voicel(2,5)>Se este dispositivo fizer o que penso que faz...<clear><br><$comeff(2,21)><$facial(2,4)><$motion(2,661)><$voicel(2,7)>Pode ser o que precisamos para finalmente acordar. <$cdef(27)>Snorlax</color>!"
+    },
+    {
+      "id": 7,
+      "en": "<$comeff(1,5)><$facial(1,1)><$motion(1,805)><$voicel(1,7)>Oho! Now that IS intriguing! Where is this device?",
+      "pt_br": "<$comeff(1,5)><$facial(1,1)><$motion(1,805)><$voicel(1,7)>Isso é intrigante, onde está este dispositivo?"
+    },
+    {
+      "id": 8,
+      "en": "<$comeff(2,3)><$facial(2,1)><$motion(2,805)><$voicel(2,7)>It’s right this way. Please, follow me!",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$motion(2,805)><$voicel(2,7)>É por aqui. Por favor, siga-me!"
+    },
+    {
+      "id": 9,
+      "en": "<$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Yes, this device may be just what we need...",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Sim, este dispositivo pode ser o que precisamos..."
+    },
+    {
+      "id": 10,
+      "en": "<$comeff(2,5)><$facial(2,1)><$motion(2,664)><$voicel(2,8)>It’s this way. Please, follow me!",
+      "pt_br": "<$comeff(2,5)><$facial(2,1)><$motion(2,664)><$voicel(2,8)>É por aqui. Por favor, siga-me!"
+    },
+    {
+      "id": 11,
+      "en": "<$comeff(1,5)><$facial(1,1)><$motion(1,805)><$voicel(1,8)>Follow <$cdef(27)>Peakychu</color>!",
+      "pt_br": "<$comeff(1,5)><$facial(1,1)><$motion(1,805)><$voicel(1,8)>Seguir <$cdef(27)>Peakychu</color>!"
+    },
+    {
+      "id": 12,
+      "en": "<$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>And here we are—the device in question!",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>E aqui estamos nós — o dispositivo em questão!"
+    },
+    {
+      "id": 13,
+      "en": "<$facial(1,1)><$voicel(1,6)>Fascinating... How exactly does one use it?",
+      "pt_br": "<$facial(1,1)><$voicel(1,6)>Fascinante... como é que se usa exactamente?"
+    },
+    {
+      "id": 14,
+      "en": "<$facial(2,1)><$voicel(2,6)>If my theory is correct, we must first connect this machine<br>to <$voicel(2,8)>an electrical current.",
+      "pt_br": "<$facial(2,1)><$voicel(2,6)>Se a minha teoria estiver correcta, temos de primeiro ligar esta máquina.<br>para <$voicel(2,8)>uma corrente eléctrica."
+    },
+    {
+      "id": 15,
+      "en": "<$voicel(2,7)>Look here—this shape indicates it should be able<br>to store electricity.",
+      "pt_br": "<$voicel(2,7)>Olhe aqui - esta forma indica que deve ser capaz<br>Para armazenar eletricidade."
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(1,5)><$comeff(1,3)><$facial(1,4)>I see. So first we run electricity into this device, correct?<clear><br><$voicel(1,8)><$facial(1,1)><$lookat(1,0,0)><$lookat(2,0,0)>Do you know how to do that, <$cdef(27)><pname;0></color>?",
+      "pt_br": "<$voicel(1,5)><$comeff(1,3)><$facial(1,4)>Primeiro, colocamos electricidade neste dispositivo, correcto?<clear><br><$voicel(1,8)><$facial(1,1)><$lookat(1,0,0)><$lookat(2,0,0)>sabe como fazer isso? <$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 17,
+      "en": "<$lookat(2,0,0)><$comeff(2,21)><$facial(2,4)><$motion(2,661)><$voicel(2,6)>Exactly right! This machine requires a large amount of<br>electricity, you see.<clear><br><$comeff(2,14)><$facial(2,1)><$motion(2,807)><$voicel(2,3)>Instead of relying on a Pokémon for just a temporary<br>charge, <wait(0.8)><$comeff(2,3)><$facial(2,1)><$motion(2,664)><$voicel(2,7)>I would like you to use <$cdef(27)><fqty(2)><$ifull(1396)> </color>to<slide><br>connect this to a <$cdef(27)>generator</color>.",
+      "pt_br": "<$lookat(2,0,0)><$comeff(2,21)><$facial(2,4)><$motion(2,661)><$voicel(2,6)>Exatamente certo! Esta máquina requer uma grande quantidade de<br>electricidade, vê.<clear><br><$comeff(2,14)><$facial(2,1)><$motion(2,807)><$voicel(2,3)>Em vez de confiar num Pokémon por apenas um temporário<br>carga, <wait(0.8)><$comeff(2,3)><$facial(2,1)><$motion(2,664)><$voicel(2,7)>Gostaria que usasse <$cdef(27)><fqty(2)><$ifull(1396)> </color>para<slide><br>ligar isto a uma <$cdef(27)>gerador</color>."
+    },
+    {
+      "id": 18,
+      "en": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,9)><$motion(2,663)><$voicel(2,6)>Errr, not quite. This device requires a great deal of<br>electricity, you see.<clear><br><$comeff(2,14)><$facial(2,1)><$motion(2,807)><$voicel(2,3)>Instead of relying on a Pokémon for just a temporary<br>charge, <$comeff(2,21)><$facial(2,1)><$motion(2,664)><$voicel(2,7)>I would like you to use <$cdef(27)><fqty(2)><$ifull(1396)> </color>to<slide><br>connect this to <$cdef(27)>generators</color>.",
+      "pt_br": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,9)><$motion(2,663)><$voicel(2,6)>Este dispositivo requer muito...<br>electricidade, vê.<clear><br><$comeff(2,14)><$facial(2,1)><$motion(2,807)><$voicel(2,3)>Em vez de confiar num Pokémon por apenas um temporário<br>carga, <$comeff(2,21)><$facial(2,1)><$motion(2,664)><$voicel(2,7)>Gostaria que usasse <$cdef(27)><fqty(2)><$ifull(1396)> </color>para<slide><br>ligar isto a <$cdef(27)>geradores</color>."
+    },
+    {
+      "id": 19,
+      "en": "<$lookat(1,0,0)><$comeff(1,10)><$facial(1,4)><$motion(1,666)><$voicel(1,9)>Understood. Thanks for explaining so clearly!",
+      "pt_br": "<$lookat(1,0,0)><$comeff(1,10)><$facial(1,4)><$motion(1,666)><$voicel(1,9)>Obrigado por explicar tão claramente!"
+    },
+    {
+      "id": 20,
+      "en": "<oneline><$comeff(1,3)><$facial(1,1)><$motion(1,806)><$voicel(1,6)>Right then, <$cdef(27)><pname;0></color>. It sounds like<br><$cdef(27)>Peakychu</color>’s<slide><br>got<slide><br>a<slide><br>plan<slide><br>of sorts.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,8)>So, do you think you could set up some <$cdef(27)><fqty(2)><$ifull(1396)></color> <$comeff(1,6)><$motion(1,664)><$voicel(1,9)>to<br>carry a lot of electricity from the <$cdef(27)>generators </color>to this device?",
+      "pt_br": "<oneline><$comeff(1,3)><$facial(1,1)><$motion(1,806)><$voicel(1,6)>Então mesmo. <$cdef(27)><pname;0></color>Parece que sim.<br><$cdef(27)>Peakychu</color>’s<slide><br>got<slide><br>a<slide><br>plano<slide><br>Mais ou menos.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,8)>Então, achas que podias arranjar alguma coisa para o teu pai? <$cdef(27)><fqty(2)><$ifull(1396)></color> <$comeff(1,6)><$motion(1,664)><$voicel(1,9)>para<br>transportar muita electricidade da <$cdef(27)>geradores </color>a este dispositivo?"
+    },
+    {
+      "id": 21,
+      "en": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,8)>I’m sorry to trouble you so, but we’re relying on your<br>help, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,8)>Lamento incomodá-lo, mas estamos contando com o seu<br>ajuda, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 22,
+      "en": "<$comeff(2,5)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>I would like you to send lots of electricity from the<br><$cdef(27)>generators </color>to this device!",
+      "pt_br": "<$comeff(2,5)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Gostaria que enviasse muita electricidade do<br><$cdef(27)>geradores </color>Para este dispositivo!"
+    },
+    {
+      "id": 23,
+      "en": "<$comeff(2,3)><$facial(2,1)><$motion(2,666)><$voicel(2,8)>In order to do that, you’ll need to use <$cdef(27)><fqty(2)><$ifull(1396)> </color>to<br>connect this device to the <$cdef(27)>generators</color>.",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$motion(2,666)><$voicel(2,8)>Para fazer isso, você vai precisar usar <$cdef(27)><fqty(2)><$ifull(1396)> </color>para<br>conectar este dispositivo ao <$cdef(27)>geradores</color>."
+    },
+    {
+      "id": 24,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,803)><$voicel(1,8)>Oho! It lit up! What do you think, <$cdef(27)>Peakychu</color>? <$lookat(1,0,2)><$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>Think this<br>device is usable now?",
+      "pt_br": "<$comeff(1,10)><$facial(1,4)><$motion(1,803)><$voicel(1,8)>O que achas? <$cdef(27)>Peakychu</color>? <$lookat(1,0,2)><$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>Pensa nisto.<br>O dispositivo está utilizável agora?"
+    },
+    {
+      "id": 25,
+      "en": "<$comeff(2,5)><$facial(2,1)><$motion(2,664)><$voicel(2,8)>Let us test it out right away!",
+      "pt_br": "<$comeff(2,5)><$facial(2,1)><$motion(2,664)><$voicel(2,8)>Vamos testá-lo imediatamente!"
+    },
+    {
+      "id": 26,
+      "en": "<$comeff(2,14)><$facial(2,9)><$voicel(2,3)>... ... ...",
+      "pt_br": "<$comeff(2,14)><$facial(2,9)><$voicel(2,3)>... ... ..."
+    },
+    {
+      "id": 27,
+      "en": "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Well? Is it working?",
+      "pt_br": "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Está a funcionar?"
+    },
+    {
+      "id": 28,
+      "en": "<$comeff(2,7)><$facial(2,9)><$motion(2,667)><$voicel(2,1)>My apologies. It appears we still need more electricity...",
+      "pt_br": "<$comeff(2,7)><$facial(2,9)><$motion(2,667)><$voicel(2,1)>Parece que ainda precisamos de mais electricidade."
+    },
+    {
+      "id": 29,
+      "en": "<$comeff(1,14)><$facial(1,1)><$motion(1,807)><$voicel(1,4)>Is that so...",
+      "pt_br": "<$comeff(1,14)><$facial(1,1)><$motion(1,807)><$voicel(1,4)>É mesmo..."
+    },
+    {
+      "id": 30,
+      "en": "<$comcan(1)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>It appears we’ll need to increase the volume of<br>electricity by using more <$cdef(27)>generators</color>...",
+      "pt_br": "<$comcan(1)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Parece que vamos precisar de aumentar o volume de<br>eletricidade usando mais <$cdef(27)>geradores</color>..."
+    },
+    {
+      "id": 31,
+      "en": "<oneline><$lookat(2,0,0)><$comeff(2,4)><$facial(2,1)><$motion(2,807)><$voicel(2,4)>I am so sorry to ask for your help again and again,<br><$cdef(27)><pname;0></color>...<clear><br><$comeff(2,6)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>But could I ask you to connect even more <$cdef(27)>generators </color>to<br>this device?",
+      "pt_br": "<oneline><$lookat(2,0,0)><$comeff(2,4)><$facial(2,1)><$motion(2,807)><$voicel(2,4)>Lamento pedir-te ajuda uma e outra vez.<br><$cdef(27)><pname;0></color>...<clear><br><$comeff(2,6)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Mas posso pedir-lhe que se conecte ainda mais <$cdef(27)>geradores </color>para<br>Este dispositivo?"
+    },
+    {
+      "id": 32,
+      "en": "There are a few different <$cdef(27)>generators </color>in this town.<clear><br>If one doesn’t produce enough electricity, try to find a<br>second <$cdef(27)>generator</color>—or even a third—and connect their<slide><br>electrical currents to this machine.",
+      "pt_br": "Há alguns diferentes. <$cdef(27)>geradores </color>Nesta cidade.<clear><br>Se não se produz eletricidade suficiente, tente encontrar um<br>segunda <$cdef(27)>gerador</color>—ou até mesmo um terço — e conectá-los<slide><br>Correntes elétricas para esta máquina."
+    },
+    {
+      "id": 33,
+      "en": "You can also buy <$cdef(27)>building kits</color> at the <$cdef(27)>PC </color>and use them to<br>build <$cdef(27)>generators </color>anywhere you please!",
+      "pt_br": "Você também pode comprar <$cdef(27)>kits de construção</color> na <$cdef(27)>PC </color>e usá-los para<br>compilação <$cdef(27)>geradores </color>Onde quiseres!"
+    },
+    {
+      "id": 34,
+      "en": "<$comeff(1,5)><$facial(1,1)><$motion(1,665)><$voicel(1,8)>Wh-what was that?! I just heard a zap—was that you?",
+      "pt_br": "<$comeff(1,5)><$facial(1,1)><$motion(1,665)><$voicel(1,8)>- O que foi isso?!"
+    },
+    {
+      "id": 35,
+      "en": "<oneline><$comeff(2,17)><$facial(2,1)><$motion(2,807)><$voicel(2,6)>Phew!<clear><br><$comeff(2,3)><$facial(2,4)><$motion(2,661)><$voicel(2,8)>Thanks to <$cdef(27)><pname;0></color>, it seems this device<br>was<slide><br>already<slide><br><$comeff(2,9)><$motion(2,806)><$voicel(2,9)>linked<slide><br>to<slide><br>a<slide><br>sufficient<slide><br>electrical<slide><br>current!<clear><br><$comeff(2,10)><$facial(2,1)><$motion(2,664)><$voicel(2,7)>And as a result, I was able to charge my cheeks with plenty<br>of electricity!",
+      "pt_br": "<oneline><$comeff(2,17)><$facial(2,1)><$motion(2,807)><$voicel(2,6)>Ufa!<clear><br><$comeff(2,3)><$facial(2,4)><$motion(2,661)><$voicel(2,8)>Graças a <$cdef(27)><pname;0></color>Parece que este dispositivo...<br>foi<slide><br>já<slide><br><$comeff(2,9)><$motion(2,806)><$voicel(2,9)>ligado<slide><br>para<slide><br>a<slide><br>suficiente<slide><br>elétrico<slide><br>Atual!<clear><br><$comeff(2,10)><$facial(2,1)><$motion(2,664)><$voicel(2,7)>E como resultado, eu fui capaz de carregar minhas bochechas com abundância<br>de eletricidade!"
+    },
+    {
+      "id": 36,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,666)><$voicel(1,8)>Oho! Are you saying you can use electricity again?!",
+      "pt_br": "<$comeff(1,3)><$facial(1,1)><$motion(1,666)><$voicel(1,8)>Está dizendo que pode usar eletricidade novamente?!"
+    },
+    {
+      "id": 37,
+      "en": "<$comeff(2,4)><$facial(2,1)><$motion(2,807)><$voicel(2,4)>Well, as I had guessed, I still cannot GENERATE<br>electricity...<clear><br><$comeff(2,3)><$motion(2,803)><$voicel(2,6)>But this device has allowed me to ABSORB plenty of it!<clear><br><$lookat(2,0,0)><$comeff(2,9)><$facial(2,4)><$motion(2,806)><$voicel(2,7)>And now I have a very special move in mind—one I’ve<br>been waiting a very long time to use!",
+      "pt_br": "<$comeff(2,4)><$facial(2,1)><$motion(2,807)><$voicel(2,4)>Bem, como eu tinha adivinhado, ainda não consigo gerar<br>electricidade...<clear><br><$comeff(2,3)><$motion(2,803)><$voicel(2,6)>Mas este dispositivo permitiu-me a ABSORVar bastante!<clear><br><$lookat(2,0,0)><$comeff(2,9)><$facial(2,4)><$motion(2,806)><$voicel(2,7)>E agora eu tenho uma jogada muito especial em mente – uma que eu tenho<br>esperou muito tempo para usar!"
+    },
+    {
+      "id": 38,
+      "en": "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,3)>What in the world are you planning?",
+      "pt_br": "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,3)>O que está a planear?"
+    },
+    {
+      "id": 39,
+      "en": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>This particular move ought to light up the town even<br>brighter than it already is! <$comeff(2,14)><$facial(2,7)><$motion(2,666)><$voicel(2,3)>Well, without further ado...",
+      "pt_br": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Este movimento em particular deve iluminar a cidade até mesmo<br>Mais brilhante do que já é! <$comeff(2,14)><$facial(2,7)><$motion(2,666)><$voicel(2,3)>Bem, sem mais delongas..."
+    },
+    {
+      "id": 40,
+      "en": "<$comeff(2,5)><$facial(2,7)><$voicel(2,9)><$textsize(2)>PIIIKAAA...CHUUUUUU!!!</textsize>",
+      "pt_br": "<$comeff(2,5)><$facial(2,7)><$voicel(2,9)><$textsize(2)>PIIIKAAA...CHUUUUUUU!!!!</textsize>"
+    },
+    {
+      "id": 41,
+      "en": "<$comeff(2,5)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>I would like you to send lots of electricity from the<br><$cdef(27)>generators </color>to this device!",
+      "pt_br": "<$comeff(2,5)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Gostaria que enviasse muita electricidade do<br><$cdef(27)>geradores </color>Para este dispositivo!"
+    },
+    {
+      "id": 42,
+      "en": "<$comeff(2,14)><$facial(2,1)><$motion(2,666)><$voicel(2,4)>In order to do that, you’ll need to use <$cdef(27)><fqty(2)><$ifull(1396)> </color>to<br>connect this device to the <$cdef(27)>generators</color>.",
+      "pt_br": "<$comeff(2,14)><$facial(2,1)><$motion(2,666)><$voicel(2,4)>Para fazer isso, você vai precisar usar <$cdef(27)><fqty(2)><$ifull(1396)> </color>para<br>conectar este dispositivo ao <$cdef(27)>geradores</color>."
+    },
+    {
+      "id": 43,
+      "en": "<$comeff(2,5)><$facial(2,1)><$motion(2,805)><$voicel(2,8)>I can sense it... This time we have plenty of electricity<br>stored up!",
+      "pt_br": "<$comeff(2,5)><$facial(2,1)><$motion(2,805)><$voicel(2,8)>Desta vez, temos muita electricidade.<br>Armazenado!"
+    },
+    {
+      "id": 44,
+      "en": "<$comeff(2,3)><$facial(2,1)><$motion(2,803)><$voicel(2,7)>Well, I had better try it out posthaste. I’m so nervous my<br>cheeks are tingling!",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$motion(2,803)><$voicel(2,7)>Bem, é melhor eu experimentar isso depois. Estou tão nervoso meu<br>As bochechas estão a formigar!"
+    },
+    {
+      "id": 45,
+      "en": "<$comeff(2,14)><$facial(2,1)><$motion(2,666)><$voicel(2,3)>I hope this works...",
+      "pt_br": "<$comeff(2,14)><$facial(2,1)><$motion(2,666)><$voicel(2,3)>Espero que isto funcione..."
+    },
+    {
+      "id": 46,
+      "en": "<$comeff(1,5)><$facial(1,1)><$motion(1,665)><$voicel(1,8)>Wh-what was that?! I just heard a zap—was that you?",
+      "pt_br": "<$comeff(1,5)><$facial(1,1)><$motion(1,665)><$voicel(1,8)>- O que foi isso?!"
+    },
+    {
+      "id": 47,
+      "en": "<oneline><$comeff(2,17)><$facial(2,1)><$motion(2,807)><$voicel(2,6)>Phew!<clear><br><$comeff(2,3)><$facial(2,4)><$motion(2,661)><$voicel(2,8)><$cdef(27)><pname;0></color> sent all the energy we needed<br>to<slide><br>this device!<clear><br><$comeff(2,10)><$facial(2,1)><$motion(2,664)><$voicel(2,7)>As a result, I was able to charge my cheeks with plenty<br>of electricity!",
+      "pt_br": "<oneline><$comeff(2,17)><$facial(2,1)><$motion(2,807)><$voicel(2,6)>Ufa!<clear><br><$comeff(2,3)><$facial(2,4)><$motion(2,661)><$voicel(2,8)><$cdef(27)><pname;0></color> enviou toda a energia que precisávamos<br>para<slide><br>Este dispositivo!<clear><br><$comeff(2,10)><$facial(2,1)><$motion(2,664)><$voicel(2,7)>Em resultado disso, consegui carregar as bochechas com muita<br>de eletricidade!"
+    },
+    {
+      "id": 48,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,666)><$voicel(1,8)>Oho! Are you saying you can use electricity again?!",
+      "pt_br": "<$comeff(1,3)><$facial(1,1)><$motion(1,666)><$voicel(1,8)>Está dizendo que pode usar eletricidade novamente?!"
+    },
+    {
+      "id": 49,
+      "en": "<$comeff(2,4)><$facial(2,1)><$motion(2,807)><$voicel(2,4)>Well, as I had guessed, I still cannot GENERATE<br>electricity...<clear><br><$comeff(2,3)><$motion(2,803)><$voicel(2,6)>But this device has allowed me to ABSORB plenty of it!<clear><br><$lookat(2,0,0)><$comeff(2,9)><$facial(2,4)><$motion(2,806)><$voicel(2,7)>And now I have a very special move in mind—one I’ve<br>been waiting a very long time to use!",
+      "pt_br": "<$comeff(2,4)><$facial(2,1)><$motion(2,807)><$voicel(2,4)>Bem, como eu tinha adivinhado, ainda não consigo gerar<br>electricidade...<clear><br><$comeff(2,3)><$motion(2,803)><$voicel(2,6)>Mas este dispositivo permitiu-me a ABSORVar bastante!<clear><br><$lookat(2,0,0)><$comeff(2,9)><$facial(2,4)><$motion(2,806)><$voicel(2,7)>E agora eu tenho uma jogada muito especial em mente – uma que eu tenho<br>esperou muito tempo para usar!"
+    },
+    {
+      "id": 50,
+      "en": "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,3)>What in the world are you planning?",
+      "pt_br": "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,3)>O que está a planear?"
+    },
+    {
+      "id": 51,
+      "en": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>This particular move ought to light up the town even<br>brighter than it already is! <$comeff(2,14)><$facial(2,7)><$motion(2,666)><$voicel(2,3)>Well, without further ado...",
+      "pt_br": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Este movimento em particular deve iluminar a cidade até mesmo<br>Mais brilhante do que já é! <$comeff(2,14)><$facial(2,7)><$motion(2,666)><$voicel(2,3)>Bem, sem mais delongas..."
+    },
+    {
+      "id": 52,
+      "en": "<$comeff(2,5)><$facial(2,7)><$voicel(2,9)><$textsize(2)>PIIIKAAA...CHUUUUUU!!!</textsize>",
+      "pt_br": "<$comeff(2,5)><$facial(2,7)><$voicel(2,9)><$textsize(2)>PIIIKAAA...CHUUUUUUU!!!!</textsize>"
+    },
+    {
+      "id": 53,
+      "en": "<$comeff(1,5)><$facial(1,1)><$motion(1,665)><$voicel(1,10)>Oho! Would you look at that! So incredibly bright!",
+      "pt_br": "<$comeff(1,5)><$facial(1,1)><$motion(1,665)><$voicel(1,10)>Vejam só, tão brilhante!"
+    },
+    {
+      "id": 54,
+      "en": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,4)><$motion(2,661)><$voicel(2,9)>Phew! That went well, I think. Was I of any help at all?",
+      "pt_br": "<$lookat(2,0,0)><$comeff(2,3)><$facial(2,4)><$motion(2,661)><$voicel(2,9)>Isso correu bem, acho eu."
+    },
+    {
+      "id": 55,
+      "en": "<$lookat(1,0,2)><$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Most certainly! I had no idea you could use a move<br>like that!",
+      "pt_br": "<$lookat(1,0,2)><$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Eu não tinha idéia que você poderia usar um movimento<br>Assim!"
+    },
+    {
+      "id": 56,
+      "en": "<$lookat(4,0,2)><$comeff(5,10)><$facial(5,4)><$motion(5,801)><$voicel(5,7)>You’re AMAZING, <$cdef(27)>Peakychu</color>!",
+      "pt_br": "<$lookat(4,0,2)><$comeff(5,10)><$facial(5,4)><$motion(5,801)><$voicel(5,7)>Você é incrível, <$cdef(27)>Peakychu</color>!"
+    },
+    {
+      "id": 57,
+      "en": "<$lookat(5,0,2)><$comeff(4,21)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>My coin’s all shiny too!",
+      "pt_br": "<$lookat(5,0,2)><$comeff(4,21)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>Minha moeda é toda brilhante também!"
+    },
+    {
+      "id": 58,
+      "en": "<$lookat(6,0,2)><$comeff(6,9)><$facial(6,4)><$motion(6,803)><$voicel(6,8)>Yooo! It’s BEAUTIFUL, <$cdef(27)>Peakychu</color>! And so bright!",
+      "pt_br": "<$lookat(6,0,2)><$comeff(6,9)><$facial(6,4)><$motion(6,803)><$voicel(6,8)>É lindo. <$cdef(27)>Peakychu</color>E tão brilhante!"
+    },
+    {
+      "id": 59,
+      "en": "<$lookat(2,0,0)><$comeff(2,10)><$facial(2,4)><$motion(2,664)><$voicel(2,8)>Tee-hee! Thank you all for your kind words. I’m just glad I<br>was able to be of use...",
+      "pt_br": "<$lookat(2,0,0)><$comeff(2,10)><$facial(2,4)><$motion(2,664)><$voicel(2,8)>Tee-hee! Obrigado a todos por suas palavras amáveis. Estou apenas feliz que eu<br>foi capaz de ser útil..."
+    },
+    {
+      "id": 60,
+      "en": "<$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Well then, shall we go check in on <$cdef(27)>Snorlax </color>and see how<br>they’re doing?",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,6)>Bem, então, vamos ver como está. <$cdef(27)>Snorlax </color>e ver como<br>eles estão fazendo?"
+    }
+  ]
+}

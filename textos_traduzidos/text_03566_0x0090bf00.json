@@ -1,0 +1,29 @@
+{
+  "entry_index": 3566,
+  "bin_id": "0x90bf00",
+  "decompressed_size": 928,
+  "first_tag_offset": 240,
+  "total_strings": 4,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(2,5)><$emotion(2,65)>That Pokémon was always hiding in the sand—oh, and I<br>might’ve seen them sleeping in the grass, too!",
+      "pt_br": "<$voicel(2,5)><$emotion(2,65)>Que Pokémon estava sempre escondido na areia - oh, e eu<br>talvez os vi dormindo na grama, também!"
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(2,2)><$comeff(2,3)>Maybe you’ll find them over here!",
+      "pt_br": "<$voicel(2,2)><$comeff(2,3)>Talvez você vai encontrá-los aqui!"
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(2,9)><$facial(2,5)><$motion(2,839)><$comeff(2,21)>Oooh, you met <$cdef(27)><$cname(573)></color>? YAY! If they need anything,<br>make sure to help ’em out!",
+      "pt_br": "<$voicel(2,9)><$facial(2,5)><$motion(2,839)><$comeff(2,21)>Oooh, já se conhecem. <$cdef(27)><$cname(573)></color>Se eles precisarem de alguma coisa,<br>certifique - se de ajudá - los!"
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(2,4)><$facial(2,1)><$motion(2,827)><$comeff(2,14)><$cdef(27)><$cname(573)></color> really loves cool-looking buildings.<clear><br><$voicel(2,8)><$facial(2,4)><$motion(2,654)><$comeff(2,10)>Maybe you could help ’em out if they’re itching to<br><$cdef(27)><$spwfull(1)> </color>something!",
+      "pt_br": "<$voicel(2,4)><$facial(2,1)><$motion(2,827)><$comeff(2,14)><$cdef(27)><$cname(573)></color> Adoro prédios de aspecto fixe.<clear><br><$voicel(2,8)><$facial(2,4)><$motion(2,654)><$comeff(2,10)>Talvez você possa ajudá - los se eles estiverem ansiosos para<br><$cdef(27)><$spwfull(1)> </color>Alguma coisa!"
+    }
+  ]
+}

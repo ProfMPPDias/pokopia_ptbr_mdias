@@ -1,0 +1,1739 @@
+{
+  "entry_index": 1984,
+  "bin_id": "0x33be00",
+  "decompressed_size": 65536,
+  "first_tag_offset": 8067,
+  "total_strings": 346,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Ciaooo! Ma lo sai che hai proprio un'aria simpatica?<br><$voicel(1,10)><$emotion(1,8)>Ti va di fare amicizia?<clear><br><$voicel(1,8)><$emotion(1,49)>Vedrai, ci divertiremo troppo a giocare insieme!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(1,7)><$emotion(1,50)><$pkcry;0(1,2)>! Ciaooo!<clear><br><$voicel(1,5)><$emotion(1,38)>Piacere, io sono <gen;-3(un ,un')>amic<gen;-3(o,a)> di <$cdef(27)><nowner;2></color>!<br><$voicel(1,7)><$emotion(1,14)><$facial(1,4)>Sarebbe grandioso poter fare amicizia anche con te!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(1,7)><$emotion(1,50)><$pkcry;0(1,2)>! Ciaooo!<clear><br><$voicel(1,5)><$emotion(1,38)>Piacere, io sono <gen;-3(un ,un')>amic<gen;-3(o,a)> di <$cdef(27)><acqpname;2></color>!<br><$voicel(1,7)><$emotion(1,14)><$facial(1,4)>Sarebbe grandioso poter fare amicizia anche con te!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(1,7)><$emotion(1,50)><$pkcry;0(1,2)>! Ciaooo!<clear><br><$voicel(1,5)><$emotion(1,38)>Piacere, io sono <gen;-3(un ,un')>amic<gen;-3(o,a)> di qualcuno che vive qua!<br>Sarebbe grandioso poter fare amicizia anche con te!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(1,7)><$emotion(1,7)><$pkcry;0(1,1)>... C'era un profumo così buono che<br>l'ho seguito, e senza accorgermene sono tornat<gen;-3(o,a)> qua!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<oneline><$facial(1,5)><$motion(1,801)><$voicel(1,10)><$comeff(1,10)>Nooo, non sai da quanto ti volevo vedere,<br><$cdef(27)><pname;0></color>! Voglio troppo giocare con te!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,50)><$pkcry;0(1,2)>! Ciaooo, piacere! Stai facendo quattro<br>passi?<clear><br><$voicel(1,7)><$comeff(1,10)><$motion(1,805)><$facial(1,4)>Anch'io stavo pensando di fare un giretto qua attorno.<br>Sembra un posto superfantastico per viverci!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<$emotion(1,55)><$voicel(1,5)>Ovunque io mi trovi, mi scovano sempre tutti!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "<$emotion(1,55)><$voicel(1,5)>Ora che gli umani sono spariti, le manutenzioni me le<br>sogno. <$comeff(1,10)><$motion(1,807)><$facial(1,9)><$voicel(1,4)>Non sai che ansia mi mette 'sta cosa!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "<$emotion(1,65)><$voicel(1,5)>Non c'è qualche bel minerale qua in giro?<br>Vorrei migliorare il mio martello!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<$emotion(1,65)><$voicel(1,5)>Più esplori sott'acqua e più scoperte fai...<clear><br><$motionoff(1,804)><$comeff(1,9)><$facial(1,4)><$voicel(1,8)>L'ultima volta ho trovato delle conchiglie e dei sassi<br>davvero fenomenali!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(1,7)><$emotion(1,14)><$facial(1,4)>Visto che roba il mio pelo? Da uno a dieci, merita un bel<br>dieci, no? <$voicel(1,10)><$comeff(1,9)><$motion(1,806)>Non mi faccio superare da nessuno!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Quando cresci, il tuo orizzonte si espande e riesci a<br>vedere molto più in là... Così ho sentito dire!<clear><br><$voicel(1,4)><$comeff(1,6)><$motion(1,666)>Però non mi è molto chiara la cosa... Significa che si<br>cresce in senso orizzontale?",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,39)><qty;0(È,Sono)> troppo bell<genqty;0(o,a,i,e)> quest<genqty;0(o,a,i,e)><br><$cdef(27)><fqty(1)><usingp;0></color>!<clear><br>Con tutta la fatica che ci ho messo mentre <genqty;0(lo,la,li,le)> costruivo,<br>fammi flexare un po'!",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,49)>Accidenti se <qty;0(è,sono)> bell<genqty;0(o,a,i,e)><br><dart;0()><$cdef(27)><fqty(1)><usingp;0></color>!<slide><br><qty;0(Ha,Hanno)> una vibe che mette energia solo a veder<genqty;0(lo,la,li,le)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$comeff(1,10)><$facial(1,1)><$motion(1,801)><$voicel(1,9)>Passeggiare in un posto nuovo mi fa venire una voglia<br>di trovare di tesori che non ti immagini!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>Hai mica visto rifiuti in giro? Sono in fissa col <$cdef(27)><$spwfull(17)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,7)>La mia skill migliore è scovare i Pokémon! Se ne cerchi<br>uno, io ti porto dove si trova!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "<$emotion(1,8)><$voicel(1,7)>Ciaooo, <$cdef(27)><pname;1></color>! Buongiorno!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$emotion(1,29)><$voicel(1,9)>Ehi, ciao! Che fai di bello oggi?",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "<$emotion(1,37)><$voicel(1,7)>Ehilà! Che mi racconti di bello?",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "<$emotion(1,38)><$voicel(1,9)>Non so perché, ma ho energia da vendere!",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "<$emotion(1,60)><$voicel(1,7)>Il sole tramonta di già... I giorni finiscono davvero<br>in un battibaleno!",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Che faccio...? A questo punto posso anche cenare...",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "<oneline><$emotion(1,14)><$voicel(1,5)>Ciao, <$cdef(27)><pname;0></color>! Anche oggi la giornata<br>è quasi finita...",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "<$emotion(1,8)><$voicel(1,9)>Adoro il cielo notturno... con tutte le sue stelle luccicanti!",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "<$emotion(1,8)><$voicel(1,9)>Evviva, ti ho incontrato! Dev'essere il mio giorno<br>fortunato!",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "<$emotion(1,14)><$voicel(1,7)>Ma dai, che coincidenza! Stavo proprio pensando<br>di venirti a trovare!",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "<$emotion(1,8)><$voicel(1,7)>Sai cosa? Mi sa proprio che oggi succederà qualcosa<br>di bello!",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "<$emotion(1,29)><$voicel(1,7)>Per caso ti serve il mio aiuto? <$emotion(1,8)><$voicel(1,10)>Perché puoi chiedermi<br>qualsiasi cosa!",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<$emotion(1,37)><$voicel(1,9)>Ti dai sempre un gran daffare, <$cdef(27)><pname;0></color>!<br>Dovresti riposarti ogni tanto!",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<$emotion(1,38)><$voicel(1,9)>Non so, c'è qualcosa di troppo forte nel tuo aspetto!",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "<oneline><$emotion(1,60)><$voicel(1,9)>Ho energia da vendere, ma sai cosa? A te, la regalo!<br><$pkcry;2(1,2)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "<oneline><$emotion(1,8)><$voicel(1,9)>Ho una marea di cose che voglio fare con te,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "<$emotion(1,38)><$voicel(1,9)>Devo decidere cosa fare oggi... ma voglio fare talmente<br>tante cose, che non so da dove cominciare!",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "<$emotion(1,64)><$voicel(1,7)>Gli umani hanno lasciato qui una valanga di cose.<br>Vero che è troppo strano?",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "<$emotion(1,1)><$voicel(1,7)>Quando non sei di buon umore, puoi sempre contare<br>su di me, lo sai, vero?",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "<$emotion(1,38)><$voicel(1,9)>Mi stai troppo simpatic<gen;-2(o,a)>, <$cdef(27)><pname;1></color>!<br>Voglio divertirmi assieme a te più che posso!",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "<$comeff(1,16)><$facial(1,14)><$voicel(1,3)>Yaaawn... <$facial(1,1)>Cos'è... Stavo dormendo...?",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "<$comeff(1,16)><$facial(1,14)><$voicel(1,3)>Ronf... <$facial(1,1)>Mh? <$cdef(27)><pname;0></color>?<br>Sto ancora sognando? Ah, no, tu sei quell<gen;-2(o,a)> ver<gen;-2(o,a)>...",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Vivere da queste parti dev'essere proprio bello!<br><$pkcry;0(1,2)>! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "<$voicel(1,7)><$emotion(1,14)><$facial(1,4)>Non mi dispiacerebbe esplorare un po' la zona!",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Tu questa zona la conosci bene, giusto? Potresti farmi<br>da guida, allora!",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "<$voicel(1,7)><$comeff(1,3)><$motion(1,806)><$facial(1,4)>Che stanno costruendo qui? Che emozione!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "<$emotion(1,37)><$voicel(1,9)>Ci penso io alla <$cdef(27)><$spwfull(1)></color>! Vedrai, ti lascerò a bocca<br>aperta!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Ci sono così tanti Pokémon da queste parti!<br>Ogni giorno è una festa!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "<$voicel(1,3)><$emotion(1,13)>Vorrei migliorare un po' la mia casa...<br>Renderla più comoda...",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Devo dire che la mia casa è più comoda adesso!",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "<$voicel(1,9)><$emotion(1,7)>Adesso la mia casa mi piace tantissimo!<br>Grazie, <$cdef(27)><pname;1></color>! Lo devo a te!",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "<oneline><$voicel(1,9)><$emotion(1,9)><$facial(1,4)>Ah, <$cdef(27)><pname;0></color>! Divertiamoci assieme<br>anche oggi!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "<$cdef(27)><oneline><$voicel(1,9)><$emotion(1,1)></color>Avevo una voglia di vederti che non immagini,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Andare in posti nuovi è super divertente!<br>Portami con te anche la prossima volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Bentornat<gen;-2(o,a)>, <$cdef(27)><pname;0></color>!<br>Hai trovato qualcosa di bello mentre eri in giro?",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "<$cdef(27)><$voicel(1,5)><$emotion(1,14)></color>Sei andat<gen;-2(o,a)> a divertirti da qualche parte? Come t'invidio,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "<$emotion(1,1)><$voicel(1,7)>Ogni tanto metterò qualcosina di carino nella<br><$cdef(27)><fqty(1)><$ifull(1460)></color>, quindi controlla!",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "<$emotion(1,37)><$voicel(1,7)>Ci penso io alla <$cdef(27)><$spwfull(1)></color>! Vedrai che cose troppo<br>belle che ti preparo!",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "<$emotion(1,60)><$voicel(1,7)>Forse non si capisce, ma guarda che io posso produrre<br>il fuoco! Come...? Ah, si capisce?",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "<$emotion(1,14)><$voicel(1,7)>Dimmi pure quando hai bisogno d'acqua, ok?<br>Non aspettare di avere... l'acqua alla gola!",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "<$voicel(1,7)><$emotion(1,38)>La mia elettricità è il top del top!<clear><br>Basta una delle mie scariche per far funzionare qualsiasi<br>apparecchio!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "<$comeff(1,21)><$facial(1,1)><$motion(1,805)><$voicel(1,8)>Se mi trovo davanti fiori e ortaggi, sicuro che mi metto<br>lì a incoraggiarli a crescere. È più forte di me!",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "<oneline><$emotion(1,29)><$voicel(1,7)>Ehiii, <$cdef(27)><pname;0></color>!<br>Vuoi <fqty(2)><iart;1()><$cdef(27)><class><pdcitem;1></color>?<slide><br><$emotion(1,8)><$voicel(1,9)>Te <gen;1(li,le)> procuro io, no problem!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>Durante le mie passeggiate mi piace raccogliere le cose<br>che trovo in giro!<clear><br><$comeff(1,9)><$facial(1,4)><$motion(1,661)><$voicel(1,7)>Così poi le scambio con te quando <$cdef(27)>commerciamo<$spwicon(12)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "<$emotion(1,38)><$voicel(1,9)>Se c'è una cosa che so fare davvero bene, è tirare su<br>il morale cantando e ballando!<slide><br><$comeff(1,9)><$voicel(1,9)>Se hai bisogno di animare un po' l'atmosfera, chiamami!",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "<oneline><$comeff(1,14)><$motion(1,805)><$voicel(1,5)>Questa è la casa <itdi;0()><$cdef(27)><wndhmownerpk;0></color>,<br>vero? <$emotion(1,1)><$voicel(1,8)>Sì! L'ho capito subito dalla sua vibe!",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "<$voicel(1,9)><$emotion(1,8)>Ciao! Vedo che sei venut<gen;-2(o,a)> a fare un giretto da queste<br>parti! Ti incuriosisce la zona, <$cdef(27)><pname;0></color>?<slide><br><$voicel(1,8)><$emotion(1,49)>Beh, allora siamo in due!",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "<oneline><$emotion(1,62)><$voicel(1,9)>Quanto ci si diverte con<br><dart;0()><$cdef(27)><fqty(1)><usingp;0></color>!<slide><br>Potrei giocarci tutto il giorno! Troppo forte!",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "<$emotion(1,64)><$voicel(1,9)>Eh? Nooo, e questo cos'è?",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "<$emotion(1,38)><$voicel(1,9)>Ma che carin<genqty;0(o,a,i,e)> quest<genqty;0(o,a,i,e)> <$cdef(27)><fqty(1)><usingp;0></color>!<br>Carin<genqty;0(o,a,i,e)> da morire!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "<$emotion(1,55)><$voicel(1,7)>Non so perché, ma non riesco proprio a smettere di<br>fissare quest<genqty;0(o,a,i,e)> <$cdef(27)><fqty(1)><usingp;0></color>...!",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "<oneline><$emotion(1,63)><$voicel(1,9)>Nooo, non ci credo!<br><fcap><dart;0()><$cdef(27)><fqty(2)><usingp;0> </color>mi <qty;0(fa,fanno)> impazzire!",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "<$emotion(1,14)><$voicel(1,9)>Eh? Ma... sono io?! Se è così, sono troppo felice!!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "<$emotion(1,62)><$voicel(1,9)>Quest<genqty;0(o,a,i,e)> <$cdef(27)><fqty(1)><noweating;0> </color><qty;0(è,sono)> troppo buon<genqty;0(o,a,i,e)>!<br>Così buon<genqty;0(o,a,i,e)> che <qty;0(fa,fanno)> paura!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "<$comeff(1,7)><$facial(1,9)><$motion(1,802)><$voicel(1,3)>Mmmh... Non so... <fqty(2)><fcap><dart;0()><$cdef(27)><noweating;0></color>...<br>Non mi <qty;0(fa,fanno)> proprio proprio impazzire...",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "<$emotion(1,37)><$voicel(1,9)>Evvai, <$cdef(27)><pname;0></color>! Sei <gen;-2(il,la)> migliore!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "<oneline><$comeff(1,10)><$facial(1,4)><$motion(1,806)><$voicel(1,9)><$voicel(1,9)><fcap><dart;0()><$cdef(27)><blsspwkpk;0></color> è incredibile!<br>Devo darmi da fare anch'io!",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "<$comeff(1,4)><$motion(1,803)><$voicel(1,7)>A correre così mi sta venendo una fame...!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "<$emotion(1,8)><$voicel(1,8)><fcap><dart;0()><$cdef(27)><nnowpairpk;0></color> è proprio divertente!",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "<$comeff(1,16)><$facial(1,14)><$motion(1,807)><$voicel(1,3)>Ormai è buio pesto... Io sto crollando dal sonno...",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "<$comeff(1,16)><$motion(1,807)><$voicel(1,3)>E anche per oggi abbiamo finito... Stanotte dormirò come<br>un sasso... Yaaawn...",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "<oneline><$comeff(1,3)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Buongiorno, <$cdef(27)><pname;0></color>!<br>Io stavo giusto per mettermi a letto!",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "<$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Oggi è stata una giornata top! Scommetto che farò<br>sogni bellissimi! <$pkcry;0(1,2)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "<$emotion(1,37)><$voicel(1,9)>Quando volo in cielo, canto a squarciagola!<br>Tanto non mi sente nessuno!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "<$emotion(1,8)><$voicel(1,9)>Quando i raggi del sole mi colpiscono, brillo che è<br>una meraviglia!<clear><br><$emotion(1,37)><$voicel(1,8)>Beh, solo quando c'è bel tempo, ovviamente!",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "<$comeff(1,6)><$motion(1,666)><$voicel(1,7)>Pensi anche tu che, se qualcuno lo tirasse, il mio corpo<br>si allungherebbe a dismisura?",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "<$comeff(1,5)><$facial(1,1)><$motion(1,806)><$voicel(1,10)><$pkcry;0(1,1)>!!!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,661)><$voicel(1,7)>Sarò anche piccin<gen;-3(o,a)>, ma sono di un carico...!",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "<$emotion(1,37)><$voicel(1,7)>Sono così grande che è impossibile non vedermi...",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "<$emotion(1,38)><$voicel(1,9)><$pkcry;0(1,1)>! Anche oggi brucio un botto!",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "<$emotion(1,8)><$voicel(1,9)>Che c'è di meglio di vivere vicino all'acqua?<br>La tranquillità, e l'acqua buona e pulita... Sto troppo bene!",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "<$emotion(1,14)><$voicel(1,7)>Sai da dove arriva tutto il mio buon umore? Beh, te lo dico<br>io! <$emotion(1,8)><$voicel(1,10)>Dall'acqua deliziosa e dai raggi caldi del sole!",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,807)><$voicel(1,9)>Mi piacerebbe salutarti con una bella Elettrococcola!<br>Ma meglio di no, che finirei per darti la scossa...!",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "<$comeff(1,14)><$voicel(1,7)>Sai che io posso intravedere il futuro?<clear><br><$emotion(1,8)><$voicel(1,9)>E nel tuo futuro... nel tuo futuro intravedo... te, che ridi<br>felice assieme a qualcuno che ti piace un sacco!",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "<$comeff(1,7)><$facial(1,9)><$motion(1,802)><$voicel(1,3)>I posti caldi proprio non li sopporto! Guarda come sono<br>triste... Io, che di solito sprizzo gioia da tutti i pori!",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "<$voicel(1,7)><$emotion(1,1)>Sembra che sia arrivato qualcun altro! Mi piacerebbe<br>passarci del tempo assieme!",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "<$cdef(27)><$voicel(1,7)><$emotion(1,1)></color>Ma sei tu, <$cdef(27)><pname;0></color>! Che bello rivederti!",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "<$cdef(27)><$voicel(1,7)><$emotion(1,1)><pname;0></color>! Ciao! Giornata favolosa, vero?",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "<$voicel(1,7)><$emotion(1,60)>Che sole sfolgorante! Oggi voglio divertirmi più che posso!",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "<oneline><$voicel(1,7)><$facial(1,4)><$comeff(1,21)><$motion(1,803)>Ciao, <$cdef(27)><pname;0></color>!<br>Non ti sembra una serata stupenda, questa?",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "<$emotion(1,62)><$voicel(1,9)>Adoro i giorni di pioggia! Forzaaa! Voglio una pioggia<br>a catinelle!",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "<$emotion(1,58)><$voicel(1,3)><$pkcry;0(1,3)>...! L'acqua è proprio uno sbattiii!",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "<$voicel(1,7)><$emotion(1,1)>Oggi il cielo è un po' cupo, ma io sono felice come<br>sempre!",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "<$comeff(1,1)><$facial(1,4)><$motion(1,803)><$voicel(1,7)>Sai che di recente il <$cdef(27)>Professor Tangrowth</color> ha giocato<br>assieme a me?",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "<$voicel(1,8)><$comeff(1,10)><$motion(1,806)><$facial(1,4)>Mi impegno sempre al mille percento!",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "<$voicel(1,4)><$comeff(1,14)><$motion(1,805)>Aspettando mi è venuta una fame!",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "<$voicel(1,10)><$emotion(1,38)>Forza! Let's gooo!",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Mamma mia, <$cdef(27)><pname;0></color>!<br>Anche quando cammini, tu hai un flow tutto tuo!",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Come va, <$cdef(27)><pname;0></color>? Io sto al top!",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "<$voicel(1,7)><$emotion(1,6)>Senti, ti volevo dire che mi piace troppo sharare la casa<br>con te, <$cdef(27)><pname;0></color>.<slide><br>Non potrei essere più felice di così!",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Ah, ma senti un po' che mi è successo l'altro giorno!<br>Insomma, ero lì che passeggiavo tutt<gen;-3(o,a)> tranquill<gen;-3(o,a)><slide><br>e indovina cosa trovo? Due piume troooppo belle!<clear><br><$voicel(1,5)><$emotion(1,14)>Una tutta fiammeggiante, l'altra tutta... volteggiante!<br>Vuoi cercarle anche tu, <$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "<$voicel(1,7)><$comeff(1,13)><$motion(1,801)><$facial(1,4)>Eh eh, <$cdef(27)><pname;0></color>!<br>Mi hai beccato mentre cantavo la mia canzone preferita!",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "<$voicel(1,9)><$emotion(1,38)>Yuhuuu, <$cdef(27)><pname;0></color>!<br>Anche oggi ci si riposa domani! Giusto?",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Ho bisogno di <$cdef(27)><nquestinum;1></color><br><$cdef(27)><class><nquestitem;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Oh! Proprio quello che mi serviva! Grazie!!",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "<$voicel(1,6)><$comeff(1,14)><$motion(1,666)>Mi intrigano i posti così!",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Caspita, hai già fatto?! <$pkcry;0(1,2)>! Thank youuu!",
+      "pt_br": ""
+    },
+    {
+      "id": 114,
+      "en": "<$comeff(1,10)><$facial(1,1)><$motion(1,661)><$voicel(1,8)>C'è una strada che vorrei troppo che sistemassi!",
+      "pt_br": ""
+    },
+    {
+      "id": 115,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Arrivat<gen;-3(o,a)>! Thanks, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 116,
+      "en": "<$voicel(1,7)><$emotion(1,27)>Ah! È proprio quello che mi servirebbe... Posso?<br>Eh? Posso?",
+      "pt_br": ""
+    },
+    {
+      "id": 117,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Oh, va bene. Ci sta. Quando vuoi, io sono qui!",
+      "pt_br": ""
+    },
+    {
+      "id": 118,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Non è che mi porteresti d<ita;0()><$cdef(27)><nquestappk;0></color>?<br>Mi faresti un favore gigante!",
+      "pt_br": ""
+    },
+    {
+      "id": 119,
+      "en": "<oneline><oneline><$voicel(1,7)><$emotion(1,8)>Evviiiva! Avevo troppa voglia di fare due chiacchiere!<br>Grazie, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 120,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Facciamo una foto insieme? Dai! Ho pensato a una posa<br>troppo cool!",
+      "pt_br": ""
+    },
+    {
+      "id": 121,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Ma questa è la foto che abbiamo fatto insieme!<br>Nooo! Troppo bella!<slide><br><$voicel(1,10)><$emotion(1,8)>Grazie, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 122,
+      "en": "<$comeff(1,6)><$motion(1,666)><$voicel(1,7)>Ma seri<gen;-2(o,a)>? <fcap><dart;0()><$cdef(27)><nquestappk;0></color> è proprio qui vicino?",
+      "pt_br": ""
+    },
+    {
+      "id": 123,
+      "en": "<$voicel(1,7)><$emotion(1,1)><$pkcry;0(1,1)>! Non è che puoi esaudirmi una richiesta?",
+      "pt_br": ""
+    },
+    {
+      "id": 124,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Va bene! Magari te ne potrai occupare un'altra volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 125,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Come vorrei <iart;0()><$cdef(27)><nquestitem;0></color><br>a casa mia!",
+      "pt_br": ""
+    },
+    {
+      "id": 126,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)>Hai droppato quello che volevo! Ma grazie!<br><$pkcry;0(1,2)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 127,
+      "en": "<$voicel(1,5)><$comeff(1,6)><$motion(1,666)>Ah! Ma come? Avevi già fatto? Wow!",
+      "pt_br": ""
+    },
+    {
+      "id": 128,
+      "en": "<$voicel(1,7)><$comeff(1,6)><$motion(1,666)>Eh! Mi avevi già portato proprio quello che mi serviva?!",
+      "pt_br": ""
+    },
+    {
+      "id": 129,
+      "en": "<$voicel(1,7)><$comeff(1,6)><$motion(1,666)>Però aspetta... Vedo che hai già esaudito il mio desiderio!",
+      "pt_br": ""
+    },
+    {
+      "id": 130,
+      "en": "<$voicel(1,8)><$facial(1,4)><$emotion(1,14)><$cdef(27)><pname;0></color>! Che timing perfetto!<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)><$facial(1,1)>Mi stavo giusto facendo aiutare dagli altri a risolvere<br>un problemino! <$voicel(1,4)><$emotion(1,29)>Mi daresti una mano anche tu?",
+      "pt_br": ""
+    },
+    {
+      "id": 131,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Sai quella cosa per cui avevo chiesto in giro di aiutarmi?<br><$voicel(1,8)><$emotion(1,38)>Adesso è tutto a posto!<clear><br><$voicel(1,7)><$comeff(1,9)><$facial(1,4)><$motion(1,661)>La prossima volta che ho un problema, conterò anche su<br>di te, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 132,
+      "en": "<$emotion(1,14)><$voicel(1,5)>Sai che un alloggino nuovo ci starebbe proprio?<br>Eddaaai, costruiscine uno!<clear><br><$emotion(1,39)><$voicel(1,8)>Non puoi capire quanto sarebbero felici tutti se dessimo<br>una bella botta di vita a 'sto posto!",
+      "pt_br": ""
+    },
+    {
+      "id": 133,
+      "en": "<$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Vabbè, ma tooop!!! Hai costruito davvero una casa nuova!<br>Che dire... Grazie!",
+      "pt_br": ""
+    },
+    {
+      "id": 134,
+      "en": "<oneline><$comeff(1,5)><$motion(1,806)><$voicel(1,7)>Cosa non darei per<br><iart;0()><class><$cdef(27)><nquestitem;0></color>!<slide><br>Non puoi darmene un po'? Ti stimerei a vita!",
+      "pt_br": ""
+    },
+    {
+      "id": 135,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Thanks, <$cdef(27)><pname;0></color>! Non vedo l'ora<br>di farmi una scorpacciata di quelle serie!",
+      "pt_br": ""
+    },
+    {
+      "id": 136,
+      "en": "<$comeff(1,3)><$motion(1,801)><$voicel(1,8)>Allora era già tutto risolto? Vabbè, ma prontooo?!<br>Ma ce la faccio?!",
+      "pt_br": ""
+    },
+    {
+      "id": 137,
+      "en": "<$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Sei <gen;-2(un king,una queen)>, <$cdef(27)><pname;0></color>!<br>Mi hai fatto troppo un favore!",
+      "pt_br": ""
+    },
+    {
+      "id": 138,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,666)><$voicel(1,9)>Oh? Ne hai già un po'? E sei dispost<gen;-2(o,a)> a sharare con me?<br>Me lo ricorderò per sempre!",
+      "pt_br": ""
+    },
+    {
+      "id": 139,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Thanks, <$cdef(27)><pname;0></color>! Non vedo l'ora<br>di farmi una scorpacciata di quelle serie!",
+      "pt_br": ""
+    },
+    {
+      "id": 140,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Tieni, <$cdef(27)><pname;0></color>! È per te!<br><$voicel(1,10)><$comeff(1,9)>Spero che andremo sempre d'accordo!",
+      "pt_br": ""
+    },
+    {
+      "id": 141,
+      "en": "<oneline><$comeff(1,4)><$facial(1,1)><$motion(1,807)><$voicel(1,3)>Guarda là quanti Pokémon hai intorno,<br><$cdef(27)><pname;0></color>!<slide><br>Sai che rottura spostarsi, così? A questo giro passo!",
+      "pt_br": ""
+    },
+    {
+      "id": 142,
+      "en": "<$comeff(1,4)><$motion(1,802)><$voicel(1,3)>Sorry! Non possiamo fare più tardi?",
+      "pt_br": ""
+    },
+    {
+      "id": 143,
+      "en": "<$voicel(1,8)><$comeff(1,5)><$motion(1,814)>Oooh issa! <wait(0.5)><$voicel(1,10)><$facial(1,4)><$comeff(1,9)>Tranquill<gen;-2(o,a)>, la <$cdef(27)><$spwfull(1)></color> sta andando<br>avanti alla grande!",
+      "pt_br": ""
+    },
+    {
+      "id": 144,
+      "en": "<$emotion(1,50)><$voicel(1,8)>Facciamoci un giretto!",
+      "pt_br": ""
+    },
+    {
+      "id": 145,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Allora ci salutiamo qui! Bye!",
+      "pt_br": ""
+    },
+    {
+      "id": 146,
+      "en": "<$voicel(1,3)><$comeff(1,7)><$motion(1,807)><$facial(1,9)>Scuuusa... ho troppa fame! Va bene se andiamo più tardi<br>a fare un giro? Sorry!",
+      "pt_br": ""
+    },
+    {
+      "id": 147,
+      "en": "<$voicel(1,3)><$comeff(1,7)><$motion(1,807)><$facial(1,9)>Accidentaccio... Ho così fame che non riesco manco a<br>muovermi di un micromillimetro...",
+      "pt_br": ""
+    },
+    {
+      "id": 148,
+      "en": "<$voicel(1,5)><$comeff(1,7)><$facial(1,9)><$motion(1,805)>Piove! Sarà meglio tornare subito a casa, se no mi becco<br>un raffreddore che non ti dico!",
+      "pt_br": ""
+    },
+    {
+      "id": 149,
+      "en": "<$voicel(1,7)><$comeff(1,7)><$motion(1,803)><$facial(1,13)>Uah! E dai, mi hai fatto prendere un colpo!",
+      "pt_br": ""
+    },
+    {
+      "id": 150,
+      "en": "<oneline><$voicel(1,8)><$emotion(1,1)>Quest<genqty;0(o,a,i,e)> <$cdef(27)><fqty(1)><aireactp;0> </color><qty;0(è,sono)><br>il massimo!<clear><br><$voicel(1,3)><$comeff(1,7)><$motion(1,805)><$facial(1,9)>Però <qty;0(è,sono)> un po' troppo lontan<genqty;0(o,a,i,e)> da casa mia...<br><$voicel(1,6)><$emotion(1,29)><$facial(1,1)>Non è che potresti metterl<genqty;0(o,a,i,e)> più vicino?",
+      "pt_br": ""
+    },
+    {
+      "id": 151,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,38)>Wow! <fcap><iart;0()><$cdef(27)><fqty(1)><aireactp;0></color>!<br>Che gentile, grazieee!",
+      "pt_br": ""
+    },
+    {
+      "id": 152,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)>Eh eh eh... Troppo bello! Dai, <$cdef(27)><pname;0></color>,<br>fallo ancora!",
+      "pt_br": ""
+    },
+    {
+      "id": 153,
+      "en": "<$voicel(1,5)><$comeff(1,6)><$motion(1,805)>Mh? Mi ha fatto un po' il solletico!",
+      "pt_br": ""
+    },
+    {
+      "id": 154,
+      "en": "<oneline><$voicel(1,7)><$facial(1,13)><$comeff(1,4)><$motion(1,805)>Ma cooome?! <genqty;0(Il mio,La mia,I miei,Le mie)> <$cdef(27)><fqty(1)><aireactp;0></color><br>non <qty;0(c'è,ci sono)> più!<slide><br>Che fine <qty;0(ha,hanno)> fatto?",
+      "pt_br": ""
+    },
+    {
+      "id": 155,
+      "en": "<$voicel(1,7)><$emotion(1,39)>Pazzesco! Da me adesso s'è fatto più caldo!",
+      "pt_br": ""
+    },
+    {
+      "id": 156,
+      "en": "<$voicel(1,5)><$comeff(1,4)><$motion(1,805)><$facial(1,9)>Sbaglio o ora fa un po' troppo caldo a casa mia?<br><$voicel(1,4)><$emotion(1,47)>Uuh... Non so se resisto...",
+      "pt_br": ""
+    },
+    {
+      "id": 157,
+      "en": "<$voicel(1,7)><$emotion(1,39)>Casa mia si è rinfrescata! Direi che così si sta meglio!",
+      "pt_br": ""
+    },
+    {
+      "id": 158,
+      "en": "<$voicel(1,3)><$comeff(1,23)><$motion(1,807)><$facial(1,9)>Sembra che casa mia sia diventata un po' più fredda...<br><$voicel(1,6)><$emotion(1,29)>A te il freddo non dà fastidio?",
+      "pt_br": ""
+    },
+    {
+      "id": 159,
+      "en": "<$voicel(1,5)><$comeff(1,3)><$motion(1,805)><$facial(1,4)>Casa mia adesso è un po' più luminosa! <$voicel(1,8)><$emotion(1,6)>Non c'è niente<br>di meglio di una casa piena di luce!",
+      "pt_br": ""
+    },
+    {
+      "id": 160,
+      "en": "<$voicel(1,3)><$emotion(1,47)>Accidenti... Casa mia è diventata troppo luminosa!<br>Così non riesco a rilassarmi...",
+      "pt_br": ""
+    },
+    {
+      "id": 161,
+      "en": "<$voicel(1,7)><$comeff(1,3)><$motion(1,805)><$pkcry;0(1,2)>! Adesso c'è meno luce a casa mia!<br><$voicel(1,6)><$emotion(1,6)>Così mi sento decisamente più a mio agio!",
+      "pt_br": ""
+    },
+    {
+      "id": 162,
+      "en": "<$voicel(1,3)><$comeff(1,7)><$motion(1,666)><$facial(1,9)>Casa mia è diventata un po' buia... Accidenti...<br>A me piaceva più luminosa...",
+      "pt_br": ""
+    },
+    {
+      "id": 163,
+      "en": "<$voicel(1,7)><$emotion(1,6)>Adesso che a casa mia c'è un po' più di umidità<br>si sta proprio bene!",
+      "pt_br": ""
+    },
+    {
+      "id": 164,
+      "en": "<$comeff(1,19)><$facial(1,9)><$voicel(1,3)><$motion(1,826)>Aiuto, che umido... A te non sembra?<br>Sarebbe bello se fosse un po' più secco!",
+      "pt_br": ""
+    },
+    {
+      "id": 165,
+      "en": "<oneline><$comeff(1,13)><$voicel(1,9)><$pkcry;0(1,2)>! Ora l'aria sembra più secca!<br><$comeff(1,1)><$motion(1,801)><$voicel(1,10)><$facial(1,4)>Sono troppo felice!",
+      "pt_br": ""
+    },
+    {
+      "id": 166,
+      "en": "<$comeff(1,19)><$facial(1,9)><$voicel(1,3)><$motion(1,826)>Urgh... Mi sa che qui l'aria è secca... Ci vuole un po' più<br>di umidità!",
+      "pt_br": ""
+    },
+    {
+      "id": 167,
+      "en": "<$voicel(1,7)><$comeff(1,14)><$motion(1,805)>Vorrei andare a vedere quella cosa che hai preparato<br>lì per me, però <$voicel(1,5)><$comeff(1,4)><$motion(1,807)><$facial(1,9)>da qui io non riesco a passare!<clear><br><$voicel(1,7)><$emotion(1,29)><$facial(1,1)>Non è che sistemeresti la strada, così ci arrivo?<br>Pleeease, <$cdef(27)><pname;2></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 168,
+      "en": "<$voicel(1,8)><$comeff(1,10)><$motion(1,806)><$facial(1,4)>Oook, ci penso io!",
+      "pt_br": ""
+    },
+    {
+      "id": 169,
+      "en": "<$voicel(1,7)><$emotion(1,14)>C'è qualcosa qui intorno che non mi convince!<br>Puoi controllare, <$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 170,
+      "en": "<$voicel(1,7)><$emotion(1,8)><$pkcry;0(1,2)>! È troppo divertente buttare tutto giù!",
+      "pt_br": ""
+    },
+    {
+      "id": 171,
+      "en": "<$voicel(1,7)><$comeff(1,8)><$facial(1,5)><$motion(1,805)>Che profumino! Spero che verrà bene!",
+      "pt_br": ""
+    },
+    {
+      "id": 172,
+      "en": "<$voicel(1,9)><$emotion(1,8)>Yuppi! Non c'è niente di meglio di una bella <$cdef(27)><$spwfull(23)></color><br>con il giusto mood!",
+      "pt_br": ""
+    },
+    {
+      "id": 173,
+      "en": "<$voicel(1,6)><$comeff(1,8)><$motion(1,807)><$facial(1,14)>Aaaaah... Le terme mi piacciono troppo!",
+      "pt_br": ""
+    },
+    {
+      "id": 174,
+      "en": "<oneline><$voicel(1,5)><$comeff(1,10)><$motion(1,806)><$facial(1,4)>Ehi, <$cdef(27)><pname;0></color>! Ho un problema grosso<br>con <itdemdet;1()><$cdef(27)><fqty(1)><aireactp;1></color>...<clear><br><$voicel(1,8)><$emotion(1,27)><qty;1(È,Sono)> un po' troppo difficil<qty;1(e,i)> da usare dove <qty;1(è,sono)> adesso!<br><$voicel(1,6)><$comeff(1,3)><$motion(1,805)>Potresti trovar<genqty;1(gli,le,gli,gli)> un altro posto, please?",
+      "pt_br": ""
+    },
+    {
+      "id": 175,
+      "en": "<$comeff(1,13)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>L'ambiente adesso è davvero tanta roba!<br>Grazie per esserti dat<gen;-2(o,a)> così tanto da fare per me!",
+      "pt_br": ""
+    },
+    {
+      "id": 176,
+      "en": "<$comeff(1,10)><$facial(1,1)><$motion(1,805)><$voicel(1,7)>L'ambiente di casa mia ora ha una vibe migliore.<br>Dai, continua così!",
+      "pt_br": ""
+    },
+    {
+      "id": 177,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,661)><$voicel(1,8)>Senti, io di 'sti tempi sto troppo in fissa con le cacce<br>al tesoro. Ne facciamo una, <$cdef(27)><pname;0></color>?<clear><br><$comeff(1,9)><$facial(1,4)><$motion(1,805)><$voicel(1,7)>Vedrai che il <$cdef(27)><fqty(1)><$ifull(2793)> </color>ti svolta la giornata!",
+      "pt_br": ""
+    },
+    {
+      "id": 178,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,29)>Ehi, <$cdef(27)><pname;0></color>!<br>È libera adesso la strada?",
+      "pt_br": ""
+    },
+    {
+      "id": 179,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Nooo, davvero?! Allora andiamo insieme, dai!",
+      "pt_br": ""
+    },
+    {
+      "id": 180,
+      "en": "<$voicel(1,5)><$emotion(1,49)>Ok, no problem! Tanto non ho fretta!",
+      "pt_br": ""
+    },
+    {
+      "id": 181,
+      "en": "<oneline><$voicel(1,3)><$emotion(1,47)><$pkcry;0(1,4)>...<br>Proprio non ce la faccio a passare per di qua...<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,805)>Se solo la via fosse un po' più facile da percorrere,<br>penso che riuscirei a farcela...<clear><br><$voicel(1,8)><$emotion(1,29)>Scusa, mi daresti una mano, <$cdef(27)><pname;1></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 182,
+      "en": "<$comeff(1,7)><$motion(1,802)><$voicel(1,3)>Ma come? Per di qua non si può mica andare! Che sbatti...<br><$comeff(1,3)><$motion(1,803)><$voicel(1,8)>Quando si potrà passare, fammelo sapere!",
+      "pt_br": ""
+    },
+    {
+      "id": 183,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,29)>Ehi, nella tua cerchia di amici c'è anche<br><$cdef(27)><wowner;0></color>, giusto?<clear><br><$voicel(1,7)><$emotion(1,1)>Ho sentito dire che vive da queste parti! Mi è proprio<br>venuta voglia di farci amicizia anch'io!",
+      "pt_br": ""
+    },
+    {
+      "id": 184,
+      "en": "<$comeff(1,3)><$motion(1,803)><$voicel(1,7)>No problem! Io intanto me ne torno a casa!",
+      "pt_br": ""
+    },
+    {
+      "id": 185,
+      "en": "<$voicel(1,4)><$emotion(1,29)>Ehi, e quello cos'è?",
+      "pt_br": ""
+    },
+    {
+      "id": 186,
+      "en": "<$voicel(1,4)><$comeff(1,3)>Oh... Ok!",
+      "pt_br": ""
+    },
+    {
+      "id": 187,
+      "en": "<$voicel(1,10)><$emotion(1,38)>Davvero?! Sììì!!",
+      "pt_br": ""
+    },
+    {
+      "id": 188,
+      "en": "<oneline><$comeff(1,10)><$facial(1,1)><$motion(1,661)><$voicel(1,7)>Non dirmi che hai<br><iart;0()><$cdef(27)><refmateid;0></color>? Ma wow!",
+      "pt_br": ""
+    },
+    {
+      "id": 189,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Una caccia al tesoro? Grande! Sono proprio nel mood<br>giusto per venire insieme a te!",
+      "pt_br": ""
+    },
+    {
+      "id": 190,
+      "en": "<$voicel(1,9)><$emotion(1,38)>Quando passo del tempo con te me la spasso sempre!<br>Spero che continueremo a farci delle belle chiacchierate!<slide><br><$voicel(1,8)><$comeff(1,21)><$motion(1,661)>Tieni, un piccolo pensiero per ringraziarti!",
+      "pt_br": ""
+    },
+    {
+      "id": 191,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,39)>Grazie di tutto quello che fai per me,<br><$cdef(27)><pname;0></color>!<slide><br>Saremo best friends foreveeeeer!",
+      "pt_br": ""
+    },
+    {
+      "id": 192,
+      "en": "<oneline><$voicel(1,9)><$emotion(1,53)>Wow! Questo sì che è un tesoro! Ma lo sai che sei<br>proprio brav<gen;-2(o,a)>, <$cdef(27)><pname;0></color>?<slide><br><$voicel(1,6)><$emotion(1,49)>Voglio fare di nuovo coppia con te!",
+      "pt_br": ""
+    },
+    {
+      "id": 193,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,7)>Ma dai! È una bomba questa cosa! Thank youuu,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 194,
+      "en": "<$comeff(1,14)><$facial(1,1)><$motion(1,805)><$voicel(1,6)>Sai, quel posto che si trova laggiù è tanta roba.<br>Lo voglio troppo visitare!",
+      "pt_br": ""
+    },
+    {
+      "id": 195,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Oh! Scusami, <$cdef(27)><pname;0></color>!<br>Se vai da un'altra parte, allora ti lascio! Bye bye!",
+      "pt_br": ""
+    },
+    {
+      "id": 196,
+      "en": "<$comeff(1,3)><$facial(1,1)><$motion(1,807)><$voicel(1,3)>Che sbatti, però, la strada è in condizioni che manco ti<br>sto a dire. Così non ci si arriva, eh! Io te lo dico.",
+      "pt_br": ""
+    },
+    {
+      "id": 197,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Questa casa forse è un po' piccola, non trovi?<br>Sarebbe meglio un'altra!",
+      "pt_br": ""
+    },
+    {
+      "id": 198,
+      "en": "<$voicel(1,7)><$comeff(1,21)><$motion(1,805)><$facial(1,4)>Questo posto è troppo bello! Sai che è proprio come<br>la casa dei miei sogni?",
+      "pt_br": ""
+    },
+    {
+      "id": 199,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)>Davvero?! Sììì! Un milione di grazie,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 200,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,49)>Ok! Comunque tu sei troppo <gen;-2(un,una)> grande,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 201,
+      "en": "<$voicel(1,7)><$comeff(1,3)><$motion(1,805)>Oh! Sicur<gen;-2(o,a)> sicur<gen;-2(o,a)>? Posso davvero vivere qui?!",
+      "pt_br": ""
+    },
+    {
+      "id": 202,
+      "en": "<oneline><$voicel(1,8)><$emotion(1,8)>Sììì! Ma grazie, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 203,
+      "en": "<$voicel(1,6)><$emotion(1,49)><$pkcry;0(1,3)>! Ok, ricevuto!",
+      "pt_br": ""
+    },
+    {
+      "id": 204,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Oh? Ma qui ci vive già qualcun altro!<clear><br><$voicel(1,3)><$comeff(1,14)><$motion(1,666)>Se mi trasferissi qui, non credi che staremmo stretti?<br><$voicel(1,6)><$emotion(1,49)>A questo giro passo!",
+      "pt_br": ""
+    },
+    {
+      "id": 205,
+      "en": "<oneline><$voicel(1,8)><$emotion(1,50)><$pkcry;0(1,2)>! La caccia al tesoro ha spaccato<br>proprio!<clear><br><$voicel(1,7)><$emotion(1,39)>Quando uniamo le forze, non ci sfugge niente! <$voicel(1,8)><$emotion(1,49)>Vedrai che<br>anche la prossima volta troveremo un tesoro troppo cool!",
+      "pt_br": ""
+    },
+    {
+      "id": 206,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Ehi, cos'è quella cosa lì?! Guarda come brilla...<br>Troppo bella!",
+      "pt_br": ""
+    },
+    {
+      "id": 207,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Eh?! Davvero è per me? Ma grazie!!<br>Allora in cambio... ti regalo questo!",
+      "pt_br": ""
+    },
+    {
+      "id": 208,
+      "en": "<$voicel(1,5)><$comeff(1,4)><$motion(1,666)>Ehm... Non ti sembra uno spreco regalarlo a me?<clear><br><$voicel(1,7)><$emotion(1,49)>Di sicuro qualcun altro sarebbe felicissimo di ricevere<br>un regalo così!",
+      "pt_br": ""
+    },
+    {
+      "id": 209,
+      "en": "<$voicel(1,3)><$comeff(1,14)><$motion(1,666)>Sei stat<gen;-2(o,a)> troppo carin<gen;-2(o,a)> a pensare a me, ma io non lo so<br>usare...<clear><br><$voicel(1,8)><$emotion(1,49)>Per stavolta passo, ma grazie lo stesso!",
+      "pt_br": ""
+    },
+    {
+      "id": 210,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Ma tutto ok...?! Guarda che questa è già casa mia!",
+      "pt_br": ""
+    },
+    {
+      "id": 211,
+      "en": "<oneline><$comeff(1,5)><$facial(1,1)><$motion(1,806)><$voicel(1,7)><$pkcry;0(1,4)>! Ti preeego, <$cdef(27)><pname;1></color>,<br>heeelp!",
+      "pt_br": ""
+    },
+    {
+      "id": 212,
+      "en": "<$voicel(1,7)><$emotion(1,27)><$cdef(27)><pname;0></color>, è finito il tempooo!",
+      "pt_br": ""
+    },
+    {
+      "id": 213,
+      "en": "<oneline><$voicel(1,7)><$comeff(1,4)><$motion(1,805)><$facial(1,13)>Ma... Ma come abbiamo fatto a perdere?! Pensavo che<br>il nostro team fosse invincibile!<clear><br><$voicel(1,7)><$emotion(1,49)>Tu sei <gen;-2(un,una)> ver<gen;-2(o,a)> campion<gen;-2(e,essa)> a questo gioco,<br><$cdef(27)><pname;0></color>!<slide><br>Quindi ti meriti un regalo da campioni!",
+      "pt_br": ""
+    },
+    {
+      "id": 214,
+      "en": "<$voicel(1,8)><$emotion(1,38)>Giochiamo di nuovo? Dai! Dai!",
+      "pt_br": ""
+    },
+    {
+      "id": 215,
+      "en": "<$voicel(1,7)><$emotion(1,50)>Evvai, grande! Ti avviso già che non mi batterai!",
+      "pt_br": ""
+    },
+    {
+      "id": 216,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Ok... Alla prossima, allora!",
+      "pt_br": ""
+    },
+    {
+      "id": 217,
+      "en": "<$voicel(1,6)><$comeff(1,14)><$motion(1,805)><$facial(1,9)>Uhm... Sorry, <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,7)><$emotion(1,14)>La vibe di questa casa non mi convince tanto.<br>Per stavolta passo, ok?",
+      "pt_br": ""
+    },
+    {
+      "id": 218,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Va bene, mi metto subito sotto! Ripassa più tardi, ok?",
+      "pt_br": ""
+    },
+    {
+      "id": 219,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Work in progress! Dammi solo un altro po' di tempo!",
+      "pt_br": ""
+    },
+    {
+      "id": 220,
+      "en": "<oneline><$voicel(1,9)><$emotion(1,32)>Sai che ho preparato?<br><fcap><iart;1()><$cdef(27)><reftarid;1></color>,<slide><br>proprio come mi avevi chiesto tu!",
+      "pt_br": ""
+    },
+    {
+      "id": 221,
+      "en": "<$voicel(1,3)><$comeff(1,4)><$motion(1,807)><$facial(1,9)>Mi dispiace, ma al momento sono già superimpegnat<gen;-3(o,a)><br>con un'altra cosa!",
+      "pt_br": ""
+    },
+    {
+      "id": 222,
+      "en": "<$comeff(1,11)><$facial(1,13)><$motion(1,803)><$voicel(1,9)>Casa mia non c'è piùùù! <$comeff(1,6)><$facial(1,9)><$voicel(1,9)><$motion(1,802)><$cdef(27)><pname;1></color>, sai<br>mica cos'è successo?",
+      "pt_br": ""
+    },
+    {
+      "id": 223,
+      "en": "<$comeff(1,7)><$facial(1,9)><$voicel(1,9)><$motion(1,802)>Non mi aspettavo che mi sparisse la casa così<br>all'improvviso! Che storia!",
+      "pt_br": ""
+    },
+    {
+      "id": 224,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,803)><$voicel(1,9)>E vabbè, tanto che ci posso fare? Meglio mettermi subito<br>a cercare una nuova casa! <$pkcry;0(1,4)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 225,
+      "en": "<$voicel(1,10)><$comeff(1,10)><$pkcry;0(1,2)>! Ma è troppo bello qui! Hai fatto tutto<br>tu, <$cdef(27)><pname;1></color>? Non ci credo!<clear><br><$motion(1,801)><$facial(1,5)><$comeff(1,13)><$voicel(1,9)>Allora da oggi vivo qui! Grazie!",
+      "pt_br": ""
+    },
+    {
+      "id": 226,
+      "en": "<oneline><$comeff(1,13)><$voicel(1,7)>Nooo! <$pkcry;0(1,2)>! Mi hai recuperato<br><iart;1()><$cdef(27)><fqty(1)><stfrevp;1></color>!<slide><br><$comeff(1,10)><$facial(1,4)><$voicel(1,10)><$motion(1,801)>Grazie! Ci do un'occhiata!",
+      "pt_br": ""
+    },
+    {
+      "id": 227,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,9)>Dove guardo guardo, c'è solo da divertirsi! Sono troppo<br>fortunat<gen;-3(o,a)> a vivere in una casa così cool!",
+      "pt_br": ""
+    },
+    {
+      "id": 228,
+      "en": "<$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>Ehi, posso chiederti un piccolo favore? Ho una roba<br>per <$cdef(27)><refpname;0></color>.<slide><br><$comeff(1,3)><$facial(1,4)><$motion(1,661)><$voicel(1,7)>Puoi dargliela al posto mio?",
+      "pt_br": ""
+    },
+    {
+      "id": 229,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Senti, scusa! Ti volevo chiedere una cosa!<br>Ti va di giocare con me? Ti faccio un quiz!",
+      "pt_br": ""
+    },
+    {
+      "id": 230,
+      "en": "<oneline><$voicel(1,4)><$emotion(1,14)><$pkcry;0(1,2)>! Bene! Cominciamo al volo!<clear><br><$voicel(1,1)><$emotion(1,64)>Chi credi che vincerebbe in altezza tra<br><dart;2()><$cdef(27)><sizecmppk;2> </color>e me?",
+      "pt_br": ""
+    },
+    {
+      "id": 231,
+      "en": "<$voicel(1,1)><$emotion(1,14)>Ok, ok! Nessun problema! Giochiamo la prossima volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 232,
+      "en": "La risposta è... <wait(0.4)><$voicel(1,5)><$emotion(1,40)>esatta! Papparapààà!<clear><br><$voicel(1,9)><$emotion(1,8)>Lo sapevo che ci avresti preso, <$cdef(27)><pname;0></color>!<br>Sei troppo forte!",
+      "pt_br": ""
+    },
+    {
+      "id": 233,
+      "en": "La risposta è... <wait(0.4)><$voicel(1,7)><$comeff(1,3)>sbagliata! Buuu! Che sfortuna!<clear><br><$voicel(1,5)><$emotion(1,49)>Per questa volta non ci hai azzeccato, ma la prossima<br>vedrai che ce la fai, se ti impegni!",
+      "pt_br": ""
+    },
+    {
+      "id": 234,
+      "en": "<$comeff(1,5)><$voicel(1,9)><$facial(1,13)><$motion(1,803)>Eh? Sul serio posso venire a vivere qui? Perfetto!<br><$comeff(1,21)><$voicel(1,10)><$facial(1,5)><$motion(1,801)>Grazie, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 235,
+      "en": "<$voicel(1,7)><$emotion(1,27)><$facial(1,4)>Ciao, piacer... Ah! Ma tu sei <$cdef(27)><pname;0></color>!<br><$voicel(1,6)><$emotion(1,49)>Accidenti quanto sei brav<gen;-2(o,a)> a <$cdef(27)>trasformarti<$spwicon(36)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 236,
+      "en": "<$voicel(1,7)><$comeff(1,5)><$motion(1,805)>'Spetta un po'! Qui non c'è spazio per giocare! <$voicel(1,7)><$emotion(1,14)>Puoi<br>crearlo tu, <$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 237,
+      "en": "<$voicel(1,5)><$emotion(1,47)>Purtroppo questo ambiente non fa per me...<br>Scusa, ma preferirei una casa da qualche altra parte!",
+      "pt_br": ""
+    },
+    {
+      "id": 238,
+      "en": "<$voicel(1,8)><$emotion(1,1)>Uaah! È per me? Davvero? Sicur<gen;-2(o,a)> sicur<gen;-2(o,a)>?<clear><br><$voicel(1,3)><$emotion(1,13)>Ehm... Però io ora non ce la faccio neanche a dare<br>un assaggino...<clear><br><$voicel(1,8)><$emotion(1,49)>Favorisci pure tu, <$cdef(27)><pname;1></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 239,
+      "en": "<$voicel(1,6)><$emotion(1,29)>Ma dove posso andare a vivere io?",
+      "pt_br": ""
+    },
+    {
+      "id": 240,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Wow! È la mia nuova casa?",
+      "pt_br": ""
+    },
+    {
+      "id": 241,
+      "en": "<$voicel(1,4)><$emotion(1,14)><$pkcry;0(1,2)>! Bene! Cominciamo al volo!<clear><br><$voicel(1,1)><$emotion(1,64)>Chi credi che pesi di più tra <dart;2()><$cdef(27)><weightcmppk;2></color> e me?",
+      "pt_br": ""
+    },
+    {
+      "id": 242,
+      "en": "<$comeff(1,6)><$motion(1,827)><$voicel(1,8)>Ah! Ti piace troppo quell'articolo, eh?",
+      "pt_br": ""
+    },
+    {
+      "id": 243,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,803)><$voicel(1,7)>Evvai! Allora con cosa lo vuoi scambiare?",
+      "pt_br": ""
+    },
+    {
+      "id": 244,
+      "en": "<$facial(1,4)><$comeff(1,1)><$voicel(1,7)>Ok, fammi sapere se cambi idea!",
+      "pt_br": ""
+    },
+    {
+      "id": 245,
+      "en": "<$comeff(1,10)><$motion(1,801)><$voicel(1,10)><$facial(1,5)>Troppo bello! Grazie!",
+      "pt_br": ""
+    },
+    {
+      "id": 246,
+      "en": "<$comeff(1,1)><$voicel(1,7)><$facial(1,4)>Eh? Non vuoi più scambiare? Ok, fammi sapere se cambi<br>idea!",
+      "pt_br": ""
+    },
+    {
+      "id": 247,
+      "en": "<$comeff(1,10)><$motion(1,801)><$voicel(1,10)><$facial(1,5)>Troppo bello! Grazie!<clear><br><$comeff(1,13)><$voicel(1,9)><$motion(1,803)>Per oggi non ne ho più, ma mi procurerò altre scorte<br>per la prossima volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 248,
+      "en": "<$comeff(1,10)><$motion(1,801)><$facial(1,4)><$voicel(1,9)>Adesso vado alla <$cdef(27)><fqty(1)><$ifull(1325)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 249,
+      "en": "<$comeff(1,13)><$facial(1,5)><$motion(1,803)><$voicel(1,7)>Ah, cavolo, oggi ho venduto tutto quello che avevo. Scusa!",
+      "pt_br": ""
+    },
+    {
+      "id": 250,
+      "en": "<$voicel(1,10)><$motion(1,801)><$comeff(1,13)><$facial(1,5)><$pkcry;0(1,2)>! Mi potrebbe servire!",
+      "pt_br": ""
+    },
+    {
+      "id": 251,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Nooo, per me! Davvero?! <$pkcry;0(1,2)>!<br>Non vedo l'ora di assaggiare, slurp!",
+      "pt_br": ""
+    },
+    {
+      "id": 252,
+      "en": "<$voicel(1,3)><$comeff(1,6)><$motion(1,666)>Che mangio di buono oggi per colazione...?<br><$cdef(27)><pname;0></color>, tu cosa mi consigli?<clear><br><$voicel(1,5)><$comeff(1,14)>Sai com'è, tendo a scegliere sempre le stesse cose...<br><$voicel(1,8)><$emotion(1,49)>Se hai qualche dritta, fammi sapere!",
+      "pt_br": ""
+    },
+    {
+      "id": 253,
+      "en": "<$voicel(1,7)><$comeff(1,5)><$motion(1,806)><$facial(1,4)>Ah! Che bella giornata di sole!<clear><br><$voicel(1,5)>Con tutta questa energia solare oggi sento che posso<br>trasportare ancora più peso del solito.<slide><br><$voicel(1,8)><$emotion(1,8)>Così, come se niente fosse!",
+      "pt_br": ""
+    },
+    {
+      "id": 254,
+      "en": "<$voicel(1,5)><$comeff(1,3)><$motion(1,805)>Quando guardo il tramonto, mi viene voglia di urlare<br>a squarciagola!<clear><br><$voicel(1,7)><$emotion(1,27)>Cose come \"Oggi ho spaccato di brutto!\", oppure<br>\"Domani sarà una giornata top!\", tipo...<slide><br><$voicel(1,8)><$comeff(1,14)><$motion(1,807)>O anche: \"Odio rimettere in ordine!\".",
+      "pt_br": ""
+    },
+    {
+      "id": 255,
+      "en": "<$voicel(1,8)><$comeff(1,21)><$motion(1,661)><$facial(1,5)>Troppo belle le stelle!!<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,805)><$facial(1,1)>Ce ne sono così tante che non mi stupirei se lì in mezzo<br><$voicel(1,7)><$emotion(1,29)>ci fosse qualche Pokémon che fa finta di essere una stella!",
+      "pt_br": ""
+    },
+    {
+      "id": 256,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Tu te ne stai sempre a raccogliere rami, pietre e cose<br>così, no, <$cdef(27)><pname;0></color>?<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Non ti capita mai di trovare, che so... <$voicel(1,4)><$emotion(1,29)>dei rami dalla forma<br>originale o delle pietre supercool?",
+      "pt_br": ""
+    },
+    {
+      "id": 257,
+      "en": "<$voicel(1,5)><$comeff(1,10)><$motion(1,806)>Starmene senza fare niente mi mette una specie<br>di irrequietezza!<clear><br><$voicel(1,7)><$emotion(1,8)>Se c'è qualcosa che posso fare per aiutarti,<br>fammi sapere, ok?",
+      "pt_br": ""
+    },
+    {
+      "id": 258,
+      "en": "<$voicel(1,5)><$emotion(1,14)>No, cioè, te lo devo chiedere...<clear><br>Ma quando coltivi le verdure nel campo, non ti viene mai<br><$voicel(1,3)><$comeff(1,6)><$motion(1,666)>una voglia matta di mangiarle anche se non sono<slide><br>ancora mature?",
+      "pt_br": ""
+    },
+    {
+      "id": 259,
+      "en": "<$voicel(1,6)><$emotion(1,14)>Per oggi basta così.<clear><br><$voicel(1,7)><$emotion(1,8)>Mi sono troppo divertit<gen;-3(o,a)>! Non vedo l'ora di rifarlo!",
+      "pt_br": ""
+    },
+    {
+      "id": 260,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Yuhuu, <$cdef(27)><pname;0></color>!<br>Che ne dici, ti va di <$cdef(27)>commerciare<$spwicon(12)></color><$cdef(27)> </color>con me?",
+      "pt_br": ""
+    },
+    {
+      "id": 261,
+      "en": "<$cdef(27)><oneline><$voicel(1,5)><$emotion(1,49)></color>Ah, senti! Dicono che <$cdef(27)><shoppk;0> </color>sia alla<br><$cdef(27)><fqty(1)><$ifull(1325)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 262,
+      "en": "<$emotion(1,49)><$voicel(1,5)>Quando c'erano ancora gli umani, mi capitava di vedere<br>delle cose enormi galleggiare sopra la mia testa.<clear><br><$comeff(1,6)><$facial(1,1)><$voicel(1,4)>Chissà cos'erano!",
+      "pt_br": ""
+    },
+    {
+      "id": 263,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Ma tu annaffi come se non ci fosse un domani,<br><$cdef(27)><pname;0></color>. Non ti riposi mai?<slide><br><$voicel(1,6)><$emotion(1,8)>Guarda che posticino è diventato grazie a te! Thanks!",
+      "pt_br": ""
+    },
+    {
+      "id": 264,
+      "en": "<$voicel(1,7)><$emotion(1,49)><$pkcry;0(1,1)>! Ho una cosa per te!",
+      "pt_br": ""
+    },
+    {
+      "id": 265,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Mi sono trovat<gen;-3(o,a)> proprio bene con <dart;0()><$cdef(27)><nlpairpk;0></color>!<clear><br><$voicel(1,5)><$comeff(1,9)><$motion(1,661)>Sai cosa? Noi tre potremmo formare un gruppo<br>di best friends forever, <$cdef(27)><pname;2></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 266,
+      "en": "<oneline><$voicel(1,9)><$emotion(1,1)>Ah! Grazie per <dart;0()><$cdef(27)><fqty(1)><nlqueitem;0> </color>che<br>mi hai dato l'altra volta!<clear><br><$voicel(1,7)><$comeff(1,8)><$motion(1,661)>È diventata la mia cosa preferita al mondo!",
+      "pt_br": ""
+    },
+    {
+      "id": 267,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Ehi, <$cdef(27)><pname;0></color>!<clear><br><$voicel(1,6)><$comeff(1,6)>Ma è vero che sai costruire case come quelle degli<br>umani?<clear><br><$voicel(1,7)><$emotion(1,39)>Cioè, troppo forte! Non sai quanto mi piacerebbe<br>una volta provare a vivere in una casa fatta da te!",
+      "pt_br": ""
+    },
+    {
+      "id": 268,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Ma lo sai che ho notato una cosa? Il sole è sempre<br>rotondo, no?<clear><br><$voicel(1,3)><$comeff(1,6)><$motion(1,666)>E allora perché la luna invece cambia forma?<br>È una roba troppo assurda!",
+      "pt_br": ""
+    },
+    {
+      "id": 269,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,7)>Ti accorgi che è mattina quando salta fuori il sole!<br><$comeff(1,16)><$facial(1,14)><$motion(1,807)><$voicel(1,5)>Mi sa che tra poco mi tocca andare a dormire!",
+      "pt_br": ""
+    },
+    {
+      "id": 270,
+      "en": "<$voicel(1,8)><$comeff(1,5)><$motion(1,806)>Visto che ali?<clear><br><$voicel(1,5)><$emotion(1,49)>Il segreto è prendersi cura non solo del lato esterno,<br>ma anche di quello interno che non si vede!<clear><br><$voicel(1,8)><$emotion(1,8)>Lo stile sta nella cura dei particolari!",
+      "pt_br": ""
+    },
+    {
+      "id": 271,
+      "en": "<$emotion(1,29)><$voicel(1,5)>A stare troppo fermi ci si irrigidisce. O almeno questo<br>ho sentito dire.<clear><br><$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>Perciò datti una bella stiracchiata, ogni tanto! <$emotion(1,38)><$voicel(1,9)>Io direi che<br>sono a posto. Insomma, sono o non sono rigid<gen;-3(o,a)> di natura?",
+      "pt_br": ""
+    },
+    {
+      "id": 272,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Perché non provi ad abbracciarmi forte forte prima<br>di andare a dormire, <$cdef(27)><pname;0></color>?<clear><br><$voicel(1,7)><$emotion(1,8)>Il mio corpo è tutto morbidoso, sai che bella sensazione?<br>Dormiresti come un sasso, ci puoi giurare!",
+      "pt_br": ""
+    },
+    {
+      "id": 273,
+      "en": "<$comeff(1,9)><$facial(1,4)><$motion(1,661)><$voicel(1,8)>Lo so, non lo diresti mai, ma io mangio un botto!<br><$comeff(1,10)><$facial(1,1)><$motion(1,806)><$voicel(1,7)>Tanto quanto i Pokémon belli grossi!",
+      "pt_br": ""
+    },
+    {
+      "id": 274,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Sono così gross<gen;-3(o,a)> che se gioco a nascondino mi trovano<br>subito...<clear><br><$voicel(1,7)><$comeff(1,9)><$motion(1,806)>Però nascondersi dietro di me è tipo il trick perfetto,<br>per questo mi invitano sempre!",
+      "pt_br": ""
+    },
+    {
+      "id": 275,
+      "en": "<$comeff(1,3)><$motion(1,803)><$voicel(1,7)>Quando è nuvoloso, stai lì a chiederti se pioverà o no...<br><$comeff(1,14)><$motion(1,805)><$voicel(1,6)>A volte il cielo non vuole proprio decidersi!<clear><br><$emotion(1,37)><$voicel(1,7)>Meglio un bell'acquazzone subito, così so che me ne<br>devo stare in casa!",
+      "pt_br": ""
+    },
+    {
+      "id": 276,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Ehi, senti questa cosa troppo forte che mi è venuta<br>in mente!<clear><br>Se con <$cdef(27)><$sklfull(3)></color> potessi spruzzare verso l'alto<br><$voicel(1,3)><$comeff(1,6)><$motion(1,666)>faresti tipo come una fontana, no?",
+      "pt_br": ""
+    },
+    {
+      "id": 277,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Quando vedo un bocciolo bello grosso, non resisto!<br>Mi viene voglia di fare il tifo per lui!<clear><br><$voicel(1,5)><$comeff(1,8)><$facial(1,4)><$motion(1,806)>Gli auguro di continuare a crescere forte e sano<br>e di fiorire in tutto il suo splendore!",
+      "pt_br": ""
+    },
+    {
+      "id": 278,
+      "en": "<$voicel(1,7)><$comeff(1,21)><$motion(1,806)><$facial(1,4)>Aah! È troppo bello essere carichi di elettricità!<clear><br><$voicel(1,5)><$emotion(1,38)>Come potrei scaricarla oggi? Vediamo...<br>Ma sì, correrò qua e là!",
+      "pt_br": ""
+    },
+    {
+      "id": 279,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Ok, ora userò i miei poteri per prevedere chi ti porterà<br>fortuna oggi, se l'incontri...<clear><br><$comeff(1,14)><$facial(1,14)>...<br>... ...<clear><br><$voicel(1,9)><$emotion(1,40)><$facial(1,4)>Oh! Accidenti! Sono io! <$voicel(1,8)><$emotion(1,8)>Oggi è il tuo giorno fortunato,<br><$cdef(27)><pname;2></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 280,
+      "en": "<$voicel(1,5)><$emotion(1,29)>Idea! E se congelassi delle carote per farci dei ghiaccioli<br>di carota? Magari sono buoni!<slide><br><$voicel(1,4)><$comeff(1,14)><$motion(1,666)>Potrei provare...",
+      "pt_br": ""
+    },
+    {
+      "id": 281,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,805)>Chissà se un giorno potrò fare amicizia anche con<br>degli umani... <$voicel(1,7)><$comeff(1,5)><$motion(1,801)>Sarebbe troppo bello!!<clear><br><$voicel(1,6)><$comeff(1,6)><$motion(1,666)><$facial(1,1)>Magari anche a loro piacciono le bacche?",
+      "pt_br": ""
+    },
+    {
+      "id": 282,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Eh eh... Ma lo sai che quel tuo sorriso beato <$voicel(1,6)><$comeff(1,21)><$motion(1,806)>ha il potere<br>di mettermi sempre di buonumore? <$voicel(1,8)><$emotion(1,8)>Lo adoro!!",
+      "pt_br": ""
+    },
+    {
+      "id": 283,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Senti, ma come ci si sente quando ci si trasforma?<clear><br><$voicel(1,5)><$comeff(1,6)><$motion(1,666)>È come una specie di prurito? O un formicolio?<br>O qualcos'altro ancora?<slide><br><$voicel(1,8)><$emotion(1,49)>Dai, dimmelo! Sono troppo curios<gen;-3(o,a)>!!",
+      "pt_br": ""
+    },
+    {
+      "id": 284,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Aaah... Come vorrei partire all'avventura!<clear><br><$voicel(1,5)><$motion(1,666)><$comeff(1,14)>Volare su nel cielo... o esplorare gli abissi marini...<br><$voicel(1,8)><$emotion(1,38)>Spaccherebbe di brutto!<clear><br><$voicel(1,5)><$comeff(1,9)><$motion(1,661)><$facial(1,4)>E ovviamente ti porterei con me,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 285,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)>Poco fa stavo giocando con <dart;0()><$cdef(27)><nlpairpk;0></color>!<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,805)><$facial(1,1)>Quando è stata ora di salutarsi, mi sono girat<gen;-3(o,a)> a guardare<br>e indovina cosa ho visto? <fcap><dart;1()><$cdef(27)><nlpairpk;1> </color>non trovava<slide><br>più la strada di casa!<slide><br><$voicel(1,8)><$emotion(1,49)>Ho dovuto fare io da guida!",
+      "pt_br": ""
+    },
+    {
+      "id": 286,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Oh, <$cdef(27)><pname;0></color>!<clear><br>Hai presente <dart;1()><$cdef(27)><fqty(1)><nlqueitem;1><br></color>che mi hai dato l'altra volta?<slide><br><$voicel(1,10)><$emotion(1,7)><qty;1(Era,Erano)> troooppo una bontà!<slide><br><$voicel(1,8)><$emotion(1,49)>Ma al punto di sognarme<genqty;1(lo,la,li,le)> di notte, eh!",
+      "pt_br": ""
+    },
+    {
+      "id": 287,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,49)>Chissà che tipo è <dart;0()><$cdef(27)><crstlktar;0></color>!<br>Un po' mi incuriosisce!<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,805)><$facial(1,1)>Se le nostre case fossero più vicine potremmo fare<br>quattro chiacchiere!",
+      "pt_br": ""
+    },
+    {
+      "id": 288,
+      "en": "<oneline><$voicel(1,9)><$comeff(1,5)><$motion(1,661)><$facial(1,4)>Lo sai cosa ci starebbe ora? Una bella chiacchierata con<br><dart;1()><$cdef(27)><crstlktar;1></color>!<clear><br><$voicel(1,5)><$comeff(1,14)><$motion(1,666)><$facial(1,1)>Però figurati se ci becchiamo, da queste parti...<br><$voicel(1,7)><$emotion(1,50)>Magari abitasse vicino a casa mia!",
+      "pt_br": ""
+    },
+    {
+      "id": 289,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Visto che mi hai dato la risposta giusta, ecco un regalino<br>per te!",
+      "pt_br": ""
+    },
+    {
+      "id": 290,
+      "en": "<$voicel(1,7)><$comeff(1,21)><$motion(1,805)><$facial(1,4)>Questa casa ha una vibe troppo cool! Ha un non so che<br>di rassicurante! <$voicel(1,6)><$emotion(1,49)>Mi piace un sacco!",
+      "pt_br": ""
+    },
+    {
+      "id": 291,
+      "en": "<$voicel(1,8)><$emotion(1,14)>Evvai, grande! Allooora...<clear><br><$voicel(1,5)><$comeff(1,6)>Mi sai dire qual è il sapore preferito <itdi;0()><$cdef(27)><qtargetpk;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 292,
+      "en": "<oneline>... <wait(0.4)><$voicel(1,7)><$comeff(1,20)><$motion(1,801)><$facial(1,4)>Esattooo! Lo sapevo che ci avresti preso,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 293,
+      "en": "... <wait(0.4)><$voicel(1,8)><$comeff(1,3)><$motion(1,803)>Sbagliato! Peccaaato!<clear><br><$voicel(1,6)><$facial(1,4)><$comeff(1,10)>La risposta esatta era <$cdef(27)><ltasteq;0></color>!<clear><br><$voicel(1,7)><$emotion(1,8)>Spero che vorrai giocare di nuovo con me! Sta' sicur<gen;-2(o,a)><br>che troverò un'altra bella domanda da farti!",
+      "pt_br": ""
+    },
+    {
+      "id": 294,
+      "en": "<$voicel(1,8)><$emotion(1,14)>Evvai, grande! Allooora...<clear><br><$voicel(1,5)><$comeff(1,6)>Mi sai dire qual è il sapore che proprio non piace<br><ita;0()><$cdef(27)><qtargetpk;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 295,
+      "en": "<oneline>... <wait(0.4)><$voicel(1,7)><$comeff(1,20)><$motion(1,801)><$facial(1,4)>Esattooo! Lo sapevo che ci avresti preso,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 296,
+      "en": "... <wait(0.4)><$voicel(1,8)><$comeff(1,3)><$motion(1,803)>Sbagliato! Peccaaato!<clear><br><$voicel(1,6)><$facial(1,4)><$comeff(1,10)>La risposta esatta era <$cdef(27)><htasteq;0></color>!<clear><br><$voicel(1,7)><$emotion(1,8)>Spero che vorrai giocare di nuovo con me! Sta' sicur<gen;-2(o,a)><br>che troverò un'altra bella domanda da farti!",
+      "pt_br": ""
+    },
+    {
+      "id": 297,
+      "en": "<$voicel(1,8)><$emotion(1,14)>Evvai, grande! Allooora...<clear><br><$voicel(1,5)><$comeff(1,6)>Mi sai dire qual è la cosa preferita <itdi;0()><$cdef(27)><qtargetpk;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 298,
+      "en": "<oneline>... <wait(0.4)><$voicel(1,7)><$comeff(1,20)><$motion(1,801)><$facial(1,4)>Esattooo! Lo sapevo che ci avresti preso,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 299,
+      "en": "<oneline>... <wait(0.4)><$voicel(1,8)><$comeff(1,3)><$motion(1,803)>Sbagliato! Peccaaato!<clear><br><$voicel(1,6)><$facial(1,4)><$comeff(1,10)>La risposta esatta era: <$cdef(27)><likemtag;0></color>!<clear><br><$voicel(1,7)><$emotion(1,8)>Spero che vorrai giocare di nuovo con me! Sta' sicur<gen;-2(o,a)><br>che troverò un'altra bella domanda da farti!",
+      "pt_br": ""
+    },
+    {
+      "id": 300,
+      "en": "<$voicel(1,7)><$emotion(1,50)>Giocare con te è troppo bello! Non vedo l'ora di farlo<br>di nuovo!",
+      "pt_br": ""
+    },
+    {
+      "id": 301,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)>Di' un po', <genqty;1(quello è,quella è,quelli sono,quelle sono)><br><iart;1()><$cdef(27)><refmateid;1></color>, vero?<clear><br><$voicel(1,7)><$comeff(1,9)><$motion(1,806)>Se me <genqty;1(lo,la,li,le)> lasci, posso farci<br><fqty(2)><iart;3()><$cdef(27)><reftarid;3></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 302,
+      "en": "<oneline><$voicel(1,5)><$comeff(1,4)><$motion(1,807)>Io di <fqty(2)><$cdef(27)><referrmate;0></color>...<br>non ci capisco proprio un'acca!<clear><br><$voicel(1,8)><$emotion(1,14)>Però <dart;1()><$cdef(27)><referrpk;1></color> dovrebbe saperne a pacchi.<br>Magari sa come aiutarti!",
+      "pt_br": ""
+    },
+    {
+      "id": 303,
+      "en": "<oneline><$voicel(1,5)><$comeff(1,4)><$motion(1,807)>Io di <fqty(2)><$cdef(27)><referrmate;0></color>...<br>non ci capisco proprio un'acca!<clear><br><$voicel(1,4)><$comeff(1,7)><$motion(1,666)><$facial(1,9)>E non ti so nemmeno consigliare qualcuno che se ne<br>intenda...",
+      "pt_br": ""
+    },
+    {
+      "id": 304,
+      "en": "<oneline><$voicel(1,5)><$comeff(1,4)><$motion(1,807)>Io di <fqty(2)><$cdef(27)><referrmate;0></color> ci capisco<br>proprio zero!<clear><br><$voicel(1,7)><$emotion(1,14)>Ma potrei usare <dart;2()><$cdef(27)><refmateid;2><br></color>che hai con te<slide><br><$voicel(1,6)>per farci <fqty(2)><iart;3()><$cdef(27)><reftarid;3></color>.<slide><br><$voicel(1,4)><$comeff(1,6)><$facial(1,4)>Mi dai quell<genqty;2(o,a,i,e)>, allora?",
+      "pt_br": ""
+    },
+    {
+      "id": 305,
+      "en": "<oneline><$voicel(1,4)><$comeff(1,6)><$motion(1,666)>Ti serv<qty;0(e,ono)> <fqty(2)><itdi;0()><$cdef(27)><reftarid;0></color>?<clear><br><$voicel(1,7)><$emotion(1,14)>Allora metti <fqty(2)><itdi;2()><$cdef(27)><refmateid;2></color><br>dentro <ita;1()><$cdef(27)><fqty(1)><reftable;1></color>!<slide><br><$voicel(1,6)><$comeff(1,9)><$facial(1,4)><$motion(1,806)>Più tardi ci penso io a lavorar<genqty;2(lo,la,li,le)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 306,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)>Per creare <itdi;0()><fqty(2)><$cdef(27)><reftarid;0></color><br>ho bisogno di <iart;1()><fqty(1)><$cdef(27)><reftable;1></color>!<slide><br><$voicel(1,3)><$comeff(1,6)><$motion(1,666)>Me <genqty;1(lo,la,li,le)> procureresti?",
+      "pt_br": ""
+    },
+    {
+      "id": 307,
+      "en": "<$voicel(1,9)><$emotion(1,8)>Ah! Tra l'altro, guarda qua cos'altro ho fatto! Secondo me<br>è troppo cool! Mi sono proprio dat<gen;-3(o,a)> da fare! Ecco qui!",
+      "pt_br": ""
+    },
+    {
+      "id": 308,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Ah, giusto! Tieni, te lo regalo! Pensa, l'ho trovato<br>mentre venivo qui!",
+      "pt_br": ""
+    },
+    {
+      "id": 309,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,39)>Ehi, <$cdef(27)><pname;0></color>!<br><fcap><dart;1()><$cdef(27)><cdirbname;1> </color><qty;1(è,sono)> pront<genqty;1(o,a,i,e)>!<clear><br><$voicel(1,6)><$comeff(1,9)><$motion(1,661)>Vuoi vedere?",
+      "pt_br": ""
+    },
+    {
+      "id": 310,
+      "en": "<$voicel(1,7)><$comeff(1,10)><$facial(1,4)><$motion(1,806)>Ok!! Pront<gen;-2(o,a)> a restare a bocca aperta? Ta-daaa!",
+      "pt_br": ""
+    },
+    {
+      "id": 311,
+      "en": "<$voicel(1,7)><$emotion(1,8)>Che te ne pare? Sono troppo orgoglios<gen;-3(o,a)> del risultato!<br>Spero proprio che ti piaccia!<clear><br><$voicel(1,5)><$emotion(1,49)>La prossima volta scommetto che mi verrà ancora meglio,<br>quindi se vuoi una mano per una <$cdef(27)><$spwfull(1)></color>,<slide><br>conta pure su di me!",
+      "pt_br": ""
+    },
+    {
+      "id": 312,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Giochiamo a \"Guarda di là\"! Dai, su!",
+      "pt_br": ""
+    },
+    {
+      "id": 313,
+      "en": "<$voicel(1,9)><$emotion(1,53)>Top! Allora vado, eh!",
+      "pt_br": ""
+    },
+    {
+      "id": 314,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Ooook, no problem! Giocheremo un'altra volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 315,
+      "en": "<$voicel(1,9)><$comeff(1,5)><$motion(1,805)>Eh vabbè, a 'sto giro ho perso io... ma complimenti a te,<br><$cdef(27)><pname;0></color>!<clear><br><$voicel(1,5)><$emotion(1,49)>Voglio la rivincita! Vedrai, la prossima volta vinco io!",
+      "pt_br": ""
+    },
+    {
+      "id": 316,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,8)>Ho vintoooo! Grazie per aver giocato con me,<br><$cdef(27)><pname;1></color>!<clear><br><$voicel(1,6)><$emotion(1,49)>Fammi sapere quando vuoi la rivincita! Guarda, te lo dico<br>già ora: non ho intenzione di perdere, io!",
+      "pt_br": ""
+    },
+    {
+      "id": 317,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Seeenti... Sono nel mood di una partita a nasconditto.<br>Ti va? Però vai tu a nasconderti, ok?",
+      "pt_br": ""
+    },
+    {
+      "id": 318,
+      "en": "<$voicel(1,7)><$emotion(1,1)>Evvai, grande! Vedi come perdi!",
+      "pt_br": ""
+    },
+    {
+      "id": 319,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Ooook, no problem! Giocheremo un'altra volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 320,
+      "en": "<$voicel(1,2)><$comeff(1,7)><$motion(1,805)>Accidenti, ho perso...",
+      "pt_br": ""
+    },
+    {
+      "id": 321,
+      "en": "<$voicel(1,9)><$emotion(1,48)>Mi hai proprio blastato, <$cdef(27)><pname;0></color>!<br>Giocare a nasconditto ti viene naturale!<slide><br><$voicel(1,8)><$emotion(1,8)>Visto che sei così brav<gen;-2(o,a)>, ti meriti un regalo!",
+      "pt_br": ""
+    },
+    {
+      "id": 322,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Oggi è stato superdivertente! Ma la prossima volta<br>sta' sicur<gen;-2(o,a)> che vincerò io!",
+      "pt_br": ""
+    },
+    {
+      "id": 323,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Ti posso chiamare così? Dà proprio quella vibe di best<br>friend forever. <$voicel(1,8)><$facial(1,4)>Bella sensazione, no?<clear><br><$voicel(1,9)><$emotion(1,8)>Da ora in poi, ti chiamerò sempre così! Ti fa piacere, no?<br>Spero tanto di sììì!",
+      "pt_br": ""
+    },
+    {
+      "id": 324,
+      "en": "<$voicel(1,7)><$emotion(1,8)><$pkcry;0(1,2)>! Visto che forza?",
+      "pt_br": ""
+    },
+    {
+      "id": 325,
+      "en": "<$voicel(1,9)><$emotion(1,53)>Evvai, top! Guarda che non mi lascerò battere, eh!",
+      "pt_br": ""
+    },
+    {
+      "id": 326,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Oook, no problem! Giocheremo un'altra volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 327,
+      "en": "<$voicel(1,5)><$comeff(1,6)><$motion(1,805)><$facial(1,9)>Eh? Ma che storia... La <$cdef(27)><fqty(1)><$ifull(1325)></color> non vuole funzionare!<clear><br><$voicel(1,3)><$emotion(1,47)>Eppure non ho fatto niente di strano...<br>Se non si riprende, addio <$cdef(27)><$spwfull(12)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 328,
+      "en": "<oneline><$voicel(1,7)><$emotion(1,14)>Ecco <iart;0()><$cdef(27)><reftarid;0></color>,<br>una parte di quello che mi avevi chiesto!<slide><br><$voicel(1,5)><$comeff(1,10)><$motion(1,806)>Il resto arriverà più tardi!",
+      "pt_br": ""
+    },
+    {
+      "id": 329,
+      "en": "<$emotion(1,14)><$voicel(1,7)>Forse <dart;0()><$cdef(27)><pksrchtar;0> </color>è da quella parte!<br>Vuoi che ti ci porti?<slide><br><$emotion(1,8)><$voicel(1,10)>Volando arriveremo in un attimo!",
+      "pt_br": ""
+    },
+    {
+      "id": 330,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,14)><$facial(1,4)><fcap><dart;0()><$cdef(27)><pksrchtar;0></color> dovrebbe stare<br>a casa sua!<clear><br><$voicel(1,7)><$comeff(1,6)><$motion(1,806)>Ti ci porto? Volando arriveremo in un attimo!",
+      "pt_br": ""
+    },
+    {
+      "id": 331,
+      "en": "<$comeff(1,7)><$motion(1,802)><$voicel(1,3)>Oggi non ho visto <dart;0()><$cdef(27)><pksrchtar;0></color>,<br>mi dispiace!<clear><br><$comeff(1,6)><$motion(1,806)><$voicel(1,7)>Ma se vuoi, posso portarti a casa sua!<br>Volando ci vorrà pochissimo! Che ne dici?",
+      "pt_br": ""
+    },
+    {
+      "id": 332,
+      "en": "<$comeff(1,6)><$motion(1,805)><$voicel(1,5)><fcap><dart;0()><$cdef(27)><pksrchtar;0> </color>non si vede mai da<br>queste parti!<slide><br><$comeff(1,3)><$motion(1,803)><$voicel(1,6)>Magari non vive qui?",
+      "pt_br": ""
+    },
+    {
+      "id": 333,
+      "en": "<$voicel(1,7)><$emotion(1,53)>Pronti, partenza... si vola!",
+      "pt_br": ""
+    },
+    {
+      "id": 334,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Eccoci a destinazione! Se vuoi volare da qualche altra<br>parte, fammi sapere!",
+      "pt_br": ""
+    },
+    {
+      "id": 335,
+      "en": "<oneline><$comeff(1,10)><$motion(1,801)><$voicel(1,7)>Eccoci a destinazione! Però... mi sa che<br><dart;0()><$cdef(27)><pksrchtar;0></color> non c'è!",
+      "pt_br": ""
+    },
+    {
+      "id": 336,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Va bene, come preferisci! Se hai bisogno del mio aiuto,<br>fammi sapere!",
+      "pt_br": ""
+    },
+    {
+      "id": 337,
+      "en": "<$emotion(1,14)><$voicel(1,7)>Forse <dart;0()><$cdef(27)><pksrchtar;0></color> è da quella parte!<br>Se vuoi andarci, ti ci porto io!<slide><br><$emotion(1,8)><$voicel(1,10)>Con il <$cdef(27)><$spwfull(35)></color> è questione di un attimo!",
+      "pt_br": ""
+    },
+    {
+      "id": 338,
+      "en": "<$voicel(1,5)><$emotion(1,14)><$facial(1,4)>Se non sbaglio... <dart;0()><$cdef(27)><pksrchtar;0> </color>dovrebbe<br>essere a casa sua! Se vuoi andarci, ti ci porto io!<slide><br><$voicel(1,7)><$comeff(1,6)><$motion(1,806)>Con il <$cdef(27)><$spwfull(35)></color> è questione di un attimo!",
+      "pt_br": ""
+    },
+    {
+      "id": 339,
+      "en": "<$comeff(1,7)><$motion(1,802)><$voicel(1,3)>Mi dispiace, non so dov'è <dart;0()><$cdef(27)><pksrchtar;0></color>...<clear><br><$comeff(1,6)><$motion(1,806)><$voicel(1,7)>Ma se vuoi, posso portarti a casa sua!<br>Con il <$cdef(27)><$spwfull(35)></color> è questione di un attimo!<slide><br>Che vuoi fare?",
+      "pt_br": ""
+    },
+    {
+      "id": 340,
+      "en": "<$comeff(1,6)><$motion(1,805)><$voicel(1,5)><fcap><dart;0()><$cdef(27)><pksrchtar;0></color>? Non si vede mai da<br>queste parti!<slide><br><$comeff(1,3)><$motion(1,803)><$voicel(1,6)>Magari non vive qui?",
+      "pt_br": ""
+    },
+    {
+      "id": 341,
+      "en": "<$voicel(1,7)><$emotion(1,53)>Ricevuto! Si parte!",
+      "pt_br": ""
+    },
+    {
+      "id": 342,
+      "en": "<$voicel(1,7)><$voicel(1,7)><$emotion(1,49)>Eccoci a destinazione! Se vuoi di nuovo usare<br>il <$cdef(27)><$spwfull(35)></color>, fammi un fischio!",
+      "pt_br": ""
+    },
+    {
+      "id": 343,
+      "en": "<oneline><$comeff(1,10)><$motion(1,801)><$voicel(1,7)>Eccoci a destinazione! Però... mi sa che<br><dart;0()><$cdef(27)><pksrchtar;0> </color>non c'è!",
+      "pt_br": ""
+    },
+    {
+      "id": 344,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Va bene, come preferisci! Se hai bisogno del mio aiuto,<br>fammi sapere!",
+      "pt_br": ""
+    },
+    {
+      "id": 345,
+      "en": "<$comeff(1,3)><$motion(1,803)><$voicel(1,7)>Ah sì, mi pare che <dart;0()><$cdef(27)><pksrchtar;0><br></color>bazzicasse da queste parti, prima!",
+      "pt_br": ""
+    }
+  ]
+}

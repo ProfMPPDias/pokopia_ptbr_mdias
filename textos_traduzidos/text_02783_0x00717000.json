@@ -1,0 +1,74 @@
+{
+  "entry_index": 2783,
+  "bin_id": "0x717000",
+  "decompressed_size": 3000,
+  "first_tag_offset": 312,
+  "total_strings": 13,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(3,10)><$comeff(3,5)><$textsize(2)>BOO, YO!</textsize>",
+      "pt_br": "<$voicel(3,10)><$comeff(3,5)><$textsize(2)>Boo, YO!</textsize>"
+    },
+    {
+      "id": 1,
+      "en": "<$comeff(3,3)><$motion(3,803)><$voicel(3,7)>Ha-HA! You scared?!<br><$comeff(3,14)><$motion(3,666)><$facial(3,9)>Huh. <wait(1.8)><$voicel(3,5)>I, uh...I guess not. Darn.<clear><br><$voicel(3,3)><$comeff(3,17)><$motion(3,663)>Maybe I’ve gotten rusty... It’s been a hot minute since<br>I tried to scare a human.",
+      "pt_br": "<$comeff(3,3)><$motion(3,803)><$voicel(3,7)>está com medo?<br><$comeff(3,14)><$motion(3,666)><$facial(3,9)>Huh. <wait(1.8)><$voicel(3,5)>Acho que não.<clear><br><$voicel(3,3)><$comeff(3,17)><$motion(3,663)>Talvez eu fiquei enferrujado... Tem sido um minuto quente desde<br>Tentei assustar um humano."
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(3,9)><$comeff(3,3)><$motion(3,661)>Oh, yeah! I was bumpin’ some <$cdef(27)>tunes</color>!<clear><br><$voicel(3,5)><$comeff(3,6)><$motion(3,666)>And, uh... Who are you?<br>Wait, you’re...not a human?<clear><br>You’re...a <$cdef(27)>Ditto</color>?!<clear><br><$voicel(3,7)><$emotion(3,27)>Yoooooo! That transformation is WILD! I thought you were<br>actually a human!",
+      "pt_br": "<$voicel(3,9)><$comeff(3,3)><$motion(3,661)>Oh, sim! Eu estava batendo’ alguns <$cdef(27)>melodias</color>!<clear><br><$voicel(3,5)><$comeff(3,6)><$motion(3,666)>E quem é você?<br>Espere, você não é um humano?<clear><br>Você é... uma <$cdef(27)>Ditto</color>?!<clear><br><$voicel(3,7)><$emotion(3,27)>Yoooooo! Essa transformação é selvagem! Eu pensei que você estava<br>Na verdade, um humano!"
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(3,9)><$comeff(3,5)><$motion(3,665)>Whaaat?! Yooo! You’re...a <$cdef(27)>Ditto</color>?! Whoa! <$voicel(3,8)><$emotion(3,38)>That transformation<br>is WILD!<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,666)>So, uh... Anyway... I guess you came to check stuff out<br>’cause you heard some noise?<clear><br><$voicel(3,7)><$comeff(3,3)><$motion(3,661)>My bad, yo! I was just bumpin’ some <$cdef(27)>tunes</color>!",
+      "pt_br": "<$voicel(3,9)><$comeff(3,5)><$motion(3,665)>Whaaat?! Yooo! Você é...a <$cdef(27)>Ditto</color>Whoa! <$voicel(3,8)><$emotion(3,38)>Essa transformação<br>É selvagem!<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,666)>De qualquer forma, acho que vieste ver as coisas.<br>Porque ouviste algum barulho?<clear><br><$voicel(3,7)><$comeff(3,3)><$motion(3,661)>Meu erro, yo! Eu só estava batendo’ alguns <$cdef(27)>melodias</color>!"
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(3,5)><$comeff(3,14)>I can go into all sorts of machines ’n’ electronics, y’know?<br><$voicel(3,8)><$comeff(3,5)><$motion(3,659)>This one is SUPER cool! It plays music!!!<clear><br><$voicel(3,9)><$comeff(3,10)><$motion(3,806)>I was waitin’ here alone hopin’ someone would come<br>along, but no one ever did... So I’ve been playin’ music<slide><br>to keep the mood high and the vibes right!",
+      "pt_br": "<$voicel(3,5)><$comeff(3,14)>Eu posso ir em todos os tipos de máquinas 'n' eletrônica, você sabe?<br><$voicel(3,8)><$comeff(3,5)><$motion(3,659)>Este é super legal! Ele toca música!!!<clear><br><$voicel(3,9)><$comeff(3,10)><$motion(3,806)>Eu estava esperando’ aqui sozinho esperando’ alguém viria<br>junto, mas ninguém nunca fez... Então eu tenho tocado música<slide><br>para manter o humor alto e as vibrações direito!"
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(3,5)><$emotion(3,14)>But, hey! Now that YOU’RE here, <$cdef(27)>Ditto</color>, how ’bout listenin’<br>to some hot tracks with me before you run off?!",
+      "pt_br": "<$voicel(3,5)><$emotion(3,14)>Mas, ei! Agora que você está aqui, <$cdef(27)>Ditto</color>, Que tal 'ouvir'<br>para algumas faixas quentes comigo antes de você fugir?!"
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(3,3)><$comeff(3,6)><$facial(3,9)>Huh? You don’t have time for that?<clear><br><$motion(0,824)><wait(1.0)><$voicel(3,5)><$comeff(3,14)><$motion(3,827)>Because all the humans and Pokémon disappeared?! Yooo!<br>Seriously?!<clear><br><$voicel(3,7)><$facial(3,1)><$comeff(3,6)>But the Pokémon are slowly comin’ back, you say? Hm...<br><$voicel(3,6)><$comeff(3,3)>And you’re tryin’ to make a new town with great vibes?<$motion(3,654)><$motion(0,652)>",
+      "pt_br": "<$voicel(3,3)><$comeff(3,6)><$facial(3,9)>Não tem tempo para isso?<clear><br><$motion(0,824)><wait(1.0)><$voicel(3,5)><$comeff(3,14)><$motion(3,827)>Porque todos os humanos e Pokémon desapareceram?!<br>A sério?<clear><br><$voicel(3,7)><$facial(3,1)><$comeff(3,6)>Mas os Pokémon estão lentamente voltando, você diz? Hm...<br><$voicel(3,6)><$comeff(3,3)>E você está tentando fazer uma nova cidade com grandes vibrações?<$motion(3,654)><$motion(0,652)>"
+    },
+    {
+      "id": 7,
+      "en": "<$comeff(3,14)>... ... ...",
+      "pt_br": "<$comeff(3,14)>... ... ..."
+    },
+    {
+      "id": 8,
+      "en": "<$voicel(3,10)><$comeff(3,5)><$motion(3,665)><$textsize(2)>YOOOOOO!!!</textsize>",
+      "pt_br": "<$voicel(3,10)><$comeff(3,5)><$motion(3,665)><$textsize(2)>YOOOOOOO!!!</textsize>"
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(3,7)><$emotion(3,39)>That is SO cool! Yo, I wanna help out too!",
+      "pt_br": "<$voicel(3,7)><$emotion(3,39)>Isso é tão fixe!"
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(3,5)><$emotion(3,49)>Guess I won’t waste any more time just sittin’ around here!",
+      "pt_br": "<$voicel(3,5)><$emotion(3,49)>Acho que eu não vou perder mais tempo apenas sentado por aqui!"
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(3,8)><$emotion(3,14)>I’ll see ya again in a bit!",
+      "pt_br": "<$voicel(3,8)><$emotion(3,14)>Vejo você de novo daqui a pouco!"
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(3,7)><$emotion(3,49)>I wanna help you make the town a vibe, yo! But lemme go<br>meet everybody else first!",
+      "pt_br": "<$voicel(3,7)><$emotion(3,49)>Quero ajudar-te a fazer da cidade uma vibração, mas deixa-me ir.<br>Conheçam todos os outros primeiro!"
+    }
+  ]
+}

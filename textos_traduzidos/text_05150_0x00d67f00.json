@@ -1,0 +1,1274 @@
+{
+  "entry_index": 5150,
+  "bin_id": "0xd67f00",
+  "decompressed_size": 65536,
+  "first_tag_offset": 13703,
+  "total_strings": 253,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$keyicon(1)>. Using a move reduces<br>your <$cdef(27)>PP</color>. Your current <$cdef(27)>PP</color> is shown as a gauge at the bottom<br>right of the screen.",
+      "pt_br": "<$keyicon(1)>. Usar uma jogada reduz<br>a sua <$cdef(27)>PP</color>. Sua corrente <$cdef(27)>PP</color> é mostrado como um medidor na parte inferior<br>à direita do tela."
+    },
+    {
+      "id": 1,
+      "en": "There are many different kinds of moves. Try each one out and<br>change the terrain to restore homes for all the Pokémon!",
+      "pt_br": "Existem muitos tipos diferentes de movimentos. Tente cada um fora e<br>mudar o terreno para restaurar casas para todos os Pokémon!"
+    },
+    {
+      "id": 2,
+      "en": "Press <$keyicon(3)> to <$cdef(27)>jump</color>. This will allow you to get over holes and other<br>obstacles with a little bit of air time!",
+      "pt_br": "Pressione <$keyicon(3)> para <$cdef(27)>saltar</color>Isso permitirá que você supere buracos e outros<br>obstáculos com um pouco de tempo de ar!"
+    },
+    {
+      "id": 3,
+      "en": "Select an item in your bag, then press <$keyicon(66)> to hold it in your<br>hands. If you talk to a Pokémon while holding an item, you can<br>choose to <$cdef(27)>give it to them </color>as a present!",
+      "pt_br": "Selecione um item na sua bolsa e pressione <$keyicon(66)> para mantê-lo em sua<br>mãos. Se você falar com um Pokémon enquanto segurando um item, você pode<br>escolher para <$cdef(27)>dá-lhes isso. </color>Como um presente!"
+    },
+    {
+      "id": 4,
+      "en": "You can become closer friends with Pokémon by talking to them,<br>giving them presents, and helping them with their <$cdef(27)>requests</color>.<br>Pokémon who really like you may also give you presents, so try to<br>make friends with lots of different Pokémon!",
+      "pt_br": "Você pode se tornar mais amigo de Pokémon falando com eles,<br>dar-lhes presentes, e ajudá-los com o seu <$cdef(27)>pedidos</color>.<br>Pokémon que realmente gosta de você também pode dar-lhe presentes, então tente<br>fazer amizade com muitos Pokémon diferentes!"
+    },
+    {
+      "id": 5,
+      "en": "You can use this move to make tall grass grow. It won’t work in<br>certain areas.",
+      "pt_br": "Você pode usar este movimento para fazer grama alta crescer.<br>certas áreas."
+    },
+    {
+      "id": 6,
+      "en": "Eat <$cdef(27)>salad</color> to power up <$cdef(27)><$sklfull(1)></color>. You can then press and hold<br><$keyicon(1)> to grow tall grass over a larger area.",
+      "pt_br": "Comer <$cdef(27)>salada</color> para ligar <$cdef(27)><$sklfull(1)></color>Você pode então pressionar e segurar<br><$keyicon(1)> para crescer grama alta sobre uma área maior."
+    },
+    {
+      "id": 7,
+      "en": "When powered up, <$cdef(27)><$sklfull(1)> </color>can grow moss or vines on rocks,<br>walls, and other surfaces.",
+      "pt_br": "Quando estiver ligado, <$cdef(27)><$sklfull(1)> </color>pode cultivar musgo ou videiras em rochas,<br>paredes e outras superfícies."
+    },
+    {
+      "id": 8,
+      "en": "Place a <$cdef(27)><fqty(1)><$ifull(1440)> </color>on a house to make it your home.<br>For block houses, you can place the flag nearby. You can also<br>invite other Pokémon to live with you.",
+      "pt_br": "Colocar a <$cdef(27)><fqty(1)><$ifull(1440)> </color>Por uma casa para torná-la a tua casa.<br>Para casas de bloco, você pode colocar a bandeira nas proximidades.<br>Convide outro Pokémon para viver com você."
+    },
+    {
+      "id": 9,
+      "en": "Place a variety of furniture in your home to increase your<br><$cdef(27)>comfort level</color>.",
+      "pt_br": "Coloque uma variedade de móveis em sua casa para aumentar seu<br><$cdef(27)>nível de conforto</color>."
+    },
+    {
+      "id": 10,
+      "en": "You can create a <$cdef(27)>block house</color> by enclosing a space within four<br>walls and a door. Just like with a <$cdef(27)><$bname(12)></color>, Pokémon will move in<br>if you place three different pieces of furniture inside.",
+      "pt_br": "Você pode criar um <$cdef(27)>bloco de casa</color> ao incluir um espaço dentro de quatro<br>paredes e uma porta. Assim como com um <$cdef(27)><$bname(12)></color>, Pokémon vai mudar-se<br>Se colocares três diferentes peças de mobiliário lá dentro."
+    },
+    {
+      "id": 11,
+      "en": "A <$cdef(27)>block house</color> can be made without a <$cdef(27)>building kit</color> as long as you<br>place the blocks correctly. However, it can’t be destroyed with<br>a <$cdef(27)>demolition kit</color> or moved with a <$cdef(27)>relocation kit</color>.",
+      "pt_br": "A <$cdef(27)>bloco de casa</color> pode ser feito sem uma <$cdef(27)>kit de construção</color> desde que tu...<br>colocar os blocos corretamente. No entanto, ele não pode ser destruído com<br>a <$cdef(27)>kit de demolição</color> ou movidos com uma <$cdef(27)>Kit de recolocação</color>."
+    },
+    {
+      "id": 12,
+      "en": "At a <$cdef(27)><fqty(1)><$ifull(764)></color>, you can use materials to craft items from<br><$cdef(27)>recipes</color> you’ve learned. You can find new <$cdef(27)>recipes</color> around the<br>world—or, in certain situations, come up with your own.",
+      "pt_br": "Em uma <$cdef(27)><fqty(1)><$ifull(764)></color>, você pode usar materiais para criar itens de<br><$cdef(27)>receitas</color> você aprendeu. Você pode encontrar novo <$cdef(27)>receitas</color> em torno da<br>mundo — ou, em certas situações, venha com o seu próprio."
+    },
+    {
+      "id": 13,
+      "en": "You can make a Pokémon more <$cdef(27)>comfortable</color> by clearing a path<br>from their home to a <$cdef(27)>Pokémon Center</color>. If a Pokémon seems to be<br>having trouble going for a walk, try tidying up the paths around<br>their home!",
+      "pt_br": "Você pode fazer um Pokémon mais <$cdef(27)>confortável</color> através da limpeza de um caminho<br>de sua casa para um <$cdef(27)>Centro Pokémon</color>. Se um Pokémon parece ser<br>tendo problemas para ir para uma caminhada, tente arrumar os caminhos ao redor<br>A sua casa!"
+    },
+    {
+      "id": 14,
+      "en": "You can use this move to break dirt, rock, and other materials<br>with your fist. This will let you punch holes in walls or the ground.",
+      "pt_br": "Você pode usar este movimento para quebrar a sujeira, rocha, e outros materiais<br>Isto vai deixar-te fazer buracos nas paredes ou no chão."
+    },
+    {
+      "id": 15,
+      "en": "Press and hold <$keyicon(1)> to continuously use <$cdef(27)><$sklfull(4)></color>. You can<br>look up or down while using this move to redirect your smash.",
+      "pt_br": "Pressionar e segurar <$keyicon(1)> para uso contínuo <$cdef(27)><$sklfull(4)></color>pode.<br>olhar para cima ou para baixo enquanto usa este movimento para redirecionar o seu esmagamento."
+    },
+    {
+      "id": 16,
+      "en": "Eat <$cdef(27)>hamburger steak</color> to power up <$cdef(27)><$sklfull(4)></color>. When powered<br>up, <$cdef(27)><$sklfull(4)></color><$cdef(27)> </color>can break harder substances than usual.",
+      "pt_br": "Comer <$cdef(27)>bife de hambúrguer</color> para ligar <$cdef(27)><$sklfull(4)></color>. Quando alimentado<br>Para cima, <$cdef(27)><$sklfull(4)></color><$cdef(27)> </color>pode quebrar substâncias mais duras do que o habitual."
+    },
+    {
+      "id": 17,
+      "en": "If you manage to take a photo of a Pokémon during a photo op,<br>it will be added to your <$cdef(27)>highlight reel</color>.",
+      "pt_br": "Se conseguir tirar uma foto de um Pokémon durante uma sessão fotográfica,<br>será adicionado ao seu <$cdef(27)>realce carretel</color>."
+    },
+    {
+      "id": 18,
+      "en": "If you manage to snag a photo for your highlight reel, you may<br>receive fabulous rewards, such as photo frames! Keep adding to<br>your highlight reel by not missing out on photo ops!",
+      "pt_br": "Se conseguir arranjar uma foto para o seu carretel de destaque, pode<br>receber recompensas fabulosas, tais como quadros de fotos! Continue adicionando a<br>o seu rolo de destaque por não perder em fotos ops!"
+    },
+    {
+      "id": 19,
+      "en": "Use this move to till dirt or grass into crop fields. Once you’ve<br>made a crop field, you can plant vegetable seeds in it. You can’t<br>till dry dirt—use moves like <$cdef(27)><$sklfull(3)> </color>to make the ground<br>nice and moist for tilling.",
+      "pt_br": "Use este movimento para até sujeira ou grama em campos de colheita.<br>fez um campo de colheita, você pode plantar sementes vegetais nele.<br>até secar a sujidade – use movimentos como <$cdef(27)><$sklfull(3)> </color>para fazer o chão<br>agradável e úmido para o cultivo."
+    },
+    {
+      "id": 20,
+      "en": "You can use <$cdef(27)><$sklfull(2)></color> on plants and flowers to pick them up.<br>Plants picked up this way can be given to other Pokémon as<br>presents or stored in your bag!",
+      "pt_br": "Você pode usar <$cdef(27)><$sklfull(2)></color> em plantas e flores para pegá-las.<br>As plantas captadas desta forma podem ser dadas a outros Pokémon como<br>presentes ou armazenados em sua bolsa!"
+    },
+    {
+      "id": 21,
+      "en": "Once a day, you can use the <$cdef(27)><fqty(1)><$ifull(1444)></color> inside to fully<br>restore your <$cdef(27)>PP</color>.",
+      "pt_br": "Uma vez por dia, você pode usar o <$cdef(27)><fqty(1)><$ifull(1444)></color> dentro para completamente<br>restaurar a sua <$cdef(27)>PP</color>."
+    },
+    {
+      "id": 22,
+      "en": "Sometimes a Pokémon with the <fcap><$icon(11001)><$cdef(27)>trade</color> specialty will trade items<br>with you at the <$cdef(27)><fqty(1)><$ifull(1325)></color> inside the <$cdef(27)>Pokémon Center</color>.",
+      "pt_br": "Às vezes um Pokémon com o <fcap><$icon(11001)><$cdef(27)>comércio</color> especialidade irá trocar itens<br>com você no <$cdef(27)><fqty(1)><$ifull(1325)></color> dentro da <$cdef(27)>Centro Pokémon</color>."
+    },
+    {
+      "id": 23,
+      "en": "If there are places up high that you can’t reach by jumping, you<br>can place blocks of material, such as dirt or sand, and climb them<br>like a set of steps.",
+      "pt_br": "Se há lugares no alto que você não pode alcançar por saltar, você<br>pode colocar blocos de material, como sujeira ou areia, e escalá-los<br>Como um conjunto de passos."
+    },
+    {
+      "id": 24,
+      "en": "You can use <$cdef(27)>Stockpile </color>to swallow items that are too big to carry in<br>your hands, such as furniture, and store them in your bag.",
+      "pt_br": "Você pode usar <$cdef(27)>Stockpile </color>para engolir itens que são muito grandes para transportar<br>As tuas mãos, como móveis, e guarda-as na tua mala."
+    },
+    {
+      "id": 25,
+      "en": "You can use <$cdef(27)>Spit Out</color> to place the items you’ve stockpiled in your<br>bag. Just go where you want to place an item, then press <$keyicon(0)> to<br>spit it out.",
+      "pt_br": "Você pode usar <$cdef(27)>Cuspir</color> para colocar os itens que você estocou em seu<br>Basta ir para onde você quer colocar um item, em seguida, pressione <$keyicon(0)> para<br>Desembucha."
+    },
+    {
+      "id": 26,
+      "en": "You can adjust the height at which you place an item by changing<br>where the camera is facing. This can come in handy when placing<br>wall-hanging items up high or filling holes in the ground.",
+      "pt_br": "Você pode ajustar a altura em que você coloca um item mudando<br>onde a câmera está virada. Isto pode ser útil ao colocar<br>artigos de suspensão de parede para cima alto ou buracos de enchimento no chão."
+    },
+    {
+      "id": 27,
+      "en": "You can adjust where you place an object by moving the camera<br>as you’re placing it. If you point the camera straight down, you<br>can place objects under your feet to lift yourself up one block at<br>a time.",
+      "pt_br": "Você pode ajustar onde você coloca um objeto movendo a câmera<br>como você está colocando-o. Se você apontar a câmera diretamente para baixo, você<br>pode colocar objetos sob seus pés para levantar-se um bloco em<br>Um tempo."
+    },
+    {
+      "id": 28,
+      "en": "If you make paths nicer, such as by smoothing over cracked<br>ground or placing steps on hills, you can encourage Pokémon to<br>travel farther from their homes.",
+      "pt_br": "Se você fizer caminhos mais agradáveis, como por alisar sobre rachado<br>chão ou colocando degraus em colinas, você pode incentivar Pokémon a<br>viajam mais longe de suas casas."
+    },
+    {
+      "id": 29,
+      "en": "When Pokémon go for a walk, they can visit buildings, such<br>as <$cdef(27)>Pokémon Centers</color> or other Pokémon’s homes.",
+      "pt_br": "Quando Pokémon vai dar um passeio, eles podem visitar edifícios, tais<br>como <$cdef(27)>Centros Pokémon</color> ou as casas de Pokémon."
+    },
+    {
+      "id": 30,
+      "en": "You can store your items inside a <$cdef(27)><fqty(1)><$ifull(2045)></color>. If your bag gets<br>full, make some space by putting items in here!",
+      "pt_br": "Você pode armazenar seus itens dentro de um <$cdef(27)><fqty(1)><$ifull(2045)></color>. Se a sua mala ficar<br>Completo, abra espaço colocando itens aqui!"
+    },
+    {
+      "id": 31,
+      "en": "You can also press and hold <$keyicon(196)>, then press <$keyicon(67)> to <$cdef(27)>transfer half<br>a stack of items</color>.",
+      "pt_br": "Você também pode pressionar e segurar <$keyicon(196)>, então pressione <$keyicon(67)> para <$cdef(27)>transferir metade<br>uma pilha de itens</color>."
+    },
+    {
+      "id": 32,
+      "en": "If you place a <$cdef(27)><fqty(1)><$ifull(2045)></color> next to a <$cdef(27)><fqty(1)><$ifull(764)></color>, you can<br>use materials directly from the box when crafting items!",
+      "pt_br": "Se colocar um <$cdef(27)><fqty(1)><$ifull(2045)></color> ao lado de um <$cdef(27)><fqty(1)><$ifull(764)></color>Você pode.<br>usar materiais diretamente da caixa quando crafting itens!"
+    },
+    {
+      "id": 33,
+      "en": "You can use this move to cut what’s in front of you, such as trees<br>or wooden objects, with sharp blades.",
+      "pt_br": "Você pode usar este movimento para cortar o que está à sua frente, como árvores<br>ou objetos de madeira, com lâminas afiadas."
+    },
+    {
+      "id": 34,
+      "en": "Eat <$cdef(27)>bread</color> to power up <$cdef(27)><$sklfull(5)></color>. You can then press and hold <$keyicon(1)><br>to slice up things that are farther away.",
+      "pt_br": "Comer <$cdef(27)>pão</color> para ligar <$cdef(27)><$sklfull(5)></color>Você pode então pressionar e segurar <$keyicon(1)><br>para cortar coisas que estão mais longe."
+    },
+    {
+      "id": 35,
+      "en": "When powered up, <$cdef(27)><$sklfull(5)> </color>can slice up harder substances<br>than usual.",
+      "pt_br": "Quando estiver ligado, <$cdef(27)><$sklfull(5)> </color>pode cortar substâncias mais duras<br>do que o habitual."
+    },
+    {
+      "id": 36,
+      "en": "As a <$cdef(27)>Ditto</color>, you can make yourself smaller to fit through tight<br>spaces. You’ll return to your normal size once you’re back out in<br>the open.",
+      "pt_br": "Como uma <$cdef(27)>Ditto</color>, você pode tornar-se menor para caber através de apertado<br>espaços. Você vai voltar ao seu tamanho normal uma vez que você está de volta em<br>O aberto."
+    },
+    {
+      "id": 37,
+      "en": "Tilt <$keyicon(194)> slightly to walk in that direction. If you tilt it all the way,<br>you’ll start running. If you press and hold <$keyicon(55)> or press <$keyicon(54)>, you<br>can run even faster.",
+      "pt_br": "Inclinação <$keyicon(194)> Um pouco para andar nessa direção. Se você inclinar até o fim,<br>você vai começar a correr. Se você pressionar e segurar <$keyicon(55)> ou pressione <$keyicon(54)>, você<br>pode correr ainda mais rápido."
+    },
+    {
+      "id": 38,
+      "en": "Tilt <$keyicon(195)> to move the camera.",
+      "pt_br": "Inclinação <$keyicon(195)> para mover a câmara."
+    },
+    {
+      "id": 39,
+      "en": "You can use this move to spray water and revitalize dried dirt and<br>withered plants, such as grass, trees, and flowers.",
+      "pt_br": "Você pode usar este movimento para pulverizar água e revitalizar a sujeira seca e<br>Plantas secas, como relva, árvores e flores."
+    },
+    {
+      "id": 40,
+      "en": "Eat <$cdef(27)>soup</color> to power up <$cdef(27)><$sklfull(3)></color>. You can then press and hold<br><$keyicon(1)> to spray water over a larger area.",
+      "pt_br": "Comer <$cdef(27)>sopa</color> para ligar <$cdef(27)><$sklfull(3)></color>Você pode então pressionar e segurar<br><$keyicon(1)> pulverizar água sobre uma área maior."
+    },
+    {
+      "id": 41,
+      "en": "Items you obtain are placed in your bag. Press <$keyicon(159)> to access your<br>bag. From there, you can use any items you have.",
+      "pt_br": "Os itens que você obtém são colocados em sua bolsa. <$keyicon(159)> para acessar o seu<br>A partir daí, você pode usar todos os itens que você tem."
+    },
+    {
+      "id": 42,
+      "en": "There’s a limit to how many items you can fit in your bag. You can<br>increase this limit by purchasing <$cdef(27)>Packing Tips </color>from the <$cdef(27)>shop</color>.",
+      "pt_br": "Há um limite para quantos itens você pode caber em sua bolsa. Você pode<br>aumentar este limite através da compra <$cdef(27)>Dicas de embalagem </color>da <$cdef(27)>loja</color>."
+    },
+    {
+      "id": 43,
+      "en": "Grass, trees, rocks, furniture, and other items can be placed near<br>each other in certain combinations to create Pokémon habitats.<br>Placing the same combination of items in a different location—<br>such as near water or in a high place—might even create a<br>different habitat altogether!",
+      "pt_br": "Grama, árvores, pedras, móveis e outros itens podem ser colocados perto<br>um ao outro em certas combinações para criar habitats de Pokémon.<br>Colocando a mesma combinação de itens em um local diferente -<br>Tal como a água próxima ou em um lugar alto - pode até mesmo criar um<br>Habitat diferente, completamente!"
+    },
+    {
+      "id": 44,
+      "en": "When you create a new habitat, a Pokémon you haven’t yet<br>registered in your <$cdef(27)>Pokédex</color> may appear there. Try making all sorts<br>of habitats to meet a wide variety of Pokémon friends!",
+      "pt_br": "Quando você cria um novo habitat, um Pokémon você ainda não<br>registado na sua <$cdef(27)>Pokédex</color> pode aparecer lá. Tente fazer todos os tipos<br>de habitats para conhecer uma grande variedade de amigos Pokémon!"
+    },
+    {
+      "id": 45,
+      "en": "If you’ve learned multiple moves, press <$keyicon(142)> or <$keyicon(143)> to switch<br>between them. You can register moves by holding <$keyicon(142)> or <$keyicon(143)>,<br>or by pressing and holding <$keyicon(246)>.",
+      "pt_br": "Se você aprendeu vários movimentos, pressione <$keyicon(142)> ou <$keyicon(143)> para alternar<br>entre eles. Você pode registrar movimentos segurando <$keyicon(142)> ou <$keyicon(143)>,<br>ou por pressão e retenção <$keyicon(246)>."
+    },
+    {
+      "id": 46,
+      "en": "Sometimes you may notice something sparkling on the ground.<br>You can investigate these sparkling areas to discover traces of<br>a Pokémon, which will provide information about that Pokémon’s<br>habitat and preferred environment. This information will be<br>recorded in your <$cdef(27)>Pokédex</color>.",
+      "pt_br": "Às vezes você pode notar algo brilhando no chão.<br>Você pode investigar estas áreas cintilantes para descobrir vestígios de<br>um Pokémon, que fornecerá informações sobre o Pokémon<br>habitat e ambiente preferido. Esta informação será<br>gravado na sua <$cdef(27)>Pokédex</color>."
+    },
+    {
+      "id": 47,
+      "en": "You can learn about <$cdef(27)>Pokémon and their habitats </color>by investigating<br>traces. The info you gather is recorded in your <$cdef(27)>Pokédex</color>.",
+      "pt_br": "Você pode aprender sobre <$cdef(27)>Pokémon e seus habitats </color>através da investigação<br>traços. A informação que recolhe está gravada na sua <$cdef(27)>Pokédex</color>."
+    },
+    {
+      "id": 48,
+      "en": "If you walk toward a block, you can climb on top of it.<br>However, you can’t climb on top of anything that’s more<br>than one block high.",
+      "pt_br": "Se você andar em direção a um bloco, você pode subir em cima dele.<br>No entanto, você não pode subir em cima de nada que é mais<br>do que um quarteirão de altura."
+    },
+    {
+      "id": 49,
+      "en": "Follow these steps to <$cdef(27)><$spwfull(1)></color> a house.<br>1. Place a <$cdef(27)>building kit </color>in the spot where you wish to build.<br>2. Collect the materials listed in the kit.<br>3. Gather Pokémon who meet the requirements of the kit.<br>It will take a little time for the building process to complete.",
+      "pt_br": "Siga estes passos para <$cdef(27)><$spwfull(1)></color> Uma casa.<br>1. Colocar a <$cdef(27)>kit de construção </color>no local onde deseja construir.<br>2. Recolher os materiais listados no kit.<br>3. Reúna Pokémon que atenda às exigências do kit.<br>Levará algum tempo para o processo de construção ser concluído."
+    },
+    {
+      "id": 50,
+      "en": "Talk to a Pokémon who meets the requirements of the <$cdef(27)>building kit<br></color>you placed and have them follow you to it. Once there, you can<br>ask them to help with the <$cdef(27)><$spwfull(1)>ing</color> process!",
+      "pt_br": "Fale com um Pokémon que cumpre os requisitos da <$cdef(27)>kit de construção<br></color>Você colocou e os fez segui-lo. Uma vez lá, você pode<br>pedir-lhes para ajudar com o <$cdef(27)><$spwfull(1)>ing</color> Processar!"
+    },
+    {
+      "id": 51,
+      "en": "You can use a different <$cdef(27)>building kit </color>to <$cdef(27)>remodel </color>an existing house<br>or <$cdef(27)>Pokémon Center</color> into a whole new house with all of the same<br>furniture inside. However, you cannot turn a large house into a<br>smaller one.",
+      "pt_br": "Você pode usar um diferente <$cdef(27)>kit de construção </color>para <$cdef(27)>remodelar </color>uma casa existente<br>ou <$cdef(27)>Centro Pokémon</color> em uma casa totalmente nova com tudo o mesmo<br>móveis dentro. No entanto, você não pode transformar uma casa grande em um<br>menor."
+    },
+    {
+      "id": 52,
+      "en": "A newly built house does not come with any furniture. Pokémon<br>cannot live in a house until it has three different pieces of<br>furniture inside.",
+      "pt_br": "Uma casa recém-construída não vem com nenhum mobiliário.<br>não pode viver numa casa até ter três diferentes pedaços de<br>Móveis para dentro."
+    },
+    {
+      "id": 53,
+      "en": "If you talk to a Pokémon who is following you while you’re both<br>near a house, you can invite them to live in that house. Pokémon<br>are <$cdef(27)>very comfortable in houses</color> and love living in them!",
+      "pt_br": "Se você falar com um Pokémon que está seguindo você enquanto você é ambos<br>perto de uma casa, você pode convidá-los para viver naquela casa. Pokémon<br>are <$cdef(27)>muito confortável em casas</color> e amar viver neles!"
+    },
+    {
+      "id": 54,
+      "en": "When powered by electricity, certain houses will light up and the<br>machines inside will start running. Try placing <$cdef(27)><fqty(2)><$ifull(1396)> </color>to<br>provide power to a house.",
+      "pt_br": "Quando alimentados pela eletricidade, certas casas se iluminarão e o<br>as máquinas dentro começarão a correr. Tente colocar <$cdef(27)><fqty(2)><$ifull(1396)> </color>para<br>fornecer energia a uma casa."
+    },
+    {
+      "id": 55,
+      "en": "You can take pictures of Pokémon and other things around you<br>using your camera. Enter photo mode by pressing <$keyicon(52)> or selecting<br><$cdef(27)>Camera</color> in the <$keyicon(4)> menu. Once in photo mode, press <$keyicon(155)> to take<br>a picture!",
+      "pt_br": "Você pode tirar fotos de Pokémon e outras coisas ao seu redor<br>usando sua câmera. Digite o modo de foto pressionando <$keyicon(52)> ou selecionar<br><$cdef(27)>Câmera</color> na <$keyicon(4)> menu. Uma vez no modo foto, pressione <$keyicon(155)> para tomar<br>Uma fotografia!"
+    },
+    {
+      "id": 56,
+      "en": "Press <$keyicon(49)> while in photo mode to change the way you hold<br>the camera.",
+      "pt_br": "Pressione <$keyicon(49)> enquanto estiver no modo foto para mudar a forma como você segura<br>A câmara."
+    },
+    {
+      "id": 57,
+      "en": "Once you get the <$cdef(27)><fqty(1)><$ifull(4000)></color>, you’ll be able to fix your<br>camera on the tripod and move freely while you take photos.<br>Press <$keyicon(49)> while in selfie mode to fix the camera in place.",
+      "pt_br": "Assim que tiveres o... <$cdef(27)><fqty(1)><$ifull(4000)></color>, você será capaz de corrigir o seu<br>câmera no tripé e mover livremente enquanto você tira fotos.<br>Pressione <$keyicon(49)> enquanto estiver em modo selfie para corrigir a câmera no lugar."
+    },
+    {
+      "id": 58,
+      "en": "You may sometimes find <$cdef(27)>lost relics</color> buried in the ground.<br>Try showing them to a Pokémon with the <$cdef(27)><fcap><$spwfull(25)></color> specialty!",
+      "pt_br": "Às vezes você pode encontrar <$cdef(27)>relíquias perdidas</color> enterrados no chão.<br>Tente mostrá-los a um Pokémon com o <$cdef(27)><fcap><$spwfull(25)></color> Especialidade!"
+    },
+    {
+      "id": 59,
+      "en": "Some items you find buried in the ground are unstable and could<br>explode at any minute! If you happen upon one of these, quickly<br>spray it with water!",
+      "pt_br": "Alguns itens que você encontra enterrados no chão são instáveis e poderiam<br>Explodir a qualquer momento! Se você acontecer em cima de um destes, rapidamente<br>Esguicha-o com água!"
+    },
+    {
+      "id": 60,
+      "en": "Press and hold <$keyicon(153)> to inhale items on the ground near you. This<br>can come in handy when you <$cdef(27)>headbutt</color> a tree to knock off its<br>berries, or when you break rocks and dirt with <$cdef(27)><$sklfull(4)></color>.",
+      "pt_br": "Pressionar e segurar <$keyicon(153)> para inalar itens no chão perto de você.<br>pode vir a calhar quando você <$cdef(27)>cabeçada</color> uma árvore para derrubar a sua<br>bagas, ou quando você quebrar pedras e sujeira com <$cdef(27)><$sklfull(4)></color>."
+    },
+    {
+      "id": 61,
+      "en": "<$cdef(27)><$sklfull(13)></color> lets you move while you hover in the air. You can<br>float down or up by pressing <$keyicon(59)> or <$keyicon(58)> while using this move.",
+      "pt_br": "<$cdef(27)><$sklfull(13)></color> permite que você se mova enquanto você paira no ar. Você pode<br>flutuar para baixo ou para cima pressionando <$keyicon(59)> ou <$keyicon(58)> enquanto usa este movimento."
+    },
+    {
+      "id": 62,
+      "en": "Select an item in your bag and press <$keyicon(0)> to spit it out. For certain<br>items, you can adjust the number of items you spit out at once by<br>pressing <$keyicon(30)> and redirect where you spit them out by using <$keyicon(31)>.<br>If you press <$keyicon(253)>, you can enter <$cdef(27)>replacement mode</color>, which allows<br>you to swap what you want to spit out with what’s on the ground.",
+      "pt_br": "Selecione um item em seu saco e pressione <$keyicon(0)> para cuspir.<br>itens, você pode ajustar o número de itens que você cuspir de uma vez por<br>pressionando <$keyicon(30)> e redirecionar onde você cuspi-los para fora usando <$keyicon(31)>.<br>Se pressionar <$keyicon(253)>, você pode entrar <$cdef(27)>modo de substituição</color>, o que permite<br>você para trocar o que você quer cuspir para fora com o que está no chão."
+    },
+    {
+      "id": 63,
+      "en": "You can break what’s in front of you with <$keyicon(153)>. The broken item<br>will then be stored in your bag. If you press and hold the button<br>to break something, you will store it in your body so you can spit<br>it out whole.",
+      "pt_br": "Você pode quebrar o que está à sua frente com <$keyicon(153)>. O item quebrado<br>será então armazenado em sua bolsa. Se você pressionar e segurar o botão<br>para partir alguma coisa, você vai guardá-lo em seu corpo para que você possa cuspir<br>Está tudo acabado."
+    },
+    {
+      "id": 64,
+      "en": "You’ll get tired if you try to use moves while you’re out of <$cdef(27)>PP</color>.<br>The gauge at the bottom right of the screen displays how much<br><$cdef(27)>PP</color> you have left.",
+      "pt_br": "Você vai ficar cansado se você tentar usar movimentos enquanto você está fora de <$cdef(27)>PP</color>.<br>O medidor na parte inferior direita da tela exibe quanto<br><$cdef(27)>PP</color> Você partiu."
+    },
+    {
+      "id": 65,
+      "en": "You can restore your <$cdef(27)>PP</color> by eating food, such as <$cdef(27)>berries and<br>vegetables</color>. Open your bag with <$keyicon(159)> and select what you want<br>to eat with <$keyicon(0)>.",
+      "pt_br": "Você pode restaurar o seu <$cdef(27)>PP</color> por comer alimentos, tais como <$cdef(27)>bagas e outras bagas<br>Produtos hortícolas</color>Abra a sua mala com <$keyicon(159)> e selecione o que você quer<br>para comer com <$keyicon(0)>."
+    },
+    {
+      "id": 66,
+      "en": "You can tell how much a Pokémon likes their home by checking<br>their <$cdef(27)>comfort level</color>. Place things the Pokémon likes near their<br>home to raise their <$cdef(27)>comfort level</color>.",
+      "pt_br": "Você pode dizer o quanto um Pokémon gosta de sua casa, verificando<br>a sua <$cdef(27)>nível de conforto</color>. Coloque coisas que o Pokémon gosta perto de seus<br>casa para elevar o seu <$cdef(27)>nível de conforto</color>."
+    },
+    {
+      "id": 67,
+      "en": "Interested in raising a Pokémon’s <$cdef(27)>comfort level</color>? Go ahead and<br><$cdef(27)>ask them if they’re feeling comfy</color>! They’ll let you know if there’s<br>anything they need from you. If you don’t have what they ask for,<br>check the <$cdef(27)>shop</color> or go hunting for <$cdef(27)>recipes</color>!",
+      "pt_br": "Interessado em criar um Pokémon <$cdef(27)>nível de conforto</color>Vá em frente e<br><$cdef(27)>perguntar-lhes se eles estão se sentindo confortáveis</color>! Eles vão deixar você saber se houver<br>tudo o que eles precisam de você. Se você não tem o que eles pedem,<br>verificar o <$cdef(27)>loja</color> Ou ir à caça <$cdef(27)>receitas</color>!"
+    },
+    {
+      "id": 68,
+      "en": "A Pokémon’s <$cdef(27)>comfort level</color> will increase when they eat their<br>favorite food or if they eat until they are full.",
+      "pt_br": "Um Pokémon <$cdef(27)>nível de conforto</color> aumentarão quando comerem o seu<br>comida favorita ou se comerem até estarem cheios."
+    },
+    {
+      "id": 69,
+      "en": "You can give food directly to a Pokémon for them to eat, but you<br>can also put food on a <$cdef(27)>plate</color> near their living space or plant a<br><$cdef(27)>berry tree</color> near their home. When the Pokémon is hungry, they<br>will eat on their own.",
+      "pt_br": "Você pode dar comida diretamente a um Pokémon para eles comerem, mas você<br>pode também colocar alimentos em uma <$cdef(27)>placa</color> perto de seu espaço de vida ou planta um<br><$cdef(27)>bagas</color> Quando o Pokémon está com fome,<br>Eles comerão sozinhos."
+    },
+    {
+      "id": 70,
+      "en": "Place furniture around a Pokémon’s home for them to rest on,<br>such as a <$cdef(27)>bed</color> or a <$cdef(27)>chair</color>, to raise their <$cdef(27)>comfort level</color>.",
+      "pt_br": "Coloque móveis em volta da casa de um Pokémon para eles descansarem,<br>por exemplo, <$cdef(27)>cama</color> ou a <$cdef(27)>cadeira</color>, para elevar o seu <$cdef(27)>nível de conforto</color>."
+    },
+    {
+      "id": 71,
+      "en": "Pokémon can’t use <$cdef(27)>beds</color> or <$cdef(27)>chairs</color> that are smaller than they are.<br>Make sure to get big furniture for big Pokémon!",
+      "pt_br": "Pokémon não pode usar <$cdef(27)>camas</color> ou <$cdef(27)>cadeiras</color> que são menores do que são.<br>Certifique-se de comprar móveis grandes para o grande Pokémon!"
+    },
+    {
+      "id": 72,
+      "en": "Place items around a Pokémon’s home that they can play<br>with, such as <$cdef(27)><fqty(1)><$ifull(1274)> </color>or <$cdef(27)><fqty(1)><$ifull(1271)></color>, to raise their<br><$cdef(27)>comfort level</color>.",
+      "pt_br": "Coloque itens em torno da casa de um Pokémon que eles podem jogar<br>com, tais como <$cdef(27)><fqty(1)><$ifull(1274)> </color>ou <$cdef(27)><fqty(1)><$ifull(1271)></color>, para elevar o seu<br><$cdef(27)>nível de conforto</color>."
+    },
+    {
+      "id": 73,
+      "en": "Different Pokémon like different things. Placing something a<br>Pokémon likes around their home will greatly raise their<br><$cdef(27)>comfort level</color>!",
+      "pt_br": "Pokémon diferente como coisas diferentes.<br>Pokémon gosta em sua casa vai levantar muito seu<br><$cdef(27)>nível de conforto</color>!"
+    },
+    {
+      "id": 74,
+      "en": "A Pokémon’s <$cdef(27)>comfort level</color> also greatly increases when they<br>consume their favorite food or drink.",
+      "pt_br": "Um Pokémon <$cdef(27)>nível de conforto</color> também aumenta muito quando eles<br>consumir a sua comida ou bebida favoritas."
+    },
+    {
+      "id": 75,
+      "en": "You can check your <$cdef(27)>Pokédex</color> to see what each Pokémon likes.",
+      "pt_br": "Pode verificar o seu <$cdef(27)>Pokédex</color> para ver do que cada Pokémon gosta."
+    },
+    {
+      "id": 76,
+      "en": "Pokémon also have different preferences when it comes to<br><$cdef(27)>brightness</color>, <$cdef(27)>temperature</color>, and <$cdef(27)>humidity</color>. Adjusting a Pokémon’s<br>home to match these preferences will raise that Pokémon’s<br><$cdef(27)>comfort level</color>.",
+      "pt_br": "Pokémon também tem preferências diferentes quando se trata de<br><$cdef(27)>brilho</color>, <$cdef(27)>temperatura</color>, e <$cdef(27)>humidade</color>. Ajustando um Pokémon<br>casa para corresponder a estas preferências vai levantar que Pokémon<br><$cdef(27)>nível de conforto</color>."
+    },
+    {
+      "id": 77,
+      "en": "You can check your <$cdef(27)>Pokédex</color> to see a Pokémon’s <$cdef(27)>brightness</color>,<br><$cdef(27)>temperature</color>, and <$cdef(27)>humidity</color> preferences.",
+      "pt_br": "Pode verificar o seu <$cdef(27)>Pokédex</color> para ver um Pokémon <$cdef(27)>brilho</color>,<br><$cdef(27)>temperatura</color>, e <$cdef(27)>humidade</color> preferências."
+    },
+    {
+      "id": 78,
+      "en": "<$cdef(27)><fcap><$spwfull(1)>ing </color>a house allows you to easily increase a Pokémon’s<br><$cdef(27)>comfort level</color>. Once construction on a house is finished, you can<br>invite Pokémon to move in.",
+      "pt_br": "<$cdef(27)><fcap><$spwfull(1)>ing </color>uma casa permite que você facilmente aumentar um Pokémon<br><$cdef(27)>nível de conforto</color>. Uma vez que a construção de uma casa é concluída, você pode<br>Convidem o Pokémon para se mudar."
+    },
+    {
+      "id": 79,
+      "en": "The larger the house, the more the <$cdef(27)>comfort levels</color> of the Pokémon<br>living there will increase.",
+      "pt_br": "Quanto maior a casa, mais <$cdef(27)>níveis de conforto</color> do Pokémon<br>viver ali aumentará."
+    },
+    {
+      "id": 80,
+      "en": "The <$cdef(27)>comfort levels</color> of Pokémon living in a house won’t be affected<br>by adjustments to brightness, temperature, or humidity outside<br>the house. Such adjustments need to be made <$cdef(27)>inside the house</color> to<br>affect the <$cdef(27)>comfort levels</color> of the Pokémon living there.",
+      "pt_br": "A <$cdef(27)>níveis de conforto</color> de Pokémon que vive em uma casa não será afetado<br>por ajustes de brilho, temperatura ou umidade no exterior<br>a casa. Tais ajustes precisam ser feitos <$cdef(27)>dentro da casa</color> para<br>afetar a <$cdef(27)>níveis de conforto</color> dos Pokémon que vivem lá."
+    },
+    {
+      "id": 81,
+      "en": "Roofs and light sources can affect the <$cdef(27)>brightness </color>of a home. You<br>can brighten a home by placing lamps or streetlights around it.<br>Conversely, you can darken a home by placing a roof over it to<br>block light.",
+      "pt_br": "Telhados e fontes de luz podem afetar o <$cdef(27)>brilho </color>de uma casa.<br>pode iluminar uma casa, colocando lâmpadas ou luzes de rua em torno dele.<br>Inversamente, você pode escurecer uma casa colocando um telhado sobre ele para<br>Bloquear a luz."
+    },
+    {
+      "id": 82,
+      "en": "After you’ve used <$cdef(27)><$sklfull(2)> </color>to make a crop field, you can<br>plant seeds and grow vegetables. Water your crops often, either<br>with <$cdef(27)><$sklfull(3)></color> or by other methods, to make sure they grow!",
+      "pt_br": "Depois de ter usado <$cdef(27)><$sklfull(2)> </color>para fazer um campo de colheita, você pode<br>planta sementes e cultivo de vegetais. Regar suas culturas muitas vezes, ou<br>com <$cdef(27)><$sklfull(3)></color> ou por outros métodos, para garantir que eles crescem!"
+    },
+    {
+      "id": 83,
+      "en": "Press <$keyicon(153)> to harvest vegetables once they are ripe. You can then<br>water your vegetable plants with <$cdef(27)><$sklfull(3)> </color>or other methods<br>to regrow them.",
+      "pt_br": "Pressione <$keyicon(153)> para colher legumes uma vez que eles estão maduros. Você pode, então<br>regar as plantas vegetais com <$cdef(27)><$sklfull(3)> </color>ou outros métodos<br>para os refazer."
+    },
+    {
+      "id": 84,
+      "en": "Each Pokémon has a <$cdef(27)>specialty</color>. You can see a Pokémon’s specialty<br>in the <$cdef(27)>Pokédex</color>, which you can access via the <$keyicon(4)> menu.",
+      "pt_br": "Cada Pokémon tem um <$cdef(27)>especialidade</color>Você pode ver a especialidade de um Pokémon<br>na <$cdef(27)>Pokédex</color>, que você pode acessar através do <$keyicon(4)> menu."
+    },
+    {
+      "id": 85,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty will ignite nearby flammable<br>objects in their free time. If you’re traveling with a Pokémon who<br>has this specialty, just stand in front of what you want burned, and<br>they’ll set it ablaze for you.",
+      "pt_br": "Pokémon com <$cdef(27)><fcap><$spwfull(10)></color> especialidade vai incendiar próximo inflamável<br>objetos em seu tempo livre. Se você estiver viajando com um Pokémon que<br>tem esta especialidade, apenas ficar na frente do que você quer queimado, e<br>Eles vão incendiá-lo para você."
+    },
+    {
+      "id": 86,
+      "en": "Also, if you bring them to a <$cdef(27)><fqty(1)><$ifull(1446)></color>, they can melt<br>certain materials, such as metal or sand, for processing.",
+      "pt_br": "Além disso, se você levá-los para um <$cdef(27)><fqty(1)><$ifull(1446)></color>Eles podem derreter.<br>determinados materiais, como metal ou areia, para transformação."
+    },
+    {
+      "id": 87,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(1)></color> specialty will <$cdef(27)>lead</color> other Pokémon<br>when building or remodeling structures. You can’t <$cdef(27)><$spwfull(1)><br></color>anything without a leader Pokémon.",
+      "pt_br": "Pokémon com <$cdef(27)><fcap><$spwfull(1)></color> special will <$cdef(27)>chumbo</color> outros Pokémon<br>ao construir ou remodelar estruturas. Você não pode <$cdef(27)><$spwfull(1)><br></color>Nada sem um líder Pokémon."
+    },
+    {
+      "id": 88,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(5)></color> specialty will use their free time to<br>help nearby plants mature faster. If you bring a Pokémon with this<br>skill to a plant, they will help <$cdef(27)><$spwfull(5)></color> it for you!",
+      "pt_br": "Pokémon com <$cdef(27)><fcap><$spwfull(5)></color> especialidade vai usar o seu tempo livre para<br>ajudar plantas próximas amadurecer mais rápido. Se você trouxer um Pokémon com este<br>habilidade para uma planta, eles vão ajudar <$cdef(27)><$spwfull(5)></color> É para ti!"
+    },
+    {
+      "id": 89,
+      "en": "Plants such as <$cdef(27)><fqty(2)><$ifull(8)></color> won’t grow unless they’re watered,<br>even if a Pokémon who specializes in <$cdef(27)><$spwfull(5)>ing</color> is with you.<br>Use <$cdef(27)><$sklfull(3)> </color>or something similar to water your plants first,<br>then ask a Pokémon to help you grow them!",
+      "pt_br": "Plantas como <$cdef(27)><fqty(2)><$ifull(8)></color> não crescerão a menos que sejam regados,<br>mesmo que um Pokémon especializado em <$cdef(27)><$spwfull(5)>ing</color> está com você.<br>Utilização <$cdef(27)><$sklfull(3)> </color>ou algo semelhante a regar as plantas primeiro,<br>Então, peça a um Pokémon que o ajude a cultivá-los!"
+    },
+    {
+      "id": 90,
+      "en": "This parameter will <$cdef(27)>increase</color> as you befriend more Pokémon and<br>raise their <$cdef(27)>comfort levels</color>. As the <$cdef(27)>environment level</color> goes up, you’ll<br>unlock more <$cdef(27)>challenges</color> and <$cdef(27)>shop</color> items!",
+      "pt_br": "Este parâmetro irá <$cdef(27)>aumento</color> como você faz amizade mais Pokémon e<br>aumentar a sua <$cdef(27)>níveis de conforto</color>. Como <$cdef(27)>nível de ambiente</color> sobe, você vai<br>desbloquear mais <$cdef(27)>desafios</color> e <$cdef(27)>loja</color> Itens!"
+    },
+    {
+      "id": 91,
+      "en": "Every Pokémon likes certain things—and every Pokémon dislikes<br>certain things too! If you place items that a Pokémon dislikes<br>around their home, their <$cdef(27)>comfort level</color> will decrease.",
+      "pt_br": "Todo Pokémon gosta de certas coisas – e todo Pokémon não gosta<br>certas coisas também! Se você colocar itens que um Pokémon não gosta<br>em torno de sua casa, sua <$cdef(27)>nível de conforto</color> diminuirá."
+    },
+    {
+      "id": 92,
+      "en": "Items that can heat or cool an area, such as <$cdef(27)><fqty(2)><$ifull(1280)><br></color>or <$cdef(27)><fqty(1)><$ifull(1096)></color>, will change the <$cdef(27)>temperature </color>of the home they’re<br>placed near.",
+      "pt_br": "Itens que podem aquecer ou arrefecer uma área, como <$cdef(27)><fqty(2)><$ifull(1280)><br></color>ou <$cdef(27)><fqty(1)><$ifull(1096)></color>, mudará o <$cdef(27)>temperatura </color>do lar que eles são<br>Colocado perto."
+    },
+    {
+      "id": 93,
+      "en": "Water, plants, and other related items will increase a home’s<br><$cdef(27)>humidity</color>. You can also remove those types of items from a home<br>to make it drier.",
+      "pt_br": "Água, plantas e outros itens relacionados aumentarão a casa<br><$cdef(27)>humidade</color>Você também pode remover esses tipos de itens de uma casa<br>Para o tornar mais seco."
+    },
+    {
+      "id": 94,
+      "en": "When you place an item for a Pokémon, be sure to place it near<br>their home. Items placed too far away will have no effect on the<br>Pokémon’s <$cdef(27)>comfort level</color>.",
+      "pt_br": "Quando você colocar um item para um Pokémon, certifique-se de colocá-lo perto<br>sua casa. Itens colocados muito longe não terá nenhum efeito sobre o<br>Pokémon <$cdef(27)>nível de conforto</color>."
+    },
+    {
+      "id": 95,
+      "en": "You can press <$keyicon(32)> near a Pokémon’s home to display the area<br>around it. This area display will disappear if you press <$keyicon(32)> again<br>or if you move away from the home.",
+      "pt_br": "Você pode pressionar <$keyicon(32)> perto da casa de um Pokémon para mostrar a área<br>em torno dele. Esta área irá desaparecer se você pressionar <$keyicon(32)> outra vez<br>Ou se te afastares de casa."
+    },
+    {
+      "id": 96,
+      "en": "Legendary Pokémon have a greater effect on the <$cdef(27)>environment<br>level</color> than other Pokémon, making it easier to <$cdef(27)>increase</color>.",
+      "pt_br": "O lendário Pokémon tem um efeito maior sobre o <$cdef(27)>ambiente<br>nível</color> que outros Pokémon, tornando mais fácil <$cdef(27)>aumento</color>."
+    },
+    {
+      "id": 97,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(6)> </color>specialty can hold items for you.<br>Just tell one of these Pokémon “<$cdef(27)>I wanna check my storage</color>” to add<br>items to or remove items from their inventory.",
+      "pt_br": "Pokémon com <$cdef(27)><fcap><$spwfull(6)> </color>especialidade pode guardar itens para você.<br>Basta dizer a um destes Pokémon “<$cdef(27)>Quero ver o meu armazém.</color>” para adicionar<br>itens para ou remover itens do seu inventário."
+    },
+    {
+      "id": 98,
+      "en": "If you use a <$cdef(27)><fqty(1)><$ifull(764)></color> while accompanied by a Pokémon who<br>is holding items for you, you can use any crafting materials they<br>are holding directly from their inventory.",
+      "pt_br": "Se utilizar uma <$cdef(27)><fqty(1)><$ifull(764)></color> enquanto acompanhado por um Pokémon que<br>está segurando itens para você, você pode usar qualquer material de crafting eles<br>Sejam detidos directamente a partir do seu inventário."
+    },
+    {
+      "id": 99,
+      "en": "When you travel with a Pokémon, they’ll help you out in various<br>ways. If you stand in front of something you need help with, the<br>Pokémon with you will use their specialty to try to help you out.",
+      "pt_br": "Quando você viaja com um Pokémon, eles vão ajudá-lo em vários<br>Se você ficar na frente de algo que você precisa de ajuda com, o<br>Pokémon com você usará sua especialidade para tentar ajudá-lo."
+    },
+    {
+      "id": 100,
+      "en": "If you give <$cdef(27)><fqty(1)><$ifull(3994)></color> to a Pokémon with the <$spwicon(26)><$cdef(27)>Gather Honey</color><br>specialty, they’ll give you furniture with special patterns in<br>exchange.",
+      "pt_br": "Se você der <$cdef(27)><fqty(1)><$ifull(3994)></color> a um Pokémon com o <$spwicon(26)><$cdef(27)>Recolha o mel</color><br>especialidade, eles vão lhe dar móveis com padrões especiais em<br>Troca."
+    },
+    {
+      "id": 101,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(15)></color> specialty will process <$cdef(27)><fqty(2)><$ifull(1482)></color><br>you give to them into <$cdef(27)><fqty(1)><$ifull(407)></color>.",
+      "pt_br": "Pokémon com <$cdef(27)><fcap><$spwfull(15)></color> especialidade vai processar <$cdef(27)><fqty(2)><$ifull(1482)></color><br>você dá a eles em <$cdef(27)><fqty(1)><$ifull(407)></color>."
+    },
+    {
+      "id": 102,
+      "en": "If you provide suitable materials to a Pokémon with the <$cdef(27)><fcap><$spwfull(16)><br></color>specialty, they will process those materials into other items.",
+      "pt_br": "Se você fornecer materiais adequados para um Pokémon com o <$cdef(27)><fcap><$spwfull(16)><br></color>especialidade, eles vão processar esses materiais em outros itens."
+    },
+    {
+      "id": 103,
+      "en": "You can travel with a Pokémon by <$cdef(27)>asking one to come with you</color>.",
+      "pt_br": "Você pode viajar com um Pokémon <$cdef(27)>pedindo para um ir com você</color>."
+    },
+    {
+      "id": 104,
+      "en": "Press <$keyicon(214)> to invite all the Pokémon in front of you to follow you.<br>Up to five Pokémon can travel with you at a time.",
+      "pt_br": "Pressione <$keyicon(214)> para convidar todos os Pokémon à tua frente para te seguirem.<br>Até cinco Pokémon podem viajar consigo de cada vez."
+    },
+    {
+      "id": 105,
+      "en": "When Pokémon are hungry, they may refuse to travel with you<br>or stop following you altogether. In those situations, give them<br>some food.",
+      "pt_br": "Quando Pokémon tem fome, eles podem recusar viajar com você.<br>ou parar de segui-lo completamente. Nessas situações, dê-lhes<br>Um pouco de comida."
+    },
+    {
+      "id": 106,
+      "en": "If you ask a<$cdef(27)> </color>Pokémon “<$cdef(27)>How’s your comfort level?</color>” they will tell<br>you how <$cdef(27)>comfortable</color> they currently are. This will also allow you<br>to see how to raise that Pokémon’s <$cdef(27)>comfort level</color>.",
+      "pt_br": "Se você pedir um<$cdef(27)> </color>Pokémon “<$cdef(27)>Como está seu nível de conforto?</color>” eles dirão<br>você como <$cdef(27)>confortável</color> eles são atualmente. Isto também permitirá que você<br>para ver como elevar que Pokémon <$cdef(27)>nível de conforto</color>."
+    },
+    {
+      "id": 107,
+      "en": "You can get information about an item or favor that the Pokémon<br>is requesting that day. Granting a Pokémon’s request will increase<br>their <$cdef(27)>comfort level</color>.",
+      "pt_br": "Você pode obter informações sobre um item ou favor que o Pokémon<br>está solicitando aquele dia. A concessão de um pedido de Pokémon vai aumentar<br>a sua <$cdef(27)>nível de conforto</color>."
+    },
+    {
+      "id": 108,
+      "en": "Asking a Pokémon “<$cdef(27)>How’s your comfort level?</color>” and granting their<br>request isn’t the only way to improve their <$cdef(27)>comfort</color>. They may also<br>want other items or favors besides what they’ve requested. Feel<br>free to try different things when you have time!",
+      "pt_br": "Perguntar a um Pokémon “<$cdef(27)>Como está seu nível de conforto?</color>” e concedendo<br>requisição não é a única maneira de melhorar a sua <$cdef(27)>conforto</color>. Podem também<br>quer outros itens ou favores além do que eles pediram. Sinta<br>livre para tentar coisas diferentes quando você tem tempo!"
+    },
+    {
+      "id": 109,
+      "en": "Adding decorations to a Pokémon’s home, such as<br><$cdef(27)><fqty(2)><$ifull(1367)></color> or <$cdef(27)><fqty(2)><$ifull(1542)></color>, will increase their<br><$cdef(27)>comfort level</color>.",
+      "pt_br": "Adicionando decorações à casa de um Pokémon, como<br><$cdef(27)><fqty(2)><$ifull(1367)></color> ou <$cdef(27)><fqty(2)><$ifull(1542)></color>, aumentarão a sua<br><$cdef(27)>nível de conforto</color>."
+    },
+    {
+      "id": 110,
+      "en": "If the <$cdef(27)>brightness</color> of a Pokémon’s home matches their preference<br>or the hours of the day they are usually active, that Pokémon will<br>stay awake longer.",
+      "pt_br": "Se a <$cdef(27)>brilho</color> da casa de um Pokémon corresponde à sua preferência<br>ou as horas do dia em que eles são geralmente ativos, que Pokémon<br>Fica acordado mais tempo."
+    },
+    {
+      "id": 111,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(8)></color> specialty will use nearby<br><$cdef(27)><fqty(2)><$ifull(1261)> </color>you’ve filled to water surrounding plants.",
+      "pt_br": "Pokémon com <$cdef(27)><fcap><$spwfull(8)></color> especialidade vai usar nas proximidades<br><$cdef(27)><fqty(2)><$ifull(1261)> </color>você encheu-se de água em torno de plantas."
+    },
+    {
+      "id": 112,
+      "en": "Offer food at a <$cdef(27)><$hatname(152)></color> and bring a Pokémon with<br>the <$cdef(27)><fcap><$spwfull(8)></color> specialty there to have them throw a <$cdef(27)>Rain Dance</color><br>party, which will increase the <$cdef(27)>humidity </color>of the area.",
+      "pt_br": "Ofereça alimentos em um <$cdef(27)><$hatname(152)></color> E traze-me um Pokémon,<br>a <$cdef(27)><fcap><$spwfull(8)></color> especialidade lá para tê-los jogar um <$cdef(27)>Dança da Chuva</color><br>partido, que vai aumentar o <$cdef(27)>humidade </color>da área."
+    },
+    {
+      "id": 113,
+      "en": "Flower and tree seeds can be planted in the ground. Open your<br>bag, select the seeds to hold in your hands, and press <$keyicon(0)> to<br>plant them. Seeds can’t be planted in dry ground—be sure to wet<br>the ground with <$cdef(27)><$sklfull(3)></color> or something similar first!",
+      "pt_br": "Flores e sementes de árvores podem ser plantadas no chão. Abra o seu<br>saco, selecione as sementes para segurar em suas mãos, e pressione <$keyicon(0)> para<br>planta-los. Sementes não podem ser plantadas em terra seca - certifique-se de molhar<br>o solo com <$cdef(27)><$sklfull(3)></color> ou algo parecido primeiro!"
+    },
+    {
+      "id": 114,
+      "en": "It takes a little time for seeds to grow. Try waiting until the next<br>day to check on them.",
+      "pt_br": "Leva um pouco de tempo para as sementes crescerem. Tente esperar até o próximo<br>dia para verificá-los."
+    },
+    {
+      "id": 115,
+      "en": "When a Pokémon starts living in a habitat, that habitat becomes<br>their <$cdef(27)>home</color>. Once a habitat becomes a home, no new Pokémon<br>will appear in that habitat. You will need to create more habitats<br>for new Pokémon to appear.",
+      "pt_br": "Quando um Pokémon começa a viver num habitat, esse habitat torna-se<br>a sua <$cdef(27)>casa</color>Uma vez que um habitat se torna um lar, nenhum novo Pokémon<br>aparecerá nesse habitat. Você precisará criar mais habitats<br>para que o novo Pokémon apareça."
+    },
+    {
+      "id": 116,
+      "en": "You can play <$cdef(27)>jump rope</color> by talking to <$cdef(27)>Bulbasaur</color>. Press <$keyicon(3)> at the<br>right time to jump over the vine—if it touches you, that’s the end<br>of the game!",
+      "pt_br": "Você pode jogar <$cdef(27)>saltar corda</color> falando com <$cdef(27)>Bulbasaur</color>. Pressione <$keyicon(3)> na<br>tempo certo para saltar sobre a videira – se ele toca em você, que é o fim<br>do jogo!"
+    },
+    {
+      "id": 117,
+      "en": "This minigame can also be played with other players. When<br>playing with others, touching the vine removes you from the<br>game. The last player remaining wins the game. Rankings are<br>determined by the number of successful jumps each player made.",
+      "pt_br": "Este minijogo também pode ser jogado com outros jogadores.<br>brincar com os outros, tocar a videira remove-o do<br>jogo. O último jogador que resta ganha o jogo. Rankings são<br>determinado pelo número de saltos bem sucedidos que cada jogador fez."
+    },
+    {
+      "id": 118,
+      "en": "Players who’ve touched the vine can change its speed to hinder<br>players who are still jumping. Press <$keyicon(7)> to increase the vine’s<br>speed and <$keyicon(8)> to decrease it. The speed will change based on<br>how many players press the buttons, so work together as a team!",
+      "pt_br": "Jogadores que tocaram a videira podem mudar sua velocidade para impedir<br>jogadores que ainda estão pulando. Pressione <$keyicon(7)> aumentar a vinha<br>velocidade e <$keyicon(8)> para diminuí- lo. A velocidade irá mudar com base em<br>Quantos jogadores apertam os botões, então trabalhem juntos como uma equipe!"
+    },
+    {
+      "id": 119,
+      "en": "You can talk to <$cdef(27)>Zorua</color> to play the <$cdef(27)>hide-and-sneak</color> minigame.<br>To win, you must touch the <$cdef(27)>PC</color> at the <$cdef(27)>Pokémon Center</color> without<br>getting found by the seeker Pokémon. If you are found, you will<br>be sent back to the starting point.",
+      "pt_br": "pode falar com ele. <$cdef(27)>Zorua</color> para jogar o <$cdef(27)>esconde-esconde</color> Mini-jogo.<br>Para ganhar, você deve tocar o <$cdef(27)>PC</color> na <$cdef(27)>Centro Pokémon</color> sem<br>sendo encontrado pelo Seeker Pokémon. Se você for encontrado, você irá<br>ser reenviados para o ponto de partida."
+    },
+    {
+      "id": 120,
+      "en": "Using <$cdef(27)><$sklfull(6)> </color>will make it harder for the seeker Pokémon<br>to find you. You can also create distractions by placing items on<br>the ground, using items that make noise, or using emotes. Try<br>different types of diversions to create openings and keep moving<br>toward the <$cdef(27)>PC</color>!",
+      "pt_br": "Utilização <$cdef(27)><$sklfull(6)> </color>vai tornar mais difícil para o Seeker Pokémon.<br>para encontrá-lo. Você também pode criar distrações colocando itens em<br>o chão, usando itens que fazem barulho, ou usando emotes. Tente<br>diferentes tipos de desvios para criar aberturas e continuar em movimento<br>em direcção à <$cdef(27)>PC</color>!"
+    },
+    {
+      "id": 121,
+      "en": "When you play hide-and-sneak with other players, it becomes a<br>team game. If any player touches the <$cdef(27)>PC</color>, the whole team wins.<br>Players found by the seeker Pokémon will be sent back to the<br>starting point. Work with your team to reach the <$cdef(27)>PC</color>!",
+      "pt_br": "Quando você jogar esconde-e-esgueirar com outros jogadores, torna-se um<br>jogo de equipe. Se algum jogador tocar no <$cdef(27)>PC</color>Toda a equipe ganha.<br>Os jogadores encontrados pelo Seeker Pokémon serão enviados de volta para o<br>ponto de partida. Trabalhe com sua equipe para alcançar o <$cdef(27)>PC</color>!"
+    },
+    {
+      "id": 122,
+      "en": "If you talk to a Pokémon who has a problem that needs solving,<br>they may <$cdef(27)>request</color> your help. You can check the <$cdef(27)>requests</color> you’ve<br>accepted from the main menu at any time.",
+      "pt_br": "Se falar com um Pokémon que tem um problema que precisa de solução,<br>podem <$cdef(27)>pedido</color> Você pode verificar a <$cdef(27)>pedidos</color> você tem<br>aceito do menu principal a qualquer momento."
+    },
+    {
+      "id": 123,
+      "en": "If you show a <$cdef(27)>lost relic</color> to <$cdef(27)><$cname(341)></color>, who has the<br><$cdef(27)><fcap><$spwfull(25)> </color>specialty, they can tell you what kind of item<br>you’ve found.",
+      "pt_br": "Se você mostrar um <$cdef(27)>Relíquia perdida</color> para <$cdef(27)><$cname(341)></color>, quem tem o<br><$cdef(27)><fcap><$spwfull(25)> </color>especialidade, eles podem dizer-lhe que tipo de item<br>você encontrou."
+    },
+    {
+      "id": 124,
+      "en": "<$cdef(27)>Drifloon</color> can take you to mysterious places called <$cdef(27)>Dream Islands</color>.<br>Some items can only be found on <$cdef(27)>Dream Islands</color>, so explore them<br>thoroughly! When you’re ready to leave a <$cdef(27)>Dream Island</color>, just talk<br>to <$cdef(27)>Drifloon</color>.",
+      "pt_br": "<$cdef(27)>Drifloon</color> pode levá-lo a lugares misteriosos chamado <$cdef(27)>Ilhas dos sonhos</color>.<br>Alguns itens só podem ser encontrados em <$cdef(27)>Ilhas dos sonhos</color>, então explore-os<br>completamente! Quando você está pronto para deixar um <$cdef(27)>Ilha dos Sonhos</color>, apenas falar<br>para <$cdef(27)>Drifloon</color>."
+    },
+    {
+      "id": 125,
+      "en": "You can only travel to <$cdef(27)>one Dream Island per day</color>, but you can<br>revisit that island <$cdef(27)>as many times as you want</color>. If you would like to<br>go to a different island, you’ll have to wait until the next day to<br>talk to <$cdef(27)>Drifloon</color> again.",
+      "pt_br": "Você só pode viajar para <$cdef(27)>uma ilha de sonho por dia</color>Mas tu pode.<br>revisitar aquela ilha <$cdef(27)>quantas vezes quiser</color>Se você gostaria de<br>ir para uma ilha diferente, você terá que esperar até o dia seguinte para<br>falar com <$cdef(27)>Drifloon</color> Outra vez."
+    },
+    {
+      "id": 126,
+      "en": "Enjoy your time here by chatting with other Pokémon, making all<br>sorts of items, or doing whatever you like at your own pace!",
+      "pt_br": "Aproveite o seu tempo aqui conversando com outros Pokémon, fazendo tudo<br>Tipos de itens, ou fazer o que quiser no seu próprio ritmo!"
+    },
+    {
+      "id": 127,
+      "en": "You can also look for new Pokémon, help the Pokémon you<br>already know with their <$cdef(27)>requests</color>, or build your dream town—this<br>world is yours to enjoy as you see fit!",
+      "pt_br": "Você também pode procurar novo Pokémon, ajudar o Pokémon você<br>já sabe com o seu <$cdef(27)>pedidos</color>, ou construir o seu sonho cidade - este<br>O mundo é seu para desfrutar como você achar melhor!"
+    },
+    {
+      "id": 128,
+      "en": "You can pick up things on the ground with <$keyicon(153)>. Anything you<br>pick up like this is automatically put in your bag.",
+      "pt_br": "pode apanhar coisas no chão com <$keyicon(153)>Qualquer coisa que você<br>Pegar assim é colocado automaticamente na sua bolsa."
+    },
+    {
+      "id": 129,
+      "en": "You can use this move to <$cdef(27)><$spwfull(36)> </color>into an object in front<br>of you. You can move around while transformed.",
+      "pt_br": "Você pode usar este movimento para <$cdef(27)><$spwfull(36)> </color>em um objeto na frente<br>Você pode se mover enquanto se transforma."
+    },
+    {
+      "id": 130,
+      "en": "If you hold the <$cdef(27)><fqty(1)><$ifull(2793)></color> and press <$keyicon(0)> while walking<br>with a Pokémon who has the <$cdef(27)><fcap><$spwfull(11)></color> specialty, you’ll start<br>looking for buried items.",
+      "pt_br": "Se você segurar o <$cdef(27)><fqty(1)><$ifull(2793)></color> e pressione <$keyicon(0)> enquanto caminha<br>com um Pokémon que tem o <$cdef(27)><fcap><$spwfull(11)></color> especialidade, você vai começar<br>à procura de itens enterrados."
+    },
+    {
+      "id": 131,
+      "en": "You can talk to a Pokémon with the <$cdef(27)><fcap><$spwfull(27)></color> specialty to find out<br><$cdef(27)>how humid it is</color> currently.",
+      "pt_br": "Você pode falar com um Pokémon com o <$cdef(27)><fcap><$spwfull(27)></color> especialidade para descobrir<br><$cdef(27)>como é húmido</color> Actualmente."
+    },
+    {
+      "id": 132,
+      "en": "You can set your handy bag to always display by opening your<br>bag and pressing <$keyicon(247)>. Items in your handy bag can be accessed<br>by pressing <$keyicon(161)> or <$keyicon(162)> without having to open your bag.",
+      "pt_br": "Você pode definir seu saco útil para sempre exibir abrindo seu<br>saco e prensagem <$keyicon(247)>. Itens em sua bolsa útil pode ser acessado<br>pressionando <$keyicon(161)> ou <$keyicon(162)> sem ter de abrir a mala."
+    },
+    {
+      "id": 133,
+      "en": "When there are multiple things nearby that you can interact with<br>(such as items to <$cdef(27)>pick up</color>, objects to <$cdef(27)>inspect</color>, or Pokémon to <$cdef(27)>talk<br>to</color>), you can press <$keyicon(249)> to target a specific one. Give it a try if<br>you’re having trouble interacting with something!",
+      "pt_br": "Quando há várias coisas por perto que você pode interagir com<br>(tais como itens para <$cdef(27)>Atende</color>, objetos para <$cdef(27)>inspecionar</color>, ou Pokémon para <$cdef(27)>falar<br>para</color>), você pode pressionar <$keyicon(249)> para atingir um alvo específico. Experimente se<br>você está tendo dificuldade em interagir com alguma coisa!"
+    },
+    {
+      "id": 134,
+      "en": "Pokémon with the <fcap><$cdef(27)><$spwfull(10)></color> specialty can process metals, such as<br><$cdef(27)><fqty(1)><$ifull(107)></color> and <$cdef(27)><fqty(1)><$ifull(106)></color>, at a <$cdef(27)><fqty(1)><$ifull(1446)></color>.",
+      "pt_br": "Pokémon com <fcap><$cdef(27)><$spwfull(10)></color> a especialidade pode processar metais, como<br><$cdef(27)><fqty(1)><$ifull(107)></color> e <$cdef(27)><fqty(1)><$ifull(106)></color>, em <$cdef(27)><fqty(1)><$ifull(1446)></color>."
+    },
+    {
+      "id": 135,
+      "en": "If you encounter any mud while traveling with a Pokémon who<br>has the <fcap><$cdef(27)><$spwfull(8)></color> specialty, they’ll cover the mud with bubbles.<br>You can then spray the mud with water to wash it away!",
+      "pt_br": "Se você encontrar alguma lama enquanto viaja com um Pokémon que<br>tem a <fcap><$cdef(27)><$spwfull(8)></color> especialidade, eles vão cobrir a lama com bolhas.<br>Você pode então pulverizar a lama com água para lavá-la!"
+    },
+    {
+      "id": 136,
+      "en": "Pokémon with the <$icon(10993)><$cdef(27)><fcap><$spwname(13)></color> specialty will pick up materials<br>and other items they find on the ground and place them in a<br><$cdef(27)><fqty(1)><$ifull(1460)></color>.",
+      "pt_br": "Pokémon com <$icon(10993)><$cdef(27)><fcap><$spwname(13)></color> especialidade vai pegar materiais<br>e outros itens que eles encontram no chão e colocá-los em um<br><$cdef(27)><fqty(1)><$ifull(1460)></color>."
+    },
+    {
+      "id": 137,
+      "en": "They can also bring materials from a <$cdef(27)><fqty(1)><$ifull(1460)></color> to<br>anywhere they can be processed, such as a <$cdef(27)><fqty(1)><$ifull(1446)></color>.",
+      "pt_br": "Também podem trazer materiais de uma <$cdef(27)><fqty(1)><$ifull(1460)></color> para<br>em qualquer lugar que possam ser processados, como <$cdef(27)><fqty(1)><$ifull(1446)></color>."
+    },
+    {
+      "id": 138,
+      "en": "A certain Pokémon will take you to a <$cdef(27)>Dream Island</color> if you bring<br>them a <$cdef(27)>doll</color>. Once you’ve visited a <$cdef(27)>Dream Island </color>at least once,<br>you can get that Pokémon to come to you by interacting with<br>a <$cdef(27)>doll</color>.",
+      "pt_br": "Um certo Pokémon vai levá-lo a um <$cdef(27)>Ilha dos Sonhos</color> se trouxer<br>eles a <$cdef(27)>boneca</color>. Uma vez que você visitou um <$cdef(27)>Ilha dos Sonhos </color>pelo menos uma vez,<br>pode fazer com que o Pokémon venha ter com você interagindo com<br>a <$cdef(27)>boneca</color>."
+    },
+    {
+      "id": 139,
+      "en": "Pokémon with the <$icon(11222)><$cdef(27)><fcap><$spwname(30)></color> specialty can exchange <$cdef(27)>lost relics</color> or<br><$cdef(27)>rare feathers</color> for other items.",
+      "pt_br": "Pokémon com <$icon(11222)><$cdef(27)><fcap><$spwname(30)></color> especialidade pode trocar <$cdef(27)>relíquias perdidas</color> ou<br><$cdef(27)>penas raras</color> para outros itens."
+    },
+    {
+      "id": 140,
+      "en": "You can give <$cdef(27)><fqty(1)><$ifull(1801)></color> to Pokémon who have the<br><$cdef(27)><fcap><$spwfull(17)> </color>specialty to process into <$cdef(27)><fqty(1)><$ifull(126)></color>!",
+      "pt_br": "Você pode dar <$cdef(27)><fqty(1)><$ifull(1801)></color> a Pokémon que tem o<br><$cdef(27)><fcap><$spwfull(17)> </color>especialidade para processar em <$cdef(27)><fqty(1)><$ifull(126)></color>!"
+    },
+    {
+      "id": 141,
+      "en": "<$cdef(27)><$cname(272)> </color>has the <fcap><$icon(11219)><$cdef(27)><$spwname(28)> </color>specialty and wants some food. Place<br>something to eat on an <$cdef(27)><fqty(1)><$ifull(1811)></color>, and good things may<br>happen based on the food’s flavor or rarity!",
+      "pt_br": "<$cdef(27)><$cname(272)> </color>tem a <fcap><$icon(11219)><$cdef(27)><$spwname(28)> </color>especialidade e quer alguma comida.<br>algo para comer numa <$cdef(27)><fqty(1)><$ifull(1811)></color>, e coisas boas podem<br>acontece com base no sabor ou raridade do alimento!"
+    },
+    {
+      "id": 142,
+      "en": "<$cdef(27)><$cname(206)></color> has the <fcap><$icon(11008)><$cdef(27)><$spwname(21)> </color>specialty and can use <$cdef(27)>bowls of paint</color><br>to change the color of many items, including furniture. However,<br>some items can’t be recolored.",
+      "pt_br": "<$cdef(27)><$cname(206)></color> tem a <fcap><$icon(11008)><$cdef(27)><$spwname(21)> </color>especialidade e pode usar <$cdef(27)>tigelas de tinta</color><br>para mudar a cor de muitos itens, incluindo móveis. No entanto,<br>alguns itens não podem ser recoloridos."
+    },
+    {
+      "id": 143,
+      "en": "They can also <$icon(11008)><$cdef(27)><$spwname(21)> </color>patterns on items. If you find any <$cdef(27)>human<br>records </color>that depict a pattern or items that have patterns on them,<br>bring them to <$cdef(27)><$cname(206)></color>.",
+      "pt_br": "Eles também podem <$icon(11008)><$cdef(27)><$spwname(21)> </color>padrões em itens. Se você encontrar algum <$cdef(27)>humano<br>registos </color>que representam um padrão ou itens que têm padrões sobre eles,<br>trazê-los para <$cdef(27)><$cname(206)></color>."
+    },
+    {
+      "id": 144,
+      "en": "Some items can even have their individual parts decorated with<br>different patterns or colors!",
+      "pt_br": "Alguns itens podem até ter suas partes individuais decorados com<br>diferentes padrões ou cores!"
+    },
+    {
+      "id": 145,
+      "en": "If you bring a Pokémon with the <fcap><$icon(11221)><$cdef(27)><$spwname(31)></color> specialty to a<br><$cdef(27)><fqty(1)><$ifull(1850)></color>, they’ll hop inside! Light the launcher’s fuse to send<br>them flying—they’ll explode on impact, destroying everything<br>around them!",
+      "pt_br": "Se você levar um Pokémon com o <fcap><$icon(11221)><$cdef(27)><$spwname(31)></color> especialidade para a<br><$cdef(27)><fqty(1)><$ifull(1850)></color>, eles vão pular para dentro! Acenda o fusível do lançador para enviar<br>eles voam – eles vão explodir no impacto, destruindo tudo<br>à volta deles!"
+    },
+    {
+      "id": 146,
+      "en": "If you give a music <$cdef(27)>CD </color>to <$cdef(27)><$cname(274)></color>, who has the <$cdef(27)><$spwfull(29)> </color>specialty,<br>they’ll play that right then and there! You can even give them<br>several <$cdef(27)>CDs</color> to play multiple music tracks in a row.",
+      "pt_br": "Se você dá uma música <$cdef(27)>CD </color>para <$cdef(27)><$cname(274)></color>, quem tem o <$cdef(27)><$spwfull(29)> </color>especialidade,<br>eles vão jogar que logo ali mesmo! Você pode até mesmo dar-lhes<br>vários <$cdef(27)>CDs</color> para reproduzir várias faixas de música em uma linha."
+    },
+    {
+      "id": 147,
+      "en": "You can also talk to a DJ Pokémon to gauge the current <$cdef(27)>mood</color> of<br>nearby Pokémon.",
+      "pt_br": "Você também pode falar com um DJ Pokémon para medir a corrente <$cdef(27)>humor</color> de<br>perto de Pokémon."
+    },
+    {
+      "id": 148,
+      "en": "<$cdef(27)><$cname(216)></color>, who has the <$cdef(27)><fcap><$spwfull(23)> </color>specialty, will <$cdef(27)>lead </color>and instruct<br>other Pokémon when cooking food for a party. You can’t have a<br><$cdef(27)>party</color> without a Pokémon leading it!",
+      "pt_br": "<$cdef(27)><$cname(216)></color>, quem tem o <$cdef(27)><fcap><$spwfull(23)> </color>especialidade, will <$cdef(27)>chumbo </color>e instruir<br>outro Pokémon ao cozinhar comida para uma festa.<br><$cdef(27)>festa</color> Sem um Pokémon a liderar!"
+    },
+    {
+      "id": 149,
+      "en": "Also, because this Pokémon is good at cooking, if you cook<br>with them using a <$cdef(27)><fqty(1)><$ifull(1301)> </color>or other kitchen equipment,<br>you may end up making more food than expected.",
+      "pt_br": "Além disso, porque este Pokémon é bom em cozinhar, se você cozinhar<br>com eles a utilizar uma <$cdef(27)><fqty(1)><$ifull(1301)> </color>ou outro equipamento de cozinha,<br>pode acabar por fazer mais comida do que o esperado."
+    },
+    {
+      "id": 150,
+      "en": "If you speak to a Pokémon with the <fcap><$icon(11225)><$cdef(27)><$spwname(34)></color> specialty while you’re<br>using the <$cdef(27)>Pokédex</color> to search for another Pokémon, they can take<br>you to that Pokémon’s location.<br>To search for a Pokémon, select it in your <$cdef(27)>Pokédex</color>, then press <$keyicon(233)><br>to start searching.",
+      "pt_br": "Se você falar com um Pokémon com o <fcap><$icon(11225)><$cdef(27)><$spwname(34)></color> especialidade enquanto você está<br>usando a <$cdef(27)>Pokédex</color> para procurar outro Pokémon, eles podem levar<br>você para a localização de Pokémon.<br>Para pesquisar por um Pokémon, selecione-o em seu <$cdef(27)>Pokédex</color>, então pressione <$keyicon(233)><br>para começar a procurar."
+    },
+    {
+      "id": 151,
+      "en": "<$cdef(27)><$cname(215)></color> has the <fcap><$icon(11010)><$cdef(27)><$spwname(24)></color> specialty and can lead other<br>Pokémon during large <$cdef(27)><$spwfull(1)>ing</color> or rebuilding projects. If you<br>assign them as the leader of a regular <$cdef(27)><$spwfull(1)>ing </color>project, it will<br>be completed in less time than usual.",
+      "pt_br": "<$cdef(27)><$cname(215)></color> tem a <fcap><$icon(11010)><$cdef(27)><$spwname(24)></color> especialidade e pode liderar outros<br>Pokémon durante grandes <$cdef(27)><$spwfull(1)>ing</color> ou reconstrução de projetos. Se<br>atribuir-lhes como o líder de um regular <$cdef(27)><$spwfull(1)>ing </color>projeto, ele vai<br>ser completado em menos tempo do que o habitual."
+    },
+    {
+      "id": 152,
+      "en": "Additionally, if you give them <$cdef(27)><fqty(2)><$ifull(115)></color>, <$cdef(27)><$cname(215)></color> will<br>process them into <$cdef(27)><fqty(2)><$ifull(119)></color>!",
+      "pt_br": "Além disso, se lhes der <$cdef(27)><fqty(2)><$ifull(115)></color>, <$cdef(27)><$cname(215)></color> will<br>processá-los em <$cdef(27)><fqty(2)><$ifull(119)></color>!"
+    },
+    {
+      "id": 153,
+      "en": "If you give <$cdef(27)><fqty(2)><$ifull(92)> </color>to a Pokémon with the <$cdef(27)><fcap><$spwfull(32)><br></color>specialty, they will turn them into <$cdef(27)><fqty(1)><$ifull(121)> </color>for you.",
+      "pt_br": "Se você der <$cdef(27)><fqty(2)><$ifull(92)> </color>a um Pokémon com o <$cdef(27)><fcap><$spwfull(32)><br></color>especialidade, eles vão transformá-los em <$cdef(27)><fqty(1)><$ifull(121)> </color>Para ti."
+    },
+    {
+      "id": 154,
+      "en": "If you speak to a Pokémon with the <fcap><$icon(11226)><$cdef(27)><$spwname(35)></color> specialty while<br>you’re using the <$cdef(27)>Pokédex</color> to search for another Pokémon, they can<br>take you to that Pokémon’s location.<br>To search for a Pokémon, select it in your <$cdef(27)>Pokédex</color>, then press <$keyicon(233)><br>to start searching.",
+      "pt_br": "Se você falar com um Pokémon com o <fcap><$icon(11226)><$cdef(27)><$spwname(35)></color> especialidade enquanto<br>você está usando o <$cdef(27)>Pokédex</color> para procurar outro Pokémon, eles podem<br>levá-lo para a localização de Pokémon.<br>Para pesquisar por um Pokémon, selecione-o em seu <$cdef(27)>Pokédex</color>, então pressione <$keyicon(233)><br>para começar a procurar."
+    },
+    {
+      "id": 155,
+      "en": "Pokémon with the <$icon(11224)><$cdef(27)><fcap><$spwname(33)></color> specialty can serve as leaders<br>when <$cdef(27)>demolishing</color> <$cdef(27)>Pokémon Centers</color> for reconstruction. They<br>can also serve as leaders when demolishing or relocating other<br>buildings.",
+      "pt_br": "Pokémon com <$icon(11224)><$cdef(27)><fcap><$spwname(33)></color> especialidade pode servir como líderes<br>quando <$cdef(27)>demolição</color> <$cdef(27)>Centros Pokémon</color> para a reconstrução.<br>pode também servir como líderes ao demolir ou relocar outros<br>edifícios."
+    },
+    {
+      "id": 156,
+      "en": "The <$cdef(27)>humidity</color> of the entire town is affected both by how many<br>plants are in the area, and the number of water sources and how<br>big they are. You can check the current humidity level with<br><$cdef(27)>Slowpoke’s yawn</color>.",
+      "pt_br": "A <$cdef(27)>humidade</color> de toda a cidade é afetada tanto por quantos<br>as plantas estão na área, o número de fontes de água e como<br>grandes eles são. Você pode verificar o nível de umidade atual com<br><$cdef(27)>Slowpoke’s yawn</color>."
+    },
+    {
+      "id": 157,
+      "en": "There are three ways you can increase the <$cdef(27)>humidity</color> level:<br>・ Water dry ground to make grass grow.<br>・ Water plants, such as dry tall grass and trees.<br>・ Create water sources, such as ponds.",
+      "pt_br": "Há três maneiras de aumentar o <$cdef(27)>humidade</color> nível:<br>□ Água terra seca para fazer a grama crescer.<br>□ Plantas aquáticas, tais como grama seca e árvores altas.<br>□ Criar fontes de água, tais como lagoas."
+    },
+    {
+      "id": 158,
+      "en": "To demolish a house, place a <$cdef(27)>demolition kit </color>in front of the house,<br>then gather Pokémon to help with the <$cdef(27)>demolition</color>.",
+      "pt_br": "Para demolir uma casa, coloque um <$cdef(27)>kit de demolição </color>em frente à casa,<br>então reúna Pokémon para ajudar com o <$cdef(27)>demolição</color>."
+    },
+    {
+      "id": 159,
+      "en": "To relocate a house, place a <$cdef(27)>relocation kit </color>in front of the house,<br>then gather Pokémon to help with the <$cdef(27)>relocation preparations</color>.<br>Once preparations are complete, place the kit in a new spot, then<br>gather Pokémon to help with the <$cdef(27)>relocation</color>.",
+      "pt_br": "Para realocar uma casa, coloque um <$cdef(27)>Kit de recolocação </color>em frente à casa,<br>então reúna Pokémon para ajudar com o <$cdef(27)>Preparações para deslocalização</color>.<br>Uma vez que as preparações estão completas, coloque o kit em um novo local, então<br>reunir Pokémon para ajudar com o <$cdef(27)>deslocalização</color>."
+    },
+    {
+      "id": 160,
+      "en": "Select <$cdef(27)>Return Home </color>from the main menu to instantly return to<br>your home. If you don’t have a home, you’ll return to a different<br>safe location instead. This can come in handy if you find yourself<br>stuck and unable to go anywhere!",
+      "pt_br": "Seleccionar <$cdef(27)>Voltar para Casa </color>do menu principal para voltar instantaneamente para<br>sua casa. Se você não tem uma casa, você vai voltar para um diferente<br>localização segura em vez disso. Isto pode vir a calhar se você encontrar-se<br>preso e incapaz de ir a qualquer lugar!"
+    },
+    {
+      "id": 161,
+      "en": "If you have your own home, you can instantly return to it by<br>selecting <$cdef(27)>Return Home</color>. If you don’t have a home yet, you’ll be<br>taken to some other safe location.",
+      "pt_br": "Se você tem sua própria casa, você pode instantaneamente voltar para ele por<br>seleccionar <$cdef(27)>Voltar para Casa</color>. Se você ainda não tem uma casa, você vai ser<br>Levado para outro local seguro."
+    },
+    {
+      "id": 162,
+      "en": "You can sometimes find written records, such as letters and notes,<br>that humans left behind. Inspect them to read their contents.",
+      "pt_br": "Às vezes, encontramos registos escritos, tais como cartas e notas,<br>Inspecione-os para lerem o seu conteúdo."
+    },
+    {
+      "id": 163,
+      "en": "You can press <$keyicon(28)> while in water to transform into <$cdef(27)>Lapras</color>,<br>allowing you to swim freely.",
+      "pt_br": "Você pode pressionar <$keyicon(28)> enquanto na água para se transformar em <$cdef(27)>Lapras</color>,<br>permitindo que você nade livremente."
+    },
+    {
+      "id": 164,
+      "en": "Your <$cdef(27)>PP</color> will slowly decrease while you’re using <$cdef(27)><$sklfull(10)></color>. If you do<br>run out of <$cdef(27)>PP</color>, you can keep using <$cdef(27)><$sklfull(10)> </color>until you press <$keyicon(26)> and<br>end your transformation. You won’t be able to use Surf again<br>while you’re out of <$cdef(27)>PP</color>.",
+      "pt_br": "Sua <$cdef(27)>PP</color> diminuirá lentamente enquanto estiver a utilizar <$cdef(27)><$sklfull(10)></color>Se o fizeres<br>ficar sem <$cdef(27)>PP</color>, você pode continuar usando <$cdef(27)><$sklfull(10)> </color>até pressionar <$keyicon(26)> e<br>terminar a sua transformação. Você não será capaz de usar Surf novamente<br>enquanto você está fora de <$cdef(27)>PP</color>."
+    },
+    {
+      "id": 165,
+      "en": "Drink a <$cdef(27)>smoothie</color> to power up <$cdef(27)><$sklfull(10)></color>. You can then press <$keyicon(28)> to<br>transform into <$cdef(27)><$cname(36)></color> even when you’re deep underwater.",
+      "pt_br": "Beber um <$cdef(27)>batido</color> para ligar <$cdef(27)><$sklfull(10)></color>Você pode então pressionar <$keyicon(28)> para<br>transformar em <$cdef(27)><$cname(36)></color> mesmo quando você está profundamente debaixo d'água."
+    },
+    {
+      "id": 166,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(9)></color> specialty will power nearby<br>machines in their free time. If you’re traveling with a Pokémon<br>who has this skill, just stand in front of a machine and they will<br><$cdef(27)><$spwfull(9)></color> power to it for you.",
+      "pt_br": "Pokémon com <$cdef(27)><fcap><$spwfull(9)></color> especialidade vai poder nas proximidades<br>máquinas no seu tempo livre. Se você estiver viajando com um Pokémon<br>que tem essa habilidade, apenas ficar na frente de uma máquina e eles vão<br><$cdef(27)><$spwfull(9)></color> poder para ele para você."
+    },
+    {
+      "id": 167,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(12)> </color>specialty may start barter exchanges<br>at places where bartering is possible. Just set a <$cdef(27)><fqty(1)><$ifull(1325)><br></color>on a table and supply it with power!",
+      "pt_br": "Pokémon com <$cdef(27)><fcap><$spwfull(12)> </color>especialidade pode iniciar trocas de troca<br>em lugares onde a troca é possível. Basta definir um <$cdef(27)><fqty(1)><$ifull(1325)><br></color>Numa mesa e dá-lhe energia!"
+    },
+    {
+      "id": 168,
+      "en": "You can trade items you own for items you want. Offer up to five<br>items to the Pokémon you’re trading with to convince them to<br>make a trade. Offering items they like will make trading more<br>likely to succeed!",
+      "pt_br": "Você pode trocar itens que possui para itens que deseja.<br>itens para o Pokémon que você está negociando com para convencê-los a<br>fazer uma troca. Oferecer itens que eles gostam vai fazer a negociação mais<br>É provável que tenha sucesso!"
+    },
+    {
+      "id": 169,
+      "en": "<$cdef(27)><$cname(206)></color> has the <fcap><$icon(11008)><$cdef(27)><$spwname(21)> </color>specialty and can use <$cdef(27)>bowls of paint</color><br>to change the color of many items, including furniture. However,<br>some items can’t be recolored.",
+      "pt_br": "<$cdef(27)><$cname(206)></color> tem a <fcap><$icon(11008)><$cdef(27)><$spwname(21)> </color>especialidade e pode usar <$cdef(27)>tigelas de tinta</color><br>para mudar a cor de muitos itens, incluindo móveis. No entanto,<br>alguns itens não podem ser recoloridos."
+    },
+    {
+      "id": 170,
+      "en": "If you want to change the color of things you can’t carry, such as<br>houses, just bring <$cdef(27)><$cname;0(206)></color><$cdef(27)> </color>to them!",
+      "pt_br": "Se você quiser mudar a cor das coisas que você não pode carregar, como<br>Casas, apenas tragam <$cdef(27)><$cname;0(206)></color><$cdef(27)> </color>Para eles!"
+    },
+    {
+      "id": 171,
+      "en": "Use a <$iicon(230)><$cdef(27)>paint balloon</color> to <$cdef(27)><$spwfull(21)></color> something in front of you.<br>You can craft <$iicon(230)><$cdef(27)>paint balloons</color> out of <$cdef(27)>paint</color>.",
+      "pt_br": "Usar um <$iicon(230)><$cdef(27)>balão de pintura</color> para <$cdef(27)><$spwfull(21)></color> Algo à tua frente.<br>Você pode trabalhar <$iicon(230)><$cdef(27)>balões de tinta</color> fora de <$cdef(27)>pintura</color>."
+    },
+    {
+      "id": 172,
+      "en": "They can also apply<$cdef(27)> </color>patterns to items. If you find any <$cdef(27)>human<br>records </color>that depict a pattern or items that have patterns on them,<br>bring them to <$cdef(27)><$cname(206)></color>.",
+      "pt_br": "Podem também aplicar-se<$cdef(27)> </color>padrões para os itens. Se você encontrar algum <$cdef(27)>humano<br>registos </color>que representam um padrão ou itens que têm padrões sobre eles,<br>trazê-los para <$cdef(27)><$cname(206)></color>."
+    },
+    {
+      "id": 173,
+      "en": "For certain furniture, you can change the color or pattern of each<br>individual part.",
+      "pt_br": "Para certos móveis, você pode mudar a cor ou o padrão de cada<br>Parte individual."
+    },
+    {
+      "id": 174,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(4)> </color>specialty will sometimes drop useful<br>items near their home.",
+      "pt_br": "Pokémon com <$cdef(27)><fcap><$spwfull(4)> </color>especialidade às vezes vai cair útil<br>itens perto de sua casa."
+    },
+    {
+      "id": 175,
+      "en": "Items dropped in this way vary depending on the Pokémon.",
+      "pt_br": "Os itens caídos desta forma variam dependendo do Pokémon."
+    },
+    {
+      "id": 176,
+      "en": "Pokémon will not drop items while you’re watching them.<br>Leave them alone and check on them later.",
+      "pt_br": "Pokémon não vai deixar cair itens enquanto você estiver observando-os.<br>Deixa-os em paz e vê-os mais tarde."
+    },
+    {
+      "id": 177,
+      "en": "You can give <$cdef(27)><fqty(1)><$ifull(1395)> </color>to a Pokémon with the<br><$cdef(27)><fcap><$spwfull(17)> </color>specialty to have them process that trash into<br><$cdef(27)><fqty(1)><$ifull(107)></color>.",
+      "pt_br": "Você pode dar <$cdef(27)><fqty(1)><$ifull(1395)> </color>a um Pokémon com o<br><$cdef(27)><fcap><$spwfull(17)> </color>especialidade para tê-los processar aquele lixo em<br><$cdef(27)><fqty(1)><$ifull(107)></color>."
+    },
+    {
+      "id": 178,
+      "en": "While holding <$keyicon(153)> to inhale, press <$keyicon(206)> to suck up water or other<br>liquids in front of you and store it in your mouth.",
+      "pt_br": "Durante a detenção <$keyicon(153)> para inalar, pressione <$keyicon(206)> para sugar água ou outros<br>líquidos à sua frente e armazená-los na boca."
+    },
+    {
+      "id": 179,
+      "en": "You can release the liquid you sucked up anywhere you want by<br>pressing <$keyicon(0)> to spit it out. Liquids will spread over the area where<br>they were spat out.",
+      "pt_br": "pode libertar o líquido que sugaste onde quiseres.<br>pressionando <$keyicon(0)> Os líquidos espalham-se por toda a área onde<br>Eles foram cuspidos."
+    },
+    {
+      "id": 180,
+      "en": "You can change the volume of liquid you spit out by pressing and<br>holding <$keyicon(209)>, then pressing <$keyicon(222)> or <$keyicon(223)>.",
+      "pt_br": "Você pode alterar o volume de líquido que você cuspir para fora pressionando e<br>holding <$keyicon(209)>, então pressionando <$keyicon(222)> ou <$keyicon(223)>."
+    },
+    {
+      "id": 181,
+      "en": "You can brighten up a dark town by placing items that emit<br>light. Try placing light sources everywhere to brighten up the<br>entire town.",
+      "pt_br": "Você pode iluminar uma cidade escura colocando itens que emitem<br>luz. Tente colocar fontes de luz em toda parte para iluminar o<br>Toda a cidade."
+    },
+    {
+      "id": 182,
+      "en": "Some machines produce light when powered by electricity.<br>Electric lights will make the town brighter than any other<br>light source.",
+      "pt_br": "Algumas máquinas produzem luz quando alimentadas por eletricidade.<br>Luzes elétricas farão a cidade mais brilhante do que qualquer outra.<br>fonte luminosa."
+    },
+    {
+      "id": 183,
+      "en": "Though fires only provide a small amount of light for your town,<br>they also generate warmth that can raise the <$cdef(27)>comfort level</color> for<br>Pokémon who like that kind of environment.",
+      "pt_br": "Embora os fogos apenas forneçam uma pequena quantidade de luz para a sua cidade,<br>eles também geram calor que pode elevar o <$cdef(27)>nível de conforto</color> em vez<br>Pokémon que gosta desse tipo de ambiente."
+    },
+    {
+      "id": 184,
+      "en": "<$cdef(27)><$cname(121)></color>, who has the <$cdef(27)><fcap><$spwfull(22)></color> specialty, can emit light to<br><$cdef(27)><$spwfull(22)></color> the whole town. But they need to build up enough<br>electricity at a powered <$cdef(27)><$bfull(32)> </color>first.",
+      "pt_br": "<$cdef(27)><$cname(121)></color>, quem tem o <$cdef(27)><fcap><$spwfull(22)></color> especialidade, pode emitir luz para<br><$cdef(27)><$spwfull(22)></color> Mas eles precisam de construir o suficiente.<br>eletricidade a uma potência <$cdef(27)><$bfull(32)> </color>Primeiro."
+    },
+    {
+      "id": 185,
+      "en": "Pokémon become more active at night when the town is<br><$cdef(27)><$spwfull(22)>d</color>.",
+      "pt_br": "Pokémon torna-se mais ativo à noite, quando a cidade é<br><$cdef(27)><$spwfull(22)>d</color>."
+    },
+    {
+      "id": 186,
+      "en": "Machines that produce electricity. The way electricity is produced<br>and the amount produced varies depending on the type of<br>generator.",
+      "pt_br": "Máquinas que produzem electricidade. A forma como a electricidade é produzida<br>e a quantidade produzida varia consoante o tipo de<br>Gerador."
+    },
+    {
+      "id": 187,
+      "en": "You can place <$cdef(27)><fqty(2)><class><$ifull(1396)> </color>near a <$cdef(27)>generator </color>to transmit<br>electricity over long distances.",
+      "pt_br": "pode pôr-te no lugar. <$cdef(27)><fqty(2)><class><$ifull(1396)> </color>perto de uma <$cdef(27)>gerador </color>transmitir<br>electricidade a longas distâncias."
+    },
+    {
+      "id": 188,
+      "en": "<$cdef(27)><fcap><fqty(2)><$ifull(1379)></color> produce electricity using wind power. They work no<br>matter where you place them, but they’ll make more electricity<br>if you install them at higher elevations.",
+      "pt_br": "<$cdef(27)><fcap><fqty(2)><$ifull(1379)></color> produzir eletricidade usando energia eólica.<br>importa onde você colocá-los, mas eles vão fazer mais eletricidade<br>se os instalar em altitudes mais elevadas."
+    },
+    {
+      "id": 189,
+      "en": "You can <$cdef(27)>transform</color> into a new look by pressing <$keyicon(6)> near any<br>furniture with a mirror, such as a <$cdef(27)>dresser</color>.",
+      "pt_br": "Tu pode. <$cdef(27)>transformar</color> em um novo olhar pressionando <$keyicon(6)> perto de qualquer<br>móveis com espelho, tais como <$cdef(27)>cômodo</color>."
+    },
+    {
+      "id": 190,
+      "en": "You can use the outfits you’ve obtained to change your look<br>however you like.",
+      "pt_br": "Você pode usar as roupas que você obteve para mudar seu look<br>Como queiras."
+    },
+    {
+      "id": 191,
+      "en": "If you choose <$cdef(27)>Ditto color</color> for your face, your entire body will<br>become that color. You will not be able to change the individual<br>color of other parts of your body, such as your hair or clothing.",
+      "pt_br": "Se você escolher <$cdef(27)>Ditto color</color> para o teu rosto, todo o teu corpo irá<br>tornar-se nessa cor. Você não será capaz de mudar o indivíduo<br>cor de outras partes do seu corpo, tais como o seu cabelo ou roupa."
+    },
+    {
+      "id": 192,
+      "en": "<oneline>The flower on <$cdef(27)><$cname;0(272)></color>’s head will bloom more and more as the<br>town brightens. Install lights everywhere to really illuminate<br>your town!",
+      "pt_br": "<oneline>A flor sobre <$cdef(27)><$cname;0(272)></color>A cabeça vai florescer cada vez mais como o<br>cidade ilumina. Instale luzes em todos os lugares para realmente iluminar<br>A tua cidade!"
+    },
+    {
+      "id": 193,
+      "en": "You can press <$keyicon(0)> to gulp any drink you’re holding in your hands.<br>The liquid you can spit out afterward changes depending on the<br>drink you gulped!",
+      "pt_br": "Você pode pressionar <$keyicon(0)> para beber qualquer bebida que você está segurando em suas mãos.<br>O líquido que você pode cuspir depois muda dependendo do<br>Bebeste, engoliste-te!"
+    },
+    {
+      "id": 194,
+      "en": "The <$cdef(27)><fqty(1)><$ifull(1443)></color> at the <$cdef(27)>Pokémon Center</color> can create a copy of<br>an item from a photograph. You’ll need <$cdef(27)><fqty(1)><$ifull(120)></color> to create<br>copies.",
+      "pt_br": "A <$cdef(27)><fqty(1)><$ifull(1443)></color> na <$cdef(27)>Centro Pokémon</color> pode criar uma cópia de<br>um item de uma fotografia. <$cdef(27)><fqty(1)><$ifull(120)></color> para criar<br>Entendido."
+    },
+    {
+      "id": 195,
+      "en": "Object mode lets you take the photos you need for creating<br>copies of items. Boot up the camera with <$keyicon(52)>, then switch modes<br>with <$keyicon(50)> before taking a photo.",
+      "pt_br": "O modo objeto permite tirar as fotos que você precisa para criar<br>cópias dos itens. Inicie a câmera com <$keyicon(52)>, em seguida, alternar modos<br>com <$keyicon(50)> antes de tirar uma foto."
+    },
+    {
+      "id": 196,
+      "en": "You can even create copies from photos you take on Cloud<br>Islands or in other players’ towns.",
+      "pt_br": "Você pode até criar cópias de fotos que você tira na Cloud<br>Ilhas ou em outras cidades de jogadores."
+    },
+    {
+      "id": 197,
+      "en": "If a Pokémon you’re looking for is not near their home, use<br><$cdef(27)><fqty(1)><$ifull(3994)> </color>in front of their home. The sweet smell will lure<br>them back!",
+      "pt_br": "Se um Pokémon que procura não estiver perto da sua casa, utilize<br><$cdef(27)><fqty(1)><$ifull(3994)> </color>Na frente de sua casa. O cheiro doce vai atrair<br>Eles para trás!"
+    },
+    {
+      "id": 198,
+      "en": "If you would like a Pokémon to move to a different home, bring<br>them to a different habitat and ask them to live there instead.<br>You can also have them move to a new town.",
+      "pt_br": "Se você gostaria de um Pokémon para se mudar para uma casa diferente, traga<br>eles para um habitat diferente e pedir-lhes para viver lá em vez disso.<br>Você também pode fazê-los mudar para uma nova cidade."
+    },
+    {
+      "id": 199,
+      "en": "However, a Pokémon will not move into a habitat that includes<br>something they dislike.",
+      "pt_br": "No entanto, um Pokémon não se moverá para um habitat que inclui<br>algo que eles não gostam."
+    },
+    {
+      "id": 200,
+      "en": "You may sometimes see ripples and sparkles on the water’s<br>surface. You can investigate them to get items.",
+      "pt_br": "Você pode às vezes ver ondulações e brilhos na água<br>Você pode investigá-los para obter itens."
+    },
+    {
+      "id": 201,
+      "en": "Sometimes you may notice flowers that are sparkling. You can<br>inspect these flowers to obtain <$cdef(27)><fqty(1)><$ifull(3994)></color>.",
+      "pt_br": "Às vezes você pode notar flores que são brilhantes.<br>inspecionar estas flores para obter <$cdef(27)><fqty(1)><$ifull(3994)></color>."
+    },
+    {
+      "id": 202,
+      "en": "If you talk to a Pokémon with the <$cdef(27)><fcap><$spwfull(11)> </color>specialty while<br>you’re holding a <$cdef(27)><fqty(1)><$ifull(2793)></color>, you can <$cdef(27)>look for items</color>.<br>Work together to find items buried in the ground!",
+      "pt_br": "Se você falar com um Pokémon com o <$cdef(27)><fcap><$spwfull(11)> </color>especialidade enquanto<br>você está segurando um <$cdef(27)><fqty(1)><$ifull(2793)></color>Você pode. <$cdef(27)>procurar por itens</color>.<br>Trabalhem juntos para encontrar itens enterrados no chão!"
+    },
+    {
+      "id": 203,
+      "en": "Press <$keyicon(0)> to have your Pokémon friend show you which direction<br>to go to find a buried item.",
+      "pt_br": "Pressione <$keyicon(0)> ter o seu amigo Pokémon mostrar-lhe que direção<br>para ir procurar um item enterrado."
+    },
+    {
+      "id": 204,
+      "en": "You can fit <$cdef(27)>mysterious slates </color>into the indentation on the wall.",
+      "pt_br": "Você pode caber <$cdef(27)>ardósia misteriosa </color>para o recuo na parede."
+    },
+    {
+      "id": 205,
+      "en": "<$cdef(27)>Mysterious slates </color>can sometimes be found buried in the ground.<br>Use the <$cdef(27)>Dowsing Machine</color> to look for them! Something might<br>happen if you insert all the <$cdef(27)>slates</color> in the correct configuration.",
+      "pt_br": "<$cdef(27)>Ardósia misteriosa </color>podem ser encontrados enterrados no chão.<br>Utilizar o <$cdef(27)>Máquina de Dowsing</color> para procurá-los! Algo pode<br>acontecer se você inserir todos os <$cdef(27)>ardósia</color> na configuração correcta."
+    },
+    {
+      "id": 206,
+      "en": "You can only travel to <$cdef(27)>one Dream Island per day</color>, but you can<br>revisit that island <$cdef(27)>as many times as you want</color>. If you would like to<br>go to a different island, you’ll have to wait until the next day to<br>talk to <$cdef(27)>Drifloon</color> again.",
+      "pt_br": "Você só pode viajar para <$cdef(27)>uma ilha de sonho por dia</color>Mas tu pode.<br>revisitar aquela ilha <$cdef(27)>quantas vezes quiser</color>Se você gostaria de<br>ir para uma ilha diferente, você terá que esperar até o dia seguinte para<br>falar com <$cdef(27)>Drifloon</color> Outra vez."
+    },
+    {
+      "id": 207,
+      "en": "At the start of a new day, <$cdef(27)>Drifloon</color> will forget the location of any<br><$cdef(27)>Dream Islands</color> you visited the day before, but they’ll find a new<br>island for you every day. Make sure to travel to an island daily if<br>you want to gather heaps of materials!",
+      "pt_br": "No início de um novo dia, <$cdef(27)>Drifloon</color> esquecerá a localização de qualquer<br><$cdef(27)>Ilhas dos sonhos</color> você visitou no dia anterior, mas eles vão encontrar um novo<br>ilha para você todos os dias. Certifique-se de viajar para uma ilha diariamente se<br>Você quer reunir montes de materiais!"
+    },
+    {
+      "id": 208,
+      "en": "These are small goals that will help improve the <$cdef(27)>comfort</color> of<br>Pokémon in the area and raise the <$cdef(27)>environment level</color>.<br>Completing challenges will award <$cdef(27)>Life Coins</color>.",
+      "pt_br": "Estes são pequenos objetivos que ajudarão a melhorar o <$cdef(27)>conforto</color> de<br>Pokémon na área e levantar o <$cdef(27)>nível de ambiente</color>.<br>A conclusão dos desafios será premiada <$cdef(27)>Moedas da vida</color>."
+    },
+    {
+      "id": 209,
+      "en": "<$cdef(27)>Challenge Days</color> take place once a week. On these days, you can<br>get more <$cdef(27)>Life Coins</color> than usual for completing <$cdef(27)>daily challenges</color>.",
+      "pt_br": "<$cdef(27)>Dias de Desafio</color> acontecer uma vez por semana. Nestes dias, você pode<br>obter mais <$cdef(27)>Moedas da vida</color> do que o habitual para completar <$cdef(27)>Desafios diários</color>."
+    },
+    {
+      "id": 210,
+      "en": "At the <$cdef(27)>PC</color> <$cdef(27)>shop</color>, you can use <$cdef(27)>Life Coins</color> earned from <$cdef(27)>challenges<br></color>and other events to buy <$cdef(27)>items</color>, <$cdef(27)>recipes</color>, and more!",
+      "pt_br": "Na <$cdef(27)>PC</color> <$cdef(27)>loja</color>, você pode usar <$cdef(27)>Moedas da vida</color> ganho de <$cdef(27)>desafios<br></color>e outros eventos para comprar <$cdef(27)>itens</color>, <$cdef(27)>receitas</color>, e mais!"
+    },
+    {
+      "id": 211,
+      "en": "Some items for sale in the shop can unlock useful features, so<br>complete lots of <$cdef(27)>challenges</color> to collect <$cdef(27)>Life Coins</color>!",
+      "pt_br": "Alguns itens para venda na loja podem desbloquear recursos úteis, então<br>lotes completos de <$cdef(27)>desafios</color> a recolher <$cdef(27)>Moedas da vida</color>!"
+    },
+    {
+      "id": 212,
+      "en": "Certain days of the week are <$cdef(27)>Shop Days</color>. On these days, rarer<br>items than usual will be available under the <$cdef(27)>Today Only! </color>header.",
+      "pt_br": "Certos dias da semana são <$cdef(27)>Dias de Loja</color>. Nestes dias, mais raros<br>os itens do que o habitual estarão disponíveis no âmbito da <$cdef(27)>Só hoje! </color>Cabeçalho."
+    },
+    {
+      "id": 213,
+      "en": "You can <$cdef(27)>order</color> items available for purchase from <$cdef(27)>shops</color> in other<br>players’ towns! Any items you <$cdef(27)>order</color> will be delivered via the <$cdef(27)>PC</color><br>in your town.",
+      "pt_br": "Tu pode. <$cdef(27)>ordem</color> itens disponíveis para compra de <$cdef(27)>lojas</color> em outras<br>cidades dos jogadores! Quaisquer itens que você <$cdef(27)>ordem</color> será entregue através da <$cdef(27)>PC</color><br>na tua cidade."
+    },
+    {
+      "id": 214,
+      "en": "You can begin a <$cdef(27)>stamp rally </color>after receiving a stamp card from the<br><$cdef(27)>PC</color> at the <$cdef(27)>Pokémon Center</color>. You can add a stamp to the card once<br>per day using the <$cdef(27)>PC</color>.",
+      "pt_br": "Você pode começar um <$cdef(27)>rali de selos </color>após ter recebido um cartão de carimbo da<br><$cdef(27)>PC</color> na <$cdef(27)>Centro Pokémon</color>. Você pode adicionar um selo ao cartão uma vez<br>por dia usando o <$cdef(27)>PC</color>."
+    },
+    {
+      "id": 215,
+      "en": "Every Friday, you can exchange the stamps you’ve collected for<br><$cdef(27)>Life Coins</color>. If you’ve collected rare stamps on your card, you’ll get<br>more <$cdef(27)>Life Coins</color> than usual!",
+      "pt_br": "Toda sexta-feira, você pode trocar os selos que você colecionou para<br><$cdef(27)>Moedas da vida</color>. Se você coletou selos raros em seu cartão, você terá<br>mais <$cdef(27)>Moedas da vida</color> O que é habitual!"
+    },
+    {
+      "id": 216,
+      "en": "You can stamp your card at <$cdef(27)>Pokémon Center PCs</color> in other<br>locations, too—such as another player’s world or a <$cdef(27)>Cloud Island</color>.<br>Collect as many stamps as you can get each week before Friday<br>rolls around!",
+      "pt_br": "Você pode carimbar o seu cartão em <$cdef(27)>Pokémon Central PCs</color> em outras<br>locais, também - como o mundo de outro jogador ou um <$cdef(27)>Ilha Nuvem</color>.<br>Colete tantos selos quanto você pode obter cada semana antes de sexta-feira<br>Rola!"
+    },
+    {
+      "id": 217,
+      "en": "You can select a Pokémon in your <$cdef(27)>Pokédex</color> you want to find and<br>press <$keyicon(233)> to begin <$cdef(27)>searching for them</color>. While you’re searching for<br>a Pokémon, other Pokémon you talk to will tell you<$cdef(27)> where that<br>Pokémon is</color>.",
+      "pt_br": "Você pode selecionar um Pokémon em seu <$cdef(27)>Pokédex</color> você quer encontrar e<br>pressione <$keyicon(233)> para começar <$cdef(27)>procurando por eles</color>. Enquanto você está procurando<br>um Pokémon, outro Pokémon com quem falará<$cdef(27)> onde isso<br>Pokémon é</color>."
+    },
+    {
+      "id": 218,
+      "en": "This camera lets you view things even when you’re far away.<br>Place a <$cdef(27)><fqty(1)><$ifull(1471)></color> on the ground, then select Security<br>Cameras from the <$cdef(27)>Camera</color> menu to view what it’s seeing. If you’ve<br>placed several cameras, you’ll be able to toggle between the<br>different camera views.",
+      "pt_br": "Esta câmera permite que você veja as coisas mesmo quando você está longe.<br>Colocar a <$cdef(27)><fqty(1)><$ifull(1471)></color> no chão, em seguida, selecione Segurança<br>Câmeras da <$cdef(27)>Câmera</color> menu para ver o que ele está vendo.<br>colocado várias câmeras, você será capaz de alternar entre o<br>diferentes visualizações da câmera."
+    },
+    {
+      "id": 219,
+      "en": "Interact with a <$cdef(27)>doll</color> on the ground to summon <$cdef(27)>Drifloon</color>.<br>If you ever want to go to a <$cdef(27)>Dream Island</color>, call <$cdef(27)>Drifloon</color> using<br>any <$cdef(27)>doll</color>!",
+      "pt_br": "Interagir com uma <$cdef(27)>boneca</color> no terreno para convocar <$cdef(27)>Drifloon</color>.<br>Se alguma vez quiseres ir a um <$cdef(27)>Ilha dos Sonhos</color>, chamar <$cdef(27)>Drifloon</color> usando<br>qualquer <$cdef(27)>boneca</color>!"
+    },
+    {
+      "id": 220,
+      "en": "The <$cdef(27)>Dream Island</color> that <$cdef(27)>Drifloon</color> takes you to will change<br>depending on the type the <$cdef(27)>doll</color> used. Try finding different <$cdef(27)>dolls</color><br>if you want to visit new <$cdef(27)>Dream Islands</color>.",
+      "pt_br": "A <$cdef(27)>Ilha dos Sonhos</color> que <$cdef(27)>Drifloon</color> leva-o para mudar<br>dependendo do tipo de <$cdef(27)>boneca</color> usado. Tente encontrar diferente <$cdef(27)>bonecas</color><br>se você deseja visitar novo <$cdef(27)>Ilhas dos sonhos</color>."
+    },
+    {
+      "id": 221,
+      "en": "Place a Joy-Con 2 with its colored side down on a desk or other<br>flat surface to <$cdef(27)>enable mouse controls</color>. While using mouse controls,<br>you can spit out items where you place the mouse cursor.",
+      "pt_br": "Coloque um Joy-Con 2 com seu lado colorido para baixo em uma mesa ou outro<br>Superfície plana até <$cdef(27)>activar os controlos do rato</color>. Ao usar controles do mouse,<br>você pode cuspir itens onde você coloca o cursor do mouse."
+    },
+    {
+      "id": 222,
+      "en": "While mouse controls are enabled, you can also use the cursor to<br>target specific blocks to break with Rock Smash.",
+      "pt_br": "Enquanto os controles do mouse estão habilitados, você também pode usar o cursor para<br>Alvo específicos blocos para quebrar com Rock Smash."
+    },
+    {
+      "id": 223,
+      "en": "You can use mouse controls with either a Joy-Con 2 (R) or a<br>Joy-Con 2 (L).",
+      "pt_br": "Você pode usar controles do mouse com um Joy-Con 2 (R) ou um<br>Joy-Con 2 (L)."
+    },
+    {
+      "id": 224,
+      "en": "You can move around effortlessly in water without worry, no<br>matter how long you’re under or how deep you dive!",
+      "pt_br": "Você pode se mover sem esforço na água sem se preocupar, não<br>importa quanto tempo você está sob ou quão fundo você mergulhar!"
+    },
+    {
+      "id": 225,
+      "en": "Hold <$keyicon(55)> while underwater to swim. While holding <$keyicon(55)>, you can<br>press <$keyicon(77)> to dive deeper or press <$keyicon(76)> to float higher.",
+      "pt_br": "Esperar <$keyicon(55)> enquanto debaixo d'água para nadar. <$keyicon(55)>Você pode.<br>pressione <$keyicon(77)> mergulhar mais fundo ou pressionar <$keyicon(76)> para flutuar mais alto."
+    },
+    {
+      "id": 226,
+      "en": "You can float in place underwater by holding <$keyicon(141)>. This makes it<br>easy to place items in specific locations.<br><br>You can also quickly spin <$keyicon(194)> to sink to the bottom of the sea.",
+      "pt_br": "Você pode flutuar no lugar debaixo d'água, segurando <$keyicon(141)>- Isto faz com que<br>fácil de colocar itens em locais específicos.<br><br>Você também pode girar rapidamente <$keyicon(194)> Afundar até ao fundo do mar."
+    },
+    {
+      "id": 227,
+      "en": "Press and hold <$keyicon(6)> to use <$cdef(27)>Strength</color>. While using <$cdef(27)>Strength</color>, you can<br>push and pull objects in the world.",
+      "pt_br": "Pressionar e segurar <$keyicon(6)> a utilizar <$cdef(27)>Dosagem</color>. Ao usar <$cdef(27)>Dosagem</color>Você pode.<br>empurrar e puxar objetos no mundo."
+    },
+    {
+      "id": 228,
+      "en": "If you tilt <$keyicon(194)> while using <$cdef(27)>Strength</color>, you can rotate an object in<br>front of you to the left or right.",
+      "pt_br": "Se você inclinar <$keyicon(194)> enquanto utiliza <$cdef(27)>Dosagem</color>, você pode girar um objeto em<br>frente para a esquerda ou direita."
+    },
+    {
+      "id": 229,
+      "en": "You can use a <$cdef(27)><fqty(1)><$ifull(1301)> </color>and other kitchen equipment to<br>cook food with various ingredients. Eating food you cook will<br>power up your moves.",
+      "pt_br": "Você pode usar um <$cdef(27)><fqty(1)><$ifull(1301)> </color>e outros equipamentos de cozinha para<br>cozinhar alimentos com vários ingredientes.<br>Activa os teus movimentos."
+    },
+    {
+      "id": 230,
+      "en": "If other Pokémon are nearby when you cook, they might join<br>in and help out. You may even end up with a different end result<br>than expected depending on the Pokémon’s specialty and the<br>ingredients you used. Try making all sorts of food and see what<br>you come up with!",
+      "pt_br": "Se outros Pokémon estiverem por perto quando você cozinhar, eles podem se juntar<br>você pode até mesmo acabar com um resultado final diferente<br>do que o esperado, dependendo da especialidade do Pokémon e da<br>ingredientes que você usou. Tente fazer todos os tipos de comida e ver o que<br>Tu é que inventas!"
+    },
+    {
+      "id": 231,
+      "en": "You can melt materials such as <$cdef(27)><fqty(1)><$ifull(106)></color> and <$cdef(27)><fqty(1)><$ifull(107)></color> to<br>make <$cdef(27)>ingots</color>. Place the materials in a smelting furnace and ask a<br>Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty to help you.",
+      "pt_br": "Você pode derreter materiais como <$cdef(27)><fqty(1)><$ifull(106)></color> e <$cdef(27)><fqty(1)><$ifull(107)></color> para<br>make <$cdef(27)>lingotes</color>. Coloque os materiais em um forno de fundição e peça<br>Pokémon com <$cdef(27)><fcap><$spwfull(10)></color> Especialidade em ajudar-te."
+    },
+    {
+      "id": 232,
+      "en": "Pokémon with the <$icon(11004)><fcap><$cdef(27)><$spwname(14)></color> specialty will start dancing if music’s<br>playing nearby, improving the <$cdef(27)>mood</color> of the area.",
+      "pt_br": "Pokémon com <$icon(11004)><fcap><$cdef(27)><$spwname(14)></color> especialidade vai começar a dançar se música<br>jogando nas proximidades, melhorando o <$cdef(27)>humor</color> da área."
+    },
+    {
+      "id": 233,
+      "en": "This move transforms you into a <$cdef(27)>Graveler</color>. Tilt <$keyicon(194)> to quickly roll<br>in that direction. You can roll even faster by holding down <$keyicon(55)> or<br>pressing <$keyicon(54)>.",
+      "pt_br": "Este movimento transforma- o em um <$cdef(27)>Graveler</color>. Inclinação <$keyicon(194)> para rolar rapidamente<br>nessa direção. Você pode rolar ainda mais rápido, segurando para baixo <$keyicon(55)> ou<br>pressionando <$keyicon(54)>."
+    },
+    {
+      "id": 234,
+      "en": "While holding down <$keyicon(1)>, you can roll into things to break them.<br>However, if you roll into something that <$cdef(27)><$sklfull(4)> </color>can’t<br>break, <$cdef(27)><$sklfull(12)></color> won’t break it either, and your rolling will come<br>to an abrupt stop.",
+      "pt_br": "Enquanto se seguram <$keyicon(1)>, você pode rolar em coisas para quebrá-los.<br>No entanto, se você rolar em algo que <$cdef(27)><$sklfull(4)> </color>não pode<br>quebrar, <$cdef(27)><$sklfull(12)></color> não vai quebrá-lo também, e seu rolando virá<br>para uma paragem abrupta."
+    },
+    {
+      "id": 235,
+      "en": "While transformed, you’ll gradually spend <$cdef(27)>PP</color>. Once out of <$cdef(27)>PP</color>, you<br>won’t be able to roll anymore.",
+      "pt_br": "Enquanto transformado, você vai gradualmente gastar <$cdef(27)>PP</color>Uma vez fora de <$cdef(27)>PP</color>, você<br>não será mais capaz de rolar."
+    },
+    {
+      "id": 236,
+      "en": "If you place a <$cdef(27)><fqty(1)><$ifull(1461)></color> on connected <$cdef(27)><fqty(2)><$ifull(1463)></color>, you<br>can ride it to get around. If you connect additional <$cdef(27)><fqty(2)><$ifull(1461)></color>,<br>you can bring small Pokémon with you on your ride.",
+      "pt_br": "Se colocar um <$cdef(27)><fqty(1)><$ifull(1461)></color> ligado <$cdef(27)><fqty(2)><$ifull(1463)></color>, você<br>pode montá-lo para se locomover. Se você conectar adicional <$cdef(27)><fqty(2)><$ifull(1461)></color>,<br>pode levar o pequeno Pokémon com você no teu passeio."
+    },
+    {
+      "id": 237,
+      "en": "Place a <$cdef(27)><fqty(1)><$ifull(1466)></color> near a line of <$cdef(27)><fqty(2)><$ifull(1463)> </color>to make<br>a <$cdef(27)><$hatname(21)> </color>where <$cdef(27)><fqty(2)><$ifull(1461)></color> will briefly stop.<br>Connect two <$cdef(27)><$hatname(21)>s </color>via <$cdef(27)><fqty(2)><$ifull(1463)></color>, and<br>Pokémon will ride <$cdef(27)><fqty(2)><$ifull(1461)></color> on their own.",
+      "pt_br": "Colocar a <$cdef(27)><fqty(1)><$ifull(1466)></color> perto de uma linha de <$cdef(27)><fqty(2)><$ifull(1463)> </color>a fazer<br>a <$cdef(27)><$hatname(21)> </color>em que <$cdef(27)><fqty(2)><$ifull(1461)></color> vai parar brevemente.<br>Ligar dois <$cdef(27)><$hatname(21)>s </color>via <$cdef(27)><fqty(2)><$ifull(1463)></color>, e<br>Pokémon vai cavalgar <$cdef(27)><fqty(2)><$ifull(1461)></color> Por conta própria."
+    },
+    {
+      "id": 238,
+      "en": "<oneline>First, set up a <$cdef(27)><fqty(1)><$ifull(1729)></color>. Once the <$cdef(27)>mood</color> around the<br><$cdef(27)><fqty(1)><$ifull(1729)></color> improves, you can throw a <$cdef(27)><$spwfull(23)></color>.<br>You can check the current <$cdef(27)>mood</color> by speaking to <$cdef(27)><$cname;0(274)></color>.",
+      "pt_br": "<oneline>Em primeiro lugar, configurar um <$cdef(27)><fqty(1)><$ifull(1729)></color>. Uma vez <$cdef(27)>humor</color> em torno da<br><$cdef(27)><fqty(1)><$ifull(1729)></color> melhora, você pode jogar um <$cdef(27)><$spwfull(23)></color>.<br>Você pode verificar o atual <$cdef(27)>humor</color> falando com <$cdef(27)><$cname;0(274)></color>."
+    },
+    {
+      "id": 239,
+      "en": "There are various ways to improve the <$cdef(27)>mood</color>.<br>・Install <$cdef(27)><fqty(2)><$ifull(3997)></color> around the area.<br>・Set up some <$cdef(27)>decorations</color>.<br>・Serve food on a <$cdef(27)><fqty(1)><$ifull(400)></color>.<br>・Get Pokémon with the <$cdef(27)><fcap><$spwfull(14)></color> specialty to start dancing.",
+      "pt_br": "Existem várias formas de melhorar o <$cdef(27)>humor</color>.<br>Instalar <$cdef(27)><fqty(2)><$ifull(3997)></color> em volta da área.<br>□Constituir alguns <$cdef(27)>decorações</color>.<br>Serve alimentos em uma <$cdef(27)><fqty(1)><$ifull(400)></color>.<br>Obter Pokémon com o <$cdef(27)><fcap><$spwfull(14)></color> especialidade para começar a dançar."
+    },
+    {
+      "id": 240,
+      "en": "Once the <$cdef(27)>mood</color> reaches <$cdef(27)>100</color>, have <$cdef(27)><$cname;0(216)> </color>prepare some<br>party food!",
+      "pt_br": "Uma vez o <$cdef(27)>humor</color> alcances <$cdef(27)>100</color>, ter <$cdef(27)><$cname;0(216)> </color>preparar alguns<br>Comida de festa!"
+    },
+    {
+      "id": 241,
+      "en": "You may occasionally dig up <$cdef(27)>Pokémon fossils</color>. Some fossils are<br>made up of multiple parts, so make sure they’re assembled in the<br>proper order when displaying them on <$cdef(27)><fqty(2)><$ifull(1528)></color>!",
+      "pt_br": "Você pode ocasionalmente desenterrar <$cdef(27)>Fóssils de Pokémon</color>Alguns fósseis são<br>composto de várias partes, por isso certifique-se de que eles estão montados no<br>ordem adequada ao exibi-los em <$cdef(27)><fqty(2)><$ifull(1528)></color>!"
+    },
+    {
+      "id": 242,
+      "en": "Some Pokémon may ask you to play “look that way.” In this game,<br>you must guess when prompted whether the Pokémon will look<br>left or right by pressing <$keyicon(222)> or <$keyicon(223)> accordingly. Guess correctly,<br>and you win the round. Guess incorrectly, and you lose.",
+      "pt_br": "Alguns Pokémon podem pedir-lhe para jogar “olhar para aquele lado.” Neste jogo,<br>você deve adivinhar quando perguntado se o Pokémon vai olhar<br>esquerda ou direita pressionando <$keyicon(222)> ou <$keyicon(223)> De acordo, acho que sim.<br>Adivinha incorrectamente, e perdes."
+    },
+    {
+      "id": 243,
+      "en": "If you have more wins than losses after three rounds, you win the<br>game. Winning will greatly increase your friendship with the<br>Pokémon. But even if you lose, your friendship still improves<br>somewhat.",
+      "pt_br": "Se você tem mais vitórias do que perdas após três rodadas, você ganha o<br>jogo. Ganhar vai aumentar muito a sua amizade com o<br>Pokémon. Mas mesmo que você perca, sua amizade ainda melhora.<br>Um pouco."
+    },
+    {
+      "id": 244,
+      "en": "You can press <$keyicon(29)> while you’re in the air to transform into<br><$cdef(27)>Dragonite </color>and use <$cdef(27)><$sklfull(11)> </color>to move around. You can’t ascend<br>higher than you were when you started gliding, though!",
+      "pt_br": "Você pode pressionar <$keyicon(29)> enquanto você está no ar para se transformar em<br><$cdef(27)>Dragonite </color>e utilizar <$cdef(27)><$sklfull(11)> </color>para se mover ao redor. Você não pode ascender<br>Mais alto do que tu quando começaste a deslizar!"
+    },
+    {
+      "id": 245,
+      "en": "While transformed, you’ll gradually spend <$cdef(27)>PP</color>. You’ll transform<br>back to your usual appearance when you land.",
+      "pt_br": "Enquanto transformado, você vai gradualmente gastar <$cdef(27)>PP</color>Você vai se transformar<br>de volta à sua aparência habitual quando aterrar."
+    },
+    {
+      "id": 246,
+      "en": "You can create a <$cdef(27)>lift </color>by placing two <$cdef(27)><fqty(2)><$ifull(1457)></color> facing each<br>other at some distance. You can ride <$cdef(27)>lifts </color>to faraway places when<br>no other path is available and bring other Pokémon with you too.",
+      "pt_br": "Você pode criar um <$cdef(27)>levantar </color>pela colocação dois <$cdef(27)><fqty(2)><$ifull(1457)></color> de frente para cada<br>outro a alguma distância. Você pode montar <$cdef(27)>elevadores </color>para lugares distantes quando<br>Nenhum outro caminho está disponível e trazer outro Pokémon com você também."
+    },
+    {
+      "id": 247,
+      "en": "You can’t make a <$cdef(27)>lift</color> if the <$cdef(27)><fqty(2)><$ifull(1457)></color> are too far apart, if<br>the angle between them is too steep, or if something is blocking<br>the space between them.",
+      "pt_br": "Você não pode fazer um <$cdef(27)>levantar</color> e <$cdef(27)><fqty(2)><$ifull(1457)></color> estão muito distantes, se<br>o ângulo entre eles é muito íngreme, ou se algo está bloqueando<br>o espaço entre eles."
+    },
+    {
+      "id": 248,
+      "en": "If you vertically place <$cdef(27)><fqty(2)><$ifull(1469)></color> and connect them<br>by <$iicon(1523)><$cdef(27)>ladders</color>, you can make <$cdef(27)>elevators</color> to transport you up<br>and down.",
+      "pt_br": "Se colocar verticalmente <$cdef(27)><fqty(2)><$ifull(1469)></color> e conectá-los<br>por <$iicon(1523)><$cdef(27)>escadas</color>Você pode fazer <$cdef(27)>elevadores</color> para te transportar para cima<br>E para baixo."
+    },
+    {
+      "id": 249,
+      "en": "You can summon an <$cdef(27)>elevator</color> by pressing the button on the<br>platform. You’ll have to wait a bit for the <$cdef(27)>elevator</color> to arrive. Once<br>you’re on the <$cdef(27)>elevator</color>, use the up or down button to move to the<br>floor you want to go to.",
+      "pt_br": "Você pode convocar um <$cdef(27)>elevador</color> pressionando o botão sobre o<br>plataforma. Você terá que esperar um pouco para o <$cdef(27)>elevador</color> para chegar.<br>você está no <$cdef(27)>elevador</color>, use o botão para cima ou para baixo para mover para o<br>Andar para onde quer ir."
+    },
+    {
+      "id": 250,
+      "en": "You can quickly climb waterfalls while using <$cdef(27)><$sklfull(10)></color> by pressing<br><$keyicon(7)> in front of the waterfall you want to climb.",
+      "pt_br": "Você pode subir rapidamente cachoeiras enquanto usa <$cdef(27)><$sklfull(10)></color> pressionando<br><$keyicon(7)> em frente à cachoeira que você quer escalar."
+    },
+    {
+      "id": 251,
+      "en": "This is a storage box that can be locked with a passcode. Open it<br>and press <$keyicon(242)> to set a passcode.",
+      "pt_br": "Esta é uma caixa de armazenamento que pode ser bloqueada com uma senha. Abra- a<br>e pressione <$keyicon(242)> para definir uma senha."
+    },
+    {
+      "id": 252,
+      "en": "Once a passcode has been set, all players other than the one who<br>placed the box will need to enter the correct passcode to open it.<br>However, you will still be able to move or remove other players’<br>storage boxes in your own world or on Cloud Isla",
+      "pt_br": "Uma vez que uma senha foi definida, todos os jogadores, exceto aquele que<br>colocado a caixa terá que inserir o código correto para abri-lo.<br>No entanto, você ainda será capaz de mover ou remover outros jogadores’<br>caixas de armazenamento em seu próprio mundo ou em Cloud Isla"
+    }
+  ]
+}

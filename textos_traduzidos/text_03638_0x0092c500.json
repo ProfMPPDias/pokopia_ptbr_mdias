@@ -1,0 +1,29 @@
+{
+  "entry_index": 3638,
+  "bin_id": "0x92c500",
+  "decompressed_size": 944,
+  "first_tag_offset": 248,
+  "total_strings": 4,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$emotion(2,13)><$voicel(2,4)>That Pokémon loves to explore!",
+      "pt_br": "<$emotion(2,13)><$voicel(2,4)>Que Pokémon adora explorar!"
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(2,7)>Maybe they’re in the cave back there or something? It<br>looks like a fun place to explore!",
+      "pt_br": "<$voicel(2,7)>Talvez eles estão na caverna lá atrás ou algo assim?<br>parece um lugar divertido para explorar!"
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(2,10)><$facial(2,5)><$motion(2,661)><$comeff(2,21)>Oooh, you met <$cdef(27)><$cname(580)></color>? YAY! If they need anything, make<br>sure to help ’em out!",
+      "pt_br": "<$voicel(2,10)><$facial(2,5)><$motion(2,661)><$comeff(2,21)>Oooh, já se conhecem. <$cdef(27)><$cname(580)></color>Se precisarem de alguma coisa, façam<br>É claro que os ajudarão!"
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(2,10)><$facial(2,5)><$motion(2,668)><$comeff(2,9)>You went exploring with <$cdef(27)><$cname(580)></color>? That sounds SO FUN!<wait(2.3)> <$voicel(2,4)><$facial(2,2)><$motion(2,805)><$comeff(2,14)>If<br>they’ve still got any problems, <$voicel(2,10)><$facial(2,4)><$motion(2,661)><$comeff(2,10)>make sure to hear ’em out!",
+      "pt_br": "<$voicel(2,10)><$facial(2,5)><$motion(2,668)><$comeff(2,9)>Você foi explorar com <$cdef(27)><$cname(580)></color>Isso parece tão divertido!<wait(2.3)> <$voicel(2,4)><$facial(2,2)><$motion(2,805)><$comeff(2,14)>Se<br>eles ainda têm quaisquer problemas, <$voicel(2,10)><$facial(2,4)><$motion(2,661)><$comeff(2,10)>certifique - se de ouvi - los!"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "entry_index": 2423,
+  "bin_id": "0x606e00",
+  "decompressed_size": 3096,
+  "first_tag_offset": 321,
+  "total_strings": 12,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$emotion(1,14)><$voicel(1,9)>Whoooaaa there, <$cdef(27)><pname;0></color>! You’ve<br>wandered<slide><br>awfully<slide><br>far away!",
+      "pt_br": "<$emotion(1,14)><$voicel(1,9)>Whoooaa ai, <$cdef(27)><pname;0></color>Você tem<br>vagueado<slide><br>terrivelmente.<slide><br>Muito longe!"
+    },
+    {
+      "id": 1,
+      "en": "<$comeff(1,14)><$motion(1,661)><$voicel(1,5)>I think you’d better spend a little more time getting used<br>to THIS place before you set off for somewhere else.",
+      "pt_br": "<$comeff(1,14)><$motion(1,661)><$voicel(1,5)>Acho que é melhor você gastar um pouco mais de tempo se acostumando<br>Para este lugar antes de partir para outro lugar."
+    },
+    {
+      "id": 2,
+      "en": "<oneline><$comeff(1,6)><$motionoff(1,804)><$voicel(1,5)>Where are you going, <$cdef(27)><pname;0></color>? Would<br>you<slide><br>please<slide><br>help<slide><br>me<slide><br>inspect<slide><br>this<slide><br>building first?",
+      "pt_br": "<oneline><$comeff(1,6)><$motionoff(1,804)><$voicel(1,5)>Onde vais? <$cdef(27)><pname;0></color>\"Seria<br>você<slide><br>Por favor.<slide><br>ajuda<slide><br>me<slide><br>inspecionar<slide><br>isto<slide><br>Primeiro o edifício?"
+    },
+    {
+      "id": 3,
+      "en": "<oneline><$comeff(3,3)><$motion(3,803)><$voicel(3,7)>Oooh, oooh, <$cdef(27)><pname;0></color>! Do you know how<br>to<slide><br>play<slide><br><$cdef(27)>jump rope</color>?",
+      "pt_br": "<oneline><$comeff(3,3)><$motion(3,803)><$voicel(3,7)>Oooh, oooh, <$cdef(27)><pname;0></color>sabe como é que é?<br>para<slide><br>jogar<slide><br><$cdef(27)>saltar corda</color>?"
+    },
+    {
+      "id": 4,
+      "en": "<$comeff(3,14)><$voicel(3,5)>So, um, to play <$cdef(27)>jump rope</color>, I spin my vines ’round and<br>’round.<clear><br><$comeff(3,9)><$facial(3,4)><$motion(3,801)><$voicel(3,7)>And then everybody jumps up and down and tries not to<br>trip on ’em! <$comeff(3,10)><$facial(3,4)><$motionoff(3,804)><$voicel(3,10)>It’s really fun!",
+      "pt_br": "<$comeff(3,14)><$voicel(3,5)>Então, um, para jogar <$cdef(27)>saltar corda</color>, Eu giro minhas vinhas em volta e<br>'em redor.<clear><br><$comeff(3,9)><$facial(3,4)><$motion(3,801)><$voicel(3,7)>E então todo mundo salta para cima e para baixo e tenta não<br>tropeçar neles! <$comeff(3,10)><$facial(3,4)><$motionoff(3,804)><$voicel(3,10)>É muito divertido!"
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(3,9)><$facial(3,4)><$motion(3,806)><$voicel(3,7)>If you ever wanna play <$cdef(27)>jump rope</color>, just tell me!",
+      "pt_br": "<$comeff(3,9)><$facial(3,4)><$motion(3,806)><$voicel(3,7)>Se alguma vez quiseres jogar <$cdef(27)>saltar corda</color>Diz-me!"
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(1,7)><$comeff(1,3)><$motion(1,664)>I think you should put that <$cdef(27)><fqty(1)><$ifull(1440)></color> on your<br>newly built house.<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,801)>That’ll make it easier for everyone to know where you live!",
+      "pt_br": "<$voicel(1,7)><$comeff(1,3)><$motion(1,664)>Acho que devias pôr isso. <$cdef(27)><fqty(1)><$ifull(1440)></color> na sua<br>Casa recém-construída.<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,801)>Isso facilitará a todos saberem onde você mora!"
+    },
+    {
+      "id": 7,
+      "en": "Designate <$cdef(27)>the house you</color> <$cdef(27)><$spwicon(1)>built</color> as your very own by<br>placing the <$cdef(27)><fqty(1)><$ifull(1440)> on top of it</color>!",
+      "pt_br": "Designar <$cdef(27)>a casa que você</color> <$cdef(27)><$spwicon(1)>construído</color> como seu próprio por<br>colocação da <$cdef(27)><fqty(1)><$ifull(1440)> em cima dele</color>!"
+    },
+    {
+      "id": 8,
+      "en": "At the current <$cdef(27)>environment level</color>, you should be able to<br>buy a <$cdef(27)><fqty(1)><$ifull(326)></color>!<clear><br>Access the <$cdef(27)>shop </color>and check it out!",
+      "pt_br": "Na corrente <$cdef(27)>nível de ambiente</color>Você deve ser capaz de<br>comprar um <$cdef(27)><fqty(1)><$ifull(326)></color>!<clear><br>Acesso à <$cdef(27)>loja </color>E olha só!"
+    },
+    {
+      "id": 9,
+      "en": "As you raise the<$cdef(27)> environment level</color>, you’ll be able to buy<br>lots and lots of different items from the <$cdef(27)>shop</color>!",
+      "pt_br": "Como você levanta o<$cdef(27)> nível de ambiente</color>, você será capaz de comprar<br>lotes e lotes de itens diferentes do <$cdef(27)>loja</color>!"
+    },
+    {
+      "id": 10,
+      "en": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Preparations for rebuilding the <$cdef(27)>Pokémon Center</color> are sure to<br>be a lot of work.<clear><br><$comeff(1,3)><$motion(1,824)><$voicel(1,7)>There’s no need to rush. You can continue granting<br>Pokémon’s requests as you have been, <$voicel(1,6)>making them new<slide><br>homes, <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>and just taking it easy doing whatever you like!<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,664)><$facial(1,4)>I’m sure some of the preparations will come together as<br>you’re doing all that, so you can come back to rebuilding<slide><br>the <$cdef(27)>Pokémon Center</color> whenever you’re ready!",
+      "pt_br": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Preparação para a reconstrução <$cdef(27)>Centro Pokémon</color> têm certeza de que<br>Vai dar muito trabalho.<clear><br><$comeff(1,3)><$motion(1,824)><$voicel(1,7)>Não há necessidade de pressa. Você pode continuar concedendo<br>Os pedidos de Pokémon como você tem sido, <$voicel(1,6)>tornando-os novos<slide><br>casas, <$comeff(1,9)><$facial(1,4)><$motion(1,806)><$voicel(1,8)>E apenas pegando leve fazendo o que você quiser!<clear><br><$voicel(1,9)><$comeff(1,10)><$motion(1,664)><$facial(1,4)>Tenho certeza de que alguns dos preparativos se reunirão como<br>você está fazendo tudo isso, para que você possa voltar para reconstruir<slide><br>a <$cdef(27)>Centro Pokémon</color> Quando você estiver pronto!"
+    },
+    {
+      "id": 11,
+      "en": "<$emotion(4,37)><$voicel(4,9)>Let’s hear what the <$cdef(27)>professor</color> has to say about celebrating!",
+      "pt_br": "<$emotion(4,37)><$voicel(4,9)>Vamos ouvir o que o <$cdef(27)>professor</color> Tem a dizer sobre celebrar!"
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "entry_index": 2686,
+  "bin_id": "0x6c3300",
+  "decompressed_size": 14832,
+  "first_tag_offset": 2088,
+  "total_strings": 94,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(4,7)><$emotion(4,27)>Ah, <$cdef(27)><pname;0></color>! Capiti a proposito!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(4,7)><$emotion(4,49)><$kfacial(4)>C'è un posto che voglio portarti a vedere!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(4,10)><$emotion(4,8)>Vieni con me!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(4,9)><$emotion(4,8)>Se non ricordo male, ce n'è uno che vive in posti<br>come questo.",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<oneline><$voicel(4,9)><$emotion(4,53)><$cdef(27)><pname;0></color>! Hai già imparato a<br>immagazzinare l'acqua!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<oneline><$voicel(4,5)><$comeff(4,3)><$motion(4,806)>È questo il posto che volevo mostrarti,<br><$cdef(27)><pname;0></color>.<slide><br><$voicel(4,10)><$emotion(4,8)>Voglio creare una cascata in questo laghetto!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(4,6)><$emotion(4,14)>Mi piacerebbe tanto creare una cascata qui!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<$voicel(4,7)><$comeff(4,14)><$motion(4,666)>Prima bisogna trovare un Pokémon bravo a immagazzinare<br>l'acqua. <$voicel(4,6)>Così puoi farti insegnare come si fa!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "<$voicel(4,5)><$emotion(4,50)>Allora proviamo subito a creare una cascata!<clear><br><$voicel(4,7)><$emotion(4,49)>Per prima cosa, entra in acqua e risucchiane tanta!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(4,8)><$emotion(4,8)>Grande! Ne hai risucchiata un bel po'!<clear><br><$voicel(4,5)><$emotion(4,14)>Ora vai in alto ed espellila!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(4,7)>Se espelli fuori l'acqua in quel punto, sono sicur<gen;-3(o,a)> che<br>si può creare una cascata!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Per prima cosa, entra in acqua e risucchiane tanta!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(4,7)>E se espelli l'acqua in quel punto, sono sicur<gen;-3(o,a)> che<br>si può creare una cascata!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "<$voicel(4,5)><$emotion(4,8)>Evviva! Ce l'abbiamo fatta, abbiamo creato una cascata!<br>Sei troppo <gen;-2(un,una)> grande, <$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<oneline><$voicel(4,5)><$comeff(4,21)><$motion(4,805)><$facial(4,14)>Com'è rilassante il suono dell'acqua... Non trovi,<br><$cdef(27)><pname;0></color>?<clear><br><$voicel(4,7)><$emotion(4,49)>Credo che questa cascata che mi hai creato diventerà<br>il mio posto preferito per fare un pisolino!<slide><br><$voicel(4,10)><$emotion(4,1)>Grazie davvero!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$voicel(4,10)><$emotion(4,8)>È da questa parte!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(4,3)><$comeff(4,6)><$motion(4,666)>Mmh? Vuoi immagazzinare l'acqua nel tuo corpo?",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "<$voicel(4,7)><$emotion(4,38)>Sai, a dire il vero ho una gran voglia di mangiare<br>dei <$cdef(27)><fqty(2)><$ifull(8)></color>! <$voicel(4,5)>Giusto <$cdef(27)>tre</color>, magari! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(4,7)>Lo vedi quel campo laggiù? Sembra perfetto per crescerci<br>dei deliziosi <$cdef(27)><fqty(2)><$ifull(8)></color>! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(4,5)><$comeff(4,9)><$motion(4,661)>Dopo mangiato, ti insegno a immagazzinare l'acqua!",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(4,5)>Ho una voglia matta di mangiare <$cdef(27)>tre</color> <$cdef(27)><fqty(2)><$ifull(8)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "<$voicel(4,8)>Ma devono essere dei <$cdef(27)><fqty(2)><$ifull(8)></color> appena colti!",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "<$voicel(4,7)><$emotion(4,8)>Evviva! I <$cdef(27)><fqty(2)><$ifull(8)></color>! Sembrano proprio buoni...<br>Grazie! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Allora ti insegno a immagazzinare l'acqua.",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "<$voicel(4,4)><$comeff(4,14)><$motion(4,666)>Per prima cosa devi fare un bel tuffo nell'acqua.<clear><br><$voicel(4,10)><$comeff(4,5)><$motionoff(4,804)>Poi basta che inspiri forte forte...<clear><br><$voicel(4,8)><$emotion(4,49)>... e il gioco è fatto!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Hai imparato ad <$cdef(27)>assorbire liquidi</color>!<clear><br>Quando sei in acqua, premi <$keyicon(206)> mentre tieni premuto <$keyicon(153)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(4,5)><$comeff(4,4)><$motion(4,807)>Ah! Scusa, scusa! Adesso ti spiego!",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "<$voicel(4,5)><$comeff(4,4)><$motion(4,807)>Ah! Scusa, scusa! Adesso ti spiego!",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "<$voicel(4,5)><$comeff(4,10)><$motion(4,805)>Per prima cosa bisogna fare un bel pieno d'acqua<br>del laghetto dentro al proprio corpo...",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "<$voicel(4,9)><$comeff(4,5)><$motion(4,661)><$facial(4,4)>Poi bisogna andare in alto, in un posto proprio sopra<br>al laghetto, ed espellerla lì!",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,666)>E così si dovrebbe poter fare una piccola cascata.<clear><br><$voicel(4,3)><$facial(4,9)><$comeff(4,7)><$motion(4,802)>Solo che io non sono ancora capace.",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<$voicel(4,7)><$comeff(4,5)><$motion(4,806)>Conosco un Pokémon che è eccezionale a immagazzinare<br>acqua! <$voicel(4,10)><$emotion(4,38)>Se non ricordo male, vive in posti come questo!",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "<$voicel(4,7)><$comeff(4,5)><$motion(4,806)>Conosco un Pokémon che è eccezionale a immagazzinare<br>acqua! <$voicel(4,10)><$emotion(4,38)>Se non ricordo male, vive in posti come questo!",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "<$voicel(4,5)><$emotion(4,8)>Che brav<gen;-2(o,a)>! Secondo me hai già imparato!<clear><br><$voicel(4,8)><$emotion(4,14)><$facial(4,4)>Così puoi trasportare l'acqua dove vuoi!",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(4,7)><$comeff(4,10)><$motion(4,805)>Ho capito... Allora facciamo un po' di pratica! ♪<br>Dunque, per prima cosa...",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "<$voicel(4,7)><$comeff(4,10)><$motion(4,805)>Ho capito... Allora facciamo un po' di pratica! ♪<br>Dunque, per prima cosa...",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "<$voicel(4,5)>Entra in quest'<$cdef(27)><fqty(1)><$iname(1662)></color> e prova a risucchiarne<br>più che puoi!",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "<$voicel(4,6)><$emotion(4,49)>Esercitiamoci a immagazzinare acqua dentro al corpo, dai!",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "<$voicel(4,7)>Entra in quest'<$cdef(27)><fqty(1)><$iname(1662)></color> e prova a risucchiarne<br>più che puoi!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "<$voicel(4,5)><$emotion(4,8)>Uauh! Che brav<gen;-2(o,a)>! Hai risucchiato un bel po'<br>d'<$cdef(27)><fqty(1)><$iname(1662)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "<$voicel(4,7)>Bene, adesso... prova a espellere dell'<$cdef(27)><fqty(1)><$iname(1662)><br></color>in una buca per farci uno stagno!<clear><br><$voicel(4,6)>Lì potrebbe andare bene!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "<$voicel(4,7)><$emotion(4,49)>Se non ci riesci, prova a risucchiare l'<$cdef(27)><fqty(1)><$iname(1662)><br></color>ancora una volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "<$voicel(4,7)><$emotion(4,14)>Prova a espellere dell'<$cdef(27)><fqty(1)><$iname(1662)></color> in una buca per farci<br>uno stagno! ♪<clear><br><$voicel(4,6)><$comeff(4,9)><$motion(4,805)>Qui potrebbe andare bene!",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "<$voicel(4,7)><$emotion(4,49)>Se non ci riesci, prova a risucchiare l'<$cdef(27)><fqty(1)><$iname(1662)><br></color>ancora una volta!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "<$voicel(4,10)><$emotion(4,38)>Evviva! Sei riuscit<gen;-2(o,a)> a fare uno stagno di <$cdef(27)><fqty(1)><$iname(1662)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "<$voicel(4,8)><$comeff(4,21)><$motion(4,805)>Sei stat<gen;-2(o,a)> super bravissim<gen;-2(o,a)>!<clear><br><$voicel(4,5)><$emotion(4,14)>Comunque puoi risucchiare non solo l'<$cdef(27)><fqty(1)><$iname(1662)></color>,<br>ma anche quella normale, eh!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "<$voicel(4,8)><$comeff(4,8)><$motion(4,666)>Lo so, bisogna avere gusti raffinati per apprezzare<br>l'<$cdef(27)><fqty(1)><$iname(1662)></color>...<clear><br><$voicel(4,5)><$emotion(4,49)>Comunque puoi risucchiare non solo l'<$cdef(27)><fqty(1)><$iname(1662)></color>,<br>ma anche quella normale, eh!",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "<$voicel(4,7)><$emotion(4,8)>Adesso puoi trasportare l'acqua dove vuoi! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "<$voicel(4,5)><$emotion(4,29)>Ehi, <$cdef(27)><pname;0></color>, posso rubarti un minuto?",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "<$voicel(4,4)><$comeff(4,14)>Hai presente la nave che c'è al largo?<clear><br><$voicel(4,8)><$comeff(4,23)><$motion(4,807)>Mi è sembrato di aver visto qualcosa muoversi, là sopra!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "<oneline><$voicel(4,7)><$emotion(4,14)>Non sei curios<gen;-2(o,a)> anche tu di vedere cos'è,<br><$cdef(27)><pname;0></color>?<slide><br>Stando alle mie stime, indagare è la soluzione migliore!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "<$voicel(4,9)><$emotion(4,8)>Sapevo di poter contare su di te, soci<gen;-2(o,a)>!<br>Non è che abbia paura, eh, chiariamo...<slide><br><$voicel(4,6)><$comeff(4,10)><$motion(4,806)>Ma siccome non so nuotare, io ti aspetto qui.",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "<$voicel(4,5)><$comeff(4,4)><$motion(4,805)>Pa-Paura? Chi? Io? Figuriamoci! Però, siccome non so<br>nuotare, io ti aspetto qui, soci<gen;-2(o,a)>!<clear><br><$voicel(4,7)><$emotion(4,38)>Dopo, ti sarei grat<gen;-3(o,a)> se mi facessi rapporto sui risultati<br>del sopralluogo!",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "<$voicel(4,9)><$comeff(4,23)><$motion(4,807)>Mi è sembrato di vedere qualcosa muoversi sulla nave<br>che c'è al largo!",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "<$voicel(4,5)><$comeff(4,10)><$motion(4,806)>Vorrei che facessi un sopralluogo per controllare la<br>situazione. Non che abbia paura, eh, chiariamo...",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "<$voicel(4,9)><$emotion(4,27)>Ah, ecco! Allora c'era <$cdef(27)>Happiny</color> su quella nave!<br><$voicel(4,4)><$comeff(4,7)><$motion(4,807)><$facial(4,9)>Non c'era niente di cui preoccuparsi...<clear><br><$textsize(0)>Che figuraccia...</textsize>",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "<$voicel(4,5)><$emotion(4,8)>Ahem! Grazie, collega, per merito tuo adesso posso<br>dormire sonni tranquilli!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "<$voicev(4,2,30)>... fa... oso...",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Si sente una voce in lontananza.",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "<$voicev(4,6,50)>... suono... stra...",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "La voce si è fatta più vicina. Viene da sopra!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "<$voicel(4,7)>Uaah... Ho paura!",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "La voce si sente chiaramente. Prova a cercare qui intorno!",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "<$voicel(4,7)><$comeff(4,6)><$motion(4,805)>Uaah! Chi sei? Non farmi del male!",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Oh... In effetti... non sembri cattiv<gen;-2(o,a)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Oh... In effetti... non sembri cattiv<gen;-2(o,a)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "<$voicel(4,5)><$comeff(4,14)><$motion(4,666)>Ecco, me ne stavo a dormire a casa mia... <$voicel(4,7)><$emotion(4,48)>quando mi ha<br>svegliat<gen;-3(o,a)> un suono fastidioso e non so come mi sono<slide><br>ritrovat<gen;-3(o,a)> su questa nave!",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "<$voicel(4,3)><$comeff(4,23)><$motion(4,807)><$facial(4,9)>E per di più ogni tanto continuo a sentirlo, e mi fa<br>una paura...",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "<$voicel(4,5)><$emotion(4,29)>Tu hai proprio l'aria di essere forte. Non puoi andare<br>a controllare cos'è quel suono?",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "<$voicel(4,10)><$emotion(4,8)>Davvero? Ma grazie!",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "<$voicel(4,10)><$emotion(4,8)>Davvero? Ma grazie!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "<$voicel(4,7)><$comeff(4,14)><$motion(4,805)>Quel suono viene dalla parte sotto della nave, credo.<clear><br><$voicel(4,5)><$emotion(4,14)>Ho provato a sbirciare da quel buco, ma è troppo buio,<br>non si vede niente, uffi!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "<$voicel(4,7)><$emotion(4,27)>Ogni tanto si sente un suono fastidioso che proviene<br>dalla parte sotto della nave.<clear><br><$voicel(4,6)><$emotion(4,49)>Puoi andare a vedere cos'è?",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "<$voicel(4,3)><$comeff(4,14)><$motion(4,666)>Mi sembra di sentirlo sempre alla stessa ora...",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "<$voicel(4,10)><$emotion(4,27)>Ah! Hai capito cos'era quel suono?",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "<$voicel(4,7)><$emotion(4,38)>Ma daaai! Era solo la <$cdef(27)><fqty(1)><$ifull(1702)></color> che suonava?<br><$voicel(4,6)><$comeff(4,17)><$facial(4,14)><$motion(4,806)>Allora non c'era da aver paura!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "<$voicel(4,7)><$emotion(4,38)>Ma daaai! Era solo la <$cdef(27)><fqty(1)><$ifull(1702)></color> che suonava?<br><$voicel(4,6)><$comeff(4,17)><$facial(4,14)><$motion(4,806)>Allora non c'era da aver paura!",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "<$voicel(4,3)>Non ho ancora capito cosa ci faccio io su questa nave.<clear><br><$voicel(4,5)>Però mi ci trovo bene nella cabina dove sono ora,<br>somiglia tanto a casa mia!",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "<$voicel(4,7)>Manca solo una cosa: la <$cdef(27)><fqty(1)><$ifull(1702)></color>!<clear><br><$voicel(4,9)>Con quell'aggiunta allora sì che sarebbe identica<br>a casa mia! <$voicel(4,8)>Guarda, così!",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "<$voicel(4,7)><$emotion(4,49)>Puoi mettere la <$cdef(27)><fqty(1)><$ifull(1702)></color> nella cabina?",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "<$voicel(4,10)><$emotion(4,8)>Guarda, così!",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "<$voicel(4,9)><$emotion(4,8)>Grazieee! Adesso sembra proprio casa mia!<br><$voicel(4,8)><$emotion(4,49)>D'ora in poi vivrò qui!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Cosa posso fare per ringraziarti... Ah, ci sono!<clear><br><$voicel(4,5)><$comeff(4,9)><$motion(4,806)>Su questa nave ho trovato un marchingegno interessante!",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "<$voicel(4,5)><$emotion(4,38)>Ti faccio vedere! Vieni con me!",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "<$voicel(4,7)><$emotion(4,38)>Per ringraziarti voglio farti vedere una bella cosa!<br>Seguimi!",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "<$voicel(1,5)><$comeff(1,6)><$motion(1,666)>Ah! Che profumino... Per caso hai con te dei<br><$cdef(27)><fqty(2)><$ifull(8)></color>? <$voicel(1,8)><$emotion(1,49)>Che bello! Che fortuna!",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "<$voicel(4,5)><$emotion(4,8)>Evviva! Che delizia! Grazie!",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Allora ti insegno a immagazzinare l'acqua.",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "<$voicel(4,4)><$comeff(4,14)><$motion(4,666)>Per prima cosa devi fare un bel tuffo nell'acqua.<clear><br><$voicel(4,10)><$comeff(4,5)><$motionoff(4,804)>Poi basta che inspiri forte forte...<clear><br><$voicel(4,8)><$emotion(4,49)>... e il gioco è fatto!",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "Hai imparato ad <$cdef(27)>assorbire liquidi</color>!<clear><br>Quando sei in acqua, premi <$keyicon(206)> mentre tieni premuto <$keyicon(153)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "<$voicel(4,5)><$emotion(4,8)>Che brav<gen;-2(o,a)>! Secondo me hai già imparato!<clear><br><$voicel(4,8)><$emotion(4,14)><$facial(4,4)>Così puoi portare l'acqua dove vuoi!",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "<$voicel(4,7)><$comeff(4,10)><$motion(4,805)>Ho capito... Allora facciamo un po' di pratica! ♪<br>Dunque, per prima cosa...",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "<$voicel(4,7)><$comeff(4,10)><$motion(4,805)>Ho capito... Allora facciamo un po' di pratica! ♪<br>Dunque, per prima cosa...",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "<$voicel(4,5)>Entra in quest'<$cdef(27)><fqty(1)><$iname(1662)></color> e prova a risucchiarne<br>più che puoi!",
+      "pt_br": ""
+    }
+  ]
+}

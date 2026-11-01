@@ -1,0 +1,424 @@
+{
+  "entry_index": 4214,
+  "bin_id": "0xacab00",
+  "decompressed_size": 3600,
+  "first_tag_offset": 1212,
+  "total_strings": 83,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Look! More green, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Lookin’ forward to some good times!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "Yo! This’ll take a minute!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Yooo! Now we’re gettin’ somewhere!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "Not much longer, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Hehe!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Awww, rain?! Guess I’ll go home...",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Yo, whatcha got there?",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Where’s the treasure at?",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "Looks rough, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "I dunno if I can go on, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "Yooo! I made it!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "This is kinda rough, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "Yo, I found somethin’!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "Up above, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Down below, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Yo, I think something’s over here!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "I don’t think anything’s over here, yo.",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Maybe that way?",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "Yooo, I think we’re gettin’ close!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "Is it lookin’ good to go?",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "I think this is a dead end, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Could ya bring it a little closer?",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Yooo! I’m so happy!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "The <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "It’s nice and warm, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Yooo, it’s a bit hot around here...",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Yooo, so nice and cool!",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "It’s kinda cold, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "Yo! It’s gotten so nice and bright!",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "It’s a little too bright, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Yooo, nice and dark now!",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "Might be a bit too dark, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Yooo! This humidity feels great!",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "Might be a bit too humid, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "So nice and dry here, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Yooo, I need a bit more humidity...",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "I can’t get by, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Looks like a nice place!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "This looks like a great home, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "Come check out what I’ve got, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "Yo, maybe it’s a bit too small?",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "Lead the way!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "Later, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "Happy to help!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Smells good!",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "Yooo, sorry. I can’t right now...",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "All done, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Yooo! I got this!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "So this is where <$cdef(27)><$etpname;0(lnum1)> </color>lives...",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "Yooo, <$cdef(27)><$etpname;0(lnum1)></color>. What’s that?",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "I’m gonna find you, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "I’m too hungry right now...",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "Yooo, is someone there?!",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Whoa!",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "Hyah!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "Yooo, this is super nice...",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Hold up, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "Sorry, yo. I can’t get past this spot.",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "I got this!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Yooo, looks like it needs a little water first!",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Where ya hidin’?!",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "Maybe over here?",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "Yooo... Maybe...",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "*sniff sniff*",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "There’s no hidin’ from me, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Yooo! Found ya!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "Hyahhh!",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "Yooo! I’m starvin’!",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "I’m so excited, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "I’m excited, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "We’re gonna make somethin’ tasty!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "This’s nice, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "What a nice place!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "It’s a li’l too wet, yo...",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "I’m so happy, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "Somethin’s in the way, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Guess I’m just imaginin’ things...",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "What’s that sound, yo?",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "It needs some <$cdef(27)>bubbles </color>on it first, yo!",
+      "pt_br": ""
+    }
+  ]
+}

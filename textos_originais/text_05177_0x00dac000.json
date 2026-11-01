@@ -1,0 +1,1154 @@
+{
+  "entry_index": 5177,
+  "bin_id": "0xdac000",
+  "decompressed_size": 9848,
+  "first_tag_offset": 4152,
+  "total_strings": 229,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$sklfull(1)>",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Ditto’s Home",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Making Houses Out of Blocks",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "The <fcap><fqty(1)><$ifull(764)>",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Comfort Level: Pokémon Center",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<$sklfull(4)>",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "The Highlight Reel",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<$sklfull(2)>",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Healing at a Pokémon Center",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Moving Plants With <$sklfull(2)>",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "Reaching High Places",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Stockpile / Spit Out",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "Placing Items at Your Feet",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "Tidying Up Paths",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<$iicon(2045)>Storage Boxes",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$sklfull(5)>",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Squeezing Through Tight Spaces",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Walking and Running",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "Camera Controls",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$sklfull(3)>",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "Your Bag",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "Making Habitats",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "Switching Between Moves",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Pokémon Traces",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Climbing",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Constructing Buildings",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "Placing Furniture & Living in Houses",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Taking Photos",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Lost Human Relics?",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "Inhaling",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<$sklfull(13)>",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "Running Out of PP",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Running Electricity to Houses",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "Comfort Level",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Comfort Level: Food",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "Comfort Level: Relaxation",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Comfort Level: Toys",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Things Pokémon Like",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "Preferred Environment",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Comfort Level: Houses",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "Home Brightness",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "Growing Vegetable Crops",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "Specialties",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "<fcap><$spwfull(10)>",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "<fcap><$spwfull(1)>",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "<fcap><$spwfull(5)>",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Environment Level",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "Things Pokémon Dislike",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "Home Temperature",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Home Humidity Level",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "Comfort Level & Habitat Boundaries",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "Legendary and Mythical Pokémon",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "<fcap><$spwfull(6)>",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "Help from Followers",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "Increasing Humidity: Ground",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Increasing Humidity: Vegetation",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "Increasing Humidity: Water Sources",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "<$spwicon(26)>Gather Honey",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "<fcap><$spwfull(15)>",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "<fcap><$spwfull(16)>",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Walking with Pokémon",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Maximum Pokémon Followers",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Increasing Comfort Level",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "Decorating to Improve Comfort",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "Pokémon Active Hours",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "Pokémon Living Spaces",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "Beware Deep Water!",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "<fcap><$icon(10997)><$spwname(8)>",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "<fcap><$spwfull(8)> and the Rain Dance Site",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "Planting Seeds",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "Placing Items",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "Plant Growth",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "<$sklfull(4)> Tips",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Homes",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "Jump Rope",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "Hide-and-Sneak",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "Pokémon Requests",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "<fcap><$spwfull(25)>",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "About Dream Islands",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Time to Ask the Professor!",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "Life with Your Pokémon Friends",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "Picking Up Items",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "<$sklfull(6)>",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "<fcap><$spwfull(11)>",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "<fcap><$spwfull(27)>",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "The Handy Bag",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "Choosing What You Want",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "Camera Tripod",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "Using <fcap><$spwfull(10)> at <$iicon(1446)>Smelting Furnaces",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "Washing Away Mud",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "<fcap><$spwfull(13)>",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "<$spwfull(19)>",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "<fcap><$icon(11222)><$spwname(30)>",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "<fcap><$spwfull(17)>: <fcap><fqty(1)><$ifull(1738)>",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "<fcap><$spwfull(28)>",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "<fcap><$spwfull(21)>",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "<fcap><$spwfull(31)>",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "<$spwfull(29)>",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "<fcap><$spwfull(23)>",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "<fcap><$spwfull(34)>",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "<fcap><$spwfull(24)>",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "<fcap><$spwfull(32)>",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "<fcap><$spwfull(35)>",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "<fcap><$spwfull(33)>",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "Humidity",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "Remodeling Buildings",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "Demolishing Buildings",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "Relocating Buildings",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "Return Home",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "Human Records",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "Ask a <$spwfull(29)> About the Mood",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "Reporting Completed Requests",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "Return Home Safe and Sound",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "<$sklfull(10)>",
+      "pt_br": ""
+    },
+    {
+      "id": 114,
+      "en": "<fcap><$spwfull(9)>",
+      "pt_br": ""
+    },
+    {
+      "id": 115,
+      "en": "<fcap><$spwfull(12)>",
+      "pt_br": ""
+    },
+    {
+      "id": 116,
+      "en": "<fcap><$bfull(33)>s",
+      "pt_br": ""
+    },
+    {
+      "id": 117,
+      "en": "Changing Colors with <fcap><$icon(11008)><$spwname(21)>",
+      "pt_br": ""
+    },
+    {
+      "id": 118,
+      "en": "<fcap><$icon(11008)><$spwname(21)>ing with Balloons",
+      "pt_br": ""
+    },
+    {
+      "id": 119,
+      "en": "Changing Patterns with <fcap><$icon(11008)><$spwname(21)>",
+      "pt_br": ""
+    },
+    {
+      "id": 120,
+      "en": "<fcap><$icon(11008)><$spwname(21)>ing Different Parts",
+      "pt_br": ""
+    },
+    {
+      "id": 121,
+      "en": "Altering the Flow of Water",
+      "pt_br": ""
+    },
+    {
+      "id": 122,
+      "en": "<fcap><$spwfull(4)>",
+      "pt_br": ""
+    },
+    {
+      "id": 123,
+      "en": "<fcap><$spwfull(17)>",
+      "pt_br": ""
+    },
+    {
+      "id": 124,
+      "en": "Sucking Up Liquids",
+      "pt_br": ""
+    },
+    {
+      "id": 125,
+      "en": "<fcap><$bfull(34)>s",
+      "pt_br": ""
+    },
+    {
+      "id": 126,
+      "en": "<fcap><$bfull(35)>s",
+      "pt_br": ""
+    },
+    {
+      "id": 127,
+      "en": "Brightening Areas",
+      "pt_br": ""
+    },
+    {
+      "id": 128,
+      "en": "<$iicon(3268)>Utility Poles",
+      "pt_br": ""
+    },
+    {
+      "id": 129,
+      "en": "<fcap><$spwfull(22)>",
+      "pt_br": ""
+    },
+    {
+      "id": 130,
+      "en": "<fcap><fqty(1)><$ifull(1410)>s",
+      "pt_br": ""
+    },
+    {
+      "id": 131,
+      "en": "Generators",
+      "pt_br": ""
+    },
+    {
+      "id": 132,
+      "en": "Transforming Your Look",
+      "pt_br": ""
+    },
+    {
+      "id": 133,
+      "en": "<fcap><$icon(11008)><$spwname(21)>ing Houses",
+      "pt_br": ""
+    },
+    {
+      "id": 134,
+      "en": "Electric Light",
+      "pt_br": ""
+    },
+    {
+      "id": 135,
+      "en": "Firelight",
+      "pt_br": ""
+    },
+    {
+      "id": 136,
+      "en": "Brightness and <$cname;0(272)>’s Flower",
+      "pt_br": ""
+    },
+    {
+      "id": 137,
+      "en": "Holding Liquids in Your Mouth",
+      "pt_br": ""
+    },
+    {
+      "id": 138,
+      "en": "The <$iicon(1443)>3D Printer",
+      "pt_br": ""
+    },
+    {
+      "id": 139,
+      "en": "Special Conversations Between Pokémon",
+      "pt_br": ""
+    },
+    {
+      "id": 140,
+      "en": "Talking to Pokémon",
+      "pt_br": ""
+    },
+    {
+      "id": 141,
+      "en": "Using <fcap><fqty(1)><$ifull(3994)> to Draw In Pokémon",
+      "pt_br": ""
+    },
+    {
+      "id": 142,
+      "en": "Inviting Pokémon to Live Elsewhere",
+      "pt_br": ""
+    },
+    {
+      "id": 143,
+      "en": "Rippling Water #1",
+      "pt_br": ""
+    },
+    {
+      "id": 144,
+      "en": "Rippling Water #2",
+      "pt_br": ""
+    },
+    {
+      "id": 145,
+      "en": "Rippling Water #3",
+      "pt_br": ""
+    },
+    {
+      "id": 146,
+      "en": "<fcap><fqty(1)><$ifull(3994)>",
+      "pt_br": ""
+    },
+    {
+      "id": 147,
+      "en": "Dangerous Lost Relics",
+      "pt_br": ""
+    },
+    {
+      "id": 148,
+      "en": "Dowsing",
+      "pt_br": ""
+    },
+    {
+      "id": 149,
+      "en": "The Mysterious Mural",
+      "pt_br": ""
+    },
+    {
+      "id": 150,
+      "en": "Visiting Dream Islands",
+      "pt_br": ""
+    },
+    {
+      "id": 151,
+      "en": "A New Dream Island Every Day",
+      "pt_br": ""
+    },
+    {
+      "id": 152,
+      "en": "Challenges",
+      "pt_br": ""
+    },
+    {
+      "id": 153,
+      "en": "The Shop",
+      "pt_br": ""
+    },
+    {
+      "id": 154,
+      "en": "Ordering Items",
+      "pt_br": ""
+    },
+    {
+      "id": 155,
+      "en": "Stamp Rally",
+      "pt_br": ""
+    },
+    {
+      "id": 156,
+      "en": "Discovering New Recipes",
+      "pt_br": ""
+    },
+    {
+      "id": 157,
+      "en": "Searching for Pokémon with the Pokédex",
+      "pt_br": ""
+    },
+    {
+      "id": 158,
+      "en": "Installing <$iicon(1471)>Security Cameras",
+      "pt_br": ""
+    },
+    {
+      "id": 159,
+      "en": "Summoning Drifloon with Dolls",
+      "pt_br": ""
+    },
+    {
+      "id": 160,
+      "en": "Playing Jump Rope",
+      "pt_br": ""
+    },
+    {
+      "id": 161,
+      "en": "Playing Hide-and-Sneak",
+      "pt_br": ""
+    },
+    {
+      "id": 162,
+      "en": "Look That Way",
+      "pt_br": ""
+    },
+    {
+      "id": 163,
+      "en": "Using Mouse Controls",
+      "pt_br": ""
+    },
+    {
+      "id": 164,
+      "en": "Dive",
+      "pt_br": ""
+    },
+    {
+      "id": 165,
+      "en": "Powered-Up <$sklfull(10)>",
+      "pt_br": ""
+    },
+    {
+      "id": 166,
+      "en": "Strength",
+      "pt_br": ""
+    },
+    {
+      "id": 167,
+      "en": "Using Strength to Rotate Objects",
+      "pt_br": ""
+    },
+    {
+      "id": 168,
+      "en": "Let’s Cook!",
+      "pt_br": ""
+    },
+    {
+      "id": 169,
+      "en": "Powered-Up <$sklfull(1)>",
+      "pt_br": ""
+    },
+    {
+      "id": 170,
+      "en": "Powered-Up <$sklfull(5)>",
+      "pt_br": ""
+    },
+    {
+      "id": 171,
+      "en": "Powered-Up <$sklfull(3)>",
+      "pt_br": ""
+    },
+    {
+      "id": 172,
+      "en": "Powered-Up <$sklfull(4)>",
+      "pt_br": ""
+    },
+    {
+      "id": 173,
+      "en": "Cooking: Changing Ingredients",
+      "pt_br": ""
+    },
+    {
+      "id": 174,
+      "en": "Cooking: Help from Others",
+      "pt_br": ""
+    },
+    {
+      "id": 175,
+      "en": "<$iicon(1446)>Smelting Furnaces",
+      "pt_br": ""
+    },
+    {
+      "id": 176,
+      "en": "<fcap><$icon(11004)><$spwname(14)>",
+      "pt_br": ""
+    },
+    {
+      "id": 177,
+      "en": "Placing Items to Increase Mood",
+      "pt_br": ""
+    },
+    {
+      "id": 178,
+      "en": "Using Food to Increase Mood",
+      "pt_br": ""
+    },
+    {
+      "id": 179,
+      "en": "Party Prep: Cooking",
+      "pt_br": ""
+    },
+    {
+      "id": 180,
+      "en": "Using Ancient Artifacts to Increase Mood",
+      "pt_br": ""
+    },
+    {
+      "id": 181,
+      "en": "<$sklfull(12)>",
+      "pt_br": ""
+    },
+    {
+      "id": 182,
+      "en": "Getting a <fcap><fqty(1)><$ifull(1461)> Working",
+      "pt_br": ""
+    },
+    {
+      "id": 183,
+      "en": "Long-Distance Slicing with <$sklfull(5)>",
+      "pt_br": ""
+    },
+    {
+      "id": 184,
+      "en": "Party Time!",
+      "pt_br": ""
+    },
+    {
+      "id": 185,
+      "en": "Party Benefits",
+      "pt_br": ""
+    },
+    {
+      "id": 186,
+      "en": "Pokémon Fossils",
+      "pt_br": ""
+    },
+    {
+      "id": 187,
+      "en": "Railroad Crossings",
+      "pt_br": ""
+    },
+    {
+      "id": 188,
+      "en": "Ask <$cname(562)>",
+      "pt_br": ""
+    },
+    {
+      "id": 189,
+      "en": "Using <$sklfull(2)> on Coral",
+      "pt_br": ""
+    },
+    {
+      "id": 190,
+      "en": "Moving Underwater with <$sklfull(10)>",
+      "pt_br": ""
+    },
+    {
+      "id": 191,
+      "en": "Breaking Things While <$sklfull(10)>ing",
+      "pt_br": ""
+    },
+    {
+      "id": 192,
+      "en": "<$sklfull(11)>",
+      "pt_br": ""
+    },
+    {
+      "id": 193,
+      "en": "Setting Up a <$iicon(1457)>Lift",
+      "pt_br": ""
+    },
+    {
+      "id": 194,
+      "en": "Setting Up an <$iicon(1469)>Elevator",
+      "pt_br": ""
+    },
+    {
+      "id": 195,
+      "en": "Making Big Buildings",
+      "pt_br": ""
+    },
+    {
+      "id": 196,
+      "en": "<$icon(11020)>Waterfall",
+      "pt_br": ""
+    },
+    {
+      "id": 197,
+      "en": "<fcap><fqty(2)><$ifull(1677)>",
+      "pt_br": ""
+    },
+    {
+      "id": 198,
+      "en": "<$iicon(602)>Portal Pods",
+      "pt_br": ""
+    },
+    {
+      "id": 199,
+      "en": "Throwing Away Unwanted Items",
+      "pt_br": ""
+    },
+    {
+      "id": 200,
+      "en": "Changing How Items Attach",
+      "pt_br": ""
+    },
+    {
+      "id": 201,
+      "en": "Growing Crops Underwater",
+      "pt_br": ""
+    },
+    {
+      "id": 202,
+      "en": "Jump Rope Contests",
+      "pt_br": ""
+    },
+    {
+      "id": 203,
+      "en": "Hide-and-Sneak Contests",
+      "pt_br": ""
+    },
+    {
+      "id": 204,
+      "en": "Using <fqty(2)><$ifull(92)>",
+      "pt_br": ""
+    },
+    {
+      "id": 205,
+      "en": "<$iicon(4001)>Pokémon Gifts",
+      "pt_br": ""
+    },
+    {
+      "id": 206,
+      "en": "Inviting Pokémon from Other Towns",
+      "pt_br": ""
+    },
+    {
+      "id": 207,
+      "en": "The Communication Wheel",
+      "pt_br": ""
+    },
+    {
+      "id": 208,
+      "en": "Playing with Others via Link Play",
+      "pt_br": ""
+    },
+    {
+      "id": 209,
+      "en": "<$stgname;0(13)>",
+      "pt_br": ""
+    },
+    {
+      "id": 210,
+      "en": "GameShare",
+      "pt_br": ""
+    },
+    {
+      "id": 211,
+      "en": "Virtual Mode",
+      "pt_br": ""
+    },
+    {
+      "id": 212,
+      "en": "A Place to Play Freely with Others",
+      "pt_br": ""
+    },
+    {
+      "id": 213,
+      "en": "Inviting Others to Visit Your World",
+      "pt_br": ""
+    },
+    {
+      "id": 214,
+      "en": "Visiting a Friend’s World",
+      "pt_br": ""
+    },
+    {
+      "id": 215,
+      "en": "Playing on a Cloud Island",
+      "pt_br": ""
+    },
+    {
+      "id": 216,
+      "en": "Ask Again If You’re Stuck",
+      "pt_br": ""
+    },
+    {
+      "id": 217,
+      "en": "Making Walkable Roads",
+      "pt_br": ""
+    },
+    {
+      "id": 218,
+      "en": "Making a Darker Home",
+      "pt_br": ""
+    },
+    {
+      "id": 219,
+      "en": "Playing Music",
+      "pt_br": ""
+    },
+    {
+      "id": 220,
+      "en": "Finding Water",
+      "pt_br": ""
+    },
+    {
+      "id": 221,
+      "en": "Shops on Cloud Islands",
+      "pt_br": ""
+    },
+    {
+      "id": 222,
+      "en": "Downloadable Content on Cloud Islands",
+      "pt_br": ""
+    },
+    {
+      "id": 223,
+      "en": "<fcap><$spwfull(37)>",
+      "pt_br": ""
+    },
+    {
+      "id": 224,
+      "en": "Whirlpools",
+      "pt_br": ""
+    },
+    {
+      "id": 225,
+      "en": "<fcap><$spwfull(8)>ing Underwater",
+      "pt_br": ""
+    },
+    {
+      "id": 226,
+      "en": "Cutting Watermelons",
+      "pt_br": ""
+    },
+    {
+      "id": 227,
+      "en": "<fcap><$spwname(1)>ing Underwater",
+      "pt_br": ""
+    },
+    {
+      "id": 228,
+      "en": "The Deep Sea",
+      "pt_br": ""
+    }
+  ]
+}

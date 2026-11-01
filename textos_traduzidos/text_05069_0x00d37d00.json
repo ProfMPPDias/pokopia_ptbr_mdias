@@ -1,0 +1,1804 @@
+{
+  "entry_index": 5069,
+  "bin_id": "0xd37d00",
+  "decompressed_size": 21648,
+  "first_tag_offset": 12475,
+  "total_strings": 359,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><fqty(1)><$ifull(1280)></color>?",
+      "pt_br": "<$cdef(27)><fqty(1)><$ifull(1280)></color>?"
+    },
+    {
+      "id": 1,
+      "en": "It’s a tad far away...",
+      "pt_br": "É um pouco longe..."
+    },
+    {
+      "id": 2,
+      "en": "It’s nice and warm!",
+      "pt_br": "É agradável e quente!"
+    },
+    {
+      "id": 3,
+      "en": "I wonder...",
+      "pt_br": "Pergunto-me..."
+    },
+    {
+      "id": 4,
+      "en": "Hey, <$etpname;0(lnum1)>!",
+      "pt_br": "Olá. <$etpname;0(lnum1)>!"
+    },
+    {
+      "id": 5,
+      "en": "I have a favor to ask.",
+      "pt_br": "Tenho um favor a pedir."
+    },
+    {
+      "id": 6,
+      "en": "I can’t wait! ♪",
+      "pt_br": "Mal posso esperar!"
+    },
+    {
+      "id": 7,
+      "en": "Where is it?",
+      "pt_br": "Onde está?"
+    },
+    {
+      "id": 8,
+      "en": "Aww, so far away...",
+      "pt_br": "Tão longe..."
+    },
+    {
+      "id": 9,
+      "en": "This is no good!",
+      "pt_br": "Isto não é bom!"
+    },
+    {
+      "id": 10,
+      "en": "I can’t wait!",
+      "pt_br": "Mal posso esperar!"
+    },
+    {
+      "id": 11,
+      "en": "Logs...",
+      "pt_br": "Registos..."
+    },
+    {
+      "id": 12,
+      "en": "I wish I had a nice place to sleep...",
+      "pt_br": "Quem me dera ter um bom lugar para dormir..."
+    },
+    {
+      "id": 13,
+      "en": "You got any?",
+      "pt_br": "tem algum?"
+    },
+    {
+      "id": 14,
+      "en": "Wish I had some...",
+      "pt_br": "Quem me dera ter..."
+    },
+    {
+      "id": 15,
+      "en": "This’ll help!",
+      "pt_br": "Isso vai ajudar!"
+    },
+    {
+      "id": 16,
+      "en": "Hohoho!",
+      "pt_br": "Hohoho!"
+    },
+    {
+      "id": 17,
+      "en": "Houses rule!",
+      "pt_br": "As casas dominam!"
+    },
+    {
+      "id": 18,
+      "en": "What’s up there?",
+      "pt_br": "O que há lá em cima?"
+    },
+    {
+      "id": 19,
+      "en": "Sooo hungry...",
+      "pt_br": "Estou com fome..."
+    },
+    {
+      "id": 20,
+      "en": "Won’t you help? ♪",
+      "pt_br": "Você não vai ajudar?"
+    },
+    {
+      "id": 21,
+      "en": "Nice rock pile.",
+      "pt_br": "Bela pilha de pedras."
+    },
+    {
+      "id": 22,
+      "en": "Yo, where am I?!",
+      "pt_br": "Onde estou?"
+    },
+    {
+      "id": 23,
+      "en": "I can teach ya somethin’ awesome!",
+      "pt_br": "Eu posso ensinar-lhe algo’ impressionante!"
+    },
+    {
+      "id": 24,
+      "en": "Awesome!",
+      "pt_br": "Fantástico!"
+    },
+    {
+      "id": 25,
+      "en": "Hey, didja know?",
+      "pt_br": "- Ei, sabia?"
+    },
+    {
+      "id": 26,
+      "en": "What if you tried...",
+      "pt_br": "E se tentasses..."
+    },
+    {
+      "id": 27,
+      "en": "It’s a tad far away.",
+      "pt_br": "É um pouco longe."
+    },
+    {
+      "id": 28,
+      "en": "Hey! Hey, <$cdef(27)><$etpname;0(lnum1)></color>!",
+      "pt_br": "Olá. <$cdef(27)><$etpname;0(lnum1)></color>!"
+    },
+    {
+      "id": 29,
+      "en": "Oh, what’s this now?",
+      "pt_br": "O que é isso agora?"
+    },
+    {
+      "id": 30,
+      "en": "Looks like you sprayed some water!",
+      "pt_br": "Parece que borrifaste água!"
+    },
+    {
+      "id": 31,
+      "en": "That’s a wrap!",
+      "pt_br": "Isso é um fim!"
+    },
+    {
+      "id": 32,
+      "en": "This building...",
+      "pt_br": "Este edifício..."
+    },
+    {
+      "id": 33,
+      "en": "Thanks a bunch!",
+      "pt_br": "Muito obrigado!"
+    },
+    {
+      "id": 34,
+      "en": "You find anything?",
+      "pt_br": "Encontraste alguma coisa?"
+    },
+    {
+      "id": 35,
+      "en": "Remember, three pieces of furniture!",
+      "pt_br": "Lembrem-se, três peças de mobília!"
+    },
+    {
+      "id": 36,
+      "en": "My home’s gone!",
+      "pt_br": "Minha casa se foi!"
+    },
+    {
+      "id": 37,
+      "en": "Lemme teach you!",
+      "pt_br": "Deixa-me ensinar-te!"
+    },
+    {
+      "id": 38,
+      "en": "Hey! Heyyy! Anybody out there?!",
+      "pt_br": "Está alguém aí fora?"
+    },
+    {
+      "id": 39,
+      "en": "What’s on the other side?",
+      "pt_br": "O que há do outro lado?"
+    },
+    {
+      "id": 40,
+      "en": "We need to rescue <$cdef(27)>Onix</color>!",
+      "pt_br": "Temos de salvar. <$cdef(27)>Onix</color>!"
+    },
+    {
+      "id": 41,
+      "en": "I smell something...",
+      "pt_br": "Cheira-me a alguma coisa..."
+    },
+    {
+      "id": 42,
+      "en": "This smell...",
+      "pt_br": "Este cheiro..."
+    },
+    {
+      "id": 43,
+      "en": "Oh, I know!",
+      "pt_br": "Eu sei!"
+    },
+    {
+      "id": 44,
+      "en": "I got an idea!",
+      "pt_br": "Tenho uma ideia!"
+    },
+    {
+      "id": 45,
+      "en": "Let’s get this place HUMID!",
+      "pt_br": "Vamos pegar este lugar HUMID!"
+    },
+    {
+      "id": 46,
+      "en": "Do you have a sec?",
+      "pt_br": "tem um segundo?"
+    },
+    {
+      "id": 47,
+      "en": "I’ll give it a shot!",
+      "pt_br": "Vou tentar!"
+    },
+    {
+      "id": 48,
+      "en": "Just a little bit more...",
+      "pt_br": "Só mais um pouco..."
+    },
+    {
+      "id": 49,
+      "en": "Did you rescue <$cdef(27)>Onix</color>?",
+      "pt_br": "Salvaste-o? <$cdef(27)>Onix</color>?"
+    },
+    {
+      "id": 50,
+      "en": "What in the heck should I do?!",
+      "pt_br": "Que diabos devo eu fazer?!"
+    },
+    {
+      "id": 51,
+      "en": "Wish I had a place to live...",
+      "pt_br": "Quem me dera ter um lugar para viver..."
+    },
+    {
+      "id": 52,
+      "en": "What kinda seeds are these?",
+      "pt_br": "Que tipo de sementes são estas?"
+    },
+    {
+      "id": 53,
+      "en": "Yay!",
+      "pt_br": "Boa!"
+    },
+    {
+      "id": 54,
+      "en": "Dang, sliced ’em again...",
+      "pt_br": "Bolas, cortou-os outra vez..."
+    },
+    {
+      "id": 55,
+      "en": "Spray a tad more water around.",
+      "pt_br": "Pulverize um pouco mais de água ao redor."
+    },
+    {
+      "id": 56,
+      "en": "Oooh, hey there...",
+      "pt_br": "Oooh, olá..."
+    },
+    {
+      "id": 57,
+      "en": "I made it.",
+      "pt_br": "Consegui."
+    },
+    {
+      "id": 58,
+      "en": "If only I had a place like this...",
+      "pt_br": "Se eu tivesse um lugar como este..."
+    },
+    {
+      "id": 59,
+      "en": "I’m sorta drowsy...",
+      "pt_br": "Estou meio sonolento..."
+    },
+    {
+      "id": 60,
+      "en": "I did it! ...I think.",
+      "pt_br": "Eu consegui!"
+    },
+    {
+      "id": 61,
+      "en": "I can feel the power of water!",
+      "pt_br": "Consigo sentir o poder da água!"
+    },
+    {
+      "id": 62,
+      "en": "I’d like a place that’s a bit drier...",
+      "pt_br": "Eu gostaria de um lugar um pouco mais seco..."
+    },
+    {
+      "id": 63,
+      "en": "This home’s awesome!",
+      "pt_br": "Esta casa é incrível!"
+    },
+    {
+      "id": 64,
+      "en": "Spring water’s, y’know...real nice, isn’t it?",
+      "pt_br": "Água da primavera, você sabe... muito bom, não é?"
+    },
+    {
+      "id": 65,
+      "en": "A fountain! ...Nice.",
+      "pt_br": "- Uma fonte!"
+    },
+    {
+      "id": 66,
+      "en": "Glub blub blub.",
+      "pt_br": "Blub blub."
+    },
+    {
+      "id": 67,
+      "en": "Look at all that mud!",
+      "pt_br": "Olha para toda aquela lama!"
+    },
+    {
+      "id": 68,
+      "en": "So clean!",
+      "pt_br": "Tão limpo!"
+    },
+    {
+      "id": 69,
+      "en": "Needs more color...",
+      "pt_br": "Precisa de mais cor..."
+    },
+    {
+      "id": 70,
+      "en": "C’mon, gimme water...",
+      "pt_br": "Vamos, dê-me água..."
+    },
+    {
+      "id": 71,
+      "en": "I’m happy to see more Pokémon! ♪",
+      "pt_br": "Estou feliz de ver mais Pokémon!"
+    },
+    {
+      "id": 72,
+      "en": "What to do...",
+      "pt_br": "O que fazer..."
+    },
+    {
+      "id": 73,
+      "en": "Let’s go together!",
+      "pt_br": "Vamos juntos!"
+    },
+    {
+      "id": 74,
+      "en": "Let’s make a waterfall!",
+      "pt_br": "Vamos fazer uma cachoeira!"
+    },
+    {
+      "id": 75,
+      "en": "So hungry...",
+      "pt_br": "Tanta fome..."
+    },
+    {
+      "id": 76,
+      "en": "A Pokémon Center!",
+      "pt_br": "Um Centro Pokémon!"
+    },
+    {
+      "id": 77,
+      "en": "Hey, got a sec?",
+      "pt_br": "tem um segundo?"
+    },
+    {
+      "id": 78,
+      "en": "We need to block the flow of water.",
+      "pt_br": "Temos de bloquear o fluxo de água."
+    },
+    {
+      "id": 79,
+      "en": "Will it work now?",
+      "pt_br": "Vai funcionar agora?"
+    },
+    {
+      "id": 80,
+      "en": "Can you help us, Professor?",
+      "pt_br": "Pode ajudar-nos, Professor?"
+    },
+    {
+      "id": 81,
+      "en": "*sniff sniff* Any garbage around here?",
+      "pt_br": "Há algum lixo por aqui?"
+    },
+    {
+      "id": 82,
+      "en": "It’s so dark...",
+      "pt_br": "Está tão escuro..."
+    },
+    {
+      "id": 83,
+      "en": "I’ve never seen such grass before...",
+      "pt_br": "Eu nunca vi tal grama antes..."
+    },
+    {
+      "id": 84,
+      "en": "I sure do love cleaning! ♪",
+      "pt_br": "Eu adoro limpar!"
+    },
+    {
+      "id": 85,
+      "en": "I made it across!",
+      "pt_br": "Consegui atravessar!"
+    },
+    {
+      "id": 86,
+      "en": "Sorry for the wait, yo!",
+      "pt_br": "Desculpa a demora, meu!"
+    },
+    {
+      "id": 87,
+      "en": "It’s so fluffy!",
+      "pt_br": "É tão fofo!"
+    },
+    {
+      "id": 88,
+      "en": "Is the <$cdef(27)><fqty(1)><$ifull(1410)></color> ready?!",
+      "pt_br": "É o <$cdef(27)><fqty(1)><$ifull(1410)></color> Pronto?"
+    },
+    {
+      "id": 89,
+      "en": "All done!",
+      "pt_br": "Pronto!"
+    },
+    {
+      "id": 90,
+      "en": "Let’s swim together!",
+      "pt_br": "Vamos nadar juntos!"
+    },
+    {
+      "id": 91,
+      "en": "This feels great!",
+      "pt_br": "Isto sabe muito bem!"
+    },
+    {
+      "id": 92,
+      "en": "What’s this?",
+      "pt_br": "O que é isso?"
+    },
+    {
+      "id": 93,
+      "en": "Maybe I can help!",
+      "pt_br": "Talvez eu possa ajudar!"
+    },
+    {
+      "id": 94,
+      "en": "Yooo, that’s weird...",
+      "pt_br": "Yooo, isso é estranho..."
+    },
+    {
+      "id": 95,
+      "en": "Now we can swim together!",
+      "pt_br": "Agora podemos nadar juntos!"
+    },
+    {
+      "id": 96,
+      "en": "It’s gone...",
+      "pt_br": "Já se foi..."
+    },
+    {
+      "id": 97,
+      "en": "Did you find any <$cdef(27)><fqty(1)><$ifull(107)></color>?",
+      "pt_br": "Encontraste alguma coisa? <$cdef(27)><fqty(1)><$ifull(107)></color>?"
+    },
+    {
+      "id": 98,
+      "en": "Here’s my spot...",
+      "pt_br": "Aqui está o meu lugar..."
+    },
+    {
+      "id": 99,
+      "en": "I wanna build this, yo!",
+      "pt_br": "Eu quero construir isto, meu!"
+    },
+    {
+      "id": 100,
+      "en": "Looks like we’re good to start!",
+      "pt_br": "Parece que estamos bem para começar!"
+    },
+    {
+      "id": 101,
+      "en": "What a splendid house!",
+      "pt_br": "Que casa esplêndida!"
+    },
+    {
+      "id": 102,
+      "en": "Everyone seems happy!",
+      "pt_br": "Parecem todos felizes!"
+    },
+    {
+      "id": 103,
+      "en": "You’ve helped so much.",
+      "pt_br": "Você ajudou muito."
+    },
+    {
+      "id": 104,
+      "en": "Just like the real deal!",
+      "pt_br": "Tal como o verdadeiro!"
+    },
+    {
+      "id": 105,
+      "en": "So pretty...",
+      "pt_br": "Tão bonita..."
+    },
+    {
+      "id": 106,
+      "en": "Transform so we can go swimming!",
+      "pt_br": "Transforme-se para que possamos nadar!"
+    },
+    {
+      "id": 107,
+      "en": "Some houses would be good.",
+      "pt_br": "Algumas casas seriam boas."
+    },
+    {
+      "id": 108,
+      "en": "What’re those noises, yo?",
+      "pt_br": "Que barulhos são esses?"
+    },
+    {
+      "id": 109,
+      "en": "What could those noises be?",
+      "pt_br": "O que podem ser esses barulhos?"
+    },
+    {
+      "id": 110,
+      "en": "I’ve got it!",
+      "pt_br": "Eu tenho!"
+    },
+    {
+      "id": 111,
+      "en": "What IS that?",
+      "pt_br": "O que é isso?"
+    },
+    {
+      "id": 112,
+      "en": "Right next to a machine...",
+      "pt_br": "Mesmo ao lado de uma máquina..."
+    },
+    {
+      "id": 113,
+      "en": "Fire’s bright too!",
+      "pt_br": "O fogo também é brilhante!"
+    },
+    {
+      "id": 114,
+      "en": "This is it!",
+      "pt_br": "É aqui!"
+    },
+    {
+      "id": 115,
+      "en": "What should we do?",
+      "pt_br": "O que devemos fazer?"
+    },
+    {
+      "id": 116,
+      "en": "I’m scared...",
+      "pt_br": "Estou com medo..."
+    },
+    {
+      "id": 117,
+      "en": "I’ll help make electricity!",
+      "pt_br": "Eu vou ajudar a fazer eletricidade!"
+    },
+    {
+      "id": 118,
+      "en": "I wish I could help...",
+      "pt_br": "Quem me dera poder ajudar..."
+    },
+    {
+      "id": 119,
+      "en": "It’s much brighter now!",
+      "pt_br": "Está muito mais brilhante agora!"
+    },
+    {
+      "id": 120,
+      "en": "What was that sound?",
+      "pt_br": "Que barulho foi esse?"
+    },
+    {
+      "id": 121,
+      "en": "What an awful mess...",
+      "pt_br": "Que confusão horrível..."
+    },
+    {
+      "id": 122,
+      "en": "Yippee!",
+      "pt_br": "Yippee!"
+    },
+    {
+      "id": 123,
+      "en": "My heart is beating so fast...",
+      "pt_br": "O meu coração está a bater tão rápido..."
+    },
+    {
+      "id": 124,
+      "en": "Wh—where am I...?",
+      "pt_br": "Onde é que eu...?"
+    },
+    {
+      "id": 125,
+      "en": "Zzz...",
+      "pt_br": "Zzz..."
+    },
+    {
+      "id": 126,
+      "en": "That Pokémon—!",
+      "pt_br": "Aquele Pokémon...!"
+    },
+    {
+      "id": 127,
+      "en": "I’m all tingly...",
+      "pt_br": "Estou todo formigado..."
+    },
+    {
+      "id": 128,
+      "en": "Are they OK?",
+      "pt_br": "Eles estão bem?"
+    },
+    {
+      "id": 129,
+      "en": "Oh no!",
+      "pt_br": "Oh, não!"
+    },
+    {
+      "id": 130,
+      "en": "Oho!",
+      "pt_br": "Oho!"
+    },
+    {
+      "id": 131,
+      "en": "Charging complete!",
+      "pt_br": "Carregamento completo!"
+    },
+    {
+      "id": 132,
+      "en": "Things have gotten brighter!",
+      "pt_br": "As coisas ficaram mais brilhantes!"
+    },
+    {
+      "id": 133,
+      "en": "This is it!",
+      "pt_br": "É aqui!"
+    },
+    {
+      "id": 134,
+      "en": "Here it is!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 135,
+      "en": "I wanna fix it...",
+      "pt_br": "Quero arranjá-lo..."
+    },
+    {
+      "id": 136,
+      "en": "Zzznnn?",
+      "pt_br": "Zzznnn?"
+    },
+    {
+      "id": 137,
+      "en": "Now this is a surprise!",
+      "pt_br": "Isto é que é uma surpresa!"
+    },
+    {
+      "id": 138,
+      "en": "Oh?",
+      "pt_br": "Oh, sim?"
+    },
+    {
+      "id": 139,
+      "en": "Zzzngh?",
+      "pt_br": "Zzzngh?"
+    },
+    {
+      "id": 140,
+      "en": "What to do...",
+      "pt_br": "O que fazer..."
+    },
+    {
+      "id": 141,
+      "en": "This time for sure...",
+      "pt_br": "Desta vez, com certeza..."
+    },
+    {
+      "id": 142,
+      "en": "I knew you could do it!",
+      "pt_br": "Eu sabia que conseguias!"
+    },
+    {
+      "id": 143,
+      "en": "There’s somethin’ over there...",
+      "pt_br": "Tem alguma coisa ali..."
+    },
+    {
+      "id": 144,
+      "en": "Let’s all warm up together!",
+      "pt_br": "Vamos todos aquecer juntos!"
+    },
+    {
+      "id": 145,
+      "en": "Ugh, so bright...",
+      "pt_br": "Tão brilhante..."
+    },
+    {
+      "id": 146,
+      "en": "Machines are so great!",
+      "pt_br": "As máquinas são óptimas!"
+    },
+    {
+      "id": 147,
+      "en": "Oh, there it is!",
+      "pt_br": "Oh, aí está!"
+    },
+    {
+      "id": 148,
+      "en": "This is it!",
+      "pt_br": "É aqui!"
+    },
+    {
+      "id": 149,
+      "en": "Here it is!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 150,
+      "en": "Aw yeah, nice and dark!",
+      "pt_br": "Ah, sim, bem escuro!"
+    },
+    {
+      "id": 151,
+      "en": "I can’t really see...",
+      "pt_br": "Realmente não consigo ver..."
+    },
+    {
+      "id": 152,
+      "en": "Yo, you hungry?",
+      "pt_br": "está com fome?"
+    },
+    {
+      "id": 153,
+      "en": "It’s still kinda bright...",
+      "pt_br": "Ainda é meio brilhante..."
+    },
+    {
+      "id": 154,
+      "en": "Aw yeah, this is nice!",
+      "pt_br": "Ah, sim, isto é bom!"
+    },
+    {
+      "id": 155,
+      "en": "Are they all right?!",
+      "pt_br": "Eles estão bem?!"
+    },
+    {
+      "id": 156,
+      "en": "This way!",
+      "pt_br": "Por aqui!"
+    },
+    {
+      "id": 157,
+      "en": "Hrmmm...",
+      "pt_br": "Hrmmm..."
+    },
+    {
+      "id": 158,
+      "en": "About that <$cdef(27)>PC</color>...",
+      "pt_br": "Sobre isso. <$cdef(27)>PC</color>..."
+    },
+    {
+      "id": 159,
+      "en": "To move something so heavy...",
+      "pt_br": "Para mover algo tão pesado..."
+    },
+    {
+      "id": 160,
+      "en": "About <$cdef(27)>Machoke</color>...",
+      "pt_br": "Sobre <$cdef(27)>Machoke</color>..."
+    },
+    {
+      "id": 161,
+      "en": "Over here!",
+      "pt_br": "Aqui!"
+    },
+    {
+      "id": 162,
+      "en": "Yeesh, what a mess...",
+      "pt_br": "Que confusão..."
+    },
+    {
+      "id": 163,
+      "en": "That’s it, keep it up!",
+      "pt_br": "É isso aí, continue assim!"
+    },
+    {
+      "id": 164,
+      "en": "Nice work!",
+      "pt_br": "Bom trabalho!"
+    },
+    {
+      "id": 165,
+      "en": "Holy hamstrings!",
+      "pt_br": "Santos isquiotibiais!"
+    },
+    {
+      "id": 166,
+      "en": "Dang, check you out!",
+      "pt_br": "Caramba, olha só para ti!"
+    },
+    {
+      "id": 167,
+      "en": "Did you discover anything?",
+      "pt_br": "Descobriste alguma coisa?"
+    },
+    {
+      "id": 168,
+      "en": "Whose voice was that?!",
+      "pt_br": "De quem era essa voz?!"
+    },
+    {
+      "id": 169,
+      "en": "The pursuit of beauty...",
+      "pt_br": "A busca da beleza..."
+    },
+    {
+      "id": 170,
+      "en": "It was amazing!",
+      "pt_br": "Foi incrível!"
+    },
+    {
+      "id": 171,
+      "en": "So hard to get arooouuund here...",
+      "pt_br": "É tão difícil conseguir o Arooouuund aqui..."
+    },
+    {
+      "id": 172,
+      "en": "I maaade it.",
+      "pt_br": "Eu arrebento."
+    },
+    {
+      "id": 173,
+      "en": "I know this smell...",
+      "pt_br": "Conheço este cheiro..."
+    },
+    {
+      "id": 174,
+      "en": "You stayin’ buff?",
+      "pt_br": "está a ficar aflito?"
+    },
+    {
+      "id": 175,
+      "en": "Hrmmm, to grow <$cdef(27)><fqty(1)><$ifull(20)></color>...",
+      "pt_br": "Hrmmm, para crescer <$cdef(27)><fqty(1)><$ifull(20)></color>..."
+    },
+    {
+      "id": 176,
+      "en": "Appearances are important for cooking!",
+      "pt_br": "As aparências são importantes para cozinhar!"
+    },
+    {
+      "id": 177,
+      "en": "Let me teach you!",
+      "pt_br": "Deixa-me ensinar-te!"
+    },
+    {
+      "id": 178,
+      "en": "What will you make now?",
+      "pt_br": "O que vais fazer agora?"
+    },
+    {
+      "id": 179,
+      "en": "That thing’s really tough...",
+      "pt_br": "Essa coisa é realmente difícil..."
+    },
+    {
+      "id": 180,
+      "en": "Over here!",
+      "pt_br": "Aqui!"
+    },
+    {
+      "id": 181,
+      "en": "Is everyone comfortable?",
+      "pt_br": "Estão todos confortáveis?"
+    },
+    {
+      "id": 182,
+      "en": "A splendid <$cdef(27)><fqty(1)><$ifull(1304)></color>!",
+      "pt_br": "Um esplêndido. <$cdef(27)><fqty(1)><$ifull(1304)></color>!"
+    },
+    {
+      "id": 183,
+      "en": "What’s that sound...?",
+      "pt_br": "Que som é esse...?"
+    },
+    {
+      "id": 184,
+      "en": "Hey, everybodyyy!",
+      "pt_br": "Ei, pessoal!"
+    },
+    {
+      "id": 185,
+      "en": "I can’t wait!",
+      "pt_br": "Mal posso esperar!"
+    },
+    {
+      "id": 186,
+      "en": "This should liven things up!",
+      "pt_br": "Isto deve animar as coisas!"
+    },
+    {
+      "id": 187,
+      "en": "My time to shine! ♪",
+      "pt_br": "O meu tempo para brilhar!"
+    },
+    {
+      "id": 188,
+      "en": "Sweet! So, next...",
+      "pt_br": "Então, a seguir..."
+    },
+    {
+      "id": 189,
+      "en": "This could be a problem!",
+      "pt_br": "Isto pode ser um problema!"
+    },
+    {
+      "id": 190,
+      "en": "Now this party’s really gettin’ started!",
+      "pt_br": "Agora esta festa está realmente começando!"
+    },
+    {
+      "id": 191,
+      "en": "Vibin’! ♪",
+      "pt_br": "Vibin’!"
+    },
+    {
+      "id": 192,
+      "en": "Why, that’s IT!",
+      "pt_br": "Ora, isso é TI!"
+    },
+    {
+      "id": 193,
+      "en": "What a party!",
+      "pt_br": "Que festa!"
+    },
+    {
+      "id": 194,
+      "en": "It’s kinda noisy.",
+      "pt_br": "É meio barulhento."
+    },
+    {
+      "id": 195,
+      "en": "How did it go?",
+      "pt_br": "Como correu?"
+    },
+    {
+      "id": 196,
+      "en": "To the other gate...",
+      "pt_br": "Para o outro portão..."
+    },
+    {
+      "id": 197,
+      "en": "To the other gate...",
+      "pt_br": "Para o outro portão..."
+    },
+    {
+      "id": 198,
+      "en": "I think we need more houses!",
+      "pt_br": "Acho que precisamos de mais casas!"
+    },
+    {
+      "id": 199,
+      "en": "A special <$cdef(27)>salad</color>...",
+      "pt_br": "Um especial <$cdef(27)>salada</color>..."
+    },
+    {
+      "id": 200,
+      "en": "I wish I had this kinda <$cdef(27)>bread</color>!",
+      "pt_br": "Quem me dera ter isto. <$cdef(27)>pão</color>!"
+    },
+    {
+      "id": 201,
+      "en": "I gotta find ’em...",
+      "pt_br": "Tenho de encontrá-los..."
+    },
+    {
+      "id": 202,
+      "en": "Uhhh, I’ve got a bad feeling...",
+      "pt_br": "Uhhh, eu tenho um mau pressentimento..."
+    },
+    {
+      "id": 203,
+      "en": "They haven’t caught on... Right?",
+      "pt_br": "Eles ainda não pegaram... né?"
+    },
+    {
+      "id": 204,
+      "en": "Treasure! Gotta catch it all. ♪",
+      "pt_br": "Tesouro, tenho de apanhar tudo."
+    },
+    {
+      "id": 205,
+      "en": "I want a home, yo.",
+      "pt_br": "Quero uma casa, meu."
+    },
+    {
+      "id": 206,
+      "en": "I gotta go fast!",
+      "pt_br": "Tenho de ir depressa!"
+    },
+    {
+      "id": 207,
+      "en": "Now, let’s see here...",
+      "pt_br": "Vejamos aqui..."
+    },
+    {
+      "id": 208,
+      "en": "We’re getting close!",
+      "pt_br": "Estamos chegando perto!"
+    },
+    {
+      "id": 209,
+      "en": "I’m so hungry...",
+      "pt_br": "Estou com tanta fome..."
+    },
+    {
+      "id": 210,
+      "en": "I have a wonderful idea!",
+      "pt_br": "Tenho uma ideia maravilhosa!"
+    },
+    {
+      "id": 211,
+      "en": "What could this be?",
+      "pt_br": "O que poderia ser isto?"
+    },
+    {
+      "id": 212,
+      "en": "C-could it be?!",
+      "pt_br": "Poderia ser?!"
+    },
+    {
+      "id": 213,
+      "en": "This ought to work!",
+      "pt_br": "Isto deve funcionar!"
+    },
+    {
+      "id": 214,
+      "en": "Lemme tell you!",
+      "pt_br": "Deixa-me dizer-te!"
+    },
+    {
+      "id": 215,
+      "en": "I just remembered!",
+      "pt_br": "Acabei de me lembrar!"
+    },
+    {
+      "id": 216,
+      "en": "I’m tinkerin’ a ton today!",
+      "pt_br": "Eu sou minerin’ uma tonelada hoje!"
+    },
+    {
+      "id": 217,
+      "en": "Thirty years o’ makin’ concrete... ♪",
+      "pt_br": "Trinta anos de concreto..."
+    },
+    {
+      "id": 218,
+      "en": "Makin’ good progress!",
+      "pt_br": "Fazer bom progresso!"
+    },
+    {
+      "id": 219,
+      "en": "Right here’s the spot!",
+      "pt_br": "Bem aqui está o lugar!"
+    },
+    {
+      "id": 220,
+      "en": "Let’s scope out the <$cdef(27)>second floor</color>!",
+      "pt_br": "Vamos explorar o <$cdef(27)>segundo andar</color>!"
+    },
+    {
+      "id": 221,
+      "en": "Right around here would be good!",
+      "pt_br": "Por aqui seria bom!"
+    },
+    {
+      "id": 222,
+      "en": "What a building!",
+      "pt_br": "Que edifício!"
+    },
+    {
+      "id": 223,
+      "en": "Let’s scope out the <$cdef(27)>second floor</color>!",
+      "pt_br": "Vamos explorar o <$cdef(27)>segundo andar</color>!"
+    },
+    {
+      "id": 224,
+      "en": "Now then, what about the <$cdef(27)>third floor</color>?",
+      "pt_br": "Agora, então, e sobre o <$cdef(27)>terceiro andar</color>?"
+    },
+    {
+      "id": 225,
+      "en": "Last up—the <$cdef(27)>fourth floor</color>!",
+      "pt_br": "Último up—o <$cdef(27)>quarto andar</color>!"
+    },
+    {
+      "id": 226,
+      "en": "Time for the finishing touches!",
+      "pt_br": "Hora dos toques finais!"
+    },
+    {
+      "id": 227,
+      "en": "Time to train!",
+      "pt_br": "Hora de treinar!"
+    },
+    {
+      "id": 228,
+      "en": "Come here!",
+      "pt_br": "Anda cá!"
+    },
+    {
+      "id": 229,
+      "en": "I’m not fully awake yet...",
+      "pt_br": "Ainda não estou totalmente acordado..."
+    },
+    {
+      "id": 230,
+      "en": "Very well done.",
+      "pt_br": "Muito bem feito."
+    },
+    {
+      "id": 231,
+      "en": "Part two!",
+      "pt_br": "Parte dois!"
+    },
+    {
+      "id": 232,
+      "en": "Whoa, it’s done!",
+      "pt_br": "Whoa, está feito!"
+    },
+    {
+      "id": 233,
+      "en": "Pretty rad, right?",
+      "pt_br": "Muito fixe, não é?"
+    },
+    {
+      "id": 234,
+      "en": "I sure am hungry...",
+      "pt_br": "Estou com fome..."
+    },
+    {
+      "id": 235,
+      "en": "They will arrive soon...",
+      "pt_br": "Eles vão chegar em breve..."
+    },
+    {
+      "id": 236,
+      "en": "I know it’s up there!",
+      "pt_br": "Eu sei que está lá em cima!"
+    },
+    {
+      "id": 237,
+      "en": "Here it is!",
+      "pt_br": "Aqui está!"
+    },
+    {
+      "id": 238,
+      "en": "So sleepy...",
+      "pt_br": "Tão sonolento..."
+    },
+    {
+      "id": 239,
+      "en": "This is it!",
+      "pt_br": "É aqui!"
+    },
+    {
+      "id": 240,
+      "en": "Whoa! Somebody’s here!",
+      "pt_br": "Está aqui alguém!"
+    },
+    {
+      "id": 241,
+      "en": "<$cdef(27)><fcap><$spwfull(17)></color> all the things.",
+      "pt_br": "<$cdef(27)><fcap><$spwfull(17)></color> todas as coisas."
+    },
+    {
+      "id": 242,
+      "en": "Veggies are the BEST!",
+      "pt_br": "Os legumes são os melhores!"
+    },
+    {
+      "id": 243,
+      "en": "*yaaawn* Uh-oh, not agaaaiiin...",
+      "pt_br": "Não agaaaiin..."
+    },
+    {
+      "id": 244,
+      "en": "C-could it be?!",
+      "pt_br": "Poderia ser?!"
+    },
+    {
+      "id": 245,
+      "en": "What could this be?",
+      "pt_br": "O que poderia ser isto?"
+    },
+    {
+      "id": 246,
+      "en": "What happened on the roof?",
+      "pt_br": "O que aconteceu no telhado?"
+    },
+    {
+      "id": 247,
+      "en": "About that entrance...",
+      "pt_br": "Sobre aquela entrada..."
+    },
+    {
+      "id": 248,
+      "en": "How lovely that would be...",
+      "pt_br": "Que adorável que seria..."
+    },
+    {
+      "id": 249,
+      "en": "It’s so peaceful here...",
+      "pt_br": "É tão tranquilo aqui..."
+    },
+    {
+      "id": 250,
+      "en": "Reminds me of restaurants from the good old days...",
+      "pt_br": "Faz-me lembrar restaurantes dos bons velhos tempos..."
+    },
+    {
+      "id": 251,
+      "en": "I just had a great idea!",
+      "pt_br": "Tive uma óptima ideia!"
+    },
+    {
+      "id": 252,
+      "en": "I cannot remember.",
+      "pt_br": "Não me lembro."
+    },
+    {
+      "id": 253,
+      "en": "At last!",
+      "pt_br": "Finalmente!"
+    },
+    {
+      "id": 254,
+      "en": "Over heeere...",
+      "pt_br": "Por cima de..."
+    },
+    {
+      "id": 255,
+      "en": "Over this wayyy...",
+      "pt_br": "Por aqui..."
+    },
+    {
+      "id": 256,
+      "en": "LET’S DO THIS!",
+      "pt_br": "Vamos fazer isso!"
+    },
+    {
+      "id": 257,
+      "en": "Yooouuu’ve got the haaang of it...",
+      "pt_br": "Yoouuu tem o haaang dele..."
+    },
+    {
+      "id": 258,
+      "en": "Let’s make the town all nice!",
+      "pt_br": "Vamos fazer a cidade toda agradável!"
+    },
+    {
+      "id": 259,
+      "en": "Seems you’ve learned a thing or two...",
+      "pt_br": "Parece que você aprendeu uma coisa ou duas..."
+    },
+    {
+      "id": 260,
+      "en": "Flooloon...",
+      "pt_br": "Flooloon..."
+    },
+    {
+      "id": 261,
+      "en": "Hmmm... Where should I live?",
+      "pt_br": "Onde é que eu devo viver?"
+    },
+    {
+      "id": 262,
+      "en": "Uhhh... No humans, huh?",
+      "pt_br": "Não há humanos, pois não?"
+    },
+    {
+      "id": 263,
+      "en": "GAH! Busted!",
+      "pt_br": "Apanhado!"
+    },
+    {
+      "id": 264,
+      "en": "How ya doin’?",
+      "pt_br": "Como vai?"
+    },
+    {
+      "id": 265,
+      "en": "Oh dear, whatever shall I do?",
+      "pt_br": "Meu Deus, o que devo fazer?"
+    },
+    {
+      "id": 266,
+      "en": "Next, could you...",
+      "pt_br": "A seguir, pode..."
+    },
+    {
+      "id": 267,
+      "en": "Lastly...",
+      "pt_br": "Finalmente..."
+    },
+    {
+      "id": 268,
+      "en": "It’s harder than I thought...",
+      "pt_br": "É mais difícil do que eu pensava..."
+    },
+    {
+      "id": 269,
+      "en": "Oho! What’s this?",
+      "pt_br": "O que é isso?"
+    },
+    {
+      "id": 270,
+      "en": "What am I gonna do...",
+      "pt_br": "O que vou fazer..."
+    },
+    {
+      "id": 271,
+      "en": "I’ve got it!",
+      "pt_br": "Eu tenho!"
+    },
+    {
+      "id": 272,
+      "en": "Sure wish I had a buncha different <$cdef(27)>CDs</color>...",
+      "pt_br": "Quem me dera ter um monte de coisas diferentes <$cdef(27)>CDs</color>..."
+    },
+    {
+      "id": 273,
+      "en": "I’m excited, yo!",
+      "pt_br": "Estou empolgado, yo!"
+    },
+    {
+      "id": 274,
+      "en": "So...hungry...",
+      "pt_br": "Então... com fome..."
+    },
+    {
+      "id": 275,
+      "en": "I sure would like me some...",
+      "pt_br": "Gostaria mesmo de..."
+    },
+    {
+      "id": 276,
+      "en": "Art is hunger...",
+      "pt_br": "A arte é fome..."
+    },
+    {
+      "id": 277,
+      "en": "To behold such a sight...",
+      "pt_br": "Para contemplar tal visão..."
+    },
+    {
+      "id": 278,
+      "en": "I YEARN to <$cdef(27)><$spwfull(21)></color>!",
+      "pt_br": "I ANOS a <$cdef(27)><$spwfull(21)></color>!"
+    },
+    {
+      "id": 279,
+      "en": "That glimmer in your eye...",
+      "pt_br": "Aquele brilho no teu olho..."
+    },
+    {
+      "id": 280,
+      "en": "I’m finished... Kaput!",
+      "pt_br": "Estou acabado... Kaput!"
+    },
+    {
+      "id": 281,
+      "en": "I must try it out!",
+      "pt_br": "Tenho de experimentar!"
+    },
+    {
+      "id": 282,
+      "en": "Oh. This place.",
+      "pt_br": "Este lugar."
+    },
+    {
+      "id": 283,
+      "en": "Where did it go?",
+      "pt_br": "Para onde foi?"
+    },
+    {
+      "id": 284,
+      "en": "Well, this is a fine kettle of fish...",
+      "pt_br": "Bem, isto é uma bela chaleira de peixe..."
+    },
+    {
+      "id": 285,
+      "en": "This is so frustrating!",
+      "pt_br": "Isto é tão frustrante!"
+    },
+    {
+      "id": 286,
+      "en": "Soup time! ♪ Soup time! ♪",
+      "pt_br": "Hora da sopa!"
+    },
+    {
+      "id": 287,
+      "en": "Yes... YEEESSS!",
+      "pt_br": "Sim... sim!"
+    },
+    {
+      "id": 288,
+      "en": "I wonder where they are...",
+      "pt_br": "Onde será que eles estão..."
+    },
+    {
+      "id": 289,
+      "en": "Hmmm...",
+      "pt_br": "Hmmm..."
+    },
+    {
+      "id": 290,
+      "en": "Hrrrmmm...",
+      "pt_br": "Hrrrmm..."
+    },
+    {
+      "id": 291,
+      "en": "What a pickle...",
+      "pt_br": "Que picles..."
+    },
+    {
+      "id": 292,
+      "en": "Yes, a fine next step.",
+      "pt_br": "Sim, um bom próximo passo."
+    },
+    {
+      "id": 293,
+      "en": "A fine town, if I dare say so myself!",
+      "pt_br": "Uma bela cidade, se me atrevo a dizê-lo!"
+    },
+    {
+      "id": 294,
+      "en": "Phew...",
+      "pt_br": "Ufa..."
+    },
+    {
+      "id": 295,
+      "en": "I hope everything is all right...",
+      "pt_br": "Espero que esteja tudo bem..."
+    },
+    {
+      "id": 296,
+      "en": "Wait... Could it be?!",
+      "pt_br": "Espere... poderia ser?!"
+    },
+    {
+      "id": 297,
+      "en": "I’m awfully sleepy...",
+      "pt_br": "Estou com muito sono..."
+    },
+    {
+      "id": 298,
+      "en": "How exciting!",
+      "pt_br": "Que emocionante!"
+    },
+    {
+      "id": 299,
+      "en": "Slow and steady!",
+      "pt_br": "Devagar e com calma!"
+    },
+    {
+      "id": 300,
+      "en": "Hm hmm hmmm! ♪",
+      "pt_br": "Hmhmmhmmm!"
+    },
+    {
+      "id": 301,
+      "en": "My brush arm HOWLS with anticipation!",
+      "pt_br": "Meu braço escova HOWLS com antecipação!"
+    },
+    {
+      "id": 302,
+      "en": "Doesn’t it look scrumptious?",
+      "pt_br": "Não parece delicioso?"
+    },
+    {
+      "id": 303,
+      "en": "Yaaaaaay!",
+      "pt_br": "Yaaaaaay!"
+    },
+    {
+      "id": 304,
+      "en": "Thank you so much!",
+      "pt_br": "Muito obrigado!"
+    },
+    {
+      "id": 305,
+      "en": "They’re not here...",
+      "pt_br": "Eles não estão aqui..."
+    },
+    {
+      "id": 306,
+      "en": "I’d love some cotton spores...",
+      "pt_br": "Eu adoraria alguns esporos de algodão..."
+    },
+    {
+      "id": 307,
+      "en": "Are there any around here?",
+      "pt_br": "Há algum por aqui?"
+    },
+    {
+      "id": 308,
+      "en": "Maybe there are none here.",
+      "pt_br": "Talvez não haja nenhum aqui."
+    },
+    {
+      "id": 309,
+      "en": "Shiny...",
+      "pt_br": "Brilhante..."
+    },
+    {
+      "id": 310,
+      "en": "I want them to shine again...",
+      "pt_br": "Quero que brilhem outra vez..."
+    },
+    {
+      "id": 311,
+      "en": "Where’d it go?!",
+      "pt_br": "Para onde foi?!"
+    },
+    {
+      "id": 312,
+      "en": "Those scales, yo...",
+      "pt_br": "Aquelas escamas..."
+    },
+    {
+      "id": 313,
+      "en": "I want to try...",
+      "pt_br": "Quero tentar..."
+    },
+    {
+      "id": 314,
+      "en": "I want to do it again...",
+      "pt_br": "Eu quero fazer de novo..."
+    },
+    {
+      "id": 315,
+      "en": "Where are those apples?",
+      "pt_br": "Onde estão as maçãs?"
+    },
+    {
+      "id": 316,
+      "en": "I’d love to eat them again...",
+      "pt_br": "Eu adoraria comê-los de novo..."
+    },
+    {
+      "id": 317,
+      "en": "I wanna have a contest!",
+      "pt_br": "Quero um concurso!"
+    },
+    {
+      "id": 318,
+      "en": "That <$cdef(27)><gevcmainpk;0></color>...",
+      "pt_br": "Isso. <$cdef(27)><gevcmainpk;0></color>..."
+    },
+    {
+      "id": 319,
+      "en": "I wanna have a contest!",
+      "pt_br": "Quero um concurso!"
+    },
+    {
+      "id": 320,
+      "en": "I need something fresh and exciting...",
+      "pt_br": "Preciso de algo fresco e excitante..."
+    },
+    {
+      "id": 321,
+      "en": "Anything exciting goin’ on?",
+      "pt_br": "Algo emocionante acontecendo?"
+    },
+    {
+      "id": 322,
+      "en": "What could it be?",
+      "pt_br": "O que poderia ser?"
+    },
+    {
+      "id": 323,
+      "en": "So hungry...",
+      "pt_br": "Tanta fome..."
+    },
+    {
+      "id": 324,
+      "en": "About that <$cdef(27)><fqty(1)><$ifull(7)></color>...",
+      "pt_br": "Sobre isso. <$cdef(27)><fqty(1)><$ifull(7)></color>..."
+    },
+    {
+      "id": 325,
+      "en": "Oh my GOSH!",
+      "pt_br": "Oh, meu Deus!"
+    },
+    {
+      "id": 326,
+      "en": "Here looks good!",
+      "pt_br": "Aqui parece bom!"
+    },
+    {
+      "id": 327,
+      "en": "Ready to start?",
+      "pt_br": "Prontos para começar?"
+    },
+    {
+      "id": 328,
+      "en": "*yawn*...",
+      "pt_br": "*Yawn *..."
+    },
+    {
+      "id": 329,
+      "en": "Yooo!",
+      "pt_br": "Yooo!"
+    },
+    {
+      "id": 330,
+      "en": "You need somethin’?",
+      "pt_br": "Precisa de alguma coisa?"
+    },
+    {
+      "id": 331,
+      "en": "Let’s make it right now, yo!",
+      "pt_br": "Vamos fazê-lo agora, yo!"
+    },
+    {
+      "id": 332,
+      "en": "It’s finally finished, yo!",
+      "pt_br": "Finalmente está terminado, yo!"
+    },
+    {
+      "id": 333,
+      "en": "I just remembered!",
+      "pt_br": "Acabei de me lembrar!"
+    },
+    {
+      "id": 334,
+      "en": "We’ve arrived!",
+      "pt_br": "Chegamos!"
+    },
+    {
+      "id": 335,
+      "en": "They’re too tough...",
+      "pt_br": "Eles são muito duros..."
+    },
+    {
+      "id": 336,
+      "en": "Oh no...",
+      "pt_br": "Oh, não..."
+    },
+    {
+      "id": 337,
+      "en": "Ya need somethin’?",
+      "pt_br": "Você precisa de alguma coisa?"
+    },
+    {
+      "id": 338,
+      "en": "All done!",
+      "pt_br": "Pronto!"
+    },
+    {
+      "id": 339,
+      "en": "I wanna play...",
+      "pt_br": "Quero jogar..."
+    },
+    {
+      "id": 340,
+      "en": "OK, next game!",
+      "pt_br": "OK, próximo jogo!"
+    },
+    {
+      "id": 341,
+      "en": "*gulp*",
+      "pt_br": "Gulp"
+    },
+    {
+      "id": 342,
+      "en": "C’mon, over here!",
+      "pt_br": "Vamos, aqui!"
+    },
+    {
+      "id": 343,
+      "en": "Hmmm...",
+      "pt_br": "Hmmm..."
+    },
+    {
+      "id": 344,
+      "en": "I can’t get through...",
+      "pt_br": "Eu não consigo passar..."
+    },
+    {
+      "id": 345,
+      "en": "Find anything?",
+      "pt_br": "Encontraste alguma coisa?"
+    },
+    {
+      "id": 346,
+      "en": "Is that...?",
+      "pt_br": "Isso é...?"
+    },
+    {
+      "id": 347,
+      "en": "I’d like a new home...",
+      "pt_br": "Eu gostaria de uma nova casa..."
+    },
+    {
+      "id": 348,
+      "en": "Best home ever!",
+      "pt_br": "Melhor lar de sempre!"
+    },
+    {
+      "id": 349,
+      "en": "*sniffle sniffle*",
+      "pt_br": "*Sniffle sniffle *"
+    },
+    {
+      "id": 350,
+      "en": "What should I do...?",
+      "pt_br": "O que devo fazer...?"
+    },
+    {
+      "id": 351,
+      "en": "Where was it again?",
+      "pt_br": "Onde estava mesmo?"
+    },
+    {
+      "id": 352,
+      "en": "Hey, guess what!",
+      "pt_br": "Ei, adivinha!"
+    },
+    {
+      "id": 353,
+      "en": "I wonder why...",
+      "pt_br": "Pergunto-me porque..."
+    },
+    {
+      "id": 354,
+      "en": "Over here!",
+      "pt_br": "Aqui!"
+    },
+    {
+      "id": 355,
+      "en": "It’s this <$cdef(27)>post</color>...",
+      "pt_br": "É isto <$cdef(27)>post</color>..."
+    },
+    {
+      "id": 356,
+      "en": "It opened!",
+      "pt_br": "Abriu!"
+    },
+    {
+      "id": 357,
+      "en": "Hmmm...",
+      "pt_br": "Hmmm..."
+    },
+    {
+      "id": 358,
+      "en": "Looks great!",
+      "pt_br": "Parece óptimo!"
+    }
+  ]
+}

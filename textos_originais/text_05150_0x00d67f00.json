@@ -1,0 +1,1274 @@
+{
+  "entry_index": 5150,
+  "bin_id": "0xd67f00",
+  "decompressed_size": 65536,
+  "first_tag_offset": 13703,
+  "total_strings": 253,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$keyicon(1)>. Using a move reduces<br>your <$cdef(27)>PP</color>. Your current <$cdef(27)>PP</color> is shown as a gauge at the bottom<br>right of the screen.",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "There are many different kinds of moves. Try each one out and<br>change the terrain to restore homes for all the Pokémon!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Press <$keyicon(3)> to <$cdef(27)>jump</color>. This will allow you to get over holes and other<br>obstacles with a little bit of air time!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "Select an item in your bag, then press <$keyicon(66)> to hold it in your<br>hands. If you talk to a Pokémon while holding an item, you can<br>choose to <$cdef(27)>give it to them </color>as a present!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "You can become closer friends with Pokémon by talking to them,<br>giving them presents, and helping them with their <$cdef(27)>requests</color>.<br>Pokémon who really like you may also give you presents, so try to<br>make friends with lots of different Pokémon!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "You can use this move to make tall grass grow. It won’t work in<br>certain areas.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Eat <$cdef(27)>salad</color> to power up <$cdef(27)><$sklfull(1)></color>. You can then press and hold<br><$keyicon(1)> to grow tall grass over a larger area.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "When powered up, <$cdef(27)><$sklfull(1)> </color>can grow moss or vines on rocks,<br>walls, and other surfaces.",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Place a <$cdef(27)><fqty(1)><$ifull(1440)> </color>on a house to make it your home.<br>For block houses, you can place the flag nearby. You can also<br>invite other Pokémon to live with you.",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Place a variety of furniture in your home to increase your<br><$cdef(27)>comfort level</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "You can create a <$cdef(27)>block house</color> by enclosing a space within four<br>walls and a door. Just like with a <$cdef(27)><$bname(12)></color>, Pokémon will move in<br>if you place three different pieces of furniture inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "A <$cdef(27)>block house</color> can be made without a <$cdef(27)>building kit</color> as long as you<br>place the blocks correctly. However, it can’t be destroyed with<br>a <$cdef(27)>demolition kit</color> or moved with a <$cdef(27)>relocation kit</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "At a <$cdef(27)><fqty(1)><$ifull(764)></color>, you can use materials to craft items from<br><$cdef(27)>recipes</color> you’ve learned. You can find new <$cdef(27)>recipes</color> around the<br>world—or, in certain situations, come up with your own.",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "You can make a Pokémon more <$cdef(27)>comfortable</color> by clearing a path<br>from their home to a <$cdef(27)>Pokémon Center</color>. If a Pokémon seems to be<br>having trouble going for a walk, try tidying up the paths around<br>their home!",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "You can use this move to break dirt, rock, and other materials<br>with your fist. This will let you punch holes in walls or the ground.",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "Press and hold <$keyicon(1)> to continuously use <$cdef(27)><$sklfull(4)></color>. You can<br>look up or down while using this move to redirect your smash.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Eat <$cdef(27)>hamburger steak</color> to power up <$cdef(27)><$sklfull(4)></color>. When powered<br>up, <$cdef(27)><$sklfull(4)></color><$cdef(27)> </color>can break harder substances than usual.",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "If you manage to take a photo of a Pokémon during a photo op,<br>it will be added to your <$cdef(27)>highlight reel</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "If you manage to snag a photo for your highlight reel, you may<br>receive fabulous rewards, such as photo frames! Keep adding to<br>your highlight reel by not missing out on photo ops!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Use this move to till dirt or grass into crop fields. Once you’ve<br>made a crop field, you can plant vegetable seeds in it. You can’t<br>till dry dirt—use moves like <$cdef(27)><$sklfull(3)> </color>to make the ground<br>nice and moist for tilling.",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "You can use <$cdef(27)><$sklfull(2)></color> on plants and flowers to pick them up.<br>Plants picked up this way can be given to other Pokémon as<br>presents or stored in your bag!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "Once a day, you can use the <$cdef(27)><fqty(1)><$ifull(1444)></color> inside to fully<br>restore your <$cdef(27)>PP</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "Sometimes a Pokémon with the <fcap><$icon(11001)><$cdef(27)>trade</color> specialty will trade items<br>with you at the <$cdef(27)><fqty(1)><$ifull(1325)></color> inside the <$cdef(27)>Pokémon Center</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "If there are places up high that you can’t reach by jumping, you<br>can place blocks of material, such as dirt or sand, and climb them<br>like a set of steps.",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "You can use <$cdef(27)>Stockpile </color>to swallow items that are too big to carry in<br>your hands, such as furniture, and store them in your bag.",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "You can use <$cdef(27)>Spit Out</color> to place the items you’ve stockpiled in your<br>bag. Just go where you want to place an item, then press <$keyicon(0)> to<br>spit it out.",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "You can adjust the height at which you place an item by changing<br>where the camera is facing. This can come in handy when placing<br>wall-hanging items up high or filling holes in the ground.",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "You can adjust where you place an object by moving the camera<br>as you’re placing it. If you point the camera straight down, you<br>can place objects under your feet to lift yourself up one block at<br>a time.",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "If you make paths nicer, such as by smoothing over cracked<br>ground or placing steps on hills, you can encourage Pokémon to<br>travel farther from their homes.",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "When Pokémon go for a walk, they can visit buildings, such<br>as <$cdef(27)>Pokémon Centers</color> or other Pokémon’s homes.",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "You can store your items inside a <$cdef(27)><fqty(1)><$ifull(2045)></color>. If your bag gets<br>full, make some space by putting items in here!",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "You can also press and hold <$keyicon(196)>, then press <$keyicon(67)> to <$cdef(27)>transfer half<br>a stack of items</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "If you place a <$cdef(27)><fqty(1)><$ifull(2045)></color> next to a <$cdef(27)><fqty(1)><$ifull(764)></color>, you can<br>use materials directly from the box when crafting items!",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "You can use this move to cut what’s in front of you, such as trees<br>or wooden objects, with sharp blades.",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Eat <$cdef(27)>bread</color> to power up <$cdef(27)><$sklfull(5)></color>. You can then press and hold <$keyicon(1)><br>to slice up things that are farther away.",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "When powered up, <$cdef(27)><$sklfull(5)> </color>can slice up harder substances<br>than usual.",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "As a <$cdef(27)>Ditto</color>, you can make yourself smaller to fit through tight<br>spaces. You’ll return to your normal size once you’re back out in<br>the open.",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Tilt <$keyicon(194)> slightly to walk in that direction. If you tilt it all the way,<br>you’ll start running. If you press and hold <$keyicon(55)> or press <$keyicon(54)>, you<br>can run even faster.",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "Tilt <$keyicon(195)> to move the camera.",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "You can use this move to spray water and revitalize dried dirt and<br>withered plants, such as grass, trees, and flowers.",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "Eat <$cdef(27)>soup</color> to power up <$cdef(27)><$sklfull(3)></color>. You can then press and hold<br><$keyicon(1)> to spray water over a larger area.",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "Items you obtain are placed in your bag. Press <$keyicon(159)> to access your<br>bag. From there, you can use any items you have.",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "There’s a limit to how many items you can fit in your bag. You can<br>increase this limit by purchasing <$cdef(27)>Packing Tips </color>from the <$cdef(27)>shop</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "Grass, trees, rocks, furniture, and other items can be placed near<br>each other in certain combinations to create Pokémon habitats.<br>Placing the same combination of items in a different location—<br>such as near water or in a high place—might even create a<br>different habitat altogether!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "When you create a new habitat, a Pokémon you haven’t yet<br>registered in your <$cdef(27)>Pokédex</color> may appear there. Try making all sorts<br>of habitats to meet a wide variety of Pokémon friends!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "If you’ve learned multiple moves, press <$keyicon(142)> or <$keyicon(143)> to switch<br>between them. You can register moves by holding <$keyicon(142)> or <$keyicon(143)>,<br>or by pressing and holding <$keyicon(246)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Sometimes you may notice something sparkling on the ground.<br>You can investigate these sparkling areas to discover traces of<br>a Pokémon, which will provide information about that Pokémon’s<br>habitat and preferred environment. This information will be<br>recorded in your <$cdef(27)>Pokédex</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "You can learn about <$cdef(27)>Pokémon and their habitats </color>by investigating<br>traces. The info you gather is recorded in your <$cdef(27)>Pokédex</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "If you walk toward a block, you can climb on top of it.<br>However, you can’t climb on top of anything that’s more<br>than one block high.",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Follow these steps to <$cdef(27)><$spwfull(1)></color> a house.<br>1. Place a <$cdef(27)>building kit </color>in the spot where you wish to build.<br>2. Collect the materials listed in the kit.<br>3. Gather Pokémon who meet the requirements of the kit.<br>It will take a little time for the building process to complete.",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "Talk to a Pokémon who meets the requirements of the <$cdef(27)>building kit<br></color>you placed and have them follow you to it. Once there, you can<br>ask them to help with the <$cdef(27)><$spwfull(1)>ing</color> process!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "You can use a different <$cdef(27)>building kit </color>to <$cdef(27)>remodel </color>an existing house<br>or <$cdef(27)>Pokémon Center</color> into a whole new house with all of the same<br>furniture inside. However, you cannot turn a large house into a<br>smaller one.",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "A newly built house does not come with any furniture. Pokémon<br>cannot live in a house until it has three different pieces of<br>furniture inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "If you talk to a Pokémon who is following you while you’re both<br>near a house, you can invite them to live in that house. Pokémon<br>are <$cdef(27)>very comfortable in houses</color> and love living in them!",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "When powered by electricity, certain houses will light up and the<br>machines inside will start running. Try placing <$cdef(27)><fqty(2)><$ifull(1396)> </color>to<br>provide power to a house.",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "You can take pictures of Pokémon and other things around you<br>using your camera. Enter photo mode by pressing <$keyicon(52)> or selecting<br><$cdef(27)>Camera</color> in the <$keyicon(4)> menu. Once in photo mode, press <$keyicon(155)> to take<br>a picture!",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "Press <$keyicon(49)> while in photo mode to change the way you hold<br>the camera.",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "Once you get the <$cdef(27)><fqty(1)><$ifull(4000)></color>, you’ll be able to fix your<br>camera on the tripod and move freely while you take photos.<br>Press <$keyicon(49)> while in selfie mode to fix the camera in place.",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "You may sometimes find <$cdef(27)>lost relics</color> buried in the ground.<br>Try showing them to a Pokémon with the <$cdef(27)><fcap><$spwfull(25)></color> specialty!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "Some items you find buried in the ground are unstable and could<br>explode at any minute! If you happen upon one of these, quickly<br>spray it with water!",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Press and hold <$keyicon(153)> to inhale items on the ground near you. This<br>can come in handy when you <$cdef(27)>headbutt</color> a tree to knock off its<br>berries, or when you break rocks and dirt with <$cdef(27)><$sklfull(4)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "<$cdef(27)><$sklfull(13)></color> lets you move while you hover in the air. You can<br>float down or up by pressing <$keyicon(59)> or <$keyicon(58)> while using this move.",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Select an item in your bag and press <$keyicon(0)> to spit it out. For certain<br>items, you can adjust the number of items you spit out at once by<br>pressing <$keyicon(30)> and redirect where you spit them out by using <$keyicon(31)>.<br>If you press <$keyicon(253)>, you can enter <$cdef(27)>replacement mode</color>, which allows<br>you to swap what you want to spit out with what’s on the ground.",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "You can break what’s in front of you with <$keyicon(153)>. The broken item<br>will then be stored in your bag. If you press and hold the button<br>to break something, you will store it in your body so you can spit<br>it out whole.",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "You’ll get tired if you try to use moves while you’re out of <$cdef(27)>PP</color>.<br>The gauge at the bottom right of the screen displays how much<br><$cdef(27)>PP</color> you have left.",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "You can restore your <$cdef(27)>PP</color> by eating food, such as <$cdef(27)>berries and<br>vegetables</color>. Open your bag with <$keyicon(159)> and select what you want<br>to eat with <$keyicon(0)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "You can tell how much a Pokémon likes their home by checking<br>their <$cdef(27)>comfort level</color>. Place things the Pokémon likes near their<br>home to raise their <$cdef(27)>comfort level</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Interested in raising a Pokémon’s <$cdef(27)>comfort level</color>? Go ahead and<br><$cdef(27)>ask them if they’re feeling comfy</color>! They’ll let you know if there’s<br>anything they need from you. If you don’t have what they ask for,<br>check the <$cdef(27)>shop</color> or go hunting for <$cdef(27)>recipes</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "A Pokémon’s <$cdef(27)>comfort level</color> will increase when they eat their<br>favorite food or if they eat until they are full.",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "You can give food directly to a Pokémon for them to eat, but you<br>can also put food on a <$cdef(27)>plate</color> near their living space or plant a<br><$cdef(27)>berry tree</color> near their home. When the Pokémon is hungry, they<br>will eat on their own.",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "Place furniture around a Pokémon’s home for them to rest on,<br>such as a <$cdef(27)>bed</color> or a <$cdef(27)>chair</color>, to raise their <$cdef(27)>comfort level</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "Pokémon can’t use <$cdef(27)>beds</color> or <$cdef(27)>chairs</color> that are smaller than they are.<br>Make sure to get big furniture for big Pokémon!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "Place items around a Pokémon’s home that they can play<br>with, such as <$cdef(27)><fqty(1)><$ifull(1274)> </color>or <$cdef(27)><fqty(1)><$ifull(1271)></color>, to raise their<br><$cdef(27)>comfort level</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Different Pokémon like different things. Placing something a<br>Pokémon likes around their home will greatly raise their<br><$cdef(27)>comfort level</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "A Pokémon’s <$cdef(27)>comfort level</color> also greatly increases when they<br>consume their favorite food or drink.",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "You can check your <$cdef(27)>Pokédex</color> to see what each Pokémon likes.",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "Pokémon also have different preferences when it comes to<br><$cdef(27)>brightness</color>, <$cdef(27)>temperature</color>, and <$cdef(27)>humidity</color>. Adjusting a Pokémon’s<br>home to match these preferences will raise that Pokémon’s<br><$cdef(27)>comfort level</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "You can check your <$cdef(27)>Pokédex</color> to see a Pokémon’s <$cdef(27)>brightness</color>,<br><$cdef(27)>temperature</color>, and <$cdef(27)>humidity</color> preferences.",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "<$cdef(27)><fcap><$spwfull(1)>ing </color>a house allows you to easily increase a Pokémon’s<br><$cdef(27)>comfort level</color>. Once construction on a house is finished, you can<br>invite Pokémon to move in.",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "The larger the house, the more the <$cdef(27)>comfort levels</color> of the Pokémon<br>living there will increase.",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "The <$cdef(27)>comfort levels</color> of Pokémon living in a house won’t be affected<br>by adjustments to brightness, temperature, or humidity outside<br>the house. Such adjustments need to be made <$cdef(27)>inside the house</color> to<br>affect the <$cdef(27)>comfort levels</color> of the Pokémon living there.",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "Roofs and light sources can affect the <$cdef(27)>brightness </color>of a home. You<br>can brighten a home by placing lamps or streetlights around it.<br>Conversely, you can darken a home by placing a roof over it to<br>block light.",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "After you’ve used <$cdef(27)><$sklfull(2)> </color>to make a crop field, you can<br>plant seeds and grow vegetables. Water your crops often, either<br>with <$cdef(27)><$sklfull(3)></color> or by other methods, to make sure they grow!",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "Press <$keyicon(153)> to harvest vegetables once they are ripe. You can then<br>water your vegetable plants with <$cdef(27)><$sklfull(3)> </color>or other methods<br>to regrow them.",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "Each Pokémon has a <$cdef(27)>specialty</color>. You can see a Pokémon’s specialty<br>in the <$cdef(27)>Pokédex</color>, which you can access via the <$keyicon(4)> menu.",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty will ignite nearby flammable<br>objects in their free time. If you’re traveling with a Pokémon who<br>has this specialty, just stand in front of what you want burned, and<br>they’ll set it ablaze for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "Also, if you bring them to a <$cdef(27)><fqty(1)><$ifull(1446)></color>, they can melt<br>certain materials, such as metal or sand, for processing.",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(1)></color> specialty will <$cdef(27)>lead</color> other Pokémon<br>when building or remodeling structures. You can’t <$cdef(27)><$spwfull(1)><br></color>anything without a leader Pokémon.",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(5)></color> specialty will use their free time to<br>help nearby plants mature faster. If you bring a Pokémon with this<br>skill to a plant, they will help <$cdef(27)><$spwfull(5)></color> it for you!",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "Plants such as <$cdef(27)><fqty(2)><$ifull(8)></color> won’t grow unless they’re watered,<br>even if a Pokémon who specializes in <$cdef(27)><$spwfull(5)>ing</color> is with you.<br>Use <$cdef(27)><$sklfull(3)> </color>or something similar to water your plants first,<br>then ask a Pokémon to help you grow them!",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "This parameter will <$cdef(27)>increase</color> as you befriend more Pokémon and<br>raise their <$cdef(27)>comfort levels</color>. As the <$cdef(27)>environment level</color> goes up, you’ll<br>unlock more <$cdef(27)>challenges</color> and <$cdef(27)>shop</color> items!",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "Every Pokémon likes certain things—and every Pokémon dislikes<br>certain things too! If you place items that a Pokémon dislikes<br>around their home, their <$cdef(27)>comfort level</color> will decrease.",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "Items that can heat or cool an area, such as <$cdef(27)><fqty(2)><$ifull(1280)><br></color>or <$cdef(27)><fqty(1)><$ifull(1096)></color>, will change the <$cdef(27)>temperature </color>of the home they’re<br>placed near.",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "Water, plants, and other related items will increase a home’s<br><$cdef(27)>humidity</color>. You can also remove those types of items from a home<br>to make it drier.",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "When you place an item for a Pokémon, be sure to place it near<br>their home. Items placed too far away will have no effect on the<br>Pokémon’s <$cdef(27)>comfort level</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "You can press <$keyicon(32)> near a Pokémon’s home to display the area<br>around it. This area display will disappear if you press <$keyicon(32)> again<br>or if you move away from the home.",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "Legendary Pokémon have a greater effect on the <$cdef(27)>environment<br>level</color> than other Pokémon, making it easier to <$cdef(27)>increase</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(6)> </color>specialty can hold items for you.<br>Just tell one of these Pokémon “<$cdef(27)>I wanna check my storage</color>” to add<br>items to or remove items from their inventory.",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "If you use a <$cdef(27)><fqty(1)><$ifull(764)></color> while accompanied by a Pokémon who<br>is holding items for you, you can use any crafting materials they<br>are holding directly from their inventory.",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "When you travel with a Pokémon, they’ll help you out in various<br>ways. If you stand in front of something you need help with, the<br>Pokémon with you will use their specialty to try to help you out.",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "If you give <$cdef(27)><fqty(1)><$ifull(3994)></color> to a Pokémon with the <$spwicon(26)><$cdef(27)>Gather Honey</color><br>specialty, they’ll give you furniture with special patterns in<br>exchange.",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(15)></color> specialty will process <$cdef(27)><fqty(2)><$ifull(1482)></color><br>you give to them into <$cdef(27)><fqty(1)><$ifull(407)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "If you provide suitable materials to a Pokémon with the <$cdef(27)><fcap><$spwfull(16)><br></color>specialty, they will process those materials into other items.",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "You can travel with a Pokémon by <$cdef(27)>asking one to come with you</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "Press <$keyicon(214)> to invite all the Pokémon in front of you to follow you.<br>Up to five Pokémon can travel with you at a time.",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "When Pokémon are hungry, they may refuse to travel with you<br>or stop following you altogether. In those situations, give them<br>some food.",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "If you ask a<$cdef(27)> </color>Pokémon “<$cdef(27)>How’s your comfort level?</color>” they will tell<br>you how <$cdef(27)>comfortable</color> they currently are. This will also allow you<br>to see how to raise that Pokémon’s <$cdef(27)>comfort level</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "You can get information about an item or favor that the Pokémon<br>is requesting that day. Granting a Pokémon’s request will increase<br>their <$cdef(27)>comfort level</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "Asking a Pokémon “<$cdef(27)>How’s your comfort level?</color>” and granting their<br>request isn’t the only way to improve their <$cdef(27)>comfort</color>. They may also<br>want other items or favors besides what they’ve requested. Feel<br>free to try different things when you have time!",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "Adding decorations to a Pokémon’s home, such as<br><$cdef(27)><fqty(2)><$ifull(1367)></color> or <$cdef(27)><fqty(2)><$ifull(1542)></color>, will increase their<br><$cdef(27)>comfort level</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "If the <$cdef(27)>brightness</color> of a Pokémon’s home matches their preference<br>or the hours of the day they are usually active, that Pokémon will<br>stay awake longer.",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(8)></color> specialty will use nearby<br><$cdef(27)><fqty(2)><$ifull(1261)> </color>you’ve filled to water surrounding plants.",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "Offer food at a <$cdef(27)><$hatname(152)></color> and bring a Pokémon with<br>the <$cdef(27)><fcap><$spwfull(8)></color> specialty there to have them throw a <$cdef(27)>Rain Dance</color><br>party, which will increase the <$cdef(27)>humidity </color>of the area.",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "Flower and tree seeds can be planted in the ground. Open your<br>bag, select the seeds to hold in your hands, and press <$keyicon(0)> to<br>plant them. Seeds can’t be planted in dry ground—be sure to wet<br>the ground with <$cdef(27)><$sklfull(3)></color> or something similar first!",
+      "pt_br": ""
+    },
+    {
+      "id": 114,
+      "en": "It takes a little time for seeds to grow. Try waiting until the next<br>day to check on them.",
+      "pt_br": ""
+    },
+    {
+      "id": 115,
+      "en": "When a Pokémon starts living in a habitat, that habitat becomes<br>their <$cdef(27)>home</color>. Once a habitat becomes a home, no new Pokémon<br>will appear in that habitat. You will need to create more habitats<br>for new Pokémon to appear.",
+      "pt_br": ""
+    },
+    {
+      "id": 116,
+      "en": "You can play <$cdef(27)>jump rope</color> by talking to <$cdef(27)>Bulbasaur</color>. Press <$keyicon(3)> at the<br>right time to jump over the vine—if it touches you, that’s the end<br>of the game!",
+      "pt_br": ""
+    },
+    {
+      "id": 117,
+      "en": "This minigame can also be played with other players. When<br>playing with others, touching the vine removes you from the<br>game. The last player remaining wins the game. Rankings are<br>determined by the number of successful jumps each player made.",
+      "pt_br": ""
+    },
+    {
+      "id": 118,
+      "en": "Players who’ve touched the vine can change its speed to hinder<br>players who are still jumping. Press <$keyicon(7)> to increase the vine’s<br>speed and <$keyicon(8)> to decrease it. The speed will change based on<br>how many players press the buttons, so work together as a team!",
+      "pt_br": ""
+    },
+    {
+      "id": 119,
+      "en": "You can talk to <$cdef(27)>Zorua</color> to play the <$cdef(27)>hide-and-sneak</color> minigame.<br>To win, you must touch the <$cdef(27)>PC</color> at the <$cdef(27)>Pokémon Center</color> without<br>getting found by the seeker Pokémon. If you are found, you will<br>be sent back to the starting point.",
+      "pt_br": ""
+    },
+    {
+      "id": 120,
+      "en": "Using <$cdef(27)><$sklfull(6)> </color>will make it harder for the seeker Pokémon<br>to find you. You can also create distractions by placing items on<br>the ground, using items that make noise, or using emotes. Try<br>different types of diversions to create openings and keep moving<br>toward the <$cdef(27)>PC</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 121,
+      "en": "When you play hide-and-sneak with other players, it becomes a<br>team game. If any player touches the <$cdef(27)>PC</color>, the whole team wins.<br>Players found by the seeker Pokémon will be sent back to the<br>starting point. Work with your team to reach the <$cdef(27)>PC</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 122,
+      "en": "If you talk to a Pokémon who has a problem that needs solving,<br>they may <$cdef(27)>request</color> your help. You can check the <$cdef(27)>requests</color> you’ve<br>accepted from the main menu at any time.",
+      "pt_br": ""
+    },
+    {
+      "id": 123,
+      "en": "If you show a <$cdef(27)>lost relic</color> to <$cdef(27)><$cname(341)></color>, who has the<br><$cdef(27)><fcap><$spwfull(25)> </color>specialty, they can tell you what kind of item<br>you’ve found.",
+      "pt_br": ""
+    },
+    {
+      "id": 124,
+      "en": "<$cdef(27)>Drifloon</color> can take you to mysterious places called <$cdef(27)>Dream Islands</color>.<br>Some items can only be found on <$cdef(27)>Dream Islands</color>, so explore them<br>thoroughly! When you’re ready to leave a <$cdef(27)>Dream Island</color>, just talk<br>to <$cdef(27)>Drifloon</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 125,
+      "en": "You can only travel to <$cdef(27)>one Dream Island per day</color>, but you can<br>revisit that island <$cdef(27)>as many times as you want</color>. If you would like to<br>go to a different island, you’ll have to wait until the next day to<br>talk to <$cdef(27)>Drifloon</color> again.",
+      "pt_br": ""
+    },
+    {
+      "id": 126,
+      "en": "Enjoy your time here by chatting with other Pokémon, making all<br>sorts of items, or doing whatever you like at your own pace!",
+      "pt_br": ""
+    },
+    {
+      "id": 127,
+      "en": "You can also look for new Pokémon, help the Pokémon you<br>already know with their <$cdef(27)>requests</color>, or build your dream town—this<br>world is yours to enjoy as you see fit!",
+      "pt_br": ""
+    },
+    {
+      "id": 128,
+      "en": "You can pick up things on the ground with <$keyicon(153)>. Anything you<br>pick up like this is automatically put in your bag.",
+      "pt_br": ""
+    },
+    {
+      "id": 129,
+      "en": "You can use this move to <$cdef(27)><$spwfull(36)> </color>into an object in front<br>of you. You can move around while transformed.",
+      "pt_br": ""
+    },
+    {
+      "id": 130,
+      "en": "If you hold the <$cdef(27)><fqty(1)><$ifull(2793)></color> and press <$keyicon(0)> while walking<br>with a Pokémon who has the <$cdef(27)><fcap><$spwfull(11)></color> specialty, you’ll start<br>looking for buried items.",
+      "pt_br": ""
+    },
+    {
+      "id": 131,
+      "en": "You can talk to a Pokémon with the <$cdef(27)><fcap><$spwfull(27)></color> specialty to find out<br><$cdef(27)>how humid it is</color> currently.",
+      "pt_br": ""
+    },
+    {
+      "id": 132,
+      "en": "You can set your handy bag to always display by opening your<br>bag and pressing <$keyicon(247)>. Items in your handy bag can be accessed<br>by pressing <$keyicon(161)> or <$keyicon(162)> without having to open your bag.",
+      "pt_br": ""
+    },
+    {
+      "id": 133,
+      "en": "When there are multiple things nearby that you can interact with<br>(such as items to <$cdef(27)>pick up</color>, objects to <$cdef(27)>inspect</color>, or Pokémon to <$cdef(27)>talk<br>to</color>), you can press <$keyicon(249)> to target a specific one. Give it a try if<br>you’re having trouble interacting with something!",
+      "pt_br": ""
+    },
+    {
+      "id": 134,
+      "en": "Pokémon with the <fcap><$cdef(27)><$spwfull(10)></color> specialty can process metals, such as<br><$cdef(27)><fqty(1)><$ifull(107)></color> and <$cdef(27)><fqty(1)><$ifull(106)></color>, at a <$cdef(27)><fqty(1)><$ifull(1446)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 135,
+      "en": "If you encounter any mud while traveling with a Pokémon who<br>has the <fcap><$cdef(27)><$spwfull(8)></color> specialty, they’ll cover the mud with bubbles.<br>You can then spray the mud with water to wash it away!",
+      "pt_br": ""
+    },
+    {
+      "id": 136,
+      "en": "Pokémon with the <$icon(10993)><$cdef(27)><fcap><$spwname(13)></color> specialty will pick up materials<br>and other items they find on the ground and place them in a<br><$cdef(27)><fqty(1)><$ifull(1460)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 137,
+      "en": "They can also bring materials from a <$cdef(27)><fqty(1)><$ifull(1460)></color> to<br>anywhere they can be processed, such as a <$cdef(27)><fqty(1)><$ifull(1446)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 138,
+      "en": "A certain Pokémon will take you to a <$cdef(27)>Dream Island</color> if you bring<br>them a <$cdef(27)>doll</color>. Once you’ve visited a <$cdef(27)>Dream Island </color>at least once,<br>you can get that Pokémon to come to you by interacting with<br>a <$cdef(27)>doll</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 139,
+      "en": "Pokémon with the <$icon(11222)><$cdef(27)><fcap><$spwname(30)></color> specialty can exchange <$cdef(27)>lost relics</color> or<br><$cdef(27)>rare feathers</color> for other items.",
+      "pt_br": ""
+    },
+    {
+      "id": 140,
+      "en": "You can give <$cdef(27)><fqty(1)><$ifull(1801)></color> to Pokémon who have the<br><$cdef(27)><fcap><$spwfull(17)> </color>specialty to process into <$cdef(27)><fqty(1)><$ifull(126)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 141,
+      "en": "<$cdef(27)><$cname(272)> </color>has the <fcap><$icon(11219)><$cdef(27)><$spwname(28)> </color>specialty and wants some food. Place<br>something to eat on an <$cdef(27)><fqty(1)><$ifull(1811)></color>, and good things may<br>happen based on the food’s flavor or rarity!",
+      "pt_br": ""
+    },
+    {
+      "id": 142,
+      "en": "<$cdef(27)><$cname(206)></color> has the <fcap><$icon(11008)><$cdef(27)><$spwname(21)> </color>specialty and can use <$cdef(27)>bowls of paint</color><br>to change the color of many items, including furniture. However,<br>some items can’t be recolored.",
+      "pt_br": ""
+    },
+    {
+      "id": 143,
+      "en": "They can also <$icon(11008)><$cdef(27)><$spwname(21)> </color>patterns on items. If you find any <$cdef(27)>human<br>records </color>that depict a pattern or items that have patterns on them,<br>bring them to <$cdef(27)><$cname(206)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 144,
+      "en": "Some items can even have their individual parts decorated with<br>different patterns or colors!",
+      "pt_br": ""
+    },
+    {
+      "id": 145,
+      "en": "If you bring a Pokémon with the <fcap><$icon(11221)><$cdef(27)><$spwname(31)></color> specialty to a<br><$cdef(27)><fqty(1)><$ifull(1850)></color>, they’ll hop inside! Light the launcher’s fuse to send<br>them flying—they’ll explode on impact, destroying everything<br>around them!",
+      "pt_br": ""
+    },
+    {
+      "id": 146,
+      "en": "If you give a music <$cdef(27)>CD </color>to <$cdef(27)><$cname(274)></color>, who has the <$cdef(27)><$spwfull(29)> </color>specialty,<br>they’ll play that right then and there! You can even give them<br>several <$cdef(27)>CDs</color> to play multiple music tracks in a row.",
+      "pt_br": ""
+    },
+    {
+      "id": 147,
+      "en": "You can also talk to a DJ Pokémon to gauge the current <$cdef(27)>mood</color> of<br>nearby Pokémon.",
+      "pt_br": ""
+    },
+    {
+      "id": 148,
+      "en": "<$cdef(27)><$cname(216)></color>, who has the <$cdef(27)><fcap><$spwfull(23)> </color>specialty, will <$cdef(27)>lead </color>and instruct<br>other Pokémon when cooking food for a party. You can’t have a<br><$cdef(27)>party</color> without a Pokémon leading it!",
+      "pt_br": ""
+    },
+    {
+      "id": 149,
+      "en": "Also, because this Pokémon is good at cooking, if you cook<br>with them using a <$cdef(27)><fqty(1)><$ifull(1301)> </color>or other kitchen equipment,<br>you may end up making more food than expected.",
+      "pt_br": ""
+    },
+    {
+      "id": 150,
+      "en": "If you speak to a Pokémon with the <fcap><$icon(11225)><$cdef(27)><$spwname(34)></color> specialty while you’re<br>using the <$cdef(27)>Pokédex</color> to search for another Pokémon, they can take<br>you to that Pokémon’s location.<br>To search for a Pokémon, select it in your <$cdef(27)>Pokédex</color>, then press <$keyicon(233)><br>to start searching.",
+      "pt_br": ""
+    },
+    {
+      "id": 151,
+      "en": "<$cdef(27)><$cname(215)></color> has the <fcap><$icon(11010)><$cdef(27)><$spwname(24)></color> specialty and can lead other<br>Pokémon during large <$cdef(27)><$spwfull(1)>ing</color> or rebuilding projects. If you<br>assign them as the leader of a regular <$cdef(27)><$spwfull(1)>ing </color>project, it will<br>be completed in less time than usual.",
+      "pt_br": ""
+    },
+    {
+      "id": 152,
+      "en": "Additionally, if you give them <$cdef(27)><fqty(2)><$ifull(115)></color>, <$cdef(27)><$cname(215)></color> will<br>process them into <$cdef(27)><fqty(2)><$ifull(119)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 153,
+      "en": "If you give <$cdef(27)><fqty(2)><$ifull(92)> </color>to a Pokémon with the <$cdef(27)><fcap><$spwfull(32)><br></color>specialty, they will turn them into <$cdef(27)><fqty(1)><$ifull(121)> </color>for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 154,
+      "en": "If you speak to a Pokémon with the <fcap><$icon(11226)><$cdef(27)><$spwname(35)></color> specialty while<br>you’re using the <$cdef(27)>Pokédex</color> to search for another Pokémon, they can<br>take you to that Pokémon’s location.<br>To search for a Pokémon, select it in your <$cdef(27)>Pokédex</color>, then press <$keyicon(233)><br>to start searching.",
+      "pt_br": ""
+    },
+    {
+      "id": 155,
+      "en": "Pokémon with the <$icon(11224)><$cdef(27)><fcap><$spwname(33)></color> specialty can serve as leaders<br>when <$cdef(27)>demolishing</color> <$cdef(27)>Pokémon Centers</color> for reconstruction. They<br>can also serve as leaders when demolishing or relocating other<br>buildings.",
+      "pt_br": ""
+    },
+    {
+      "id": 156,
+      "en": "The <$cdef(27)>humidity</color> of the entire town is affected both by how many<br>plants are in the area, and the number of water sources and how<br>big they are. You can check the current humidity level with<br><$cdef(27)>Slowpoke’s yawn</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 157,
+      "en": "There are three ways you can increase the <$cdef(27)>humidity</color> level:<br>・ Water dry ground to make grass grow.<br>・ Water plants, such as dry tall grass and trees.<br>・ Create water sources, such as ponds.",
+      "pt_br": ""
+    },
+    {
+      "id": 158,
+      "en": "To demolish a house, place a <$cdef(27)>demolition kit </color>in front of the house,<br>then gather Pokémon to help with the <$cdef(27)>demolition</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 159,
+      "en": "To relocate a house, place a <$cdef(27)>relocation kit </color>in front of the house,<br>then gather Pokémon to help with the <$cdef(27)>relocation preparations</color>.<br>Once preparations are complete, place the kit in a new spot, then<br>gather Pokémon to help with the <$cdef(27)>relocation</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 160,
+      "en": "Select <$cdef(27)>Return Home </color>from the main menu to instantly return to<br>your home. If you don’t have a home, you’ll return to a different<br>safe location instead. This can come in handy if you find yourself<br>stuck and unable to go anywhere!",
+      "pt_br": ""
+    },
+    {
+      "id": 161,
+      "en": "If you have your own home, you can instantly return to it by<br>selecting <$cdef(27)>Return Home</color>. If you don’t have a home yet, you’ll be<br>taken to some other safe location.",
+      "pt_br": ""
+    },
+    {
+      "id": 162,
+      "en": "You can sometimes find written records, such as letters and notes,<br>that humans left behind. Inspect them to read their contents.",
+      "pt_br": ""
+    },
+    {
+      "id": 163,
+      "en": "You can press <$keyicon(28)> while in water to transform into <$cdef(27)>Lapras</color>,<br>allowing you to swim freely.",
+      "pt_br": ""
+    },
+    {
+      "id": 164,
+      "en": "Your <$cdef(27)>PP</color> will slowly decrease while you’re using <$cdef(27)><$sklfull(10)></color>. If you do<br>run out of <$cdef(27)>PP</color>, you can keep using <$cdef(27)><$sklfull(10)> </color>until you press <$keyicon(26)> and<br>end your transformation. You won’t be able to use Surf again<br>while you’re out of <$cdef(27)>PP</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 165,
+      "en": "Drink a <$cdef(27)>smoothie</color> to power up <$cdef(27)><$sklfull(10)></color>. You can then press <$keyicon(28)> to<br>transform into <$cdef(27)><$cname(36)></color> even when you’re deep underwater.",
+      "pt_br": ""
+    },
+    {
+      "id": 166,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(9)></color> specialty will power nearby<br>machines in their free time. If you’re traveling with a Pokémon<br>who has this skill, just stand in front of a machine and they will<br><$cdef(27)><$spwfull(9)></color> power to it for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 167,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(12)> </color>specialty may start barter exchanges<br>at places where bartering is possible. Just set a <$cdef(27)><fqty(1)><$ifull(1325)><br></color>on a table and supply it with power!",
+      "pt_br": ""
+    },
+    {
+      "id": 168,
+      "en": "You can trade items you own for items you want. Offer up to five<br>items to the Pokémon you’re trading with to convince them to<br>make a trade. Offering items they like will make trading more<br>likely to succeed!",
+      "pt_br": ""
+    },
+    {
+      "id": 169,
+      "en": "<$cdef(27)><$cname(206)></color> has the <fcap><$icon(11008)><$cdef(27)><$spwname(21)> </color>specialty and can use <$cdef(27)>bowls of paint</color><br>to change the color of many items, including furniture. However,<br>some items can’t be recolored.",
+      "pt_br": ""
+    },
+    {
+      "id": 170,
+      "en": "If you want to change the color of things you can’t carry, such as<br>houses, just bring <$cdef(27)><$cname;0(206)></color><$cdef(27)> </color>to them!",
+      "pt_br": ""
+    },
+    {
+      "id": 171,
+      "en": "Use a <$iicon(230)><$cdef(27)>paint balloon</color> to <$cdef(27)><$spwfull(21)></color> something in front of you.<br>You can craft <$iicon(230)><$cdef(27)>paint balloons</color> out of <$cdef(27)>paint</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 172,
+      "en": "They can also apply<$cdef(27)> </color>patterns to items. If you find any <$cdef(27)>human<br>records </color>that depict a pattern or items that have patterns on them,<br>bring them to <$cdef(27)><$cname(206)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 173,
+      "en": "For certain furniture, you can change the color or pattern of each<br>individual part.",
+      "pt_br": ""
+    },
+    {
+      "id": 174,
+      "en": "Pokémon with the <$cdef(27)><fcap><$spwfull(4)> </color>specialty will sometimes drop useful<br>items near their home.",
+      "pt_br": ""
+    },
+    {
+      "id": 175,
+      "en": "Items dropped in this way vary depending on the Pokémon.",
+      "pt_br": ""
+    },
+    {
+      "id": 176,
+      "en": "Pokémon will not drop items while you’re watching them.<br>Leave them alone and check on them later.",
+      "pt_br": ""
+    },
+    {
+      "id": 177,
+      "en": "You can give <$cdef(27)><fqty(1)><$ifull(1395)> </color>to a Pokémon with the<br><$cdef(27)><fcap><$spwfull(17)> </color>specialty to have them process that trash into<br><$cdef(27)><fqty(1)><$ifull(107)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 178,
+      "en": "While holding <$keyicon(153)> to inhale, press <$keyicon(206)> to suck up water or other<br>liquids in front of you and store it in your mouth.",
+      "pt_br": ""
+    },
+    {
+      "id": 179,
+      "en": "You can release the liquid you sucked up anywhere you want by<br>pressing <$keyicon(0)> to spit it out. Liquids will spread over the area where<br>they were spat out.",
+      "pt_br": ""
+    },
+    {
+      "id": 180,
+      "en": "You can change the volume of liquid you spit out by pressing and<br>holding <$keyicon(209)>, then pressing <$keyicon(222)> or <$keyicon(223)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 181,
+      "en": "You can brighten up a dark town by placing items that emit<br>light. Try placing light sources everywhere to brighten up the<br>entire town.",
+      "pt_br": ""
+    },
+    {
+      "id": 182,
+      "en": "Some machines produce light when powered by electricity.<br>Electric lights will make the town brighter than any other<br>light source.",
+      "pt_br": ""
+    },
+    {
+      "id": 183,
+      "en": "Though fires only provide a small amount of light for your town,<br>they also generate warmth that can raise the <$cdef(27)>comfort level</color> for<br>Pokémon who like that kind of environment.",
+      "pt_br": ""
+    },
+    {
+      "id": 184,
+      "en": "<$cdef(27)><$cname(121)></color>, who has the <$cdef(27)><fcap><$spwfull(22)></color> specialty, can emit light to<br><$cdef(27)><$spwfull(22)></color> the whole town. But they need to build up enough<br>electricity at a powered <$cdef(27)><$bfull(32)> </color>first.",
+      "pt_br": ""
+    },
+    {
+      "id": 185,
+      "en": "Pokémon become more active at night when the town is<br><$cdef(27)><$spwfull(22)>d</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 186,
+      "en": "Machines that produce electricity. The way electricity is produced<br>and the amount produced varies depending on the type of<br>generator.",
+      "pt_br": ""
+    },
+    {
+      "id": 187,
+      "en": "You can place <$cdef(27)><fqty(2)><class><$ifull(1396)> </color>near a <$cdef(27)>generator </color>to transmit<br>electricity over long distances.",
+      "pt_br": ""
+    },
+    {
+      "id": 188,
+      "en": "<$cdef(27)><fcap><fqty(2)><$ifull(1379)></color> produce electricity using wind power. They work no<br>matter where you place them, but they’ll make more electricity<br>if you install them at higher elevations.",
+      "pt_br": ""
+    },
+    {
+      "id": 189,
+      "en": "You can <$cdef(27)>transform</color> into a new look by pressing <$keyicon(6)> near any<br>furniture with a mirror, such as a <$cdef(27)>dresser</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 190,
+      "en": "You can use the outfits you’ve obtained to change your look<br>however you like.",
+      "pt_br": ""
+    },
+    {
+      "id": 191,
+      "en": "If you choose <$cdef(27)>Ditto color</color> for your face, your entire body will<br>become that color. You will not be able to change the individual<br>color of other parts of your body, such as your hair or clothing.",
+      "pt_br": ""
+    },
+    {
+      "id": 192,
+      "en": "<oneline>The flower on <$cdef(27)><$cname;0(272)></color>’s head will bloom more and more as the<br>town brightens. Install lights everywhere to really illuminate<br>your town!",
+      "pt_br": ""
+    },
+    {
+      "id": 193,
+      "en": "You can press <$keyicon(0)> to gulp any drink you’re holding in your hands.<br>The liquid you can spit out afterward changes depending on the<br>drink you gulped!",
+      "pt_br": ""
+    },
+    {
+      "id": 194,
+      "en": "The <$cdef(27)><fqty(1)><$ifull(1443)></color> at the <$cdef(27)>Pokémon Center</color> can create a copy of<br>an item from a photograph. You’ll need <$cdef(27)><fqty(1)><$ifull(120)></color> to create<br>copies.",
+      "pt_br": ""
+    },
+    {
+      "id": 195,
+      "en": "Object mode lets you take the photos you need for creating<br>copies of items. Boot up the camera with <$keyicon(52)>, then switch modes<br>with <$keyicon(50)> before taking a photo.",
+      "pt_br": ""
+    },
+    {
+      "id": 196,
+      "en": "You can even create copies from photos you take on Cloud<br>Islands or in other players’ towns.",
+      "pt_br": ""
+    },
+    {
+      "id": 197,
+      "en": "If a Pokémon you’re looking for is not near their home, use<br><$cdef(27)><fqty(1)><$ifull(3994)> </color>in front of their home. The sweet smell will lure<br>them back!",
+      "pt_br": ""
+    },
+    {
+      "id": 198,
+      "en": "If you would like a Pokémon to move to a different home, bring<br>them to a different habitat and ask them to live there instead.<br>You can also have them move to a new town.",
+      "pt_br": ""
+    },
+    {
+      "id": 199,
+      "en": "However, a Pokémon will not move into a habitat that includes<br>something they dislike.",
+      "pt_br": ""
+    },
+    {
+      "id": 200,
+      "en": "You may sometimes see ripples and sparkles on the water’s<br>surface. You can investigate them to get items.",
+      "pt_br": ""
+    },
+    {
+      "id": 201,
+      "en": "Sometimes you may notice flowers that are sparkling. You can<br>inspect these flowers to obtain <$cdef(27)><fqty(1)><$ifull(3994)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 202,
+      "en": "If you talk to a Pokémon with the <$cdef(27)><fcap><$spwfull(11)> </color>specialty while<br>you’re holding a <$cdef(27)><fqty(1)><$ifull(2793)></color>, you can <$cdef(27)>look for items</color>.<br>Work together to find items buried in the ground!",
+      "pt_br": ""
+    },
+    {
+      "id": 203,
+      "en": "Press <$keyicon(0)> to have your Pokémon friend show you which direction<br>to go to find a buried item.",
+      "pt_br": ""
+    },
+    {
+      "id": 204,
+      "en": "You can fit <$cdef(27)>mysterious slates </color>into the indentation on the wall.",
+      "pt_br": ""
+    },
+    {
+      "id": 205,
+      "en": "<$cdef(27)>Mysterious slates </color>can sometimes be found buried in the ground.<br>Use the <$cdef(27)>Dowsing Machine</color> to look for them! Something might<br>happen if you insert all the <$cdef(27)>slates</color> in the correct configuration.",
+      "pt_br": ""
+    },
+    {
+      "id": 206,
+      "en": "You can only travel to <$cdef(27)>one Dream Island per day</color>, but you can<br>revisit that island <$cdef(27)>as many times as you want</color>. If you would like to<br>go to a different island, you’ll have to wait until the next day to<br>talk to <$cdef(27)>Drifloon</color> again.",
+      "pt_br": ""
+    },
+    {
+      "id": 207,
+      "en": "At the start of a new day, <$cdef(27)>Drifloon</color> will forget the location of any<br><$cdef(27)>Dream Islands</color> you visited the day before, but they’ll find a new<br>island for you every day. Make sure to travel to an island daily if<br>you want to gather heaps of materials!",
+      "pt_br": ""
+    },
+    {
+      "id": 208,
+      "en": "These are small goals that will help improve the <$cdef(27)>comfort</color> of<br>Pokémon in the area and raise the <$cdef(27)>environment level</color>.<br>Completing challenges will award <$cdef(27)>Life Coins</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 209,
+      "en": "<$cdef(27)>Challenge Days</color> take place once a week. On these days, you can<br>get more <$cdef(27)>Life Coins</color> than usual for completing <$cdef(27)>daily challenges</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 210,
+      "en": "At the <$cdef(27)>PC</color> <$cdef(27)>shop</color>, you can use <$cdef(27)>Life Coins</color> earned from <$cdef(27)>challenges<br></color>and other events to buy <$cdef(27)>items</color>, <$cdef(27)>recipes</color>, and more!",
+      "pt_br": ""
+    },
+    {
+      "id": 211,
+      "en": "Some items for sale in the shop can unlock useful features, so<br>complete lots of <$cdef(27)>challenges</color> to collect <$cdef(27)>Life Coins</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 212,
+      "en": "Certain days of the week are <$cdef(27)>Shop Days</color>. On these days, rarer<br>items than usual will be available under the <$cdef(27)>Today Only! </color>header.",
+      "pt_br": ""
+    },
+    {
+      "id": 213,
+      "en": "You can <$cdef(27)>order</color> items available for purchase from <$cdef(27)>shops</color> in other<br>players’ towns! Any items you <$cdef(27)>order</color> will be delivered via the <$cdef(27)>PC</color><br>in your town.",
+      "pt_br": ""
+    },
+    {
+      "id": 214,
+      "en": "You can begin a <$cdef(27)>stamp rally </color>after receiving a stamp card from the<br><$cdef(27)>PC</color> at the <$cdef(27)>Pokémon Center</color>. You can add a stamp to the card once<br>per day using the <$cdef(27)>PC</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 215,
+      "en": "Every Friday, you can exchange the stamps you’ve collected for<br><$cdef(27)>Life Coins</color>. If you’ve collected rare stamps on your card, you’ll get<br>more <$cdef(27)>Life Coins</color> than usual!",
+      "pt_br": ""
+    },
+    {
+      "id": 216,
+      "en": "You can stamp your card at <$cdef(27)>Pokémon Center PCs</color> in other<br>locations, too—such as another player’s world or a <$cdef(27)>Cloud Island</color>.<br>Collect as many stamps as you can get each week before Friday<br>rolls around!",
+      "pt_br": ""
+    },
+    {
+      "id": 217,
+      "en": "You can select a Pokémon in your <$cdef(27)>Pokédex</color> you want to find and<br>press <$keyicon(233)> to begin <$cdef(27)>searching for them</color>. While you’re searching for<br>a Pokémon, other Pokémon you talk to will tell you<$cdef(27)> where that<br>Pokémon is</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 218,
+      "en": "This camera lets you view things even when you’re far away.<br>Place a <$cdef(27)><fqty(1)><$ifull(1471)></color> on the ground, then select Security<br>Cameras from the <$cdef(27)>Camera</color> menu to view what it’s seeing. If you’ve<br>placed several cameras, you’ll be able to toggle between the<br>different camera views.",
+      "pt_br": ""
+    },
+    {
+      "id": 219,
+      "en": "Interact with a <$cdef(27)>doll</color> on the ground to summon <$cdef(27)>Drifloon</color>.<br>If you ever want to go to a <$cdef(27)>Dream Island</color>, call <$cdef(27)>Drifloon</color> using<br>any <$cdef(27)>doll</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 220,
+      "en": "The <$cdef(27)>Dream Island</color> that <$cdef(27)>Drifloon</color> takes you to will change<br>depending on the type the <$cdef(27)>doll</color> used. Try finding different <$cdef(27)>dolls</color><br>if you want to visit new <$cdef(27)>Dream Islands</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 221,
+      "en": "Place a Joy-Con 2 with its colored side down on a desk or other<br>flat surface to <$cdef(27)>enable mouse controls</color>. While using mouse controls,<br>you can spit out items where you place the mouse cursor.",
+      "pt_br": ""
+    },
+    {
+      "id": 222,
+      "en": "While mouse controls are enabled, you can also use the cursor to<br>target specific blocks to break with Rock Smash.",
+      "pt_br": ""
+    },
+    {
+      "id": 223,
+      "en": "You can use mouse controls with either a Joy-Con 2 (R) or a<br>Joy-Con 2 (L).",
+      "pt_br": ""
+    },
+    {
+      "id": 224,
+      "en": "You can move around effortlessly in water without worry, no<br>matter how long you’re under or how deep you dive!",
+      "pt_br": ""
+    },
+    {
+      "id": 225,
+      "en": "Hold <$keyicon(55)> while underwater to swim. While holding <$keyicon(55)>, you can<br>press <$keyicon(77)> to dive deeper or press <$keyicon(76)> to float higher.",
+      "pt_br": ""
+    },
+    {
+      "id": 226,
+      "en": "You can float in place underwater by holding <$keyicon(141)>. This makes it<br>easy to place items in specific locations.<br><br>You can also quickly spin <$keyicon(194)> to sink to the bottom of the sea.",
+      "pt_br": ""
+    },
+    {
+      "id": 227,
+      "en": "Press and hold <$keyicon(6)> to use <$cdef(27)>Strength</color>. While using <$cdef(27)>Strength</color>, you can<br>push and pull objects in the world.",
+      "pt_br": ""
+    },
+    {
+      "id": 228,
+      "en": "If you tilt <$keyicon(194)> while using <$cdef(27)>Strength</color>, you can rotate an object in<br>front of you to the left or right.",
+      "pt_br": ""
+    },
+    {
+      "id": 229,
+      "en": "You can use a <$cdef(27)><fqty(1)><$ifull(1301)> </color>and other kitchen equipment to<br>cook food with various ingredients. Eating food you cook will<br>power up your moves.",
+      "pt_br": ""
+    },
+    {
+      "id": 230,
+      "en": "If other Pokémon are nearby when you cook, they might join<br>in and help out. You may even end up with a different end result<br>than expected depending on the Pokémon’s specialty and the<br>ingredients you used. Try making all sorts of food and see what<br>you come up with!",
+      "pt_br": ""
+    },
+    {
+      "id": 231,
+      "en": "You can melt materials such as <$cdef(27)><fqty(1)><$ifull(106)></color> and <$cdef(27)><fqty(1)><$ifull(107)></color> to<br>make <$cdef(27)>ingots</color>. Place the materials in a smelting furnace and ask a<br>Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty to help you.",
+      "pt_br": ""
+    },
+    {
+      "id": 232,
+      "en": "Pokémon with the <$icon(11004)><fcap><$cdef(27)><$spwname(14)></color> specialty will start dancing if music’s<br>playing nearby, improving the <$cdef(27)>mood</color> of the area.",
+      "pt_br": ""
+    },
+    {
+      "id": 233,
+      "en": "This move transforms you into a <$cdef(27)>Graveler</color>. Tilt <$keyicon(194)> to quickly roll<br>in that direction. You can roll even faster by holding down <$keyicon(55)> or<br>pressing <$keyicon(54)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 234,
+      "en": "While holding down <$keyicon(1)>, you can roll into things to break them.<br>However, if you roll into something that <$cdef(27)><$sklfull(4)> </color>can’t<br>break, <$cdef(27)><$sklfull(12)></color> won’t break it either, and your rolling will come<br>to an abrupt stop.",
+      "pt_br": ""
+    },
+    {
+      "id": 235,
+      "en": "While transformed, you’ll gradually spend <$cdef(27)>PP</color>. Once out of <$cdef(27)>PP</color>, you<br>won’t be able to roll anymore.",
+      "pt_br": ""
+    },
+    {
+      "id": 236,
+      "en": "If you place a <$cdef(27)><fqty(1)><$ifull(1461)></color> on connected <$cdef(27)><fqty(2)><$ifull(1463)></color>, you<br>can ride it to get around. If you connect additional <$cdef(27)><fqty(2)><$ifull(1461)></color>,<br>you can bring small Pokémon with you on your ride.",
+      "pt_br": ""
+    },
+    {
+      "id": 237,
+      "en": "Place a <$cdef(27)><fqty(1)><$ifull(1466)></color> near a line of <$cdef(27)><fqty(2)><$ifull(1463)> </color>to make<br>a <$cdef(27)><$hatname(21)> </color>where <$cdef(27)><fqty(2)><$ifull(1461)></color> will briefly stop.<br>Connect two <$cdef(27)><$hatname(21)>s </color>via <$cdef(27)><fqty(2)><$ifull(1463)></color>, and<br>Pokémon will ride <$cdef(27)><fqty(2)><$ifull(1461)></color> on their own.",
+      "pt_br": ""
+    },
+    {
+      "id": 238,
+      "en": "<oneline>First, set up a <$cdef(27)><fqty(1)><$ifull(1729)></color>. Once the <$cdef(27)>mood</color> around the<br><$cdef(27)><fqty(1)><$ifull(1729)></color> improves, you can throw a <$cdef(27)><$spwfull(23)></color>.<br>You can check the current <$cdef(27)>mood</color> by speaking to <$cdef(27)><$cname;0(274)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 239,
+      "en": "There are various ways to improve the <$cdef(27)>mood</color>.<br>・Install <$cdef(27)><fqty(2)><$ifull(3997)></color> around the area.<br>・Set up some <$cdef(27)>decorations</color>.<br>・Serve food on a <$cdef(27)><fqty(1)><$ifull(400)></color>.<br>・Get Pokémon with the <$cdef(27)><fcap><$spwfull(14)></color> specialty to start dancing.",
+      "pt_br": ""
+    },
+    {
+      "id": 240,
+      "en": "Once the <$cdef(27)>mood</color> reaches <$cdef(27)>100</color>, have <$cdef(27)><$cname;0(216)> </color>prepare some<br>party food!",
+      "pt_br": ""
+    },
+    {
+      "id": 241,
+      "en": "You may occasionally dig up <$cdef(27)>Pokémon fossils</color>. Some fossils are<br>made up of multiple parts, so make sure they’re assembled in the<br>proper order when displaying them on <$cdef(27)><fqty(2)><$ifull(1528)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 242,
+      "en": "Some Pokémon may ask you to play “look that way.” In this game,<br>you must guess when prompted whether the Pokémon will look<br>left or right by pressing <$keyicon(222)> or <$keyicon(223)> accordingly. Guess correctly,<br>and you win the round. Guess incorrectly, and you lose.",
+      "pt_br": ""
+    },
+    {
+      "id": 243,
+      "en": "If you have more wins than losses after three rounds, you win the<br>game. Winning will greatly increase your friendship with the<br>Pokémon. But even if you lose, your friendship still improves<br>somewhat.",
+      "pt_br": ""
+    },
+    {
+      "id": 244,
+      "en": "You can press <$keyicon(29)> while you’re in the air to transform into<br><$cdef(27)>Dragonite </color>and use <$cdef(27)><$sklfull(11)> </color>to move around. You can’t ascend<br>higher than you were when you started gliding, though!",
+      "pt_br": ""
+    },
+    {
+      "id": 245,
+      "en": "While transformed, you’ll gradually spend <$cdef(27)>PP</color>. You’ll transform<br>back to your usual appearance when you land.",
+      "pt_br": ""
+    },
+    {
+      "id": 246,
+      "en": "You can create a <$cdef(27)>lift </color>by placing two <$cdef(27)><fqty(2)><$ifull(1457)></color> facing each<br>other at some distance. You can ride <$cdef(27)>lifts </color>to faraway places when<br>no other path is available and bring other Pokémon with you too.",
+      "pt_br": ""
+    },
+    {
+      "id": 247,
+      "en": "You can’t make a <$cdef(27)>lift</color> if the <$cdef(27)><fqty(2)><$ifull(1457)></color> are too far apart, if<br>the angle between them is too steep, or if something is blocking<br>the space between them.",
+      "pt_br": ""
+    },
+    {
+      "id": 248,
+      "en": "If you vertically place <$cdef(27)><fqty(2)><$ifull(1469)></color> and connect them<br>by <$iicon(1523)><$cdef(27)>ladders</color>, you can make <$cdef(27)>elevators</color> to transport you up<br>and down.",
+      "pt_br": ""
+    },
+    {
+      "id": 249,
+      "en": "You can summon an <$cdef(27)>elevator</color> by pressing the button on the<br>platform. You’ll have to wait a bit for the <$cdef(27)>elevator</color> to arrive. Once<br>you’re on the <$cdef(27)>elevator</color>, use the up or down button to move to the<br>floor you want to go to.",
+      "pt_br": ""
+    },
+    {
+      "id": 250,
+      "en": "You can quickly climb waterfalls while using <$cdef(27)><$sklfull(10)></color> by pressing<br><$keyicon(7)> in front of the waterfall you want to climb.",
+      "pt_br": ""
+    },
+    {
+      "id": 251,
+      "en": "This is a storage box that can be locked with a passcode. Open it<br>and press <$keyicon(242)> to set a passcode.",
+      "pt_br": ""
+    },
+    {
+      "id": 252,
+      "en": "Once a passcode has been set, all players other than the one who<br>placed the box will need to enter the correct passcode to open it.<br>However, you will still be able to move or remove other players’<br>storage boxes in your own world or on Cloud Isla",
+      "pt_br": ""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entry_index": 3584,
+  "bin_id": "0x915700",
+  "decompressed_size": 520,
+  "first_tag_offset": 184,
+  "total_strings": 3,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(2,7)><$emotion(2,8)>That Pokémon loves big pieces of coral and cute<br>flower beds!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(2,10)>Maybe you should try looking around there!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(2,10)><$facial(2,5)><$motion(2,661)><$comeff(2,21)>Oooh, you met <$cdef(27)><$cname(577)></color>? YAY! If they need anything,<br>make sure to help ’em out!",
+      "pt_br": ""
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "entry_index": 4340,
+  "bin_id": "0xb01400",
+  "decompressed_size": 1176,
+  "first_tag_offset": 478,
+  "total_strings": 9,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><dgt2;1(lnum2)></color> <$cdef(27)><class><$inamewithnum;0(lnum1,lnum2)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Build a new house!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Make <iart;0()><$cdef(27)><$hatname;0(lnum1)></color> habitat!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<oneline>Make <iart;0()><$cdef(27)><fqty(1)><class><$iname;0(lnum1)> </color>for<br><$cdef(27)><$cname;1(lnum4)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Clear a path to the <$cdef(27)><$gquestdest;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<oneline>Put <iart;0()><fqty(1)><class><$cdef(27)><$iname;0(lnum1)> </color>near their<br>home!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Bring <$cdef(27)><$cname;1(lnum2)></color> to <$cdef(27)><$cname;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Take a selfie with <$cdef(27)><$cname;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Try talking to <$cdef(27)><$cname;0(lnum1)></color>!",
+      "pt_br": ""
+    }
+  ]
+}

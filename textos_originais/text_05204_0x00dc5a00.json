@@ -1,0 +1,734 @@
+{
+  "entry_index": 5204,
+  "bin_id": "0xdc5a00",
+  "decompressed_size": 14560,
+  "first_tag_offset": 2398,
+  "total_strings": 145,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><fcap><fqty(1)><$iname(3994)></color> can be gathered from flowers. May you please<br>bring some to me?",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Wanna hit rocks above you? Just look up and POW!<br>Buried rocks giving you trouble? Look down and BAM!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Ugh. I feel so...bleh. Maybe a little light would help.",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "Run-down lots where human houses used to be would<br>probably make good spots to place <$cdef(27)>building kits</color>, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "I hope a <$cdef(27)><fqty(1)><$iname(1622)></color> will help awaken <$cdef(27)><$cname;0(272)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "Yo, I bet you’d have no problem swimming all the way<br>to that boat!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Don’t forget—you need to place <$cdef(27)>three</color> different<br>kinds of furniture!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "I wanna stuff my face with <$cdef(27)><fqty(1)><$iname(7)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Get some <$cdef(27)>shiny treasure</color> from the cave!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "I feel like there might be a <$cdef(27)>pearl</color> in the cave...",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "If ya bring me some <$cdef(27)><fqty(2)><$iname(436)></color>, I’d be happy to<br>pretty ’em up fer ya!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Adding a little decoration ought to lift up the <$cdef(27)>mood</color><br>around here!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "Let’s make loads of food and serve it up on<br><$cdef(27)><fqty(2)><$iname(400)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "I wanna have some <$cdef(27)>bread</color> with <$cdef(27)><fqty(2)><$iname(2035)></color> in it!",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "C-could you put furniture made from <$cdef(27)><fqty(2)><$iname(435)><br></color>in my home, please?",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "I’d like to try <iart;0()><$cdef(27)><fqty(1)><class><$iname;0(24)></color>.<br>The thinly-sliced kind, if possible.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Yooo! I can’t play music without <$cdef(27)>CDs</color>! I wonder if you<br>could find some just lyin’ around?",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Let me know when the road is cleeeaaar...",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "I’m pretty sure <$cdef(27)>Ludicolo</color>’s good at dancin’, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Could you find a kind Pokémon who can make<br>bubbles and bring them to the crop field?",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "Could you have someone chop up some <$cdef(27)><fqty(1)><$iname(520)><br></color>for me, please?",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "The underwater house I’m thinkin’ of looked just like<br><$cdef(27)><$cname(572)></color>, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "Build it wherever you want!",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "There’re all kinds of ways to raise the <$cdef(27)>mood</color>, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "I feel like I saw it in a house somewhere in the town...",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Think you can find me? Go ahead and try!",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "I bet we could get that gizmo working if we found a<br>Pokémon that can make electricity!",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "I really wanna see one of those sparkly<br>rainbow-colored feathers, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "If you’re gonna <$cdef(27)><$spwname(1)></color> something, I wanna help!",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "Make some habitats to bring more Pokémon back!",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "The pot is really big, so be sure to clear plenty<br>of space!",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "I need ya to put a <$cdef(27)><fqty(1)><$iname(1466)></color> next to some<br><$cdef(27)><fqty(1)><$iname(1463)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Any kind of <$cdef(27)><fqty(1)><$iname(3997)> </color>is fine, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "I want a <$cdef(27)><fqty(1)><$iname(449)></color>, some <$cdef(27)><fqty(1)><class><$iname(440)></color>, and my<br><$cdef(27)><fqty(1)><$iname(541)> </color>in my home!",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Let’s go farther into the cave!",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "I know there’s a doll around here somewhere...",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "I want a home too!",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Lighting the place up with <$cdef(27)><fqty(1)><$iname(449)>s </color>might help<br>you find it!",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "<oneline>I can’t wait to try your <$cdef(27)>smoothie</color>,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Hmmm... It’d be so nice if all <$cdef(27)>three posts</color> were<br>brightly lit.",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "You gotta use a <$cdef(27)>building kit</color> to <$cdef(27)><$spwname(1)></color> a house!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "Don’t worryyy. I’ll rescue you if you fall, so it’s no<br>big deeeaaal...",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "<$cdef(27)><fcap><fqty(2)><$iname(1458)> </color>got a pipe that sucks up water!",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "Gimme an <$cdef(27)><fqty(1)><$iname(115)></color>, and I’ll process it in no time!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "Put those <$cdef(27)><fqty(2)><$iname(119)></color> I made to good use!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "If you wanna get <$cdef(27)>lifts</color> up and running, you gotta start<br>by setting up some <$cdef(27)><fqty(2)><$iname(1457)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "I’ll help you out!",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "There should be an <$cdef(27)><fqty(1)><$iname(1469)></color> at the top of<br>that <$cdef(27)>ladder</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "Lemme know when you finish makin’ it, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Maybe a little water’ll perk things up!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "I wish I had a nice, soft place to sleep near my home!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "My move’s really lost its edge... I wanna sharpen up!",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "You got any decent-sized <$cdef(27)><fqty(2)><$iname(404)></color>? I could use some to<br>practice my move on.",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "Put it right on top of your house so it’s easy to see!",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "You gotta place three different kinds of furniture<br>in a house before someone can live there!",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "You wouldn’t happen to know how to make a home<br>that stays nice ’n’ dry even when it rains, would ya?",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "Some <$cdef(27)><fqty(2)><$iname(2035)></color> sound REALLY yummy...",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "You can use <$cdef(27)><$sklname(2)></color> to dig up flowers—roots and all!",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Hmmm... I can smell water. It’s close...",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "If we could spray that water around somehow, I bet<br>it’d make this area more humid...",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "There might be a buncha dried-up trees somewhere!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Maybe a field of flowers would help get more water<br>in the air. I wanna help too!",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "I think if my home was near water, I’d do even better!",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "It’s so humid! I love it!",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "For the Rain Dance party, you’ll need <$cdef(27)>something that<br>makes you think of rain</color> and a <$cdef(27)>plate with food on it</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "The soil around here is totally lacking in the water<br>department, my friend!",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "Try growing those seeds I gave you. Just plant ’em in<br>the ground and water them occasionally.",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "My shack is totally flooded! Can ya help me out?",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "I think there’s someone living near the water who<br>can wash off dirt ’n’ stuff.",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "I bet <$cdef(27)><$cname;0(229)></color> knows how to make <$cdef(27)><fqty(2)><$iname(1410)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "<oneline>Let’s get <$cdef(27)><$cname;0(130)></color> to help us<br>gather <$cdef(27)><fqty(2)><class><$iname(107)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "Um... I can’t sleep without <$cdef(27)><fqty(1)><$iname(111)></color>. Is there maybe a<br>fluffy Pokémon around who can help?",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "A scary sound woke me up...",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Yooo, do ya think there are any Pokémon around here<br>who can make electricity?",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "That Pokémon might be able to teach you how to<br>store water in your body!",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "Maybe <$cdef(27)><$cname;0(272)></color>’ll wake up if the area brightens up?",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "Shall we try using <$cdef(27)><fqty(2)><$iname(1396)> </color>to transfer the<br>electricity made by the <$cdef(27)>generators</color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "I wanna live somewhere near a BIG machine...",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "I wonder if placing <$cdef(27)><fqty(2)><$iname(1396)></color> near this device will<br>achieve anything. Shall we try it?",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Electricity’s not the only way to make things<br>brighter! Lemme know if you wanna light a fire!",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "We could get to the other side if we could just break<br>through that wall...",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "Yooo! I wanna try goin’ up to the top of that building<br>on the cliff!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "<$cdef(27)><$cname;0(24)></color>’s super good at <$cdef(27)><$spwname(15)>ping </color>trees!",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "Bring me some <$cdef(27)><fqty(2)><$iname(1482)></color> and I’ll show you something<br>mega cool!",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "I like dark places! Team darkness forever!",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "There might be some warm water in something called<br>a <$cdef(27)><fqty(1)><$iname(616)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "I’d love a machine that lets me play with water...<br>Maybe I can find one near the ocean?",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "A long time ago, I saw a big machine with <$cdef(27)><fqty(1)><$iname(407)> </color>and<br>stuff burning inside it!",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "This thing should work if it gets electricity!",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "Cleaning sure takes up a lotta energy. It makes a<br>great workout!",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "It’d be nice to sit on a <$cdef(27)><fqty(1)><$iname;0(1541)> </color>again.",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "I’ll help make the <$cdef(27)>salad</color> too!",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "I don’t think the pool can fill up with water when it’s<br>all broken...",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "As much as I’d like to teach you my move, this beach<br>is far too muddy.",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "Let’s go to where the noises are comin’ from, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "I wanna eat a <$cdef(27)><fqty(1)><$iname(8)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "Let’s get over to that giant building! All we gotta do<br>is build a bridge right to it!",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "Can ya ask <$cdef(27)><$cname(29)></color> about <$cdef(27)><fqty(2)><$iname(1469)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "You’ll need an <$cdef(27)><fqty(1)><$iname(1469)></color> to get an<br><$cdef(27)>elevator </color>working.",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "Let’s take the <$cdef(27)>elevator</color>—it’ll get us there in no time!",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "Make sure it’s close to the dojo, OK?",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "You gotta get a Pokémon who’s good at <$cdef(27)><$spwname(10)>in’ </color>things<br>to lend us a hand, ya hear?!",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "There’s tons of <$cdef(27)><fqty(1)><$iname(1010)></color> in this island’s caves!",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "What could be in that cave?",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "You might be able to smash those rocks more easily<br>by eating a dish to power up your move.",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "I think you need <$cdef(27)><fqty(1)><$iname(126)></color> to make a <$cdef(27)><fqty(1)><$iname(1812)></color>!<br>Maybe you could use the <$cdef(27)><fqty(1)><$iname(1801)></color> around here?",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "We finally made it to the massive building! Come on,<br>let’s go check out what it’s like inside!",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "I need ya to find all sorts of islands in this town and<br>gather up all the materials and Pokémon ya can!",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "This’ll take a bit of time. You can go do something<br>else while you wait!",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "Once we get <$cdef(27)>two</color> <$cdef(27)><fqty(2)><class><$iname(1654)> </color>in here, this’ll be the<br>classiest entrance of all time!",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "I would love to see this become a place where<br>everyone can play.",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "This’ll take a bit of time. You can go do something<br>else while you wait!",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "Could I ask you to use a <$cdef(27)><$bname(33)></color> to send some<br>electricity to a <$cdef(27)><fqty(1)><$iname(1703)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "<$cdef(27)><fcap><fqty(1)><$iname(112)></color> is a kind of soft, light-brown soil!",
+      "pt_br": ""
+    },
+    {
+      "id": 114,
+      "en": "If you could find hard <$cdef(27)><fqty(1)><$iname(109)></color>—like<br>empty cans and stuff—that’d be great, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 115,
+      "en": "So I hear there’s a <$cdef(27)>Greedent who’s good at cooking</color>!<br>Think you could bring ’em to me?",
+      "pt_br": ""
+    },
+    {
+      "id": 116,
+      "en": "This’ll take a bit of time. You can go do something<br>else while you wait!",
+      "pt_br": ""
+    },
+    {
+      "id": 117,
+      "en": "I heard there’s a <$cdef(27)>Pikachu who’s all prim and proper</color>!<br>Would sure love to meet ’em!",
+      "pt_br": ""
+    },
+    {
+      "id": 118,
+      "en": "The humans played <$cdef(27)>CDs</color>. They did it with <$cdef(27)><fqty(1)><$iname(1802)>s</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 119,
+      "en": "I’d really like to be close to everyone. Yeah, that’d<br>be nice...",
+      "pt_br": ""
+    },
+    {
+      "id": 120,
+      "en": "Ughhh, I just don’t feel like doing anything... If only<br>someone could bring me a <$cdef(27)>doll</color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 121,
+      "en": "This is no time for ART—I’m starving! Famished!<br>Wasting away! Please, bring me a <$cdef(27)><fqty(1)><$iname(2340)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 122,
+      "en": "Why don’t you go and ask a Pokémon with the <$cdef(27)><fcap><$spwname(16)></color><br>specialty to help?",
+      "pt_br": ""
+    },
+    {
+      "id": 123,
+      "en": "Think you can bring me a piece of furniture you want<br>me to <$cdef(27)><$spwname(21)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 124,
+      "en": "You oughta be able to change the color of something<br>if you use a <$cdef(27)>paint balloon</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 125,
+      "en": "I BEG of you! Please bring me a <$cdef(27)>fossil</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 126,
+      "en": "Changing the color or pattern of different parts will<br>bring new ARTISTIC INNOVATIONS to life!",
+      "pt_br": ""
+    },
+    {
+      "id": 127,
+      "en": "<oneline>I wanna camouflage myself as<br><iart;1()><$cdef(27)><fqty(1)><class><$iname;1(1274)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 128,
+      "en": "Can you <$cdef(27)><flow><$sklname(6)></color> right? I’ll judge!",
+      "pt_br": ""
+    },
+    {
+      "id": 129,
+      "en": "First off, please search for <$cdef(27)><$cname;0(82)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 130,
+      "en": "Next, I’d like for you to look for <$cdef(27)><$cname;0(138)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 131,
+      "en": "Lastly, could I ask you to find <$cdef(27)><$cname;0(295)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 132,
+      "en": "If ya find some food, jus’ put it on the dish fer me,<br>ya hear?",
+      "pt_br": ""
+    },
+    {
+      "id": 133,
+      "en": "Put some spicy food on that there dish fer me, jus’<br>like ya did with the other food before!",
+      "pt_br": ""
+    },
+    {
+      "id": 134,
+      "en": "Once we’re done, let’s head back to the <$cdef(27)>Pokémon<br>Center</color> in the <$cdef(27)>Sparkling Skylands</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 135,
+      "en": "Of course I’ll help out too!",
+      "pt_br": ""
+    },
+    {
+      "id": 136,
+      "en": "The <$cdef(27)>wheelbarrow </color>in the cave is absolutely essential.",
+      "pt_br": ""
+    },
+    {
+      "id": 137,
+      "en": "Don’t forget to light it!",
+      "pt_br": ""
+    },
+    {
+      "id": 138,
+      "en": "It’d be cool if you could bring me all kinds of<br><$cdef(27)>CDs</color>, yo!",
+      "pt_br": ""
+    },
+    {
+      "id": 139,
+      "en": "Yo, I want you to give me your most hype playlist!",
+      "pt_br": ""
+    },
+    {
+      "id": 140,
+      "en": "There was a large-sized building here. It was nice.",
+      "pt_br": ""
+    },
+    {
+      "id": 141,
+      "en": "It wouldn’t be right without a <$cdef(27)><fqty(1)><$iname(2075)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 142,
+      "en": "That book might have a hint about the secret<br>ingredient.",
+      "pt_br": ""
+    },
+    {
+      "id": 143,
+      "en": "Try growing them until they sprout!",
+      "pt_br": ""
+    },
+    {
+      "id": 144,
+      "en": "It was coming from dowwwn in the cave on the bottom<br>part of the island with the <$cdef(27)>Pokémon Center</color>...",
+      "pt_br": ""
+    }
+  ]
+}

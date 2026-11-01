@@ -1,0 +1,424 @@
+{
+  "entry_index": 4205,
+  "bin_id": "0xac6e00",
+  "decompressed_size": 3448,
+  "first_tag_offset": 1187,
+  "total_strings": 83,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>... ♪",
+      "pt_br": "<$cdef(27)><$etpname;0(lnum1)></color>... ♪"
+    },
+    {
+      "id": 1,
+      "en": "It’s greener now... ♪",
+      "pt_br": "Está mais verde agora..."
+    },
+    {
+      "id": 2,
+      "en": "A new friend! Hee hee!",
+      "pt_br": "Um novo amigo!"
+    },
+    {
+      "id": 3,
+      "en": "Heee! Haaa!",
+      "pt_br": "Haaaa!"
+    },
+    {
+      "id": 4,
+      "en": "Hnnngh... Hrgh...",
+      "pt_br": "Hnnngh... hrgh..."
+    },
+    {
+      "id": 5,
+      "en": "Just finishing up now.",
+      "pt_br": "Estou a acabar agora."
+    },
+    {
+      "id": 6,
+      "en": "La la laaa... ♪",
+      "pt_br": "La laaa..."
+    },
+    {
+      "id": 7,
+      "en": "Rain? I better get home...",
+      "pt_br": "É melhor eu ir para casa..."
+    },
+    {
+      "id": 8,
+      "en": "Oooh, that looks nice...",
+      "pt_br": "Oh, isso parece-me bem..."
+    },
+    {
+      "id": 9,
+      "en": "I wanna do something fun.",
+      "pt_br": "Quero fazer algo divertido."
+    },
+    {
+      "id": 10,
+      "en": "Uh-oh. This’ll be tricky.",
+      "pt_br": "Isto vai ser complicado."
+    },
+    {
+      "id": 11,
+      "en": "Phew... I’m tired.",
+      "pt_br": "Ufa... Estou cansado."
+    },
+    {
+      "id": 12,
+      "en": "I’m heeere!",
+      "pt_br": "Eu sou heere!"
+    },
+    {
+      "id": 13,
+      "en": "It’s kinda hard to walk here...",
+      "pt_br": "É meio difícil andar aqui..."
+    },
+    {
+      "id": 14,
+      "en": "Something’s heeere! ♪",
+      "pt_br": "Alguma coisa está acontecendo!"
+    },
+    {
+      "id": 15,
+      "en": "Maybe check up above?",
+      "pt_br": "Talvez verificar lá em cima?"
+    },
+    {
+      "id": 16,
+      "en": "Maybe check down below?",
+      "pt_br": "Talvez verificar lá em baixo?"
+    },
+    {
+      "id": 17,
+      "en": "Oooh, maybe over here?",
+      "pt_br": "Oooh, talvez aqui?"
+    },
+    {
+      "id": 18,
+      "en": "Um... I can’t find anything.",
+      "pt_br": "Não consigo encontrar nada."
+    },
+    {
+      "id": 19,
+      "en": "Wanna check over there?",
+      "pt_br": "quer ver ali?"
+    },
+    {
+      "id": 20,
+      "en": "Something’s gotta be around here...",
+      "pt_br": "Tem de haver alguma coisa por aqui..."
+    },
+    {
+      "id": 21,
+      "en": "Um, is it time to go yet?",
+      "pt_br": "Já está na hora de ir?"
+    },
+    {
+      "id": 22,
+      "en": "Oh no... Dead end.",
+      "pt_br": "Não, não, não, não."
+    },
+    {
+      "id": 23,
+      "en": "Um, could you, like, bring it closer?",
+      "pt_br": "pode aproximar-te?"
+    },
+    {
+      "id": 24,
+      "en": "Yayyy!",
+      "pt_br": "Yayy!"
+    },
+    {
+      "id": 25,
+      "en": "Where’d it go...?",
+      "pt_br": "Para onde foi...?"
+    },
+    {
+      "id": 26,
+      "en": "Oooh, it got warmer. ♪",
+      "pt_br": "Oh, ficou mais quente."
+    },
+    {
+      "id": 27,
+      "en": "It’s kinda hot...",
+      "pt_br": "Está um pouco quente..."
+    },
+    {
+      "id": 28,
+      "en": "Oooh, it’s nice and cool... ♪",
+      "pt_br": "Oooh, é agradável e legal..."
+    },
+    {
+      "id": 29,
+      "en": "Uh, it’s kinda cold...",
+      "pt_br": "Está um pouco frio..."
+    },
+    {
+      "id": 30,
+      "en": "Oooh, it got brighter... ♪",
+      "pt_br": "Oooh, ficou mais brilhante..."
+    },
+    {
+      "id": 31,
+      "en": "Uh, it’s kinda bright...",
+      "pt_br": "É um pouco brilhante..."
+    },
+    {
+      "id": 32,
+      "en": "Oooh, it got darker... ♪",
+      "pt_br": "Oooh, ficou mais escuro..."
+    },
+    {
+      "id": 33,
+      "en": "Uh, it’s kinda dark.",
+      "pt_br": "Está um pouco escuro."
+    },
+    {
+      "id": 34,
+      "en": "Oooh, it’s more humid. ♪",
+      "pt_br": "Oooh, é mais úmido."
+    },
+    {
+      "id": 35,
+      "en": "Uh, it’s kinda muggy...",
+      "pt_br": "Está meio abafado..."
+    },
+    {
+      "id": 36,
+      "en": "Oooh, the air feels so dry. ♪",
+      "pt_br": "O ar parece tão seco."
+    },
+    {
+      "id": 37,
+      "en": "It’s sooo dry...",
+      "pt_br": "É tão seco..."
+    },
+    {
+      "id": 38,
+      "en": "Oh. I can’t get there...",
+      "pt_br": "Oh. Eu não consigo chegar lá..."
+    },
+    {
+      "id": 39,
+      "en": "Whoa, nice... Living here would be so, uh—nice.",
+      "pt_br": "Morar aqui seria tão... bom."
+    },
+    {
+      "id": 40,
+      "en": "Wow, this home is sooo nice. ♪",
+      "pt_br": "Uau, esta casa é tão bonita."
+    },
+    {
+      "id": 41,
+      "en": "Have a look.",
+      "pt_br": "Dá uma vista de olhos."
+    },
+    {
+      "id": 42,
+      "en": "Hmmm. Is it too small, maybe?",
+      "pt_br": "É muito pequeno, talvez?"
+    },
+    {
+      "id": 43,
+      "en": "Let’s go. ♪",
+      "pt_br": "Vamos."
+    },
+    {
+      "id": 44,
+      "en": "See you later! ♪",
+      "pt_br": "Até logo!"
+    },
+    {
+      "id": 45,
+      "en": "I hope I’ll be able to help.",
+      "pt_br": "Espero poder ajudar."
+    },
+    {
+      "id": 46,
+      "en": "Oooh, such a nice smell...",
+      "pt_br": "Que cheiro tão bom..."
+    },
+    {
+      "id": 47,
+      "en": "Um, I can’t right now...",
+      "pt_br": "Hum, eu não posso agora..."
+    },
+    {
+      "id": 48,
+      "en": "Whoa. It’s done! ♪",
+      "pt_br": "Está feito!"
+    },
+    {
+      "id": 49,
+      "en": "I’ve got this. ♪",
+      "pt_br": "Eu tenho isso."
+    },
+    {
+      "id": 50,
+      "en": "This feels new!",
+      "pt_br": "Isto é novo!"
+    },
+    {
+      "id": 51,
+      "en": "Oooh... What’s that?",
+      "pt_br": "O que é isso?"
+    },
+    {
+      "id": 52,
+      "en": "Ready or not, here I come!",
+      "pt_br": "Pronto ou não, aqui vou eu!"
+    },
+    {
+      "id": 53,
+      "en": "I’m too hungry... Sorry.",
+      "pt_br": "Estou com muita fome... Desculpe."
+    },
+    {
+      "id": 54,
+      "en": "Um... Who’s there?",
+      "pt_br": "Quem está aí?"
+    },
+    {
+      "id": 55,
+      "en": "Ooooooh!",
+      "pt_br": "Ooooooh!"
+    },
+    {
+      "id": 56,
+      "en": "There we go!",
+      "pt_br": "Aqui vamos nós!"
+    },
+    {
+      "id": 57,
+      "en": "It’s nice and warm!",
+      "pt_br": "É agradável e quente!"
+    },
+    {
+      "id": 58,
+      "en": "Heyyy! Wait for me...",
+      "pt_br": "Espera por mim..."
+    },
+    {
+      "id": 59,
+      "en": "Huh? Oh... I can’t get over there.",
+      "pt_br": "Ah... Eu não consigo chegar lá."
+    },
+    {
+      "id": 60,
+      "en": "I can handle this... ♪",
+      "pt_br": "Eu consigo lidar com isto..."
+    },
+    {
+      "id": 61,
+      "en": "First, um... Water!",
+      "pt_br": "Primeiro... água!"
+    },
+    {
+      "id": 62,
+      "en": "Where’d you go?",
+      "pt_br": "Onde você foi?"
+    },
+    {
+      "id": 63,
+      "en": "Maybe around here...?",
+      "pt_br": "Talvez por aqui...?"
+    },
+    {
+      "id": 64,
+      "en": "Wait, I have a hunch...",
+      "pt_br": "Espera, tenho um palpite..."
+    },
+    {
+      "id": 65,
+      "en": "I’m gonna sniff <$cdef(27)><$etpname;0(lnum1)></color> out...",
+      "pt_br": "Eu vou cheirar <$cdef(27)><$etpname;0(lnum1)></color> Fora..."
+    },
+    {
+      "id": 66,
+      "en": "I’ll know it when I see it...",
+      "pt_br": "Eu vou saber quando eu vê-lo..."
+    },
+    {
+      "id": 67,
+      "en": "Fooouuund yooouuu!",
+      "pt_br": "Foouuund yououuu!"
+    },
+    {
+      "id": 68,
+      "en": "It’s all falling apart!",
+      "pt_br": "Está tudo desmoronando!"
+    },
+    {
+      "id": 69,
+      "en": "Is it done yet...?",
+      "pt_br": "Já está feito?"
+    },
+    {
+      "id": 70,
+      "en": "This is so exciting!",
+      "pt_br": "Isto é tão emocionante!"
+    },
+    {
+      "id": 71,
+      "en": "Wow, <iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": "Wow, <iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+    },
+    {
+      "id": 72,
+      "en": "Can I start yet?",
+      "pt_br": "Já posso começar?"
+    },
+    {
+      "id": 73,
+      "en": "La di da. ♪",
+      "pt_br": "La di da."
+    },
+    {
+      "id": 74,
+      "en": "We did it!",
+      "pt_br": "Conseguimos!"
+    },
+    {
+      "id": 75,
+      "en": "The vibe here is so nice...",
+      "pt_br": "A vibração aqui é tão agradável..."
+    },
+    {
+      "id": 76,
+      "en": "There’s, y’know, water...",
+      "pt_br": "Há, você sabe, água..."
+    },
+    {
+      "id": 77,
+      "en": "I’m so hungry...",
+      "pt_br": "Estou com tanta fome..."
+    },
+    {
+      "id": 78,
+      "en": "Huh... I guess it won’t grow properly like this.",
+      "pt_br": "Huh... Eu acho que ele não vai crescer corretamente assim."
+    },
+    {
+      "id": 79,
+      "en": "Hmmm...? I must be imagining things again.",
+      "pt_br": "Devo estar a imaginar coisas outra vez."
+    },
+    {
+      "id": 80,
+      "en": "Did I hear something?",
+      "pt_br": "Ouvi alguma coisa?"
+    },
+    {
+      "id": 81,
+      "en": "Wow, <iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": "Wow, <iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+    },
+    {
+      "id": 82,
+      "en": "Uh, you’ve gotta get some <$cdef(27)>bubbles</color> on there first...",
+      "pt_br": "tem de arranjar algum. <$cdef(27)>bolhas</color> Ali primeiro..."
+    }
+  ]
+}

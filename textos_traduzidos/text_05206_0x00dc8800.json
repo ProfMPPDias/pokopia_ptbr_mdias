@@ -1,0 +1,734 @@
+{
+  "entry_index": 5206,
+  "bin_id": "0xdc8800",
+  "decompressed_size": 14672,
+  "first_tag_offset": 2363,
+  "total_strings": 145,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><fqty(1)><$iname(3994)></color> si può raccogliere dai fiori. Lo faresti per me?",
+      "pt_br": "<$cdef(27)><fqty(1)><$iname(3994)></color> si può raccogliere dai fiori. Lo faresti per me?"
+    },
+    {
+      "id": 1,
+      "en": "Per le rocce in alto guarda su e BAM!<br>Per quelle in basso guarda giù e BUM!",
+      "pt_br": "Per le rocce in alto guarda su e BAM!<br>Per quelle in basso guarda giù e BUM!"
+    },
+    {
+      "id": 2,
+      "en": "Meh... Non trovo le forze per muovermi.<br>Se solo ci fosse un po' di luce in più...",
+      "pt_br": "Meh... Non trovo le forze per muovermi.<br>Se solo ci fosse un po' di luce in più..."
+    },
+    {
+      "id": 3,
+      "en": "Potresti collocare un <$cdef(27)>kit da costruzione </color>su un terreno<br>incolto, dove ci sono case umane ormai in rovina.",
+      "pt_br": "Potresti collocare un <$cdef(27)>kit da costruzione </color>su un terreno<br>incolto, dove ci sono case umane ormai in rovina."
+    },
+    {
+      "id": 4,
+      "en": "Spero davvero che <$cname;0(272)> si svegli grazie<br>alla <$cdef(27)><flow><fqty(1)><$iname(1622)></color>...",
+      "pt_br": "Spero davvero che <$cname;0(272)> si svegli grazie<br>alla <$cdef(27)><flow><fqty(1)><$iname(1622)></color>..."
+    },
+    {
+      "id": 5,
+      "en": "Secondo me non avrai problemi a raggiungere<br>quella nave a nuoto, <$cdef(27)><pname;0></color>!",
+      "pt_br": "Secondo me non avrai problemi a raggiungere<br>quella nave a nuoto, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 6,
+      "en": "Mi raccomando, è essenziale che ci siano <$cdef(27)>tre</color> mobili<br>di tipo diverso!",
+      "pt_br": "Mi raccomando, è essenziale che ci siano <$cdef(27)>tre</color> mobili<br>di tipo diverso!"
+    },
+    {
+      "id": 7,
+      "en": "Vorrei scofanarmi un sacco di <$cdef(27)><fqty(1)><$iname(7)></color>...",
+      "pt_br": "Vorrei scofanarmi un sacco di <$cdef(27)><fqty(1)><$iname(7)></color>..."
+    },
+    {
+      "id": 8,
+      "en": "Vai a prendermi quel <$cdef(27)>tesoro scintillante </color>che si trova<br>nella grotta!",
+      "pt_br": "Vai a prendermi quel <$cdef(27)>tesoro scintillante </color>che si trova<br>nella grotta!"
+    },
+    {
+      "id": 9,
+      "en": "La mia <$cdef(27)>perla</color>... Non so... ma sento che si trova<br>nella grotta...",
+      "pt_br": "La mia <$cdef(27)>perla</color>... Non so... ma sento che si trova<br>nella grotta..."
+    },
+    {
+      "id": 10,
+      "en": "Se mi porti qualche <$cdef(27)><fqty(1)><$iname(436)></color>, te la pulisco<br>per bene!",
+      "pt_br": "Se mi porti qualche <$cdef(27)><fqty(1)><$iname(436)></color>, te la pulisco<br>per bene!"
+    },
+    {
+      "id": 11,
+      "en": "Qualche decorazione aumenterà l'<$cdef(27)>entusiasmo</color>!",
+      "pt_br": "Qualche decorazione aumenterà l'<$cdef(27)>entusiasmo</color>!"
+    },
+    {
+      "id": 12,
+      "en": "Per prima cosa prepariamo diverse prelibatezze,<br>poi mettiamole nei <$cdef(27)><fqty(2)><class><$iname(400)></color>!",
+      "pt_br": "Per prima cosa prepariamo diverse prelibatezze,<br>poi mettiamole nei <$cdef(27)><fqty(2)><class><$iname(400)></color>!"
+    },
+    {
+      "id": 13,
+      "en": "Che voglia di mangiare del <$cdef(27)>pane</color> con dentro<br>delle <$cdef(27)><fqty(2)><$iname(2035)></color>!",
+      "pt_br": "Che voglia di mangiare del <$cdef(27)>pane</color> con dentro<br>delle <$cdef(27)><fqty(2)><$iname(2035)></color>!"
+    },
+    {
+      "id": 14,
+      "en": "Potresti mettere a casa mia quel mobile che hai fatto<br>con la <$cdef(27)><fqty(1)><$iname(435)></color>?",
+      "pt_br": "Potresti mettere a casa mia quel mobile che hai fatto<br>con la <$cdef(27)><fqty(1)><$iname(435)></color>?"
+    },
+    {
+      "id": 15,
+      "en": "Mangerei <fqty(1)><iart;0()><$cdef(27)><$iname;0(24)></color>...<br>Ancora meglio se fosse tagliata fine fine.",
+      "pt_br": "Mangerei <fqty(1)><iart;0()><$cdef(27)><$iname;0(24)></color>...<br>Ancora meglio se fosse tagliata fine fine."
+    },
+    {
+      "id": 16,
+      "en": "Senza <$cdef(27)>CD</color> non posso mettere su della musica!<br>Chissà se ne posso trovare in giro...",
+      "pt_br": "Senza <$cdef(27)>CD</color> non posso mettere su della musica!<br>Chissà se ne posso trovare in giro..."
+    },
+    {
+      "id": 17,
+      "en": "Fammi sapere quando la strada è a posto, eh!",
+      "pt_br": "Fammi sapere quando la strada è a posto, eh!"
+    },
+    {
+      "id": 18,
+      "en": "Se non sbaglio, <$cdef(27)>Ludicolo</color> è un asso del ballo!",
+      "pt_br": "Se non sbaglio, <$cdef(27)>Ludicolo</color> è un asso del ballo!"
+    },
+    {
+      "id": 19,
+      "en": "Tesoro, ti dispiacerebbe portare un Pokémon capace<br>di creare bolle fino al campo coltivato?",
+      "pt_br": "Tesoro, ti dispiacerebbe portare un Pokémon capace<br>di creare bolle fino al campo coltivato?"
+    },
+    {
+      "id": 20,
+      "en": "Car<gen;-2(o,a)>, potresti farti tagliare il <$cdef(27)><fqty(1)><$iname(520)></color> da qualcuno?",
+      "pt_br": "Car<gen;-2(o,a)>, potresti farti tagliare il <$cdef(27)><fqty(1)><$iname(520)></color> da qualcuno?"
+    },
+    {
+      "id": 21,
+      "en": "Ci sono case che sono fatte per stare sott'acqua...<br>e sono praticamente uguali a <$cdef(27)><$cname(572)></color>!",
+      "pt_br": "Ci sono case che sono fatte per stare sott'acqua...<br>e sono praticamente uguali a <$cdef(27)><$cname(572)></color>!"
+    },
+    {
+      "id": 22,
+      "en": "Piazzalo pure dove vuoi, collega!",
+      "pt_br": "Piazzalo pure dove vuoi, collega!"
+    },
+    {
+      "id": 23,
+      "en": "Ci sono molti metodi per far decollare l'<$cdef(27)>entusiasmo</color>!",
+      "pt_br": "Ci sono molti metodi per far decollare l'<$cdef(27)>entusiasmo</color>!"
+    },
+    {
+      "id": 24,
+      "en": "Credo di averne visto uno qui in città da qualche<br>parte... Dentro una casa degli umani, mi sa...!",
+      "pt_br": "Credo di averne visto uno qui in città da qualche<br>parte... Dentro una casa degli umani, mi sa...!"
+    },
+    {
+      "id": 25,
+      "en": "Vediamo se riesci a trovarmi!",
+      "pt_br": "Vediamo se riesci a trovarmi!"
+    },
+    {
+      "id": 26,
+      "en": "Se ci aiuta un Pokémon che produce elettricità,<br>magari possiamo far funzionare questo coso.",
+      "pt_br": "Se ci aiuta un Pokémon che produce elettricità,<br>magari possiamo far funzionare questo coso."
+    },
+    {
+      "id": 27,
+      "en": "Hai presente quella piuma che risplende dei colori<br>dell'iride...? Vorrei tanto vederla!",
+      "pt_br": "Hai presente quella piuma che risplende dei colori<br>dell'iride...? Vorrei tanto vederla!"
+    },
+    {
+      "id": 28,
+      "en": "Se devi <$cdef(27)>costruire </color>qualcosa, posso aiutarti anch'io!",
+      "pt_br": "Se devi <$cdef(27)>costruire </color>qualcosa, posso aiutarti anch'io!"
+    },
+    {
+      "id": 29,
+      "en": "Devi creare delle case per far tornare i Pokémon!",
+      "pt_br": "Devi creare delle case per far tornare i Pokémon!"
+    },
+    {
+      "id": 30,
+      "en": "La pentola è grande, assicurati che ci sia abbastanza<br>spazio!",
+      "pt_br": "La pentola è grande, assicurati che ci sia abbastanza<br>spazio!"
+    },
+    {
+      "id": 31,
+      "en": "Mi raccomando, metti una <$cdef(27)><fqty(1)><$iname(1466)></color> accanto<br>ai <$cdef(27)><fqty(1)><$iname(1463)></color>!",
+      "pt_br": "Mi raccomando, metti una <$cdef(27)><fqty(1)><$iname(1466)></color> accanto<br>ai <$cdef(27)><fqty(1)><$iname(1463)></color>!"
+    },
+    {
+      "id": 32,
+      "en": "Va bene qualsiasi cosa, basta che sia<br>un <$cdef(27)><fqty(1)><$iname(3997)></color>!",
+      "pt_br": "Va bene qualsiasi cosa, basta che sia<br>un <$cdef(27)><fqty(1)><$iname(3997)></color>!"
+    },
+    {
+      "id": 33,
+      "en": "Potresti farmi una casa con una <$cdef(27)><fqty(1)><$iname(449)></color>,<br>un <$cdef(27)><fqty(1)><$iname(440)> </color>e un <$cdef(27)><fqty(1)><$iname(541)></color>?",
+      "pt_br": "Potresti farmi una casa con una <$cdef(27)><fqty(1)><$iname(449)></color>,<br>un <$cdef(27)><fqty(1)><$iname(440)> </color>e un <$cdef(27)><fqty(1)><$iname(541)></color>?"
+    },
+    {
+      "id": 34,
+      "en": "Raggiungiamo il fondo della grotta! Let's gooo!",
+      "pt_br": "Raggiungiamo il fondo della grotta! Let's gooo!"
+    },
+    {
+      "id": 35,
+      "en": "Secondo me qui da qualche parte c'è una bambola!",
+      "pt_br": "Secondo me qui da qualche parte c'è una bambola!"
+    },
+    {
+      "id": 36,
+      "en": "Anch'io vorrei tanto una casa!",
+      "pt_br": "Anch'io vorrei tanto una casa!"
+    },
+    {
+      "id": 37,
+      "en": "Se fai luce con delle <$cdef(27)><fqty(2)><$iname(449)></color>, magari è più<br>facile trovarlo...",
+      "pt_br": "Se fai luce con delle <$cdef(27)><fqty(2)><$iname(449)></color>, magari è più<br>facile trovarlo..."
+    },
+    {
+      "id": 38,
+      "en": "Non vedo l'ora di assaggiare il <$cdef(27)>frullato </color>che preparerai<br>per me, <$cdef(27)><pname;0></color>! ♪",
+      "pt_br": "Non vedo l'ora di assaggiare il <$cdef(27)>frullato </color>che preparerai<br>per me, <$cdef(27)><pname;0></color>! ♪"
+    },
+    {
+      "id": 39,
+      "en": "Mmh... Sarebbe così bello se tutti e <$cdef(27)>tre</color> i <$cdef(27)>paletti</color><br>si illuminassero...!",
+      "pt_br": "Mmh... Sarebbe così bello se tutti e <$cdef(27)>tre</color> i <$cdef(27)>paletti</color><br>si illuminassero...!"
+    },
+    {
+      "id": 40,
+      "en": "Per <$cdef(27)>costruire </color>un alloggio serve<br>un <$cdef(27)>kit da costruzione</color>, no?",
+      "pt_br": "Per <$cdef(27)>costruire </color>un alloggio serve<br>un <$cdef(27)>kit da costruzione</color>, no?"
+    },
+    {
+      "id": 41,
+      "en": "Non ti preoccupare se cadi, ti aiuto io!",
+      "pt_br": "Non ti preoccupare se cadi, ti aiuto io!"
+    },
+    {
+      "id": 42,
+      "en": "La <$cdef(27)><fqty(1)><$iname(1458)></color> ha un tubo che serve<br>a somministrare acqua!",
+      "pt_br": "La <$cdef(27)><fqty(1)><$iname(1458)></color> ha un tubo che serve<br>a somministrare acqua!"
+    },
+    {
+      "id": 43,
+      "en": "Se mi dai un <$cdef(27)><fqty(1)><$iname(115)></color> lo lavoro in men che<br>non si dica!",
+      "pt_br": "Se mi dai un <$cdef(27)><fqty(1)><$iname(115)></color> lo lavoro in men che<br>non si dica!"
+    },
+    {
+      "id": 44,
+      "en": "Vedi di fare buon uso dei <$cdef(27)><fqty(2)><$iname(119)></color> che ho<br>costruito, eh!",
+      "pt_br": "Vedi di fare buon uso dei <$cdef(27)><fqty(2)><$iname(119)></color> che ho<br>costruito, eh!"
+    },
+    {
+      "id": 45,
+      "en": "Mi raccomando, serve un <$cdef(27)><fqty(1)><$iname(1457)></color> per far<br>funzionare la <$cdef(27)>funivia</color>!",
+      "pt_br": "Mi raccomando, serve un <$cdef(27)><fqty(1)><$iname(1457)></color> per far<br>funzionare la <$cdef(27)>funivia</color>!"
+    },
+    {
+      "id": 46,
+      "en": "Vi do una mano io!",
+      "pt_br": "Vi do una mano io!"
+    },
+    {
+      "id": 47,
+      "en": "Il <$cdef(27)><fqty(1)><$iname(1469)></color> andrebbe attaccato alla <$cdef(27)>scala</color>!",
+      "pt_br": "Il <$cdef(27)><fqty(1)><$iname(1469)></color> andrebbe attaccato alla <$cdef(27)>scala</color>!"
+    },
+    {
+      "id": 48,
+      "en": "Fammi sapere quando hai finito, collega!",
+      "pt_br": "Fammi sapere quando hai finito, collega!"
+    },
+    {
+      "id": 49,
+      "en": "Se l'annaffi tornerà verde come prima!",
+      "pt_br": "Se l'annaffi tornerà verde come prima!"
+    },
+    {
+      "id": 50,
+      "en": "Quanto vorrei un letto soffice vicino a casa mia...",
+      "pt_br": "Quanto vorrei un letto soffice vicino a casa mia..."
+    },
+    {
+      "id": 51,
+      "en": "Le mie mosse non sono più precise come una volta.<br>Vorrei allenarmi ripartendo dalle basi!",
+      "pt_br": "Le mie mosse non sono più precise come una volta.<br>Vorrei allenarmi ripartendo dalle basi!"
+    },
+    {
+      "id": 52,
+      "en": "Non è che hai delle <$cdef(27)><fqty(2)><$iname(404)></color>, per caso? Ne cerco<br>qualcuna adatta per il mio allenamento.",
+      "pt_br": "Non è che hai delle <$cdef(27)><fqty(2)><$iname(404)></color>, per caso? Ne cerco<br>qualcuna adatta per il mio allenamento."
+    },
+    {
+      "id": 53,
+      "en": "Mettila sul tetto, così si capisce subito che quella<br>è casa tua!",
+      "pt_br": "Mettila sul tetto, così si capisce subito che quella<br>è casa tua!"
+    },
+    {
+      "id": 54,
+      "en": "Mettici dentro tre tipi di mobili diversi, ok?",
+      "pt_br": "Mettici dentro tre tipi di mobili diversi, ok?"
+    },
+    {
+      "id": 55,
+      "en": "Vorrei una casa che rimane asciutta anche quando<br>piove... Non è che potresti farmene una così?",
+      "pt_br": "Vorrei una casa che rimane asciutta anche quando<br>piove... Non è che potresti farmene una così?"
+    },
+    {
+      "id": 56,
+      "en": "Le <$cdef(27)><fqty(2)><$iname(2035)></color> sembrano proprio buone...<br>Mmmh...",
+      "pt_br": "Le <$cdef(27)><fqty(2)><$iname(2035)></color> sembrano proprio buone...<br>Mmmh..."
+    },
+    {
+      "id": 57,
+      "en": "Con <$cdef(27)><$sklname(2)></color> puoi sradicare facilmente i fiori!",
+      "pt_br": "Con <$cdef(27)><$sklname(2)></color> puoi sradicare facilmente i fiori!"
+    },
+    {
+      "id": 58,
+      "en": "Sento odore di acqua... Dev'essere vicina.",
+      "pt_br": "Sento odore di acqua... Dev'essere vicina."
+    },
+    {
+      "id": 59,
+      "en": "Qualche zampillo d'acqua renderebbe l'ambiente<br>qui intorno più umido.",
+      "pt_br": "Qualche zampillo d'acqua renderebbe l'ambiente<br>qui intorno più umido."
+    },
+    {
+      "id": 60,
+      "en": "Da qualche parte dovresti poter trovare un saaacco<br>di alberi rinsecchiti!",
+      "pt_br": "Da qualche parte dovresti poter trovare un saaacco<br>di alberi rinsecchiti!"
+    },
+    {
+      "id": 61,
+      "en": "Se avessimo dei campi di fiori potremmo ravvivare<br>l'ambiente. Ti aiuterò anch'io!",
+      "pt_br": "Se avessimo dei campi di fiori potremmo ravvivare<br>l'ambiente. Ti aiuterò anch'io!"
+    },
+    {
+      "id": 62,
+      "en": "Se avessi un po' d'acqua a casa, mi sentirei ancora<br>meglio!",
+      "pt_br": "Se avessi un po' d'acqua a casa, mi sentirei ancora<br>meglio!"
+    },
+    {
+      "id": 63,
+      "en": "Con tutta quell'umidità si deve stare davvero bene!",
+      "pt_br": "Con tutta quell'umidità si deve stare davvero bene!"
+    },
+    {
+      "id": 64,
+      "en": "Perché Pioggiadanza funzioni serve <$cdef(27)>un piatto con<br>offerte</color> e <$cdef(27)>qualcosa che evochi l'idea della pioggia</color>!",
+      "pt_br": "Perché Pioggiadanza funzioni serve <$cdef(27)>un piatto con<br>offerte</color> e <$cdef(27)>qualcosa che evochi l'idea della pioggia</color>!"
+    },
+    {
+      "id": 65,
+      "en": "Questo terreno non ha abbastanza acqua...",
+      "pt_br": "Questo terreno non ha abbastanza acqua..."
+    },
+    {
+      "id": 66,
+      "en": "Mi farebbe piacere se piantassi il seme che ti ho<br>dato. Se germoglia ricordati di annaffiarlo.",
+      "pt_br": "Mi farebbe piacere se piantassi il seme che ti ho<br>dato. Se germoglia ricordati di annaffiarlo."
+    },
+    {
+      "id": 67,
+      "en": "Aiuto! I dintorni della mia casetta sono allagati!",
+      "pt_br": "Aiuto! I dintorni della mia casetta sono allagati!"
+    },
+    {
+      "id": 68,
+      "en": "C'è un Pokémon che vive vicino all'acqua che<br>forse può aiutarti a togliere il fango.",
+      "pt_br": "C'è un Pokémon che vive vicino all'acqua che<br>forse può aiutarti a togliere il fango."
+    },
+    {
+      "id": 69,
+      "en": "<oneline><fcap><dart;0()><$cdef(27)><$cname;0(229)></color> saprà di sicuro come<br>si fabbrica una <$cdef(27)><fqty(1)><$iname(1410)></color>!",
+      "pt_br": "<oneline><fcap><dart;0()><$cdef(27)><$cname;0(229)></color> saprà di sicuro come<br>si fabbrica una <$cdef(27)><fqty(1)><$iname(1410)></color>!"
+    },
+    {
+      "id": 70,
+      "en": "<oneline>Chiediamo aiuto <ita;0()><$cdef(27)><$cname;0(130)><br></color>per raccogliere <$cdef(27)><fqty(2)><class><$iname(107)></color>!",
+      "pt_br": "<oneline>Chiediamo aiuto <ita;0()><$cdef(27)><$cname;0(130)><br></color>per raccogliere <$cdef(27)><fqty(2)><class><$iname(107)></color>!"
+    },
+    {
+      "id": 71,
+      "en": "Non riesco a dormire senza della <$cdef(27)><fqty(1)><$iname(111)></color>...<br>Non c'è nessun Pokémon soffice da queste parti?",
+      "pt_br": "Non riesco a dormire senza della <$cdef(27)><fqty(1)><$iname(111)></color>...<br>Non c'è nessun Pokémon soffice da queste parti?"
+    },
+    {
+      "id": 72,
+      "en": "Ho sentito un rumoraccio e mi sono svegliat<gen;-3(o,a)>...",
+      "pt_br": "Ho sentito un rumoraccio e mi sono svegliat<gen;-3(o,a)>..."
+    },
+    {
+      "id": 73,
+      "en": "Ci dovrà pur essere un Pokémon in grado<br>di produrre elettricità da qualche parte.",
+      "pt_br": "Ci dovrà pur essere un Pokémon in grado<br>di produrre elettricità da qualche parte."
+    },
+    {
+      "id": 74,
+      "en": "Forse quel Pokémon lo sa come si fa a immagazzinare<br>acqua nel proprio corpo!",
+      "pt_br": "Forse quel Pokémon lo sa come si fa a immagazzinare<br>acqua nel proprio corpo!"
+    },
+    {
+      "id": 75,
+      "en": "Con più luce in quella zona là, forse possiamo far<br>svegliare <$cdef(27)><$cname;0(272)></color>?",
+      "pt_br": "Con più luce in quella zona là, forse possiamo far<br>svegliare <$cdef(27)><$cname;0(272)></color>?"
+    },
+    {
+      "id": 76,
+      "en": "Perché non installi dei <$cdef(27)><fqty(2)><$iname(1396)></color> per trasportare<br>l'elettricità prodotta dal <$cdef(27)>generatore</color>?",
+      "pt_br": "Perché non installi dei <$cdef(27)><fqty(2)><$iname(1396)></color> per trasportare<br>l'elettricità prodotta dal <$cdef(27)>generatore</color>?"
+    },
+    {
+      "id": 77,
+      "en": "Vorrei vivere vicino a dei grandi macchinari...",
+      "pt_br": "Vorrei vivere vicino a dei grandi macchinari..."
+    },
+    {
+      "id": 78,
+      "en": "Che ne pensi di installare un <$cdef(27)><fqty(1)><$iname(1396)></color><br>nelle vicinanze?",
+      "pt_br": "Che ne pensi di installare un <$cdef(27)><fqty(1)><$iname(1396)></color><br>nelle vicinanze?"
+    },
+    {
+      "id": 79,
+      "en": "Guarda che non c'è solo l'elettricità, se hai bisogno<br>di luce! Quando vuoi accendere un fuoco, chiamami!",
+      "pt_br": "Guarda che non c'è solo l'elettricità, se hai bisogno<br>di luce! Quando vuoi accendere un fuoco, chiamami!"
+    },
+    {
+      "id": 80,
+      "en": "Togliendo il muro che blocca il passaggio forse<br>potremo andare dall'altra parte...",
+      "pt_br": "Togliendo il muro che blocca il passaggio forse<br>potremo andare dall'altra parte..."
+    },
+    {
+      "id": 81,
+      "en": "Mi stuzzica l'idea di salire su quell'edificio<br>sul dirupo!",
+      "pt_br": "Mi stuzzica l'idea di salire su quell'edificio<br>sul dirupo!"
+    },
+    {
+      "id": 82,
+      "en": "C'è un Pokémon eccezionale nel <$cdef(27)>tagliare</color> tronchi!<br>Si chiama <$cdef(27)><$cname;0(24)></color>.",
+      "pt_br": "C'è un Pokémon eccezionale nel <$cdef(27)>tagliare</color> tronchi!<br>Si chiama <$cdef(27)><$cname;0(24)></color>."
+    },
+    {
+      "id": 83,
+      "en": "Se mi porti un <$cdef(27)><fqty(1)><$iname(1482)></color> ti mostrerò una cosa<br>mitica!",
+      "pt_br": "Se mi porti un <$cdef(27)><fqty(1)><$iname(1482)></color> ti mostrerò una cosa<br>mitica!"
+    },
+    {
+      "id": 84,
+      "en": "Ma che belli i posti bui!",
+      "pt_br": "Ma che belli i posti bui!"
+    },
+    {
+      "id": 85,
+      "en": "Nel <$cdef(27)><fqty(1)><$iname(616)></color> forse c'è dell'acqua calda!",
+      "pt_br": "Nel <$cdef(27)><fqty(1)><$iname(616)></color> forse c'è dell'acqua calda!"
+    },
+    {
+      "id": 86,
+      "en": "Vorrei un marchingegno per giocare con l'acqua...<br>Secondo te se andiamo al mare lo troviamo?",
+      "pt_br": "Vorrei un marchingegno per giocare con l'acqua...<br>Secondo te se andiamo al mare lo troviamo?"
+    },
+    {
+      "id": 87,
+      "en": "Tanto tempo fa ho visto una macchina che bruciava<br><$cdef(27)><fqty(1)><$iname(407)></color> al suo interno!",
+      "pt_br": "Tanto tempo fa ho visto una macchina che bruciava<br><$cdef(27)><fqty(1)><$iname(407)></color> al suo interno!"
+    },
+    {
+      "id": 88,
+      "en": "Con un po' di elettricità, questo coso dovrebbe<br>accendersi!",
+      "pt_br": "Con un po' di elettricità, questo coso dovrebbe<br>accendersi!"
+    },
+    {
+      "id": 89,
+      "en": "Fare le pulizie stanca molto più di quello che<br>pensavo. Sarà un ottimo allenamento!",
+      "pt_br": "Fare le pulizie stanca molto più di quello che<br>pensavo. Sarà un ottimo allenamento!"
+    },
+    {
+      "id": 90,
+      "en": "È da un po' che non mi capita di appollaiarmi su di<br><fqty(1)><iart;0()><$cdef(27)><$iname;0(1541)></color> come si deve.",
+      "pt_br": "È da un po' che non mi capita di appollaiarmi su di<br><fqty(1)><iart;0()><$cdef(27)><$iname;0(1541)></color> come si deve."
+    },
+    {
+      "id": 91,
+      "en": "Aiuterò anche io a preparare l'<$cdef(27)>insalata</color>!",
+      "pt_br": "Aiuterò anche io a preparare l'<$cdef(27)>insalata</color>!"
+    },
+    {
+      "id": 92,
+      "en": "Se la piscina è ridotta così male sarà difficile<br>riempirla d'acqua.",
+      "pt_br": "Se la piscina è ridotta così male sarà difficile<br>riempirla d'acqua."
+    },
+    {
+      "id": 93,
+      "en": "Vorrei insegnarti una mia mossa, ma questa spiaggia<br>è piena di fanghiglia...",
+      "pt_br": "Vorrei insegnarti una mia mossa, ma questa spiaggia<br>è piena di fanghiglia..."
+    },
+    {
+      "id": 94,
+      "en": "Dai, collega, andiamo verso la fonte del rumore!",
+      "pt_br": "Dai, collega, andiamo verso la fonte del rumore!"
+    },
+    {
+      "id": 95,
+      "en": "Che voglia di <$cdef(27)><fqty(1)><$iname(8)></color>! ♪",
+      "pt_br": "Che voglia di <$cdef(27)><fqty(1)><$iname(8)></color>! ♪"
+    },
+    {
+      "id": 96,
+      "en": "Andiamo fino a quell'edificio enorme!<br>Basta un ponte per arrivarci!",
+      "pt_br": "Andiamo fino a quell'edificio enorme!<br>Basta un ponte per arrivarci!"
+    },
+    {
+      "id": 97,
+      "en": "Vai a chiedere ad <$cdef(27)><$cname(29)> </color>come si fabbrica<br>un <$cdef(27)><fqty(1)><$iname(1469)></color>!",
+      "pt_br": "Vai a chiedere ad <$cdef(27)><$cname(29)> </color>come si fabbrica<br>un <$cdef(27)><fqty(1)><$iname(1469)></color>!"
+    },
+    {
+      "id": 98,
+      "en": "Per rendere agibile l'<$cdef(27)>ascensore</color> necessiterai<br>di un altro <$cdef(27)><fqty(1)><$iname(1469)></color>.",
+      "pt_br": "Per rendere agibile l'<$cdef(27)>ascensore</color> necessiterai<br>di un altro <$cdef(27)><fqty(1)><$iname(1469)></color>."
+    },
+    {
+      "id": 99,
+      "en": "In <$cdef(27)>ascensore </color>ci si potrebbe arrivare facilmente!",
+      "pt_br": "In <$cdef(27)>ascensore </color>ci si potrebbe arrivare facilmente!"
+    },
+    {
+      "id": 100,
+      "en": "La vorrei vicino al dojo!",
+      "pt_br": "La vorrei vicino al dojo!"
+    },
+    {
+      "id": 101,
+      "en": "Basta farsi aiutare da un Pokémon esperto<br>di <$cdef(27)><$spwname(10)></color>!",
+      "pt_br": "Basta farsi aiutare da un Pokémon esperto<br>di <$cdef(27)><$spwname(10)></color>!"
+    },
+    {
+      "id": 102,
+      "en": "Di <$cdef(27)><fqty(1)><$iname(1010)></color> ce n'è un sacco nella grotta<br>di quest'isola!",
+      "pt_br": "Di <$cdef(27)><fqty(1)><$iname(1010)></color> ce n'è un sacco nella grotta<br>di quest'isola!"
+    },
+    {
+      "id": 103,
+      "en": "Chissà cosa c'è in fondo alla grotta...",
+      "pt_br": "Chissà cosa c'è in fondo alla grotta..."
+    },
+    {
+      "id": 104,
+      "en": "Forse qualche cibo particolare potenzierebbe la tua<br>mossa, così potrai frantumare tutto più facilmente.",
+      "pt_br": "Forse qualche cibo particolare potenzierebbe la tua<br>mossa, così potrai frantumare tutto più facilmente."
+    },
+    {
+      "id": 105,
+      "en": "Per fare una <$cdef(27)><fqty(1)><$iname(1812)> </color>mi sa che serve della <$cdef(27)><fqty(1)><$iname(126)></color>.<br>Forse puoi usare la <$cdef(27)><fqty(1)><$iname(1801)> </color>che trovi qui in giro!",
+      "pt_br": "Per fare una <$cdef(27)><fqty(1)><$iname(1812)> </color>mi sa che serve della <$cdef(27)><fqty(1)><$iname(126)></color>.<br>Forse puoi usare la <$cdef(27)><fqty(1)><$iname(1801)> </color>che trovi qui in giro!"
+    },
+    {
+      "id": 106,
+      "en": "Ora che abbiamo raggiunto il palazzone, andiamo<br>subito a vedere in che condizioni è!",
+      "pt_br": "Ora che abbiamo raggiunto il palazzone, andiamo<br>subito a vedere in che condizioni è!"
+    },
+    {
+      "id": 107,
+      "en": "Dai una bella occhiata alle isole di 'sta città e<br>fai incetta di materiali e Pokémon!",
+      "pt_br": "Dai una bella occhiata alle isole di 'sta città e<br>fai incetta di materiali e Pokémon!"
+    },
+    {
+      "id": 108,
+      "en": "Mi ci vorrà un po'. Fai pure altro nel frattempo!",
+      "pt_br": "Mi ci vorrà un po'. Fai pure altro nel frattempo!"
+    },
+    {
+      "id": 109,
+      "en": "Se ci fossero dei <$cdef(27)><fqty(2)><$iname(1654)></color> qui all'entrata, sarebbe<br>strepitoso!",
+      "pt_br": "Se ci fossero dei <$cdef(27)><fqty(2)><$iname(1654)></color> qui all'entrata, sarebbe<br>strepitoso!"
+    },
+    {
+      "id": 110,
+      "en": "Vorrei che fosse un posto dove possano divertirsi<br>tutti!",
+      "pt_br": "Vorrei che fosse un posto dove possano divertirsi<br>tutti!"
+    },
+    {
+      "id": 111,
+      "en": "Mi ci vorrà un po'. Fai pure altro nel frattempo!",
+      "pt_br": "Mi ci vorrà un po'. Fai pure altro nel frattempo!"
+    },
+    {
+      "id": 112,
+      "en": "Mi chiedo se sia possibile inviare la corrente<br>del <$cdef(27)><$bname(33)> </color>al <$cdef(27)><fqty(1)><$iname(1703)></color>...",
+      "pt_br": "Mi chiedo se sia possibile inviare la corrente<br>del <$cdef(27)><$bname(33)> </color>al <$cdef(27)><fqty(1)><$iname(1703)></color>..."
+    },
+    {
+      "id": 113,
+      "en": "L'<$cdef(27)><fqty(1)><$iname(112)></color> è terra morbida e marroncina!",
+      "pt_br": "L'<$cdef(27)><fqty(1)><$iname(112)></color> è terra morbida e marroncina!"
+    },
+    {
+      "id": 114,
+      "en": "Se trovi dei <$cdef(27)><fqty(1)><$iname(109)></color> duri che non si possono<br>bruciare, tipo lattine vuote, sai a chi portarli, collega!",
+      "pt_br": "Se trovi dei <$cdef(27)><fqty(1)><$iname(109)></color> duri che non si possono<br>bruciare, tipo lattine vuote, sai a chi portarli, collega!"
+    },
+    {
+      "id": 115,
+      "en": "Ci sta un <$cdef(27)>Greedent</color> che è un <$cdef(27)>fenomeno ai fornelli</color>?<br>Portala da me, allora!",
+      "pt_br": "Ci sta un <$cdef(27)>Greedent</color> che è un <$cdef(27)>fenomeno ai fornelli</color>?<br>Portala da me, allora!"
+    },
+    {
+      "id": 116,
+      "en": "Mi ci vorrà un po'. Fai pure altro nel frattempo!",
+      "pt_br": "Mi ci vorrà un po'. Fai pure altro nel frattempo!"
+    },
+    {
+      "id": 117,
+      "en": "Ci sta un <$cdef(27)>Pikachu</color> coi <$cdef(27)>modi di fare superraffinati</color>?<br>M'andrebbe di conoscerla!",
+      "pt_br": "Ci sta un <$cdef(27)>Pikachu</color> coi <$cdef(27)>modi di fare superraffinati</color>?<br>M'andrebbe di conoscerla!"
+    },
+    {
+      "id": 118,
+      "en": "Gli esseri umani ascoltavano i <$cdef(27)>CD</color>. Con i <$cdef(27)><fqty(2)><$iname(1802)></color>.",
+      "pt_br": "Gli esseri umani ascoltavano i <$cdef(27)>CD</color>. Con i <$cdef(27)><fqty(2)><$iname(1802)></color>."
+    },
+    {
+      "id": 119,
+      "en": "Sarebbe bello se fosse vicino a dove stanno tutti!",
+      "pt_br": "Sarebbe bello se fosse vicino a dove stanno tutti!"
+    },
+    {
+      "id": 120,
+      "en": "Uff... Non ho proprio voglia di far niente...<br>Se almeno qualcuno mi portasse una <$cdef(27)>bambola</color>...",
+      "pt_br": "Uff... Non ho proprio voglia di far niente...<br>Se almeno qualcuno mi portasse una <$cdef(27)>bambola</color>..."
+    },
+    {
+      "id": 121,
+      "en": "Ho troppa fame per pensare all'arte!<br>Portami una <$cdef(27)><fqty(1)><$iname(2340)></color>!",
+      "pt_br": "Ho troppa fame per pensare all'arte!<br>Portami una <$cdef(27)><fqty(1)><$iname(2340)></color>!"
+    },
+    {
+      "id": 122,
+      "en": "Perché non provi a chiedere a un Pokémon<br><$cdef(27)><$spwname(16)></color>?",
+      "pt_br": "Perché non provi a chiedere a un Pokémon<br><$cdef(27)><$spwname(16)></color>?"
+    },
+    {
+      "id": 123,
+      "en": "Potresti portarmi i mobili che vuoi <$cdef(27)>pitturare</color>?",
+      "pt_br": "Potresti portarmi i mobili che vuoi <$cdef(27)>pitturare</color>?"
+    },
+    {
+      "id": 124,
+      "en": "Con un <$cdef(27)>palloncino colorato</color> dovresti poter cambiare<br>colore alle cose anche tu.",
+      "pt_br": "Con un <$cdef(27)>palloncino colorato</color> dovresti poter cambiare<br>colore alle cose anche tu."
+    },
+    {
+      "id": 125,
+      "en": "Ti prego... Portami un <$cdef(27)>fossile</color>!",
+      "pt_br": "Ti prego... Portami un <$cdef(27)>fossile</color>!"
+    },
+    {
+      "id": 126,
+      "en": "Alterando i colori delle singole parti, potrebbe<br>cambiare anche l'impressione che si ha dell'oggetto!",
+      "pt_br": "Alterando i colori delle singole parti, potrebbe<br>cambiare anche l'impressione che si ha dell'oggetto!"
+    },
+    {
+      "id": 127,
+      "en": "Mi piacerebbe tanto provare a trasformarmi in<br><fqty(1)><iart;1()><$cdef(27)><class><$iname;1(1274)></color>!",
+      "pt_br": "Mi piacerebbe tanto provare a trasformarmi in<br><fqty(1)><iart;1()><$cdef(27)><class><$iname;1(1274)></color>!"
+    },
+    {
+      "id": 128,
+      "en": "Fammi vedere come te la cavi con <$cdef(27)><$sklname(6)></color> e poi<br>ti dico io se lo fai bene!",
+      "pt_br": "Fammi vedere come te la cavi con <$cdef(27)><$sklname(6)></color> e poi<br>ti dico io se lo fai bene!"
+    },
+    {
+      "id": 129,
+      "en": "Prima vorrei che trovassi <$cdef(27)><$cname;0(82)></color>.",
+      "pt_br": "Prima vorrei che trovassi <$cdef(27)><$cname;0(82)></color>."
+    },
+    {
+      "id": 130,
+      "en": "Poi vorrei che trovassi <$cdef(27)><$cname;0(138)></color>.",
+      "pt_br": "Poi vorrei che trovassi <$cdef(27)><$cname;0(138)></color>."
+    },
+    {
+      "id": 131,
+      "en": "E infine vorrei che trovassi <$cdef(27)><$cname;0(295)></color>.",
+      "pt_br": "E infine vorrei che trovassi <$cdef(27)><$cname;0(295)></color>."
+    },
+    {
+      "id": 132,
+      "en": "Se trovi qualcosa da mangiare, mettilo sul piatto!",
+      "pt_br": "Se trovi qualcosa da mangiare, mettilo sul piatto!"
+    },
+    {
+      "id": 133,
+      "en": "Metti sul piatto come hai fatto prima anche qualcosa<br>di pepato!",
+      "pt_br": "Metti sul piatto come hai fatto prima anche qualcosa<br>di pepato!"
+    },
+    {
+      "id": 134,
+      "en": "Quando avremo finito di rifarci gli occhi, torniamo<br>al <$cdef(27)>Centro Pokémon</color> della <$cdef(27)>città delle Isole Brillantine</color>!",
+      "pt_br": "Quando avremo finito di rifarci gli occhi, torniamo<br>al <$cdef(27)>Centro Pokémon</color> della <$cdef(27)>città delle Isole Brillantine</color>!"
+    },
+    {
+      "id": 135,
+      "en": "Ovvio che ti darò una mano!",
+      "pt_br": "Ovvio che ti darò una mano!"
+    },
+    {
+      "id": 136,
+      "en": "Non posso assolutamente fare a meno della <$cdef(27)>carriola<br></color>che è nella grotta!",
+      "pt_br": "Non posso assolutamente fare a meno della <$cdef(27)>carriola<br></color>che è nella grotta!"
+    },
+    {
+      "id": 137,
+      "en": "Non scordarti di accendere il fuoco!",
+      "pt_br": "Non scordarti di accendere il fuoco!"
+    },
+    {
+      "id": 138,
+      "en": "Voglio che mi porti vari <$cdef(27)>CD</color>!",
+      "pt_br": "Voglio che mi porti vari <$cdef(27)>CD</color>!"
+    },
+    {
+      "id": 139,
+      "en": "Dimmi qual è la playlist migliore di tutti i tempi<br>secondo te!",
+      "pt_br": "Dimmi qual è la playlist migliore di tutti i tempi<br>secondo te!"
+    },
+    {
+      "id": 140,
+      "en": "Qui si trovava un grande edificio. Era notevole.",
+      "pt_br": "Qui si trovava un grande edificio. Era notevole."
+    },
+    {
+      "id": 141,
+      "en": "La <$cdef(27)><fqty(1)><$iname(2075)></color> è assolutamente indispensabile!",
+      "pt_br": "La <$cdef(27)><fqty(1)><$iname(2075)></color> è assolutamente indispensabile!"
+    },
+    {
+      "id": 142,
+      "en": "In quel diario potrebbero esserci degli indizi<br>sull'ingrediente segreto!",
+      "pt_br": "In quel diario potrebbero esserci degli indizi<br>sull'ingrediente segreto!"
+    },
+    {
+      "id": 143,
+      "en": "Prenditene cura finché non germoglia!",
+      "pt_br": "Prenditene cura finché non germoglia!"
+    },
+    {
+      "id": 144,
+      "en": "Ce n'era una nella grotta sotto all'isola<br>del <$cdef(27)>Centro Pokémon</color>...",
+      "pt_br": "Ce n'era una nella grotta sotto all'isola<br>del <$cdef(27)>Centro Pokémon</color>..."
+    }
+  ]
+}

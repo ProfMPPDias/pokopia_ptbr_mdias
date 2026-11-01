@@ -1,0 +1,254 @@
+{
+  "entry_index": 2675,
+  "bin_id": "0x6b7d00",
+  "decompressed_size": 10512,
+  "first_tag_offset": 896,
+  "total_strings": 49,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(3,10)><$emotion(3,27)>Whoa! Now this is a surprise!<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,805)>When I saw the town all lit up, I figured the humans had<br>finally come back...<clear><br><$voicel(3,3)><$comeff(3,3)><$motion(3,806)>But you Pokémon got the town glowin’ again all<br>by yourselves?",
+      "pt_br": "<$voicel(3,10)><$emotion(3,27)>Isto é uma surpresa!<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,805)>Quando vi a cidade toda iluminada, pensei que os humanos<br>Finalmente voltar...<clear><br><$voicel(3,3)><$comeff(3,3)><$motion(3,806)>Mas você Pokémon tem a cidade brilhando novamente’ todos<br>Sozinhos?"
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(3,7)><$emotion(3,49)>Talk about a SHOCKIN’ development! I <$voicel(3,10)><$comeff(3,5)><$motion(3,816)>even let loose an<br>extra-large lightnin’ bolt—that’s how shocked I was!<clear><br><$voicel(3,4)><$comeff(3,14)><$textsize(0)>And, uh, if it hit anyone...my bad.</textsize>",
+      "pt_br": "<$voicel(3,7)><$emotion(3,49)>Falar sobre um desenvolvimento SHOCKIN’! <$voicel(3,10)><$comeff(3,5)><$motion(3,816)>até mesmo soltar um<br>Raio de luz extra-grande – isso é o quão chocado eu estava!<clear><br><$voicel(3,4)><$comeff(3,14)><$textsize(0)>E, uh, se isso atingiu alguém... a culpa é minha.</textsize>"
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(3,4)><$emotion(3,29)>Y’know, I’m not really sure where all the humans went.<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,666)>With big bad natural disasters happenin’ all over the place,<br>I guess they ran off somewhere safe.<clear><br><$voicel(3,7)><$comeff(3,3)><$motion(3,806)>As for this town in particular, those huge clouds were<br>keepin’ it super dark all the time, right?<clear><br><$voicel(3,5)>Humans can’t live without sunlight, y’know!<clear><br><$voicel(3,3)><$comeff(3,7)><$motion(3,663)>By the time I realized what was goin’ on, this place was<br>already a ghost town...",
+      "pt_br": "<$voicel(3,4)><$emotion(3,29)>Você sabe, eu não estou realmente certo para onde todos os humanos foram.<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,666)>Com grandes desastres naturais ruins acontecendo’ em todo o lugar,<br>Acho que fugiram para um lugar seguro.<clear><br><$voicel(3,7)><$comeff(3,3)><$motion(3,806)>Quanto a esta cidade em particular, aquelas nuvens enormes foram<br>Mantendo-o super escuro o tempo todo, certo?<clear><br><$voicel(3,5)>Os humanos não podem viver sem a luz do sol, você sabe!<clear><br><$voicel(3,3)><$comeff(3,7)><$motion(3,663)>Quando eu percebi o que estava acontecendo, este lugar era<br>Já é uma cidade fantasma..."
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(3,5)><$comeff(3,9)><$motion(3,666)>Looks like my awesome lightning cleared out those nasty<br>clouds, though!<clear><br><$voicel(3,7)><$comeff(3,10)><$motion(3,806)>Maybe the humans’ll come back when they realize the<br>clouds are gone?",
+      "pt_br": "<$voicel(3,5)><$comeff(3,9)><$motion(3,666)>Parece que o meu raio incrível limpou aqueles nojentos.<br>Mas as nuvens!<clear><br><$voicel(3,7)><$comeff(3,10)><$motion(3,806)>Talvez os humanos voltem quando perceberem que<br>As nuvens desapareceram?"
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(3,5)><$emotion(3,14)>Anyway, I think I’m gonna head out! Tell your friends I<br>said, “What’s up!” <$voicel(3,8)><$emotion(3,8)>I’m best buds with ALL of you now!",
+      "pt_br": "<$voicel(3,5)><$emotion(3,14)>De qualquer forma, eu acho que eu vou sair!<br>disse: “E aí!” <$voicel(3,8)><$emotion(3,8)>Eu sou os melhores amigos com todos vocês agora!"
+    },
+    {
+      "id": 5,
+      "en": "<$cdef(27)>Raikou</color>, the Thunder Pokémon, has been registered in<br>your Pokédex...<clear><br>Your Trainer rank increased to <$cdef(27)><$dtrnrank;0(3)></color>!",
+      "pt_br": "<$cdef(27)>Raikou</color>, o Trovão Pokémon, foi registrado em<br>O teu Pokédex...<clear><br>O teu posto de treinador aumentou para <$cdef(27)><$dtrnrank;0(3)></color>!"
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(3,7)><$emotion(3,49)>Catch ya later, bud! Hope we can hang out next time our<br>paths cross!",
+      "pt_br": "<$voicel(3,7)><$emotion(3,49)>Espero que possamos sair da próxima vez que o nosso<br>caminhos cruzam-se!"
+    },
+    {
+      "id": 7,
+      "en": "<oneline><$voicel(1,7)><$facial(1,13)><$comeff(1,3)><$motion(1,899)><$cdef(27)><pname;0></color>! Did that Pokémon happen to<br>be <$cdef(27)>Raikou</color>?",
+      "pt_br": "<oneline><$voicel(1,7)><$facial(1,13)><$comeff(1,3)><$motion(1,899)><$cdef(27)><pname;0></color>Aquele Pokémon, por acaso...<br>ser <$cdef(27)>Raikou</color>?"
+    },
+    {
+      "id": 8,
+      "en": "<$voicel(1,9)><$comeff(1,10)><$facial(1,4)><$motion(1,659)>Oho, so I was right! It’s quite astonishing that a Legendary<br>Pokémon would appear in this town as well!",
+      "pt_br": "<$voicel(1,9)><$comeff(1,10)><$facial(1,4)><$motion(1,659)>Oho, então eu estava certo! É bastante surpreendente que um lendário<br>Pokémon também apareceria nesta cidade!"
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(2,7)><$comeff(2,21)><$motion(2,806)>What an impressive lightning strike that was! I’d expect<br>nothing less of <$cdef(27)>Raikou</color>!",
+      "pt_br": "<$voicel(2,7)><$comeff(2,21)><$motion(2,806)>Que impressionante relâmpago que foi! Eu esperaria<br>nada menos de <$cdef(27)>Raikou</color>!"
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(1,6)><$comeff(1,17)><$motion(1,660)><$facial(1,9)>Hmmm, natural disasters, you say?<clear><br><$voicel(1,3)>Now that you mention it, all the land I saw before I met<br>you was terribly ruined... <$voicel(1,6)><$comeff(1,14)><$motion(1,666)>What in the world happened?",
+      "pt_br": "<$voicel(1,6)><$comeff(1,17)><$motion(1,660)><$facial(1,9)>Hmmm, desastres naturais, você disse?<clear><br><$voicel(1,3)>Agora que falaste nisso, todas as terras que vi antes de conhecer<br>Estavas terrivelmente arruinado... <$voicel(1,6)><$comeff(1,14)><$motion(1,666)>O que aconteceu?"
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Oh! How could I forget?! It seems <$cdef(27)>Snorlax </color>is unharmed.<br><$voicel(1,8)><$emotion(1,38)>What an incredibly tough Pokémon!",
+      "pt_br": "<$voicel(1,5)><$emotion(1,14)>Como eu poderia esquecer?!! Parece <$cdef(27)>Snorlax </color>está ileso.<br><$voicel(1,8)><$emotion(1,38)>Que Pokémon incrivelmente duro!"
+    },
+    {
+      "id": 12,
+      "en": "<oneline><$voicel(2,3)><$comeff(2,14)><$motion(2,666)>But, oh dear... It looks as if they’re stunned and cannot<br>move due to the lightning.<clear><br><$voicel(2,7)><$comeff(2,3)><$motion(2,659)><$facial(2,5)>Could you try talking to them for us,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": "<oneline><$voicel(2,3)><$comeff(2,14)><$motion(2,666)>Mas, oh querida... Parece que eles estão atordoados e não podem<br>mover-se devido ao relâmpago.<clear><br><$voicel(2,7)><$comeff(2,3)><$motion(2,659)><$facial(2,5)>pode tentar falar com eles por nós?<br><$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 13,
+      "en": "<$voicel(1,8)><$emotion(1,49)>Try talking to <$cdef(27)>Snorlax</color>, would you?",
+      "pt_br": "<$voicel(1,8)><$emotion(1,49)>Tenta falar com... <$cdef(27)>Snorlax</color>Você faria isso?"
+    },
+    {
+      "id": 14,
+      "en": "<$voicel(2,7)><$comeff(2,3)><$motion(2,659)><$facial(2,5)>Could you try speaking to <$cdef(27)>Snorlax</color>?",
+      "pt_br": "<$voicel(2,7)><$comeff(2,3)><$motion(2,659)><$facial(2,5)>- pode tentar falar com... <$cdef(27)>Snorlax</color>?"
+    },
+    {
+      "id": 15,
+      "en": "It seems like there’s still more for you to do in<br><$cdef(27)><$stgname;0(2)></color>.",
+      "pt_br": "Parece que ainda há mais para você fazer em<br><$cdef(27)><$stgname;0(2)></color>."
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(3,4)><$comeff(3,6)><$motion(3,666)>Somethin’ seemed a li’l...shockin’ just now...",
+      "pt_br": "<$voicel(3,4)><$comeff(3,6)><$motion(3,666)>Algo parecia um li'l...choque’ apenas agora..."
+    },
+    {
+      "id": 17,
+      "en": "<$voicel(3,7)><$comeff(3,16)><$motion(3,839)>*yaaawn*<br>Sure was a nice nap I jus’ had, though.<clear><br>... ... ...<br>... ... ...<slide><br><$voicel(3,6)><$motion(3,656)><$comeff(3,15)>Wouldn’t hurt to sleep a li’l more, I s’pose...",
+      "pt_br": "<$voicel(3,7)><$comeff(3,16)><$motion(3,839)>*Yaaawn *<br>Foi uma boa soneca que eu só tinha, no entanto.<clear><br>... ... ...<br>... ... ...<slide><br><$voicel(3,6)><$motion(3,656)><$comeff(3,15)>Não faria mal dormir um li’l mais, eu suponho..."
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(1,10)><$comeff(1,22)><$motion(1,803)><$facial(1,7)>Hey, now! Haven’t you slept enough?!",
+      "pt_br": "<$voicel(1,10)><$comeff(1,22)><$motion(1,803)><$facial(1,7)>Ei, agora! Você já não dormiu o suficiente?!"
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(3,4)><$comeff(3,3)><$motion(3,661)>Hmmm? Who are y’all s’posed to be?",
+      "pt_br": "<$voicel(3,4)><$comeff(3,3)><$motion(3,661)>Hmmm? Quem vocês são para ser?"
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(2,7)><$emotion(2,27)>You were sleeping here long enough to be completely<br>covered in moss, <$cdef(27)>Snorlax</color>! Why, some other Pokémon<slide><br>even took to calling you <$cdef(27)>Mosslax </color>because of it!<clear><br><$voicel(2,5)><$comeff(2,17)><$motion(2,663)>We were quite worried that you would get weaker and<br>weaker, sleeping away without anything at all to eat, so<slide><br><$voicel(2,8)><$comeff(2,9)><$motion(2,801)>we all worked together to wake you!",
+      "pt_br": "<$voicel(2,7)><$emotion(2,27)>Dormiste aqui tempo suficiente para ficares completamente.<br>coberta de musgo, <$cdef(27)>Snorlax</color>Ora, outro Pokémon<slide><br>até mesmo levou a chamá-lo <$cdef(27)>Mosslax </color>Por causa disso!<clear><br><$voicel(2,5)><$comeff(2,17)><$motion(2,663)>Estávamos preocupados que ficasses mais fraco e...<br>mais fraco, dormindo sem nada para comer, então<slide><br><$voicel(2,8)><$comeff(2,9)><$motion(2,801)>trabalhámos todos juntos para te acordar!"
+    },
+    {
+      "id": 21,
+      "en": "<$se2d(1092)>*GRRLLLGRRMMMBLLL*",
+      "pt_br": "<$se2d(1092)>* GRRLLLGRRMMMBLLL *"
+    },
+    {
+      "id": 22,
+      "en": "<$voicel(3,7)><$comeff(3,3)><$motion(3,666)>Oh... Now that ya mention it, I am a li’l hungry.<clear><br>... ... ...<br><$voicel(3,5)><$comeff(3,6)>Ya reckon I lost some weight?",
+      "pt_br": "<$voicel(3,7)><$comeff(3,3)><$motion(3,666)>Oh... Agora que você mencionou isso, Eu sou um li’l fome.<clear><br>... ... ...<br><$voicel(3,5)><$comeff(3,6)>Achas que perdi algum peso?"
+    },
+    {
+      "id": 23,
+      "en": "<$comeff(3,14)>... ... ...",
+      "pt_br": "<$comeff(3,14)>... ... ..."
+    },
+    {
+      "id": 24,
+      "en": "<$comeff(1,14)>... ... ...",
+      "pt_br": "<$comeff(1,14)>... ... ..."
+    },
+    {
+      "id": 25,
+      "en": "...<$cdef(27)>Mosslax</color>, huh? S’pose that describes me well enough.<clear><br><$comcan(1)><$voicel(3,9)><$emotion(3,27)>So, uh...y’all pretty much saved me, huh? <$voicel(3,8)><$emotion(3,49)>That sure was a<br>nice thing to do! Thank ya kindly!",
+      "pt_br": "...<$cdef(27)>Mosslax</color>Suponha que isso me descreva bem o suficiente.<clear><br><$comcan(1)><$voicel(3,9)><$emotion(3,27)>Então, uh... vocês praticamente me salvou, hein? <$voicel(3,8)><$emotion(3,49)>Isso foi mesmo...<br>Obrigado, muito obrigado!"
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(1,5)><$comeff(1,6)><$motion(1,827)>Listen, <$cdef(27)>Mosslax</color>, do you remember anything about what<br>happened before you fell asleep?<clear><br><$voicel(1,4)>Do you know where the humans went?<$motion(1,654)>",
+      "pt_br": "<$voicel(1,5)><$comeff(1,6)><$motion(1,827)>Ouve... <$cdef(27)>Mosslax</color>Lembra-se de alguma coisa sobre o quê?<br>Aconteceu antes de adormeceres?<clear><br><$voicel(1,4)>sabe para onde foram os humanos?<$motion(1,654)>"
+    },
+    {
+      "id": 27,
+      "en": "<$voicel(3,5)><$comeff(3,6)><$motion(3,666)>Hm? I don’t remember a whole lot, but—wait, the humans<br>are gone?!<clear><br><$voicel(3,5)><$comeff(3,7)>Well, that ain’t good... They gave me food!",
+      "pt_br": "<$voicel(3,5)><$comeff(3,6)><$motion(3,666)>Hm? Eu não me lembro de muita coisa, mas – espere, os humanos<br>se foram?!<clear><br><$voicel(3,5)><$comeff(3,7)>Bem, isso não é bom... Eles me deram comida!"
+    },
+    {
+      "id": 28,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,661)>Oh? Does that mean you <$voicel(1,8)>lived in harmony alongside<br>the humans?",
+      "pt_br": "<$voicel(1,5)><$comeff(1,14)><$motion(1,661)>Isso quer dizer que tu... <$voicel(1,8)>viveu em harmonia ao lado<br>Os humanos?"
+    },
+    {
+      "id": 29,
+      "en": "<$comcan(1)><$voicel(3,5)><$comeff(3,3)>Sure did! Y’know how there’re naughty Pokémon out there<br>who like to play tricks on folks?<clear><br><$voicel(3,7)><$emotion(3,49)>Well, I’d run those Pokémon off, and the humans would<br>gimme food in return—<wait(0.8)><$comeff(3,5)>Ah! <$voicel(3,10)>I jus’ remembered somethin’!<clear><br><$voicel(3,7)><$emotion(3,14)>At some point, I stopped gettin’ as much food as I<br>used to!<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,666)>Seems the humans had run low on food themselves...",
+      "pt_br": "<$comcan(1)><$voicel(3,5)><$comeff(3,3)>Claro que sim! Você sabe como há Pokémon impertinente lá fora<br>Quem gosta de pregar partidas às pessoas?<clear><br><$voicel(3,7)><$emotion(3,49)>Bem, eu expulsaria aqueles Pokémon, e os humanos<br>Dê-me comida em troca...<wait(0.8)><$comeff(3,5)>Ah! <$voicel(3,10)>Eu só me lembrei de alguma coisa!<clear><br><$voicel(3,7)><$emotion(3,14)>Em algum momento, eu parei de conseguir tanta comida quanto eu<br>Costumava!<clear><br><$voicel(3,5)><$comeff(3,14)><$motion(3,666)>Parece que os humanos estavam sem comida..."
+    },
+    {
+      "id": 30,
+      "en": "<$comcan(3)><$voicel(2,5)><$comeff(2,6)><$motion(2,666)>I wonder if those natural disasters <$cdef(27)>Raikou</color> mentioned had<br>anything to do with that?",
+      "pt_br": "<$comcan(3)><$voicel(2,5)><$comeff(2,6)><$motion(2,666)>Pergunto-me se aqueles desastres naturais <$cdef(27)>Raikou</color> mencionados tinham<br>Tem alguma coisa a ver com isso?"
+    },
+    {
+      "id": 31,
+      "en": "<$voicel(3,7)><$comeff(3,10)><$motion(3,661)>Eventually, I started to get kinda hangry, and I scuffled<br>with a real ornery-lookin’ Pokémon, thinkin’ I might let<slide><br>off some steam...<clear><br><$voicel(3,4)><$comeff(3,14)>But I got whupped soundly! <$voicel(3,6)><$comeff(3,3)><$motion(3,666)>And that frustrated me so bad<br>I figured I’d jus’ sleep it off.",
+      "pt_br": "<$voicel(3,7)><$comeff(3,10)><$motion(3,661)>Eventualmente, comecei a ficar com um pouco de fome, e eu briguei<br>com um real ornery-lookin’ Pokémon, pensando’ eu poderia deixar<slide><br>Esvaziar-se...<clear><br><$voicel(3,4)><$comeff(3,14)>Mas eu levei uma sova! <$voicel(3,6)><$comeff(3,3)><$motion(3,666)>E isso frustrou-me tanto<br>Eu pensei que eu só iria dormir."
+    },
+    {
+      "id": 32,
+      "en": "<$voicel(1,4)><$comeff(1,7)><$motion(1,806)><$facial(1,9)>You seem a tad dangerous yourself.",
+      "pt_br": "<$voicel(1,4)><$comeff(1,7)><$motion(1,806)><$facial(1,9)>Também pareces um pouco perigoso."
+    },
+    {
+      "id": 33,
+      "en": "<$voicel(2,7)><$comeff(2,11)><$motion(2,899)>My goodness! Do you mean to say you were buried in the<br>dirt and covered in moss because...<$voicel(2,4)>you took a nap?<$motion(2,657)>",
+      "pt_br": "<$voicel(2,7)><$comeff(2,11)><$motion(2,899)>Meu Deus, quer dizer que foste enterrado no<br>Sujeira e coberta de musgo porque...<$voicel(2,4)>Dormiste uma sesta?<$motion(2,657)>"
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(3,7)><$emotion(3,49)>Huh... Yeah, I s’pose that’s what happened. Can’t say I<br>really remember it all that well, though.",
+      "pt_br": "<$voicel(3,7)><$emotion(3,49)>Huh... Sim, eu suponho que isso é o que aconteceu.<br>Mas lembra-te muito bem."
+    },
+    {
+      "id": 35,
+      "en": "<$voicel(1,5)><$emotion(1,14)>So the humans were struggling as a result of natural<br>disasters...<slide><br>So much so that they didn’t have enough food...<clear><br><$voicel(1,4)><$comeff(1,6)><$motion(1,666)>Then where did they go after that?",
+      "pt_br": "<$voicel(1,5)><$emotion(1,14)>Assim, os humanos estavam lutando como resultado de natural<br>Desastres...<slide><br>Tanto que eles não tinham comida suficiente...<clear><br><$voicel(1,4)><$comeff(1,6)><$motion(1,666)>Então, para onde foram depois disso?"
+    },
+    {
+      "id": 36,
+      "en": "<$voicel(3,5)><$emotion(3,8)>I dunno, but I sure am grateful to y’all for savin’ me!<br>Keep in touch now, y’hear!",
+      "pt_br": "<$voicel(3,5)><$emotion(3,8)>Não sei, mas estou muito grato a todos por me salvarem!<br>Mantenha-se em contato agora, sim!"
+    },
+    {
+      "id": 37,
+      "en": "<oneline><$voicel(1,5)><$emotion(1,38)>Say, <$cdef(27)><pname;0></color>, there seems to be another<br>gate<slide><br>in<slide><br>this<slide><br>town,<slide><br>apart<slide><br>from<slide><br>the<slide><br>one<slide><br>we<slide><br>came<slide><br>in through.",
+      "pt_br": "<oneline><$voicel(1,5)><$emotion(1,38)>Diz, <$cdef(27)><pname;0></color>, parece haver outro<br>portão<slide><br>em<slide><br>isto<slide><br>cidade,<slide><br>separado<slide><br>de<slide><br>a<slide><br>uma<slide><br>nós<slide><br>veio<slide><br>por dentro."
+    },
+    {
+      "id": 38,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Now that you’ve registered <$cdef(27)>Raikou </color>in your Pokédex, you<br>may be able to pass through it!",
+      "pt_br": "<$voicel(1,7)><$emotion(1,14)>Agora que você se registrou <$cdef(27)>Raikou </color>no seu Pokédex, você<br>Pode ser capaz de passar por ela!"
+    },
+    {
+      "id": 39,
+      "en": "<$voicel(1,5)><$facial(1,1)><$motion(1,661)>I think you should go check it out when you’re ready.<clear><br><$voicel(1,5)><$facial(1,4)><$comeff(1,9)><$motion(1,664)>And I’ll be coming with you, of course!",
+      "pt_br": "<$voicel(1,5)><$facial(1,1)><$motion(1,661)>Eu acho que você deve ir verificar quando você está pronto.<clear><br><$voicel(1,5)><$facial(1,4)><$comeff(1,9)><$motion(1,664)>E eu vou com você, é claro!"
+    },
+    {
+      "id": 40,
+      "en": "<$voicel(1,5)><$comeff(1,3)>Oh, and remember that <$cdef(27)>sand-covered building</color> we found<br>on the beach in <$cdef(27)><$stgname;0(1)></color>?<clear><br><$voicel(1,4)><$comeff(1,14)><$motion(1,666)><$facial(1,9)>Something about that keeps tugging at my mind as well.",
+      "pt_br": "<$voicel(1,5)><$comeff(1,3)>E lembra-te disso. <$cdef(27)>Construção coberta de areia</color> encontramos<br>na praia em <$cdef(27)><$stgname;0(1)></color>?<clear><br><$voicel(1,4)><$comeff(1,14)><$motion(1,666)><$facial(1,9)>Algo sobre isso continua a puxar-me a mente também."
+    },
+    {
+      "id": 41,
+      "en": "<$voicel(1,7)><$emotion(1,49)>I’d appreciate it if you could check on it every now<br>and then.",
+      "pt_br": "<$voicel(1,7)><$emotion(1,49)>Eu apreciaria se você pudesse verificá-lo a cada momento<br>e depois."
+    },
+    {
+      "id": 42,
+      "en": "<$voicel(1,5)><$comeff(1,21)><$motion(1,806)><$facial(1,4)>Thanks to you, this town has gotten much livelier—<$voicel(1,8)>and of<br>course much brighter!",
+      "pt_br": "<$voicel(1,5)><$comeff(1,21)><$motion(1,806)><$facial(1,4)>Graças a ti, esta cidade está mais animada...<$voicel(1,8)>e de<br>Claro, muito mais brilhante!"
+    },
+    {
+      "id": 43,
+      "en": "<$voicel(1,7)><$comeff(1,3)><$motion(1,661)>If you’d like to explore somewhere you haven’t been<br>before, I recommend heading back to the previous town<slide><br><$voicel(1,5)>and going through that other gate there.",
+      "pt_br": "<$voicel(1,7)><$comeff(1,3)><$motion(1,661)>Se você gostaria de explorar algum lugar que você não foi<br>antes, eu recomendo voltar para a cidade anterior<slide><br><$voicel(1,5)>e passar por aquele outro portão ali."
+    },
+    {
+      "id": 44,
+      "en": "<$voicel(1,9)><$comeff(1,9)><$motion(1,664)><$facial(1,4)>And whenever you do, you can be sure I’m coming<br>with you!",
+      "pt_br": "<$voicel(1,9)><$comeff(1,9)><$motion(1,664)><$facial(1,4)>E sempre que você faz, você pode ter certeza que eu estou indo<br>com você!"
+    },
+    {
+      "id": 45,
+      "en": "<$voicel(2,9)><$comeff(2,10)><$motion(2,801)><$facial(2,5)>Let’s do our best to brighten up the town! We must find a<br>way to wake up <$cdef(27)>Snorlax</color>!",
+      "pt_br": "<$voicel(2,9)><$comeff(2,10)><$motion(2,801)><$facial(2,5)>Vamos fazer o nosso melhor para iluminar a cidade!<br>maneira de acordar <$cdef(27)>Snorlax</color>!"
+    },
+    {
+      "id": 46,
+      "en": "<$voicel(2,7)><$comeff(2,9)><$motion(2,659)>Even small Pokémon can live an enjoyable life in this town!<br>The thought alone fills me with such joy.",
+      "pt_br": "<$voicel(2,7)><$comeff(2,9)><$motion(2,659)>Mesmo o pequeno Pokémon pode viver uma vida agradável nesta cidade!<br>Só o pensamento me enche de tanta alegria."
+    },
+    {
+      "id": 47,
+      "en": "<oneline><$voicel(2,5)><$comeff(2,3)><$motion(2,661)>You’re skilled at so many things, <$cdef(27)><pname;0></color>.<br>I am<slide><br>quite envious!",
+      "pt_br": "<oneline><$voicel(2,5)><$comeff(2,3)><$motion(2,661)>Você é habilidoso em tantas coisas, <$cdef(27)><pname;0></color>.<br>Eu sou.<slide><br>Que inveja!"
+    },
+    {
+      "id": 48,
+      "en": "<oneline><$voicel(2,5)><$emotion(2,14)>You’re always transformed to look like your<br>Trainer, <$cdef(27)><pname;0></color>.<clear><br><$voicel(2,8)><$emotion(2,8)>They must have been someone very important to you.",
+      "pt_br": "<oneline><$voicel(2,5)><$emotion(2,14)>Você está sempre transformado para se parecer com o seu<br>Treinador, <$cdef(27)><pname;0></color>.<clear><br><$voicel(2,8)><$emotion(2,8)>Devem ter sido alguém muito importante para ti."
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "entry_index": 4196,
+  "bin_id": "0xac3200",
+  "decompressed_size": 3360,
+  "first_tag_offset": 1104,
+  "total_strings": 88,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$etpkcryhp;0(lnum1)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Looks great!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "I’m so sleeeepy...",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "I dunno what to do...",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Hello, hello!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "Ooh, looks nice and healthy!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Yay, a friend!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Yah!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Still going!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "We can do it!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "Yaaay!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Oh no, it’s raining! I’m going home!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "Something smells good!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "I wanna hunt for treasure!",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "That looks too hard...",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "I can’t make it!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "I made it!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "This is making me so...tired...",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "I found something!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "I think there’s something above here!",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "I think there’s something below here!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "I think something’s over this way!",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "I don’t think there’s anything here!",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Try over there!",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Something’s super close!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Time to go already?",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "Oh no! A dead end!",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "A little closer, please!",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Yaaayyy! <$etpkcryhp;0(lnum1)>! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "The <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "Oooh, it’s nice ’n’ warm! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "It’s kinda hot...",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Ooh, nice and cool! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "I kinda think it’s too cold...",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Yay, it got brighter! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "Eep, it’s a little too bright.",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Yippee! It’s darker! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "It’s kinda dark here...",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "Nice ’n’ damp! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Ugh, it feels all muggy...",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "Ahh, the air’s nice ’n’ dry! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "The air’s sooo dry...",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "I can’t get by!",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "This place seems great!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "What a nice home!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "I have neat stuff here!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Hmmm. Isn’t it kinda small?",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "Yippee! Let’s go, let’s go!",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "Bye-bye!",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "I can’t wait!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "I LOVE this smell!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "Sorry, maybe next time!",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "All done!",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "I can do this!",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "This is a neat place!",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Hey, <$cdef(27)><$etpname;0(lnum1)></color>! What’s that?",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "I’m gonna find you!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "I don’t think I can right now...",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Oooh!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "Oh WOW!!!",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Here we go!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Oooh, nice and warm! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Hey, wait for ME!",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "Sorry, I can’t get over there!",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "OK! I’m gonna do this!",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "Could you spray some water first?",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "Hmmm... Where should I look?",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Not here...",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "Huh?",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "*sniff sniff*",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "I know what you’re up to!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "Hmm, if it were me...",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "FOUND you!",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Not done yet!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "Oooh, look at it burble!",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "Is it ready? ...How ’bout now?!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "Here goes!",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "So exciting!",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "YAAAY!",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "This place is so nice!",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "Aww, there’s WATER in the way!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "We did it! It’s ready!",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "Can we do anything about that thing above it?",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "Huh, I guess it was my ’magination.",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "What was that sound?!",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "Add some <$cdef(27)>bubbles </color>first, please!",
+      "pt_br": ""
+    }
+  ]
+}

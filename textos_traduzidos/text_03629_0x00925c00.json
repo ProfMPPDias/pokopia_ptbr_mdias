@@ -1,0 +1,294 @@
+{
+  "entry_index": 3629,
+  "bin_id": "0x925c00",
+  "decompressed_size": 11960,
+  "first_tag_offset": 1096,
+  "total_strings": 57,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(4,2)>... ... ...<wait(2.0)><$lookat(4,0,0)><$lookat(4,1,0)><waitactor(4)><clear><br><$emotion(4,14)><$voicel(4,8)>Oh! Sorry, I didn’t see you there! <wait(1.5)><$emotion(4,55)><$voicel(4,4)>So I’m SUPER curious<br>about the depths of this cave, right?",
+      "pt_br": "<$voicel(4,2)>... ... ...<wait(2.0)><$lookat(4,0,0)><$lookat(4,1,0)><waitactor(4)><clear><br><$emotion(4,14)><$voicel(4,8)>Desculpe, eu não vi você lá! <wait(1.5)><$emotion(4,55)><$voicel(4,4)>Então, eu sou SUPER curioso<br>Sobre as profundezas desta caverna, certo?"
+    },
+    {
+      "id": 1,
+      "en": "<$comcan(4)>And—<wait(0.5)><$comeff(4,6)><$facial(4,1)><$motion(4,806)><$voicel(4,6)>wait... Those soft, squishy facial features... <$emotion(4,14)><$voicel(4,4)>Are you<br>actually a <$cdef(27)>Ditto</color>?!<wait(0.8)><$motion(0,40)><wait(1.0)><clear><br><$comeff(4,9)><$motion(4,644)><$facial(4,4)><$voicel(4,5)>Hehehe, do you like exploring too? Let’s be friends!",
+      "pt_br": "<$comcan(4)>E...<wait(0.5)><$comeff(4,6)><$facial(4,1)><$motion(4,806)><$voicel(4,6)>Espera... essas características faciais macias e macias... <$emotion(4,14)><$voicel(4,4)>está a...<br>na verdade a <$cdef(27)>Ditto</color>?!<wait(0.8)><$motion(0,40)><wait(1.0)><clear><br><$comeff(4,9)><$motion(4,644)><$facial(4,4)><$voicel(4,5)>Hehehe, você gosta de explorar também? Vamos ser amigos!"
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(4,7)><$motion(4,663)><$facial(4,9)><$voicel(4,4)>Hmmm... Guess it’s a dead end.",
+      "pt_br": "<$comeff(4,7)><$motion(4,663)><$facial(4,9)><$voicel(4,4)>Acho que é um beco sem saída."
+    },
+    {
+      "id": 3,
+      "en": "<$comeff(4,14)><$motion(4,805)><$facial(4,2)><$voicel(4,5)>I REALLY want to explore this cave, but there’s all this<br>STUFF in the way. <$comeff(4,4)><$motion(4,802)><$facial(4,10)><$voicel(4,4)><$kfacial(4)>I just can’t get through...",
+      "pt_br": "<$comeff(4,14)><$motion(4,805)><$facial(4,2)><$voicel(4,5)>Eu realmente quero explorar esta caverna, mas há tudo isso<br>Coisas no caminho. <$comeff(4,4)><$motion(4,802)><$facial(4,10)><$voicel(4,4)><$kfacial(4)>Eu simplesmente não consigo passar..."
+    },
+    {
+      "id": 4,
+      "en": "<$comeff(4,21)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>Wait, you’ll break it for me?! That’d be a BIG help!<clear><br><$emotion(4,14)><$voicel(4,7)>Oh, hey! Since you’re here, we might as well explore the<br>place together!",
+      "pt_br": "<$comeff(4,21)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>Espere, você vai quebrá-lo para mim?! Isso seria uma grande ajuda!<clear><br><$emotion(4,14)><$voicel(4,7)>Já que você está aqui, podemos também explorar o<br>Fiquem juntos!"
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(4,21)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>Wait, for real?! That’d be a BIG help!<clear><br><$emotion(4,14)><$voicel(4,7)>Oh, hey! Since you’re here, we might as well explore the<br>place together!",
+      "pt_br": "<$comeff(4,21)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>Espere, de verdade?! Isso seria uma grande ajuda!<clear><br><$emotion(4,14)><$voicel(4,7)>Já que você está aqui, podemos também explorar o<br>Fiquem juntos!"
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(4,9)><$motion(4,806)><$facial(4,1)><$voicel(4,10)>To the back of the cave we GO!",
+      "pt_br": "<$comeff(4,9)><$motion(4,806)><$facial(4,1)><$voicel(4,10)>Para a parte de trás da caverna vamos!"
+    },
+    {
+      "id": 7,
+      "en": "<oneline><$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,5)>Oh. Is there something else you wanna do instead,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": "<oneline><$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,5)>Há mais alguma coisa que queiras fazer em vez disso,<br><$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 8,
+      "en": "<$emotion(4,8)><$voicel(4,7)>If you’re up for it, I’d love it if you explored the cave<br>with me!",
+      "pt_br": "<$emotion(4,8)><$voicel(4,7)>Se você estiver pronto para isso, eu adoraria se você explorasse a caverna<br>Comigo!"
+    },
+    {
+      "id": 9,
+      "en": "<$emotion(4,8)><$voicel(4,7)>If you’re up for it, I’d love it if you explored the cave<br>with me!",
+      "pt_br": "<$emotion(4,8)><$voicel(4,7)>Se você estiver pronto para isso, eu adoraria se você explorasse a caverna<br>Comigo!"
+    },
+    {
+      "id": 10,
+      "en": "<$comeff(4,9)><$motion(4,644)><$facial(4,4)><$voicel(4,7)>Thanks for doing that for me, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$comeff(4,9)><$motion(4,644)><$facial(4,4)><$voicel(4,7)>Obrigado por fazeres isso por mim. <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 11,
+      "en": "<$comeff(4,21)><$motion(4,801)><$facial(4,4)><$voicel(4,9)>It was SWEET getting to explore together! This place is so<br>sparkly and charming! ♪",
+      "pt_br": "<$comeff(4,21)><$motion(4,801)><$facial(4,4)><$voicel(4,9)>Era SWEET começar a explorar juntos! Este lugar é tão<br>Brilhante e encantador!"
+    },
+    {
+      "id": 12,
+      "en": "<$emotion(4,27)><$voicel(4,5)>Huh? Wait, wait, wait. I... I feel something here!<clear><br><$comeff(4,10)><$motion(4,662)><$facial(4,1)><$voicel(4,7)>You feel it too, right, <$cdef(27)><pname;0></color>?!",
+      "pt_br": "<$emotion(4,27)><$voicel(4,5)>Espera, espera, eu sinto algo aqui!<clear><br><$comeff(4,10)><$motion(4,662)><$facial(4,1)><$voicel(4,7)>Tu também sentes, certo? <$cdef(27)><pname;0></color>?!"
+    },
+    {
+      "id": 13,
+      "en": "<$emotion(4,55)><$voicel(4,3)>Really? It’s like a feeling there’s treasure nearby.<clear><br><$emotion(4,14)><$voicel(4,5)>...Wait. THAT might be what’s here—<$comeff(4,8)><$motion(4,806)><$facial(4,4)><$voicel(4,8)>something I love!",
+      "pt_br": "<$emotion(4,55)><$voicel(4,3)>Realmente? É como uma sensação de que há um tesouro nas proximidades.<clear><br><$emotion(4,14)><$voicel(4,5)>...Espere. Isso pode ser o que está aqui-<$comeff(4,8)><$motion(4,806)><$facial(4,4)><$voicel(4,8)>Algo que eu amo!"
+    },
+    {
+      "id": 14,
+      "en": "<$voicel(4,3)><$comeff(4,14)><$motion(4,666)>Hmm... Are you sure? It’s more like a feeling there’s<br>treasure nearby or something.<clear><br><$emotion(4,14)><$voicel(4,5)>...Wait. THAT might be what’s here—<$comeff(4,8)><$motion(4,806)><$facial(4,4)><$voicel(4,8)>something I love!",
+      "pt_br": "<$voicel(4,3)><$comeff(4,14)><$motion(4,666)>Hmm... Você tem certeza? É mais como um sentimento de que há<br>Um tesouro perto ou algo assim.<clear><br><$emotion(4,14)><$voicel(4,5)>...Espere. Isso pode ser o que está aqui-<$comeff(4,8)><$motion(4,806)><$facial(4,4)><$voicel(4,8)>Algo que eu amo!"
+    },
+    {
+      "id": 15,
+      "en": "<$emotion(4,50)><$voicel(4,6)>I’m talking about a doll! <$emotion(4,39)><$voicel(4,9)>The thing about me is, I LOVE<br>dolls that are filled with signs their owner cared for them.<clear><br><$comeff(4,3)><$motion(4,805)><$facial(4,1)><$voicel(4,7)>And right now, I can just tell there’s a precious doll nearby!",
+      "pt_br": "<$emotion(4,50)><$voicel(4,6)>Estou falando de uma boneca! <$emotion(4,39)><$voicel(4,9)>A coisa sobre mim é, EU AMO<br>Bonecas que estão cheias de sinais que o seu dono cuidou deles.<clear><br><$comeff(4,3)><$motion(4,805)><$facial(4,1)><$voicel(4,7)>E agora, posso apenas dizer que há uma boneca preciosa por perto!"
+    },
+    {
+      "id": 16,
+      "en": "<$emotion(4,50)><$voicel(4,6)>A doll! <$emotion(4,39)><$voicel(4,9)>The thing about me is, I LOVE dolls that are filled<br>with signs their owner cared for them.<clear><br><$comeff(4,3)><$motion(4,805)><$facial(4,1)><$voicel(4,7)>And right now, I can just tell there’s a precious doll nearby!",
+      "pt_br": "<$emotion(4,50)><$voicel(4,6)>Uma boneca! <$emotion(4,39)><$voicel(4,9)>A coisa sobre mim é, EU AMO bonecas que estão cheias<br>com sinais de que o seu dono cuidava deles.<clear><br><$comeff(4,3)><$motion(4,805)><$facial(4,1)><$voicel(4,7)>E agora, posso apenas dizer que há uma boneca preciosa por perto!"
+    },
+    {
+      "id": 17,
+      "en": "Try to find a <$cdef(27)><fqty(1)><$ifull(540)></color> for <$cdef(27)>Frillish</color>!<clear><br>If you use the <$cdef(27)><fqty(1)><$ifull(2793)></color>, you and <$cdef(27)>Frillish</color> can<br>search for it together!",
+      "pt_br": "Tentar encontrar um <$cdef(27)><fqty(1)><$ifull(540)></color> em vez <$cdef(27)>Frillish</color>!<clear><br>Se utilizar o <$cdef(27)><fqty(1)><$ifull(2793)></color>, você e <$cdef(27)>Frillish</color> pode<br>Procurem-no juntos!"
+    },
+    {
+      "id": 18,
+      "en": "If you don’t have a <$cdef(27)><fqty(1)><$ifull(2793)></color>, try going to<br><$cdef(27)><$stgname;0(1)></color>!<clear><br>You can find one if you search the top of the hill near<br>the Pokémon Center!",
+      "pt_br": "Se você não tem um <$cdef(27)><fqty(1)><$ifull(2793)></color>, tentar ir<br><$cdef(27)><$stgname;0(1)></color>!<clear><br>Você pode encontrar um se você procurar no topo da colina perto<br>O Centro Pokémon!"
+    },
+    {
+      "id": 19,
+      "en": "<$emotion(4,55)><$voicel(4,4)>I know there’s a doll around here somewhere...",
+      "pt_br": "<$emotion(4,55)><$voicel(4,4)>Eu sei que há uma boneca por aqui em algum lugar..."
+    },
+    {
+      "id": 20,
+      "en": "<$comcan(4)><$cdef(27)>Frillish </color>is good at <$cdef(27)><$spwfull(11)>ing</color>—try looking for a<br><$cdef(27)><fqty(1)><$ifull(540)> </color>together!<clear><br>You might find it faster if you use a <$cdef(27)><fqty(1)><$ifull(2793)></color>!",
+      "pt_br": "<$comcan(4)><$cdef(27)>Frillish </color>é bom em <$cdef(27)><$spwfull(11)>ing</color>—tentar procurar uma<br><$cdef(27)><fqty(1)><$ifull(540)> </color>Juntos!<clear><br>Você pode encontrá-lo mais rápido se você usar um <$cdef(27)><fqty(1)><$ifull(2793)></color>!"
+    },
+    {
+      "id": 21,
+      "en": "You dug up some treasure! Pick it up and see what it is!",
+      "pt_br": "Você desenterrou algum tesouro!"
+    },
+    {
+      "id": 22,
+      "en": "<$comeff(4,21)><$motion(4,801)><$facial(4,4)><$voicel(4,10)>WHOA! Such a pretty shine!<clear><br><$voicel(4,7)><$comeff(4,8)><$facial(4,4)><$motion(4,806)>Did humans use these as accessories? So fashionable!",
+      "pt_br": "<$comeff(4,21)><$motion(4,801)><$facial(4,4)><$voicel(4,10)>Que brilho tão bonito!<clear><br><$voicel(4,7)><$comeff(4,8)><$facial(4,4)><$motion(4,806)>Os humanos usaram estes como acessórios? Tão na moda!"
+    },
+    {
+      "id": 23,
+      "en": "<$comeff(4,10)><$motion(4,807)><$facial(4,2)><$voicel(4,9)>All right! Let’s use these vibes to find that doll!",
+      "pt_br": "<$comeff(4,10)><$motion(4,807)><$facial(4,2)><$voicel(4,9)>Muito bem! Vamos usar essas vibrações para encontrar essa boneca!"
+    },
+    {
+      "id": 24,
+      "en": "<$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,3)>Uhhh... What IS this? It’s not a doll...<clear><br><$emotion(4,247)><$voicel(4,8)>Let’s try looking somewhere else!",
+      "pt_br": "<$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,3)>O que é isso? Não é uma boneca...<clear><br><$emotion(4,247)><$voicel(4,8)>Vamos tentar procurar em outro lugar!"
+    },
+    {
+      "id": 25,
+      "en": "<$comeff(4,10)><$motion(4,807)><$facial(4,4)><$voicel(4,10)>All right! Next, let’s find a doll!",
+      "pt_br": "<$comeff(4,10)><$motion(4,807)><$facial(4,4)><$voicel(4,10)>Muito bem! Em seguida, vamos encontrar uma boneca!"
+    },
+    {
+      "id": 26,
+      "en": "<$emotion(4,27)><$voicel(4,7)>OH! A doll! Let me see, <$cdef(27)><pname;0></color>!<clear><br><$motion(4,666)><$facial(4,1)><$voicel(4,2)>... ... ...<clear><br><$emotion(4,47)><$voicel(4,3)>Hmmm... I don’t think this is the same doll I sensed earlier.<br><$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,6)>Are there any others around?",
+      "pt_br": "<$emotion(4,27)><$voicel(4,7)>Uma boneca! <$cdef(27)><pname;0></color>!<clear><br><$motion(4,666)><$facial(4,1)><$voicel(4,2)>... ... ...<clear><br><$emotion(4,47)><$voicel(4,3)>Hmmm... Eu não acho que esta é a mesma boneca que eu senti antes.<br><$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,6)>Há mais alguém por perto?"
+    },
+    {
+      "id": 27,
+      "en": "<$emotion(4,27)><$voicel(4,7)>OH! A doll! Let me see, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$emotion(4,27)><$voicel(4,7)>Uma boneca! <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 28,
+      "en": "<$comeff(4,21)><$motion(4,644)><$facial(4,1)><$voicel(4,7)>Wow... This doll looks really well cared for. I think it was<br>owned by a little girl.",
+      "pt_br": "<$comeff(4,21)><$motion(4,644)><$facial(4,1)><$voicel(4,7)>Esta boneca parece muito bem cuidada.<br>Pertence a uma menina."
+    },
+    {
+      "id": 29,
+      "en": "<$emotion(4,6)><$voicel(4,6)>She must’ve LOVED <$cdef(27)><$cname(566)></color>!",
+      "pt_br": "<$emotion(4,6)><$voicel(4,6)>Ela deve ter amado <$cdef(27)><$cname(566)></color>!"
+    },
+    {
+      "id": 30,
+      "en": "<$comeff(4,13)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>Frill friiill! ♪ Oh, it makes me so happy too! ♪<clear><br><$comeff(4,21)><$motion(4,644)><$facial(4,1)><$voicel(4,7)>I’m totally satisfied. Here—you can have the doll back!",
+      "pt_br": "<$comeff(4,13)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>Também me faz tão feliz!<clear><br><$comeff(4,21)><$motion(4,644)><$facial(4,1)><$voicel(4,7)>Estou totalmente satisfeito. Aqui - você pode ter a boneca de volta!"
+    },
+    {
+      "id": 31,
+      "en": "This <$cdef(27)><fqty(1)><$ifull(540)></color> is like any other doll—if you show it<br>to <$cdef(27)><$cname(123)></color>, they’ll take you to a <$cdef(27)>Dream Island</color>!",
+      "pt_br": "Isto. <$cdef(27)><fqty(1)><$ifull(540)></color> é como qualquer outra boneca – se você mostrar<br>para <$cdef(27)><$cname(123)></color>, eles vão levá-lo para um <$cdef(27)>Ilha dos Sonhos</color>!"
+    },
+    {
+      "id": 32,
+      "en": "<$emotion(4,8)><$voicel(4,9)>Hehehe! ♪ Any day I see such a lovely doll is a lucky one!<br><$comeff(4,8)><$motion(4,644)><$facial(4,1)><$voicel(4,8)>Thanks for doing that for me, <$cdef(27)><pname;0></color>!<clear><br><$emotion(4,14)><$voicel(4,5)>Oh! Let me do something for YOU to repay the favor!<br><$emotion(4,55)><$voicel(4,4)>Hmmm... What could I do?",
+      "pt_br": "<$emotion(4,8)><$voicel(4,9)>Qualquer dia que vejo uma boneca tão linda é uma rapariga de sorte!<br><$comeff(4,8)><$motion(4,644)><$facial(4,1)><$voicel(4,8)>Obrigado por fazeres isso por mim. <$cdef(27)><pname;0></color>!<clear><br><$emotion(4,14)><$voicel(4,5)>Deixa-me fazer algo para que pagues o favor!<br><$emotion(4,55)><$voicel(4,4)>O que podia fazer?"
+    },
+    {
+      "id": 33,
+      "en": "<oneline><$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,6)>You’re putting up a building, <$cdef(27)><pname;0></color>?<br><wait(1.2)><$emotion(4,50)><$voicel(4,8)>That<slide><br>sounds<slide><br>like<slide><br>SO<slide><br>much fun!<clear><br><$comeff(4,10)><$motion(4,807)><$facial(4,1)><$voicel(4,6)>All right—I’ll help out with that!",
+      "pt_br": "<oneline><$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,6)>Você está montando um edifício, <$cdef(27)><pname;0></color>?<br><wait(1.2)><$emotion(4,50)><$voicel(4,8)>Isso.<slide><br>sons<slide><br>como<slide><br>SÓ<slide><br>Muito divertido!<clear><br><$comeff(4,10)><$motion(4,807)><$facial(4,1)><$voicel(4,6)>Tudo bem – Eu vou ajudar com isso!"
+    },
+    {
+      "id": 34,
+      "en": "<$emotion(4,50)><$voicel(4,8)>Just give me a shout when you’re ready to <$cdef(27)><$spwfull(1)></color>!",
+      "pt_br": "<$emotion(4,50)><$voicel(4,8)>Basta me dar um grito quando você está pronto para <$cdef(27)><$spwfull(1)></color>!"
+    },
+    {
+      "id": 35,
+      "en": "<$emotion(4,27)><$voicel(4,5)>Huh? Wait, wait, wait. I... I feel something here!<clear><br><$comeff(4,10)><$motion(4,662)><$facial(4,1)><$voicel(4,7)>You feel it too, right, <$cdef(27)><pname;0></color>?!",
+      "pt_br": "<$emotion(4,27)><$voicel(4,5)>Espera, espera, eu sinto algo aqui!<clear><br><$comeff(4,10)><$motion(4,662)><$facial(4,1)><$voicel(4,7)>Tu também sentes, certo? <$cdef(27)><pname;0></color>?!"
+    },
+    {
+      "id": 36,
+      "en": "<$emotion(4,55)><$voicel(4,3)>Really? It’s, like, a feeling there’s treasure nearby.<clear><br><$emotion(4,14)><$voicel(4,5)>...Wait. THAT might be what’s here—<$comeff(4,8)><$motion(4,806)><$facial(4,4)><$voicel(4,8)>something I love!",
+      "pt_br": "<$emotion(4,55)><$voicel(4,3)>Sério? É, tipo, uma sensação de que há um tesouro nas proximidades.<clear><br><$emotion(4,14)><$voicel(4,5)>...Espere. Isso pode ser o que está aqui-<$comeff(4,8)><$motion(4,806)><$facial(4,4)><$voicel(4,8)>Algo que eu amo!"
+    },
+    {
+      "id": 37,
+      "en": "<$voicel(4,3)><$comeff(4,14)><$motion(4,666)>Hmm... Are you sure? It’s more like a feeling there’s<br>treasure nearby or something.<clear><br><$emotion(4,14)><$voicel(4,5)>...Wait. THAT might be what’s here—<$comeff(4,8)><$motion(4,806)><$facial(4,4)><$voicel(4,8)>something I love!",
+      "pt_br": "<$voicel(4,3)><$comeff(4,14)><$motion(4,666)>Hmm... Você tem certeza? É mais como um sentimento de que há<br>Um tesouro perto ou algo assim.<clear><br><$emotion(4,14)><$voicel(4,5)>...Espere. Isso pode ser o que está aqui-<$comeff(4,8)><$motion(4,806)><$facial(4,4)><$voicel(4,8)>Algo que eu amo!"
+    },
+    {
+      "id": 38,
+      "en": "<$emotion(4,50)><$voicel(4,6)>I’m talking about a doll! <$emotion(4,39)><$voicel(4,9)>The thing about me is, I LOVE<br>dolls that are filled with signs their owner cared for them.<clear><br><$comeff(4,3)><$motion(4,805)><$facial(4,1)><$voicel(4,7)>And right now, I can just tell there’s a precious doll nearby!",
+      "pt_br": "<$emotion(4,50)><$voicel(4,6)>Estou falando de uma boneca! <$emotion(4,39)><$voicel(4,9)>A coisa sobre mim é, EU AMO<br>Bonecas que estão cheias de sinais que o seu dono cuidou deles.<clear><br><$comeff(4,3)><$motion(4,805)><$facial(4,1)><$voicel(4,7)>E agora, posso apenas dizer que há uma boneca preciosa por perto!"
+    },
+    {
+      "id": 39,
+      "en": "<$emotion(4,50)><$voicel(4,6)>A doll! <$emotion(4,39)><$voicel(4,9)>The thing about me is, I LOVE dolls that are filled<br>with signs their owner cared for them.<clear><br><$comeff(4,3)><$motion(4,805)><$facial(4,1)><$voicel(4,7)>And right now, I can just tell there’s a precious doll nearby!",
+      "pt_br": "<$emotion(4,50)><$voicel(4,6)>Uma boneca! <$emotion(4,39)><$voicel(4,9)>A coisa sobre mim é, EU AMO bonecas que estão cheias<br>com sinais de que o seu dono cuidava deles.<clear><br><$comeff(4,3)><$motion(4,805)><$facial(4,1)><$voicel(4,7)>E agora, posso apenas dizer que há uma boneca preciosa por perto!"
+    },
+    {
+      "id": 40,
+      "en": "<$emotion(4,27)><$voicel(4,9)>Wait, that’s it! Let me see, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$emotion(4,27)><$voicel(4,9)>Espere, é isso! Deixe-me ver, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 41,
+      "en": "<$comeff(4,21)><$motion(4,644)><$facial(4,1)><$voicel(4,7)>Wow... This doll looks really well cared for. I think it was<br>owned by a little girl.",
+      "pt_br": "<$comeff(4,21)><$motion(4,644)><$facial(4,1)><$voicel(4,7)>Esta boneca parece muito bem cuidada.<br>Pertence a uma menina."
+    },
+    {
+      "id": 42,
+      "en": "<$emotion(4,6)><$voicel(4,6)>She must’ve LOVED <$cdef(27)><$cname(566)></color>!",
+      "pt_br": "<$emotion(4,6)><$voicel(4,6)>Ela deve ter amado <$cdef(27)><$cname(566)></color>!"
+    },
+    {
+      "id": 43,
+      "en": "<$comeff(4,13)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>Frill friiill! ♪ Oh, it makes me so happy too! ♪<clear><br><$comeff(4,21)><$motion(4,644)><$facial(4,1)><$voicel(4,7)>I’m totally satisfied. Here—you can have the doll back!",
+      "pt_br": "<$comeff(4,13)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>Também me faz tão feliz!<clear><br><$comeff(4,21)><$motion(4,644)><$facial(4,1)><$voicel(4,7)>Estou totalmente satisfeito. Aqui - você pode ter a boneca de volta!"
+    },
+    {
+      "id": 44,
+      "en": "This <$cdef(27)><fqty(1)><$ifull(540)></color> is like any other doll—if you show it<br>to <$cdef(27)><$cname(123)></color>, they’ll take you to a <$cdef(27)>Dream Island</color>!",
+      "pt_br": "Isto. <$cdef(27)><fqty(1)><$ifull(540)></color> é como qualquer outra boneca – se você mostrar<br>para <$cdef(27)><$cname(123)></color>, eles vão levá-lo para um <$cdef(27)>Ilha dos Sonhos</color>!"
+    },
+    {
+      "id": 45,
+      "en": "<$emotion(4,8)><$voicel(4,9)>Hehehe! ♪ Any day I see such a lovely doll is a lucky one!<br><$comeff(4,8)><$motion(4,644)><$facial(4,1)><$voicel(4,8)>Thanks for doing that for me, <$cdef(27)><pname;0></color>!<clear><br><$emotion(4,14)><$voicel(4,5)>Oh! Let me do something for YOU to repay the favor!<br><$emotion(4,55)><$voicel(4,4)>Hmmm... What could I do?",
+      "pt_br": "<$emotion(4,8)><$voicel(4,9)>Qualquer dia que vejo uma boneca tão linda é uma rapariga de sorte!<br><$comeff(4,8)><$motion(4,644)><$facial(4,1)><$voicel(4,8)>Obrigado por fazeres isso por mim. <$cdef(27)><pname;0></color>!<clear><br><$emotion(4,14)><$voicel(4,5)>Deixa-me fazer algo para que pagues o favor!<br><$emotion(4,55)><$voicel(4,4)>O que podia fazer?"
+    },
+    {
+      "id": 46,
+      "en": "<oneline><$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,6)>You’re putting up a building, <$cdef(27)><pname;0></color>?<br><wait(1.2)><$emotion(4,50)><$voicel(4,8)>That<slide><br>sounds<slide><br>like<slide><br>SO<slide><br>much fun!<clear><br><$comeff(4,10)><$motion(4,807)><$facial(4,1)><$voicel(4,6)>All right—I’ll help out with that!",
+      "pt_br": "<oneline><$comeff(4,6)><$motion(4,806)><$facial(4,1)><$voicel(4,6)>Você está montando um edifício, <$cdef(27)><pname;0></color>?<br><wait(1.2)><$emotion(4,50)><$voicel(4,8)>Isso.<slide><br>sons<slide><br>como<slide><br>SÓ<slide><br>Muito divertido!<clear><br><$comeff(4,10)><$motion(4,807)><$facial(4,1)><$voicel(4,6)>Tudo bem – Eu vou ajudar com isso!"
+    },
+    {
+      "id": 47,
+      "en": "<$emotion(4,50)><$voicel(4,8)>Just give me a shout when you’re ready to <$cdef(27)><$spwfull(1)></color>!",
+      "pt_br": "<$emotion(4,50)><$voicel(4,8)>Basta me dar um grito quando você está pronto para <$cdef(27)><$spwfull(1)></color>!"
+    },
+    {
+      "id": 48,
+      "en": "<oneline><$emotion(4,55)><$voicel(4,3)>Hey, <$cdef(27)><pname;0></color>! So I heard this rumor,<br>right?<slide><br><$comeff(4,6)><$motion(4,644)><$facial(4,1)><$voicel(4,6)>Do<slide><br>you<slide><br>make<slide><br>homes<slide><br>for<slide><br>Pokémon?<wait(0.8)><$motion(0,40)><wait(1.0)>",
+      "pt_br": "<oneline><$emotion(4,55)><$voicel(4,3)>Olá. <$cdef(27)><pname;0></color>Ouvi um boato,<br>Certo?<slide><br><$comeff(4,6)><$motion(4,644)><$facial(4,1)><$voicel(4,6)>Fazer<slide><br>você<slide><br>make<slide><br>casas<slide><br>em vez<slide><br>Pokémon?<wait(0.8)><$motion(0,40)><wait(1.0)>"
+    },
+    {
+      "id": 49,
+      "en": "<$comeff(4,3)><$motion(4,806)><$facial(4,1)><$voicel(4,3)>If you’re up for it, could you make ME a home, too?",
+      "pt_br": "<$comeff(4,3)><$motion(4,806)><$facial(4,1)><$voicel(4,3)>Se você está pronto para isso, você poderia ME fazer um lar, também?"
+    },
+    {
+      "id": 50,
+      "en": "<$emotion(4,8)><$voicel(4,7)>YAYYY! Could you do it like this, maybe?",
+      "pt_br": "<$emotion(4,8)><$voicel(4,7)>pode fazer assim, talvez?"
+    },
+    {
+      "id": 51,
+      "en": "<$emotion(4,8)><$voicel(4,7)>YAYYY! Could you do it like this, maybe?",
+      "pt_br": "<$emotion(4,8)><$voicel(4,7)>pode fazer assim, talvez?"
+    },
+    {
+      "id": 52,
+      "en": "<$comeff(4,3)><$motion(4,644)><$facial(4,2)><$voicel(4,6)>Let me know when my home’s done, OK?",
+      "pt_br": "<$comeff(4,3)><$motion(4,644)><$facial(4,2)><$voicel(4,6)>Avise-me quando minha casa estiver pronta, OK?"
+    },
+    {
+      "id": 53,
+      "en": "<$comeff(4,6)><$motion(4,666)><$facial(4,2)><$voicel(4,5)>I was wondering—could you do my home like this, maybe?",
+      "pt_br": "<$comeff(4,6)><$motion(4,666)><$facial(4,2)><$voicel(4,5)>Estava a pensar... pode fazer a minha casa assim, talvez?"
+    },
+    {
+      "id": 54,
+      "en": "<$emotion(4,6)><$voicel(4,7)>Thanks for doing that for me! My new home is SO cute—<br>I love it!",
+      "pt_br": "<$emotion(4,6)><$voicel(4,7)>Obrigado por fazeres isso por mim! A minha nova casa é tão gira...<br>Adoro!"
+    },
+    {
+      "id": 55,
+      "en": "<oneline><$comeff(4,21)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>The home you built me is literally the BEST,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": "<oneline><$comeff(4,21)><$motion(4,806)><$facial(4,4)><$voicel(4,9)>A casa que me construíste é literalmente a melhor.<br><$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 56,
+      "en": "<$emotion(4,6)><$voicel(4,8)>Thanks for the cutest home EVER!",
+      "pt_br": "<$emotion(4,6)><$voicel(4,8)>Obrigado pela casa mais bonita de sempre!"
+    }
+  ]
+}

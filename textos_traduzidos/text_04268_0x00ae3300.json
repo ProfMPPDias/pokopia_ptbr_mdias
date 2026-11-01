@@ -1,0 +1,424 @@
+{
+  "entry_index": 4268,
+  "bin_id": "0xae3300",
+  "decompressed_size": 3824,
+  "first_tag_offset": 1241,
+  "total_strings": 83,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>.",
+      "pt_br": "<$cdef(27)><$etpname;0(lnum1)></color>."
+    },
+    {
+      "id": 1,
+      "en": "Such abundant life!",
+      "pt_br": "Que vida abundante!"
+    },
+    {
+      "id": 2,
+      "en": "I’m sure we’ll get along swimmingly.",
+      "pt_br": "Tenho certeza de que nos daremos bem nadando."
+    },
+    {
+      "id": 3,
+      "en": "I look forward to its completion.",
+      "pt_br": "Aguardo com expectativa a sua conclusão."
+    },
+    {
+      "id": 4,
+      "en": "I’ve not even broken a sweat.",
+      "pt_br": "Eu nem sequer suei um pouco."
+    },
+    {
+      "id": 5,
+      "en": "It’s nearly complete.",
+      "pt_br": "Está quase completo."
+    },
+    {
+      "id": 6,
+      "en": "I enjoyed that.",
+      "pt_br": "Gostei disso."
+    },
+    {
+      "id": 7,
+      "en": "Rain? I...think I’ll head home.",
+      "pt_br": "Chuva? Eu... acho que vou para casa."
+    },
+    {
+      "id": 8,
+      "en": "That looks quite tempting.",
+      "pt_br": "Isso parece bastante tentador."
+    },
+    {
+      "id": 9,
+      "en": "Now, where might the treasure be.",
+      "pt_br": "Agora, onde pode estar o tesouro."
+    },
+    {
+      "id": 10,
+      "en": "I’d like to go there, but...",
+      "pt_br": "Eu gostaria de ir lá, mas..."
+    },
+    {
+      "id": 11,
+      "en": "I’m quite tired...",
+      "pt_br": "Estou muito cansado..."
+    },
+    {
+      "id": 12,
+      "en": "I have arrived.",
+      "pt_br": "Eu cheguei."
+    },
+    {
+      "id": 13,
+      "en": "This is a touch difficult to navigate.",
+      "pt_br": "Este é um toque difícil de navegar."
+    },
+    {
+      "id": 14,
+      "en": "Something’s here, no doubt about it.",
+      "pt_br": "Algo está aqui, sem dúvida."
+    },
+    {
+      "id": 15,
+      "en": "There should be something up above here.",
+      "pt_br": "Deve haver alguma coisa aqui em cima."
+    },
+    {
+      "id": 16,
+      "en": "Why don’t you try digging here?",
+      "pt_br": "Por que não tenta cavar aqui?"
+    },
+    {
+      "id": 17,
+      "en": "I believe there’s something this way.",
+      "pt_br": "Eu acredito que há algo dessa forma."
+    },
+    {
+      "id": 18,
+      "en": "I doubt there’s anything around here.",
+      "pt_br": "Duvido que haja alguma coisa por aqui."
+    },
+    {
+      "id": 19,
+      "en": "I think there’s something over there.",
+      "pt_br": "Acho que tem alguma coisa ali."
+    },
+    {
+      "id": 20,
+      "en": "Something’s definitely nearby.",
+      "pt_br": "Algo está definitivamente por perto."
+    },
+    {
+      "id": 21,
+      "en": "May I go now?",
+      "pt_br": "Posso ir agora?"
+    },
+    {
+      "id": 22,
+      "en": "I can’t proceed any further.",
+      "pt_br": "Não posso continuar."
+    },
+    {
+      "id": 23,
+      "en": "It’s a bit far away.",
+      "pt_br": "É um pouco longe."
+    },
+    {
+      "id": 24,
+      "en": "I’m pleased. Thank you.",
+      "pt_br": "Estou satisfeito. Obrigado."
+    },
+    {
+      "id": 25,
+      "en": "The <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>...",
+      "pt_br": "A <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>..."
+    },
+    {
+      "id": 26,
+      "en": "What pleasant warmth!",
+      "pt_br": "Que calor agradável!"
+    },
+    {
+      "id": 27,
+      "en": "It’s rather hot here...",
+      "pt_br": "Está um pouco quente aqui..."
+    },
+    {
+      "id": 28,
+      "en": "It’s grown cooler here. Excellent.",
+      "pt_br": "Está mais fresco aqui. Excelente."
+    },
+    {
+      "id": 29,
+      "en": "It’s a bit chilly...",
+      "pt_br": "Está um pouco frio..."
+    },
+    {
+      "id": 30,
+      "en": "Ah, it’s brighter now!",
+      "pt_br": "Ah, está mais claro agora!"
+    },
+    {
+      "id": 31,
+      "en": "It’s a touch too bright...",
+      "pt_br": "É um toque muito brilhante..."
+    },
+    {
+      "id": 32,
+      "en": "Oh, good! It’s darker now.",
+      "pt_br": "Oh, bom! Está mais escuro agora."
+    },
+    {
+      "id": 33,
+      "en": "It’s rather dark...",
+      "pt_br": "Está um pouco escuro..."
+    },
+    {
+      "id": 34,
+      "en": "The air’s become pleasantly moist!",
+      "pt_br": "O ar se tornou agradávelmente úmido!"
+    },
+    {
+      "id": 35,
+      "en": "It’s gotten rather humid...",
+      "pt_br": "Está ficando bastante úmido..."
+    },
+    {
+      "id": 36,
+      "en": "This dry air feels splendid!",
+      "pt_br": "Este ar seco é esplêndido!"
+    },
+    {
+      "id": 37,
+      "en": "There’s not enough humidity here...",
+      "pt_br": "Não há umidade suficiente aqui..."
+    },
+    {
+      "id": 38,
+      "en": "I can’t get past. What to do...",
+      "pt_br": "Não consigo passar. O que fazer..."
+    },
+    {
+      "id": 39,
+      "en": "This looks like a pleasant place.",
+      "pt_br": "Este parece ser um lugar agradável."
+    },
+    {
+      "id": 40,
+      "en": "What a splendid home.",
+      "pt_br": "Que casa esplêndida."
+    },
+    {
+      "id": 41,
+      "en": "I’ve prepared some quality wares.",
+      "pt_br": "Preparei alguns produtos de qualidade."
+    },
+    {
+      "id": 42,
+      "en": "This may be a tad small...",
+      "pt_br": "Isto pode ser um pouco pequeno..."
+    },
+    {
+      "id": 43,
+      "en": "Let us be off.",
+      "pt_br": "Vamos embora."
+    },
+    {
+      "id": 44,
+      "en": "I trust we’ll meet again.",
+      "pt_br": "Espero que nos encontremos de novo."
+    },
+    {
+      "id": 45,
+      "en": "I’m looking forward to this.",
+      "pt_br": "Estou ansioso por isso."
+    },
+    {
+      "id": 46,
+      "en": "What a pleasant aroma.",
+      "pt_br": "Que aroma agradável."
+    },
+    {
+      "id": 47,
+      "en": "Now’s not the best time. Sorry.",
+      "pt_br": "Agora não é a melhor hora. Desculpe."
+    },
+    {
+      "id": 48,
+      "en": "That turned out well.",
+      "pt_br": "Correu tudo bem."
+    },
+    {
+      "id": 49,
+      "en": "I’m happy to help.",
+      "pt_br": "Fico feliz em ajudar."
+    },
+    {
+      "id": 50,
+      "en": "A truly intriguing sight.",
+      "pt_br": "Uma visão realmente intrigante."
+    },
+    {
+      "id": 51,
+      "en": "What’s that you have, <$cdef(27)><$etpname;0(lnum1)></color>?",
+      "pt_br": "O que é que você tem, <$cdef(27)><$etpname;0(lnum1)></color>?"
+    },
+    {
+      "id": 52,
+      "en": "I’ll begin seeking now.",
+      "pt_br": "Começarei a procurar agora."
+    },
+    {
+      "id": 53,
+      "en": "Not on an empty stomach. My apologies.",
+      "pt_br": "Não de estômago vazio, as minhas desculpas."
+    },
+    {
+      "id": 54,
+      "en": "Oh my... Could it be?",
+      "pt_br": "Oh meu... poderia ser?"
+    },
+    {
+      "id": 55,
+      "en": "That’s actually quite good.",
+      "pt_br": "Isso é realmente muito bom."
+    },
+    {
+      "id": 56,
+      "en": "Just so!",
+      "pt_br": "Assim mesmo!"
+    },
+    {
+      "id": 57,
+      "en": "This feels wonderful!",
+      "pt_br": "Isto é maravilhoso!"
+    },
+    {
+      "id": 58,
+      "en": "Could you wait for me?",
+      "pt_br": "pode esperar por mim?"
+    },
+    {
+      "id": 59,
+      "en": "Oh dear... I can’t go any further.",
+      "pt_br": "Oh, querida... Não posso ir mais longe."
+    },
+    {
+      "id": 60,
+      "en": "I’ll see this through.",
+      "pt_br": "Vou acabar com isso."
+    },
+    {
+      "id": 61,
+      "en": "I believe some water is required first.",
+      "pt_br": "Creio que primeiro é necessária água."
+    },
+    {
+      "id": 62,
+      "en": "Let’s see... Where to look...",
+      "pt_br": "Vejamos... Onde procurar..."
+    },
+    {
+      "id": 63,
+      "en": "No luck thus far...",
+      "pt_br": "Não tive sorte até agora..."
+    },
+    {
+      "id": 64,
+      "en": "There’s something suspicious here.",
+      "pt_br": "Há algo suspeito aqui."
+    },
+    {
+      "id": 65,
+      "en": "If I follow the scent...",
+      "pt_br": "Se eu seguir o cheiro..."
+    },
+    {
+      "id": 66,
+      "en": "I can sense this sort of thing...",
+      "pt_br": "Consigo sentir este tipo de coisas..."
+    },
+    {
+      "id": 67,
+      "en": "Heh. I’ve found you.",
+      "pt_br": "Heh. Eu encontrei você."
+    },
+    {
+      "id": 68,
+      "en": "It’s progressing well.",
+      "pt_br": "Está progredindo bem."
+    },
+    {
+      "id": 69,
+      "en": "*sniff sniff*",
+      "pt_br": "*Sniff sniff *"
+    },
+    {
+      "id": 70,
+      "en": "I’m looking forward to it.",
+      "pt_br": "Estou ansioso por isso."
+    },
+    {
+      "id": 71,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>.",
+      "pt_br": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>."
+    },
+    {
+      "id": 72,
+      "en": "This should be entertaining.",
+      "pt_br": "Isto deve ser divertido."
+    },
+    {
+      "id": 73,
+      "en": "Are we about ready to start?",
+      "pt_br": "Estamos prontos para começar?"
+    },
+    {
+      "id": 74,
+      "en": "Superb.",
+      "pt_br": "Soberbo."
+    },
+    {
+      "id": 75,
+      "en": "This looks very comfortable.",
+      "pt_br": "Isto parece muito confortável."
+    },
+    {
+      "id": 76,
+      "en": "Hm. Water...",
+      "pt_br": "Água..."
+    },
+    {
+      "id": 77,
+      "en": "I’ll just help myself.",
+      "pt_br": "Eu me sirvo."
+    },
+    {
+      "id": 78,
+      "en": "It’s best to leave some open space above plants.",
+      "pt_br": "É melhor deixar algum espaço aberto acima das plantas."
+    },
+    {
+      "id": 79,
+      "en": "I must have been imagining things.",
+      "pt_br": "Eu devia estar a imaginar coisas."
+    },
+    {
+      "id": 80,
+      "en": "That was a suspicious sound...",
+      "pt_br": "Foi um som suspeito..."
+    },
+    {
+      "id": 81,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>.",
+      "pt_br": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>."
+    },
+    {
+      "id": 82,
+      "en": "We need to apply <$cdef(27)>bubbles </color>first.",
+      "pt_br": "Temos de nos candidatar <$cdef(27)>bolhas </color>Primeiro."
+    }
+  ]
+}

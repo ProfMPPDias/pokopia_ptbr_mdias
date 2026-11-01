@@ -1,0 +1,219 @@
+{
+  "entry_index": 3278,
+  "bin_id": "0x87ba00",
+  "decompressed_size": 4864,
+  "first_tag_offset": 799,
+  "total_strings": 42,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)>Pokémon Center</color>.<clear><br>Would you like to rest your tired Pokémon?",
+      "pt_br": "<$cdef(27)>Centro Pokémon</color>.<clear><br>quer descansar o teu cansado Pokémon?"
+    },
+    {
+      "id": 1,
+      "en": "We hope to see you again!",
+      "pt_br": "Esperamos vê-lo novamente!"
+    },
+    {
+      "id": 2,
+      "en": "Welcome to the <$cdef(27)>Pokémon Center</color>.<clear><br>Our free care service is no longer available for the day.",
+      "pt_br": "Bem-vindo ao <$cdef(27)>Centro Pokémon</color>.<clear><br>O nosso serviço de cuidados gratuitos já não está disponível para o dia."
+    },
+    {
+      "id": 3,
+      "en": "If you would like to continue using the service, please<br>register as a member on the following screen...",
+      "pt_br": "Se você gostaria de continuar usando o serviço, por favor<br>registrar-se como membro na tela a seguir..."
+    },
+    {
+      "id": 4,
+      "en": "... ... ...<br>Looks like you can’t use that service right now!<slide><br>Try again tomorrow!",
+      "pt_br": "... ... ...<br>Parece que você não pode usar esse serviço agora!<slide><br>Tenta outra vez amanhã!"
+    },
+    {
+      "id": 5,
+      "en": "You found all three special Pokémon! Please accept this<br>reward for your efforts.",
+      "pt_br": "Encontraste os três Pokémon especiais!<br>Recompensa pelos teus esforços."
+    },
+    {
+      "id": 6,
+      "en": "*beep beep beep*<br>Boot-up complete.",
+      "pt_br": "* Beep beep *<br>Iniciação completa."
+    },
+    {
+      "id": 7,
+      "en": "Obtaining information about this town...",
+      "pt_br": "Obtendo informações sobre esta cidade..."
+    },
+    {
+      "id": 8,
+      "en": "This is <$stgname;0(13)>!<clear><br>This land belongs to no one but you. You can freely alter<br>the landscape, build houses, and otherwise customize it<slide><br>as you see fit.",
+      "pt_br": "Isto é... <$stgname;0(13)>!<clear><br>Esta terra não pertence a ninguém além de ti.<br>a paisagem, construir casas, e de outra forma personalizá-lo<slide><br>Como achares melhor."
+    },
+    {
+      "id": 9,
+      "en": "Please choose a name for the town.",
+      "pt_br": "Por favor, escolha um nome para a cidade."
+    },
+    {
+      "id": 10,
+      "en": "Is “<$cdef(27)><$stgmyname;0(12)></color>” OK?",
+      "pt_br": "É “<$cdef(27)><$stgmyname;0(12)></color>” OK?"
+    },
+    {
+      "id": 11,
+      "en": "Name registered!",
+      "pt_br": "Nome registado!"
+    },
+    {
+      "id": 12,
+      "en": "*beep beep*<br><$cdef(27)>Special challenges</color> prepared.",
+      "pt_br": "* Beep beep *<br><$cdef(27)>Desafios especiais</color> Preparado."
+    },
+    {
+      "id": 13,
+      "en": "These <$cdef(27)>special challenges</color> have been prepared to help you<br>develop your town!<clear><br>There are generous prizes for those who complete them,<br>so please give them your best effort.",
+      "pt_br": "Estes <$cdef(27)>desafios especiais</color> foram preparados para ajudá-lo<br>desenvolver a sua cidade!<clear><br>Há generosos prêmios para aqueles que os completam,<br>Então, por favor, dê-lhes o seu melhor esforço."
+    },
+    {
+      "id": 14,
+      "en": "Keep on living your best <$cdef(27)>Poké Life</color>!",
+      "pt_br": "Continua a viver o teu melhor <$cdef(27)>Poké Life</color>!"
+    },
+    {
+      "id": 15,
+      "en": "You can put items from your inventory into this<br><$cdef(27)><fqty(1)><$ifull(2045)></color>.",
+      "pt_br": "Você pode colocar itens do seu inventário neste<br><$cdef(27)><fqty(1)><$ifull(2045)></color>."
+    },
+    {
+      "id": 16,
+      "en": "Place it wherever you like and use it to store things when<br>you have too much to carry!",
+      "pt_br": "Coloque-o onde quiser e use-o para guardar as coisas quando<br>tem muito para carregar!"
+    },
+    {
+      "id": 17,
+      "en": "There’s already a <$cdef(27)>CD </color>in the <$cdef(27)><fqty(1)><$ifull(1802)></color>. Would you like<br>to swap it out for another <$cdef(27)>CD </color>you have?",
+      "pt_br": "Já existe um <$cdef(27)>CD </color>na <$cdef(27)><fqty(1)><$ifull(1802)></color>Gostarias de...<br>para trocá-lo por outro <$cdef(27)>CD </color>Já?"
+    },
+    {
+      "id": 18,
+      "en": "There’s no <$cdef(27)>CD </color>in the <$cdef(27)><fqty(1)><$ifull(1802)></color>. Go ahead and put<br>one in.",
+      "pt_br": "Não há nenhum <$cdef(27)>CD </color>na <$cdef(27)><fqty(1)><$ifull(1802)></color>Vá em frente e coloque<br>Um para dentro."
+    },
+    {
+      "id": 19,
+      "en": "There’s a <$cdef(27)>CD </color>in the <$cdef(27)><fqty(1)><$ifull(1802)></color>.",
+      "pt_br": "Há um <$cdef(27)>CD </color>na <$cdef(27)><fqty(1)><$ifull(1802)></color>."
+    },
+    {
+      "id": 20,
+      "en": "You retrieved items from the <$cdef(27)>PC</color>!",
+      "pt_br": "Você recuperou itens da <$cdef(27)>PC</color>!"
+    },
+    {
+      "id": 21,
+      "en": "<oneline><wowner;0> retrieved items from the <$cdef(27)>PC</color>.",
+      "pt_br": "<oneline><wowner;0> itens recuperados da <$cdef(27)>PC</color>."
+    },
+    {
+      "id": 22,
+      "en": "This <$cdef(27)><fqty(1)><$ifull(1471)></color> allows you to check up on<br>Pokémon who are far away.",
+      "pt_br": "Isto. <$cdef(27)><fqty(1)><$ifull(1471)></color> permite- lhe verificar<br>Pokémon que estão longe."
+    },
+    {
+      "id": 23,
+      "en": "Place it wherever you like, then open the main menu and<br>select Camera → <$cdef(27)>Security Cameras </color>in order to watch the<slide><br><$cdef(27)><fqty(1)><$ifull(1471)></color> feed.",
+      "pt_br": "Coloque onde quiser, então abra o menu principal e<br>selecionar câmera → <$cdef(27)>Câmaras de Segurança </color>a fim de observar o<slide><br><$cdef(27)><fqty(1)><$ifull(1471)></color> ração."
+    },
+    {
+      "id": 24,
+      "en": "It’s useful to see how certain Pokémon are doing or to<br>check if a new Pokémon has appeared in a habitat.",
+      "pt_br": "É útil ver como certos Pokémon estão fazendo ou para<br>verificar se apareceu um novo Pokémon num habitat."
+    },
+    {
+      "id": 25,
+      "en": "You have a vague memory of <$cdef(27)>Professor Tangrowth</color><br>suggesting that you use the <$cdef(27)><fqty(1)><$ifull(1898)></color> in<slide><br>the <$cdef(27)><$stgname;0(4)></color>...",
+      "pt_br": "Tem uma vaga memória de <$cdef(27)>Professor Tangrowth</color><br>sugerindo que você use o <$cdef(27)><fqty(1)><$ifull(1898)></color> em<slide><br>a <$cdef(27)><$stgname;0(4)></color>..."
+    },
+    {
+      "id": 26,
+      "en": "Please place your Pokédex over the gate panel.",
+      "pt_br": "Por favor, coloque o seu Pokédex sobre o painel do portão."
+    },
+    {
+      "id": 27,
+      "en": "Checking Pokédex...<clear><br>Data for all Pokémon confirmed!<clear><br>Congratulations! You will receive an award for your great<br>achievement. Please wait while it prints...",
+      "pt_br": "A verificar o Pokédex...<clear><br>Dados para todos os Pokémon confirmados!<clear><br>Parabéns! Você receberá um prêmio para o seu grande<br>Realização. Por favor, espere enquanto imprime..."
+    },
+    {
+      "id": 28,
+      "en": "*beep* *whirrr*",
+      "pt_br": "* Beep * * Whirrr *"
+    },
+    {
+      "id": 29,
+      "en": "Please accept your award.",
+      "pt_br": "Por favor, aceite o seu prémio."
+    },
+    {
+      "id": 30,
+      "en": "<oneline>Try asking nearby Pokémon where to<br>find <$cdef(27)><pksrchtar;0></color>.",
+      "pt_br": "<oneline>Tente perguntar perto Pokémon onde<br>encontrar <$cdef(27)><pksrchtar;0></color>."
+    },
+    {
+      "id": 31,
+      "en": "<oneline>It seems like <$cdef(27)><pksrchtar;0></color> is in<br><$cdef(27)><srchtarhmst;1></color>.",
+      "pt_br": "<oneline>Parece que sim. <$cdef(27)><pksrchtar;0></color> está em<br><$cdef(27)><srchtarhmst;1></color>."
+    },
+    {
+      "id": 32,
+      "en": "They don’t seem to be around here.",
+      "pt_br": "Eles não parecem estar por aqui."
+    },
+    {
+      "id": 33,
+      "en": "Would you like use <$cdef(27)>Return Home</color> to go there?",
+      "pt_br": "Gostaria de usar <$cdef(27)>Voltar para Casa</color> Para ir lá?"
+    },
+    {
+      "id": 34,
+      "en": "It seems like there’s something else you need to do.<br>Try talking to <$cdef(27)><storychspk;0></color>.",
+      "pt_br": "Parece que há algo mais que você precisa fazer.<br>Tenta falar com... <$cdef(27)><storychspk;0></color>."
+    },
+    {
+      "id": 35,
+      "en": "It seems like there’s something else you need to do.<br>Try talking to the Pokémon following you.",
+      "pt_br": "Parece que há algo mais que você precisa fazer.<br>Tenta falar com o Pokémon a seguir-te."
+    },
+    {
+      "id": 36,
+      "en": "Actually, there’s <$cdef(27)>another gate</color> in <$cdef(27)><$stgname;0(1)></color> that<br><$cdef(27)>leads to a different town</color>!<clear><br>You might be able to go through it!",
+      "pt_br": "Na verdade, há <$cdef(27)>outro portão</color> em <$cdef(27)><$stgname;0(1)></color> que<br><$cdef(27)>leva a uma cidade diferente</color>!<clear><br>Talvez consigas passar por isso!"
+    },
+    {
+      "id": 37,
+      "en": "This is a rare metal called <$cdef(27)><fqty(1)><$ifull(120)></color>.",
+      "pt_br": "Este é um metal raro chamado <$cdef(27)><fqty(1)><$ifull(120)></color>."
+    },
+    {
+      "id": 38,
+      "en": "It can be used as a material to make a variety of items.<br>If you come across it in the <$cdef(27)>shop</color> or anywhere else, you<slide><br>should get it while you have the chance!",
+      "pt_br": "Pode ser usado como material para fazer uma variedade de itens.<br>Se você encontrá-lo no <$cdef(27)>loja</color> ou em qualquer outro lugar, você<slide><br>Deve tê-lo enquanto tem a oportunidade!"
+    },
+    {
+      "id": 39,
+      "en": "It looks like...a treasure map somebody drew!",
+      "pt_br": "Parece... um mapa do tesouro que alguém desenhou!"
+    },
+    {
+      "id": 40,
+      "en": "Try heading to the place marked on the map, then search<br>for treasure with the <$cdef(27)><fqty(1)><$ifull(2793)></color>!",
+      "pt_br": "Tente ir para o local marcado no mapa e depois procure<br>para o tesouro com o <$cdef(27)><fqty(1)><$ifull(2793)></color>!"
+    },
+    {
+      "id": 41,
+      "en": "You can look at your treasure map at any time in the<br><$cdef(27)>Human Records</color> section of the <$cdef(27)>Collection (Basin)</color> menu.",
+      "pt_br": "Você pode olhar para o seu mapa do tesouro a qualquer momento no<br><$cdef(27)>Registos Humanos</color> secção da <$cdef(27)>Colecção (Base)</color> menu."
+    }
+  ]
+}

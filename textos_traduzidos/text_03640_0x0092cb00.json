@@ -1,0 +1,29 @@
+{
+  "entry_index": 3640,
+  "bin_id": "0x92cb00",
+  "decompressed_size": 944,
+  "first_tag_offset": 248,
+  "total_strings": 4,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$emotion(2,13)><$voicel(2,4)>Ah, sì! Lei ha il pallino dell'esplorazione!",
+      "pt_br": "<$emotion(2,13)><$voicel(2,4)>Ah, sì! Lei ha il pallino dell'esplorazione!"
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(2,7)>Magari si trova in quella grotta laggiù... Sembra un bel<br>posto da esplorare!",
+      "pt_br": "<$voicel(2,7)>Magari si trova in quella grotta laggiù... Sembra un bel<br>posto da esplorare!"
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(2,10)><$facial(2,5)><$motion(2,661)><$comeff(2,21)>Ooh! Hai incontrato <$cdef(27)><$cname(580)></color>! Mi raccomando, se ha<br>qualche problema cerca di risolverlo!",
+      "pt_br": "<$voicel(2,10)><$facial(2,5)><$motion(2,661)><$comeff(2,21)>Ooh! Hai incontrato <$cdef(27)><$cname(580)></color>! Mi raccomando, se ha<br>qualche problema cerca di risolverlo!"
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(2,10)><$facial(2,5)><$motion(2,668)><$comeff(2,9)>Hai fatto un'esplorazione con <$cdef(27)><$cname(580)></color>?! Che bellooo!<wait(2.3)><br><$voicel(2,4)><$facial(2,2)><$motion(2,805)><$comeff(2,14)>Senti, se ha qualche altro problema, <$voicel(2,10)><$facial(2,4)><$motion(2,661)><$comeff(2,10)>aiutala, per piacere!",
+      "pt_br": "<$voicel(2,10)><$facial(2,5)><$motion(2,668)><$comeff(2,9)>Hai fatto un'esplorazione con <$cdef(27)><$cname(580)></color>?! Che bellooo!<wait(2.3)><br><$voicel(2,4)><$facial(2,2)><$motion(2,805)><$comeff(2,14)>Senti, se ha qualche altro problema, <$voicel(2,10)><$facial(2,4)><$motion(2,661)><$comeff(2,10)>aiutala, per piacere!"
+    }
+  ]
+}

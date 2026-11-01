@@ -1,0 +1,1174 @@
+{
+  "entry_index": 5153,
+  "bin_id": "0xd79b00",
+  "decompressed_size": 65536,
+  "first_tag_offset": 13681,
+  "total_strings": 233,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$keyicon(1)>, um Attacken einzusetzen. Mit jedem Einsatz einer<br>Attacke verlierst du <$cdef(27)>AP</color>.<br>Die gebogene Leiste rechts unten auf dem Bildschirm zeigt an,<br>über wie viele <$cdef(27)>AP</color> du aktuell noch verfügst.",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Es gibt viele unterschiedliche Arten von Attacken.<br>Probiere sie alle aus, um deine Umgebung umzugestalten<br>und den Pokémon wieder ein passendes Zuhause zu geben.",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Drücke <$keyicon(3)>, um <$cdef(27)>Platscher</color> einzusetzen. So hüpfst du etwas höher<br>als sonst und kannst Löcher und ähnliche Hindernisse überqueren.",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "Wähle einen Gegenstand aus deinem Beutel aus und drücke<br>dann <$keyicon(66)>, um ihn in die Hand zu nehmen.<br>Wenn du mit einem Pokémon sprichst, während du einen<br>Gegenstand hältst, kannst du <$cdef(27)>Schenk ich dir!</color> auswählen,<br>um dem Pokémon diesen Gegenstand zu schenken.",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Je öfter du mit Pokémon sprichst, sie beschenkst und ihre<br><$cdef(27)>Wünsche</color> erfüllst, desto besser freundet ihr euch an. Es kann<br>sogar vorkommen, dass sie sich mit einem Geschenk erkenntlich<br>zeigen. Lass die Freundschaft zu deinen Lieblings-Pokémon immer<br>weiter aufblühen!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "Mit dieser Attacke kannst du Gras sprießen lassen. Allerdings gibt<br>es auch Orte, an denen kein Gras wachsen wird.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Iss <$cdef(27)>Salat</color>, um <$cdef(27)><$sklfull(1)> </color>zu verstärken.<br>Halte dann <$keyicon(1)> gedrückt, um Gras in einem größeren Bereich<br>wachsen zu lassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Mit verstärktem <$cdef(27)><$sklfull(1)> </color>kannst du sogar Moos oder Ranken<br>auf felsigem Boden, Wänden und anderem wachsen lassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Hisse eine <$cdef(27)><fqty(1)><$ifull(1440)> </color>an einem Haus, um es zu deiner<br>eigenen Bleibe zu machen. Besteht dein Zuhause aus Blöcken,<br>kannst du sie einfach in der Nähe platzieren.<br>Du kannst auch mit anderen Pokémon zusammenleben.",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Du kannst dein eigenes <$cdef(27)>Wohlbefinden</color> erhöhen, indem du<br>verschiedene Arten von Möbeln in deiner Bleibe platzierst.",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "Wenn du einen Boden mit Wänden umschließt und eine<br>Tür hinzufügst, entsteht ein <$cdef(27)>Zuhause aus Blöcken</color>.<br>Genau wie beispielsweise bei einem <$cdef(27)><$bname(12)></color> musst du<br>jedoch erst drei verschiedene Möbelstücke darin platzieren,<br>ehe ein Pokémon einzieht.",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Wenn du die Blöcke korrekt anordnest, brauchst du keinen<br><$cdef(27)>Bausatz</color>, um ein <$cdef(27)>Zuhause aus Blöcken</color> zu errichten.<br>Allerdings kannst du anders als bei Häusern aus Bausätzen<br>keine <$cdef(27)>Abriss-Sets </color>oder <$cdef(27)>Umzugs-Sets </color>benutzen, um es zu zerlegen<br>oder an einen anderen Ort zu versetzen.",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "An einer <$cdef(27)><fqty(1)><$ifull(764)> </color>kannst du aus Materialien Items herstellen,<br>für die du <$cdef(27)>Anleitungen</color> besitzt. Manche dieser <$cdef(27)>Anleitungen</color> findest<br>du unterwegs, andere fallen dir hingegen spontan ein.",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "Solange schöne Wege zum <$cdef(27)>Pokémon-Center </color>führen, verlassen<br>Pokémon ihre Bleibe gerne für einen Ausflug, wodurch sich ihr<br><$cdef(27)>Wohlbefinden</color> erhöht. Achte deshalb darauf, schwer begehbare<br>Wege auszubessern.",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "Diese Attacke lässt dich Erde, Gestein und ähnliche Materialien<br>mit bloßen Fäusten zertrümmern.<br>Auch Löcher in Wänden oder Bohrungen im Boden sind damit<br>kein Ding der Unmöglichkeit!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "Halte <$keyicon(1)> gedrückt, wenn du <$cdef(27)><$sklfull(4)> </color>in Serie<br>verwenden möchtest. Du kannst auch nach oben oder unten<br>blicken, um auszuwählen, was zerstört werden soll.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Iss <$cdef(27)>Bratlinge</color>, um <$cdef(27)><$sklfull(4)> </color>zu verstärken.<br>Mit einem stärkeren <$cdef(27)><$sklfull(4)></color> lassen sich sogar noch<br>härtere Materialien zerstören.",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Wenn sich eine Schnappschuss-Chance bietet und es dir<br>gelingt, ein Pokémon zu fotografieren, wird das Foto zu<br>deinen <$cdef(27)>Schnappschüssen</color> hinzugefügt.",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "Gelingt dir ein Schnappschuss, erhältst du schöne Rahmen<br>für deine Fotos oder andere Belohnungen. Lass dir also<br>keine Gelegenheit zu einem Schnappschuss entgehen und<br>knipse, was das Zeug hält!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Setze <$cdef(27)><$sklfull(2)> </color>ein, um Erde oder auch Gras in Beete<br>umzuwandeln, die du nutzen kannst, um Gemüsesamen<br>anzupflanzen. Da sich ausgetrockneter Boden nicht pflügen lässt,<br>musst du ihn erst mit einer Attacke wie <$cdef(27)><$sklfull(3)> </color>bewässern.",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "Wendest du <$cdef(27)><$sklfull(2)> </color>auf bestimmte Pflanzen wie Gras oder<br>Blumen an, kannst du diese an einen anderen Ort umpflanzen.<br>Ausgegrabene Pflanzen kannst du auch als Geschenk weitergeben<br>oder in deinen Beutel stecken.",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "Die <$cdef(27)><fqty(1)><$ifull(1444)> </color>im Inneren kannst du ein Mal am Tag<br>nutzen, um deine <$cdef(27)>AP</color> vollständig wiederaufzufüllen.",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "An der <$cdef(27)><fqty(1)><$ifull(1325)></color> im <$cdef(27)>Pokémon-Center </color>kannst du mit Pokémon<br>mit dem Talent <$icon(11001)><$cdef(27)>Tauschen </color>allerlei Tauschhandel betreiben.",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Lässt sich ein höher gelegener Ort auch durch Springen nicht<br>erreichen, kannst du Erde, Sand oder andere Blöcke so platzieren,<br>dass du darüber hochsteigen kannst.",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Große, unhandliche Gegenstände wie zum Beispiel Möbel<br>kannst du mit <$cdef(27)>Horter</color> verschlucken und so in deinem Beutel<br>transportieren.",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Items, die du im Beutel aufbewahrst, kannst du mittels <$cdef(27)>Ausspucken<br></color>wieder ablegen. Stell dich einfach an den gewünschten Ort und<br>hole sie mit <$keyicon(0)> hervor.",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "Du kannst einstellen, in welcher Höhe du Gegenstände platzierst,<br>indem du die Ausrichtung der Kamera veränderst.<br>Auf diese Weise kannst du unter anderem auch Einrichtung<br>an Wänden aufhängen oder Löcher am Boden auffüllen!",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Du kannst einstellen, wo oder wie hoch du etwas platzierst, indem<br>du die Ausrichtung der Kamera veränderst. Wenn du sie direkt<br>nach unten richtest, kannst du beispielsweise etwas unter deinen<br>Füßen ablegen und so Block für Block nach oben klettern.",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Sorge dafür, dass alle Wege gut in Schuss sind. Wenn du Risse<br>im Boden ausbesserst und Höhenunterschiede durch Treppen<br>überwindbar machst, verlassen Pokémon nämlich auch gerne mal<br>ihre Bleibe, um an entlegenere Orte aufzubrechen.",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "Auf ihren Ausflügen schauen Pokémon bei Gebäuden wie dem<br><$cdef(27)>Pokémon-Center </color>oder auch den Bleiben anderer Pokémon vorbei.",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "Nutze eine <$cdef(27)><fqty(1)><$ifull(2045)></color>, um Items sicher aufzubewahren,<br>wenn dein Beutel einmal voll ist.",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "Wenn du <$keyicon(67)> drückst, während du <$keyicon(196)> gedrückt hältst, kannst du<br>ganz einfach die <$cdef(27)>Hälfte verschieben</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Stellst du eine <$cdef(27)><fqty(1)><$ifull(2045)> </color>direkt neben eine <$cdef(27)><fqty(1)><$ifull(764)></color>,<br>kannst du den Inhalt der Kiste zum Herstellen von Items benutzen,<br>ohne extra etwas herausnehmen zu müssen.",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "Diese Attacke erlaubt es dir, alles vor dir mit einer scharfen Klinge<br>zu zerschneiden. Außerdem lassen sich damit Bäume und<br>hölzerne Gegenstände zerstören.",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Iss <$cdef(27)>Brot</color>, um <$cdef(27)><$sklfull(5)> </color>zu verstärken.<br>Halte dann <$keyicon(1)> gedrückt, um Dinge in größerer Entfernung<br>zu zerschneiden.",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "Mit einem stärkeren <$cdef(27)><$sklfull(5)></color> lassen sich sogar noch<br>härtere Materialien zerschneiden.",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Als <$cdef(27)>Ditto</color> kannst du auf kleinere Größe zusammenschrumpfen,<br>um durch besonders enge Orte zu gelangen.<br>Auf der anderen Seite nimmst du dann wieder deine<br>ursprüngliche Größe an.",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Neige <$keyicon(194)> leicht, um in die gewünschte Richtung zu gehen,<br>und stärker, um zu rennen.<br>Hältst du dabei <$keyicon(55)> gedrückt oder drückst <$keyicon(54)>, kannst du<br>noch schneller rennen.",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "Neige <$keyicon(195)>, um die Kamera in die gewünschte Richtung<br>zu bewegen.",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Mit dieser Attacke kannst du vertrocknete Erde, Bäume, Blumen<br>sowie vertrocknetes Gras bewässern, um ihnen neues Leben<br>einzuflößen.",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "Iss <$cdef(27)>Suppe</color>, um <$cdef(27)><$sklfull(3)> </color>zu verstärken.<br>Halte dann <$keyicon(1)> gedrückt, um Wasser in einem größeren Bereich<br>zu verteilen.",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "Items, die du erhältst, werden in deinem Beutel gelagert.<br>Mit <$keyicon(159)> kannst du auf diesen zugreifen, um seinen Inhalt<br>zu überprüfen und Items einzusetzen.",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "Du kannst nur eine begrenzte Zahl von Items in deinem Beutel<br>verstauen. Erwirb <$cdef(27)>Packtipps </color>im <$cdef(27)>Laden</color>, um die Obergrenze an<br>lagerbaren Items anzuheben.",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "Du kannst Gras, Bäume, Felsen, Möbel und andere Gegenstände<br>so kombinieren, dass daraus ein Habitat entsteht.<br>Durch dieselbe Kombination kann auch ein anderes Habitat<br>enstehen, wenn du sie zum Beispiel am Wasser oder in<br>höherer Lage platzierst!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "In neuen Habitaten kannst du Pokémon begegnen, die noch nicht<br>in deinem <$cdef(27)>Pokédex</color> registriert sind.<br>Baue verschiedene Habitate und triff auf viele neue Freunde!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "Hast du mehrere Attacken erlernt, kannst du mit <$keyicon(142)> und <$keyicon(143)><br>die Attacke ändern. Halte <$keyicon(142)>, <$keyicon(143)> oder <$keyicon(246)> lange gedrückt,<br>wenn du eine Attacke registrieren möchtest.",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Manchmal kannst du am Boden etwas leuchten sehen. Wenn du<br>das Leuchten untersuchst, findest du dabei Pokémon-Spuren,<br>welche dir Informationen über das Habitat und die bevorzugte<br>Umgebung des Pokémon geben. Diese werden dann in deinem<br>Pokédex registriert.",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "Pokémon-Spuren liefern dir <$cdef(27)>Informationen zu einem Pokémon<br>sowie seinem Habitat</color>, die dann in deinem <$cdef(27)>Pokédex </color>registriert<br>werden, wo du sie jederzeit nachschlagen kannst.",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "Bewegst du dich auf einen Block zu, erklimmst du diesen<br>automatisch. Höhen von zwei Blöcken oder mehr kannst du<br>allerdings nicht meistern.",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Auf folgende Weise kannst du Gebäude <$cdef(27)><$spwicon(-1)>bauen</color>:<br>① Lege einen <$cdef(27)>Bausatz</color> dort ab, wo du bauen möchtest.<br>② Sammle die vom <$cdef(27)>Bausatz</color> vorgegebenen Materialien.<br>③ Versammle Pokémon, die sich zur Aushilfe eignen.<br>Bis zur Vervollständigung des Baus dauert es eine Weile.",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "Sprich Pokémon an, die die Bedingungen des <$cdef(27)>Bausatzes </color>erfüllen,<br>und nimm sie dorthin mit, wo du ihn platziert hast.<br>Nun kannst du sie darum bitten, dir beim <$cdef(27)><$spwfull(1)></color> zu helfen.",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "Häuser oder <$cdef(27)>Pokémon-Center</color> lassen sich mit einem anderen<br><$cdef(27)>Bausatz</color> <$cdef(27)>umbauen</color>. Möbel im Inneren bleiben dabei unverändert,<br>aber du kannst ein großes Haus nicht zu einem kleineren umbauen.",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "Ein neu gebautes Haus ist nicht bewohnbar, weil es noch nicht mit<br>Möbeln ausgestattet ist. Erst sobald du drei verschiedene Sorten<br>Möbel hineingestellt hast, können Pokémon darin leben.",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "Nimmst du ein Pokémon mit und sprichst es in der Nähe eines<br>Hauses an, kannst du ihm vorschlagen, darin zu wohnen.<br>Häuser tun wahre Wunder für das <$cdef(27)>Wohlbefinden</color> eines Pokémon,<br>also zögere nicht, sie in eines einziehen zu lassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "In bestimmten Häusern geht das Licht an, wenn sie mit Strom<br>versorgt werden, und auch die Maschinen im Inneren können<br>dann benutzt werden. Stelle <$cdef(27)><fqty(2)><$ifull(1396)> </color>auf, um die Häuser<br>ans Stromnetz anzuschließen.",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Du kannst Pokémon und andere Dinge in deiner Umgebung<br>mit deiner Kamera ablichten. Drücke entweder <$keyicon(52)> oder wähle<br>im <$keyicon(4)>Hauptmenü <$cdef(27)>Kamera</color>, um in den Fotomodus zu wechseln.<br>Drücke dann <$keyicon(155)>, um ein Foto zu schießen.",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "Während du fotografierst, kannst du mit <$keyicon(49)> umstellen,<br>wie du die Kamera hältst.",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "Wenn du ein <$cdef(27)><fqty(1)><$ifull(4000)> </color>hast, kannst du die Kamera aufstellen<br>und dich beim Fotografieren frei bewegen.<br>Drücke <$keyicon(49)>, um die Kamera im Selfie-Modus zu fixieren.",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Es kann sein, dass du im Boden vergrabene <$cdef(27)>Fundsachen</color> findest.<br>Zeige sie einem Pokémon mit dem Talent <$cdef(27)><$spwfull(25)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "Manchmal kann es vorkommen, dass du Gegenstände ausgräbst,<br>die kurz vor dem Explodieren stehen. Um sie davon abzuhalten,<br>solltest du schnellstmöglich Wasser auf sie gießen.",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Halte <$keyicon(153)> gedrückt, um alles aufzusaugen, was in der Nähe auf<br>dem Boden liegt. Besonders empfehlenswert, wenn du davor mit<br><$cdef(27)>Kopfnuss </color>Beeren „geerntet“ oder mit <$cdef(27)><$sklfull(4)></color> Erde oder<br>Gestein zerstört hast.",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Wenn du <$cdef(27)><$sklfull(13)></color> einsetzt, kannst du dich in der Luft<br>bewegen. Drücke dabei <$keyicon(59)> oder <$keyicon(58)>, um tiefer oder höher<br>zu schweben.",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Wählst du ein Item aus deinem Beutel aus, kannst du es mit <$keyicon(0)><br>ausspucken. Bei bestimmten Items kannst du mit <$keyicon(30)> eine Anzahl<br>zum Ausspucken festlegen und mit <$keyicon(31)> die Ausrichtung ändern.<br>Mit <$keyicon(253)> wechselst du in den <$cdef(27)>Austauschmodus</color>, durch den du das,<br>was du ausspucken willst, gegen Dinge vor dir tauschen kannst.",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "Mit <$keyicon(153)> kannst du etwas zerstören, das direkt vor dir ist.<br>Der zerstörte Gegenstand landet dann in deinem Beutel.<br>Hältst du <$keyicon(153)> gedrückt, kannst du den so zerstörten Gegenstand<br>in deinem Körper aufbewahren und jederzeit wieder ausspucken.",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "Wenn du keine <$cdef(27)>AP</color> mehr hast, ermüdest du beim Einsatz von<br>Attacken. Ein Blick auf die gebogene Leiste rechts unten auf dem<br>Bildschirm verrät dir, über wie viele <$cdef(27)>AP</color> du aktuell verfügst.",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "<$cdef(27)>AP</color> lassen sich wieder auffüllen, indem du <$cdef(27)>Beeren, Gemüse oder<br>sonstige Nahrung </color>zu dir nimmst. Öffne deinen Beutel mit <$keyicon(159)>,<br>wähle aus, was du essen möchtest, und verzehre es mit <$keyicon(0)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "Das <$cdef(27)>Wohlbefinden</color> gibt Auskunft darüber, wie glücklich ein<br>Pokémon mit seiner jeweiligen Bleibe ist.<br>Indem du Dinge, die einem Pokémon gefallen, nahe seiner Bleibe<br>platzierst, kannst du sein <$cdef(27)>Wohlbefinden</color> erhöhen.",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Um das <$cdef(27)>Wohlbefinden</color> eines Pokémon zu erhöhen, solltest du es<br>zunächst fragen, <$cdef(27)>ob es sich wohlfühlt</color>. Es verrät dir dann, was es<br>sich wünscht. Falls du die gewünschte Sache nicht besitzt, kannst<br>du sie im <$cdef(27)>Laden</color> erwerben oder nach der <$cdef(27)>Anleitung</color> dafür suchen.",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "Wenn Pokémon satt werden oder ihre Lieblingsnahrung zu sich<br>nehmen, steigt ihr <$cdef(27)>Wohlbefinden</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "Du kannst Pokémon direkt Nahrung geben, aber auch einen <$cdef(27)>Teller</color><br>in der Nähe ihrer Bleibe damit füllen oder Bäume pflanzen,<br>die <$cdef(27)>Beeren</color> tragen – hungrige Pokémon bedienen sich dann selbst.",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "Wenn du in der Nähe seiner Bleibe Möbel wie <$cdef(27)>Betten </color>oder<br><$cdef(27)>Stühle </color>platzierst, auf denen sich ein Pokémon ausruhen kann,<br>steigt sein <$cdef(27)>Wohlbefinden</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "Große Pokémon können zu kleine <$cdef(27)>Betten</color> oder <$cdef(27)>Stühle</color> nicht<br>benutzen. Gib ihnen also welche, die ihrer Größe entsprechen.",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "Wenn du einem Pokémon Gegenstände wie <$cdef(27)><fqty(1)><$ifull(1274)> </color>und<br><$cdef(27)><fqty(1)><$ifull(1271)> </color>in die Nähe seiner Bleibe legst, damit es damit<br>spielen kann, steigt sein <$cdef(27)>Wohlbefinden</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Pokémon haben ganz unterschiedliche Vorlieben. Wenn du etwas<br>in die Nähe ihrer Bleibe stellst, das ihren Geschmack trifft,<br>steigt ihr <$cdef(27)>Wohlbefinden</color> stark an.",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "Das <$cdef(27)>Wohlbefinden</color> eines Pokémon steigt auch stark, wenn es<br>seine bevorzugte Nahrung zu sich nimmt.",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "Die Vorlieben eines Pokémon kannst du im <$cdef(27)>Pokédex</color> einsehen.",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "Auch in Sachen <$cdef(27)>Helligkeit</color>, <$cdef(27)>Temperatur</color> und <$cdef(27)>Luftfeuchtigkeit</color> haben<br>Pokémon ihre eigenen Präferenzen. Passe ihre Bleiben zu ihrer<br>Zufriedenheit an, um ihr <$cdef(27)>Wohlbefinden</color> zu steigern.",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "Du kannst im <$cdef(27)>Pokédex</color> nachlesen, ob ein Pokémon viel Wert auf<br><$cdef(27)>Helligkeit</color>, <$cdef(27)>Temperatur</color> oder <$cdef(27)>Luftfeuchtigkeit</color> legt.",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "In einem <$cdef(27)><$spwicon(1)>gebauten </color>Haus steigt das <$cdef(27)>Wohlbefinden</color> eines<br>Pokémon merklich schneller. Lass Pokémon also gleich einziehen,<br>sobald du eines errichtet hast.",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Je größer das Haus, desto mehr steigt das <$cdef(27)>Wohlbefinden</color><br>der darin lebenden Pokémon.",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "Jegliche Änderungen, die du außerhalb eines Hauses an der<br>Helligkeit, Temperatur oder Luftfeuchtigkeit vornimmst, haben<br>keinen Einfluss auf das Wohlbefinden der im Haus lebenden<br>Pokémon. Widme dich stattdessen dem <$cdef(27)>Inneren eines Hauses</color>,<br>um das Wohlbefinden der Bewohner zu steigern.",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "Je nach Dach und Einrichtung, die Licht abgibt, ändert sich die<br><$cdef(27)>Helligkeit </color>einer Bleibe. Mit Lampen und Laternen sorgst du für<br>hellere Räume, wohingegen etwa die Installation eines Daches<br>Tageslicht abschirmt und die Bleibe dunkler macht.",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "Durch das Talent <$cdef(27)><$sklfull(2)> </color>geschaffene Beete eignen sich<br>hervorragend, um Gemüse oder andere Nutzpflanzen anzubauen.<br>Bewässere angepflanzte Gewächse mit <$cdef(27)><$sklfull(3)></color> oder<br>anderen Methoden, damit sie gut wachsen.<br>Denk daran, deine Pflänzchen regelmäßig zu gießen!",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "Reifes Gemüse erntest du mit <$keyicon(153)>.<br>Wenn du deine Gemüsepflanzen nach der Ernte weiterhin mit<br><$cdef(27)><$sklfull(3)> </color>oder Ähnlichem bewässerst, wächst wieder etwas.",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "Alle Pokémon verfügen über bestimmte <$cdef(27)>Talente</color>. Welche Talente<br>sie jeweils haben, verrät dir ein Blick in den <$cdef(27)>Pokédex</color>, den du<br>über das <$keyicon(4)>Hauptmenü aufrufen kannst.",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "Ein Pokémon mit dem Talent <$cdef(27)><$spwfull(10)></color> zündet die brennbaren<br>Gegenstände in seiner Reichweite an, sofern es nicht anderweitig<br>beschäftigt ist. Wenn du mit einem Pokémon mit diesem Talent<br>unterwegs bist, musst du hierzu einfach vor dem Objekt stehen<br>bleiben, das du anzünden willst, und es erledigt es für dich.",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "Wenn du es zu einem <$cdef(27)><fqty(1)><$ifull(1446)> </color>bringst, kann es für dich<br>auch Metall oder Sand schmelzen und weiterverarbeiten.",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "Besitzt ein Pokémon das Talent <$cdef(27)><$spwfull(1)></color>, übernimmt es bei der<br>Errichtung oder beim Wiederaufbau von Gebäuden die Rolle des<br><$cdef(27)>Bauleiters </color>und gibt anderen Pokémon Anweisungen. Ohne einen<br>solchen Bauleiter ist das <$cdef(27)><$spwfull(1)></color> nicht möglich.",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "Befindet sich ein Pokémon mit dem Talent <$cdef(27)><$spwfull(5)></color> in der<br>Nähe von Pflanzen, sorgt es dafür, dass diese schneller wachsen,<br>sofern es nicht anderweitig beschäftigt ist. Wenn du mit einem<br>Pokémon mit diesem Talent unterwegs bist, musst du einfach vor<br>Pflanzen stehen bleiben, damit es sie <$cdef(27)><$spwicon(5)>düngt</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "Wenn Pflanzen wie <$cdef(27)><fqty(2)><class><$ifull(8)></color> nicht vorher bewässert werden,<br>wachsen sie auch nach dem <$cdef(27)><$spwfull(5)></color> nicht.<br>Bewässere sie erst mit <$cdef(27)><$sklfull(3)> </color>oder Ähnlichem, bevor du<br>ein Pokémon mit dem Talent <$cdef(27)><$spwfull(5)> </color>um Hilfe bittest.",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "Freunde dich mit vielen Pokémon an und steigere ihr<br><$cdef(27)>Wohlbefinden</color>, um den <$cdef(27)>Umgebungslevel zu erhöhen</color>.<br>Wenn der <$cdef(27)>Level</color> sich erhöht, stehen dir neue <$cdef(27)>Challenges</color> sowie<br>ein größeres Warensortiment im <$cdef(27)>Laden</color> zur Verfügung.",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "So wie jedes Pokémon seine eigenen Vorlieben hat, gibt es auch<br>stets Dinge, die es nicht sonderlich mag.<br>Wenn du etwas davon in der Nähe seiner Bleibe platzierst,<br>sinkt sein <$cdef(27)>Wohlbefinden</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "Platzierst du Wärme oder Kälte abgebende Gegenstände wie<br><$cdef(27)><fqty(1)><$ifull(1280)> </color>oder <$cdef(27)><fqty(1)><$ifull(1096)></color> bei einer Bleibe, beeinflussen sie die<br><$cdef(27)>Temperatur</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "Wasser, Pflanzen und ähnliche Gegenstände erhöhen die<br><$cdef(27)>Luftfeuchtigkeit </color>einer Bleibe. Soll es bei einer Bleibe dagegen<br>besonders trocken sein, kannst du entsprechende Gegenstände<br>einfach entfernen.",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "Wenn du etwas für ein Pokémon platzieren möchtest, tu das<br>am besten in der Nähe seiner Bleibe. Platzierst du es nämlich<br>zu weit weg, erhöht sich sein <$cdef(27)>Wohlbefinden</color> dadurch nicht.",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "Du kannst dir den Bereich um eine Bleibe anzeigen lassen, indem<br>du in ihrer Nähe <$keyicon(32)> drückst. Drücke <$keyicon(32)> erneut oder entferne<br>dich von der Bleibe, um die Anzeige verschwinden zu lassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "Legendäre Pokémon und Mysteriöse Pokémon haben eine<br>größere Auswirkung auf den <$cdef(27)>Umgebungslevel</color> als andere<br>Pokémon. Mit ihnen ist es also leichter, den <$cdef(27)>Level</color> zu erhöhen.",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "Pokémon mit dem Talent <$cdef(27)><$spwfull(6)></color> können Gegenstände<br>für dich aufbewahren.<br>Sprich mit ihnen und wähle <$cdef(27)>Ich will was lagern oder entnehmen!</color>,<br>um dein Hab und Gut jederzeit zu deponieren oder abzuholen.",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "Folgt dir gerade ein Pokémon, das Gegenstände für dich<br>aufbewahrt, wenn du eine <$cdef(27)><fqty(1)><$ifull(764)> </color>benutzt, kannst du<br>von ihm verwahrte Dinge direkt als Materialien verwenden.",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "Wenn du mit einem Pokémon unterwegs bist, kann dieses dir auf<br>ganz unterschiedliche Weise helfen. Bleib einfach vor etwas<br>stehen, bei dem du Hilfe brauchst, und das Pokémon wird sein<br>Talent zum Einsatz bringen, um dich zu unterstützen.",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "Gibst du einem Pokémon, das über das Talent <$cdef(27)><$spwfull(26)></color><br>verfügt, etwas <$cdef(27)><fqty(1)><$ifull(3994)></color>, bietet es dir im Tausch ein Möbelstück<br>in einem besonderen Design an.",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "Überreichst du einem Pokémon mit dem Talent <$cdef(27)><$spwfull(15)><br></color>einen <$cdef(27)><fqty(1)><accclass><$ifull(1482)></color>, verarbeitet es diesen für dich<br>zu <$cdef(27)><fqty(1)><$ifull(407)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "Pokémon mit dem Talent <$cdef(27)><$spwfull(16)> </color>können geeignete<br>Materialien für dich zu etwas anderem weiterverarbeiten.",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "Wenn du ein Pokémon mitnehmen willst, dann sprich es an<br>und fordere es mit <$cdef(27)>Folge mir! </color>auf, dich zu begleiten.",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "Drücke <$keyicon(214)>, um ein Pokémon, das sich vor dir befindet,<br>zum Mitkommen aufzufordern. Dir können bis zu fünf Pokémon<br>zugleich folgen.",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "Hungrige Pokémon weigern sich womöglich, dir zu folgen,<br>oder bleiben unterwegs auf einmal stehen. Sollte das passieren,<br>dann gib ihnen einfach etwas zu essen.",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "Wenn du ein Pokémon ansprichst und ihm die Frage<br><$cdef(27)>Wie ist dein Wohlbefinden?</color> stellst, verrät es dir, wie es darum<br>bestellt ist. So kannst du außerdem überprüfen, wie du sein<br><$cdef(27)>Wohlbefinden</color> verbessern kannst.",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "Du kannst täglich pro Pokémon von einer Sache erfahren, die es<br>gerne von dir hätte oder erledigt bekommen würde.<br>Kümmer dich darum und steigere so das jeweilige <$cdef(27)>Wohlbefinden</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "Neben dem, was Pokémon dir verraten, wenn du sie nach ihrem<br><$cdef(27)>Wohlbefinden</color> fragst, gibt es noch andere Wege, wie du dieses<br>steigern kannst. Probier einfach aus, was für andere Dinge du ihm<br>geben oder wie du ihm sonst helfen könntest.",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "Wenn du eine Bleibe mit schönen Dingen wie einer <$cdef(27)><fqty(1)><$ifull(1367)><br></color>oder einem <$cdef(27)><fqty(1)><$ifull(1542)> </color>dekorierst, wirkt sich das positiv auf das<br><$cdef(27)>Wohlbefinden</color> des dort wohnenden Pokémon aus.",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "Wenn die <$cdef(27)>Helligkeit</color> einer Bleibe zu den Vorlieben und zur<br>Aktivitätsperiode eines Pokémon passt, bleibt es länger wach.",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "Ist in der Nähe ein <$cdef(27)><fqty(1)><$ifull(1261)></color>, in dem du Wasser gesammelt hast,<br>benutzen Pokémon mit dem Talent <$cdef(27)><$spwfull(8)> </color>das Wasser<br>darin, um die Pflanzen in der Umgebung zu gießen.",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "Wenn du an der <$cdef(27)><$hatname(152)> </color>Nahrung ablegst und ein<br>Pokémon mit dem Talent <$cdef(27)><$spwfull(8)> </color>hinbringst, führt es ein<br><$cdef(27)>Regenritual</color> auf, das die <$cdef(27)>Luftfeuchtigkeit</color> in der Umgebung erhöht.",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "Du kannst Samen von Blumen und Bäumen im Boden anpflanzen.<br>Öffne dazu deinen Beutel, nimm sie in die Hand und pflanze sie<br>dann mit <$keyicon(0)> an. In ausgetrocknetem Boden kann nichts<br>angepflanzt werden, weshalb du ihn zuerst mit <$cdef(27)><$sklfull(3)></color><br>oder einer anderen Methode bewässern solltest.",
+      "pt_br": ""
+    },
+    {
+      "id": 114,
+      "en": "Es dauert etwas, bis ein angepflanzter Samen zu wachsen beginnt.<br>Hab bis zum folgenden Tag Geduld.",
+      "pt_br": ""
+    },
+    {
+      "id": 115,
+      "en": "Wohnt ein Pokémon in einem Habitat, wird dies zu einer <$cdef(27)>Bleibe</color>.<br>In Habitaten, aus denen eine Bleibe geworden ist, kann kein<br>neues Pokémon mehr erscheinen. Baue daher weitere Habitate,<br>um neue Freunde zu treffen.",
+      "pt_br": ""
+    },
+    {
+      "id": 116,
+      "en": "Sprich mit <$cdef(27)>Bisasam</color>, falls du Lust auf eine Runde <$cdef(27)>Seilspringen </color>hast.<br>Du musst im richtigen Moment <$keyicon(3)> drücken, um über die Ranke<br>zu springen. Bleibst du an der Ranke hängen, ist die Partie für<br>dich zu Ende.",
+      "pt_br": ""
+    },
+    {
+      "id": 117,
+      "en": "An diesem Spiel kannst du auch mit anderen Spielern teilnehmen.<br>In diesem Modus wirft dich ein Stolpern über die Ranke<br>buchstäblich aus dem Spiel. Wer als Letztes übrig bleibt, gewinnt.<br>Die Rangliste wird anhand der Anzahl erfolgreich absolvierter<br>Sprünge festgelegt.",
+      "pt_br": ""
+    },
+    {
+      "id": 118,
+      "en": "Wer aus dem Spiel ausscheidet, kann die Geschwindigkeit der<br>Ranke ändern, um den verbliebenen Spielern das Springen zu<br>erschweren. Mit <$keyicon(7)> wird die Ranke schneller, mit <$keyicon(8)> langsamer.<br>Ob und wie sich die Geschwindigkeit ändert, hängt davon ab, wie<br>viele Spieler denselben Knopf drücken. Tut euch also zusammen!",
+      "pt_br": ""
+    },
+    {
+      "id": 119,
+      "en": "Sprich mit <$cdef(27)>Zorua</color>, um eine Runde <$cdef(27)>Schnappspiel </color>zu beginnen.<br>Wenn du den <$cdef(27)>PC</color> des <$cdef(27)>Pokémon-Centers</color> berührst, ohne von deinen<br>Gegnern gefunden zu werden, hast du gewonnen. Entdecken sie<br>dich, wirst du an den Startpunkt zurückgebracht.",
+      "pt_br": ""
+    },
+    {
+      "id": 120,
+      "en": "Wenn du <$cdef(27)><$sklfull(6)> </color>einsetzt, wird es für deine Gegenspieler<br>schwieriger, dich zu entdecken. Zudem kannst du Gegenstände<br>platzieren sowie laute Gegenstände oder Reaktionen benutzen,<br>um sie abzulenken und so sicher ans Ziel zu gelangen.",
+      "pt_br": ""
+    },
+    {
+      "id": 121,
+      "en": "Wenn du mit anderen Spielern antrittst, bildet ihr ein Team.<br>Berührt ein Spieler deines Teams den <$cdef(27)>PC</color>, habt ihr gewonnen.<br>Wer entdeckt wird, wird an den Startpunkt zurückgebracht.<br>Arbeitet gut zusammen, um zum <$cdef(27)>PC</color> zu gelangen!",
+      "pt_br": ""
+    },
+    {
+      "id": 122,
+      "en": "Wenn du Pokémon ansprichst, die etwas sehr beschäftigt, wenden<br>sie sich manchmal mit einem <$cdef(27)>Wunsch</color> an dich. So angenommene<br>Aufträge kannst du jederzeit im Hauptmenü überprüfen.",
+      "pt_br": ""
+    },
+    {
+      "id": 123,
+      "en": "Wenn du ihm eine <$cdef(27)>Fundsache </color>zeigst, kann <$cdef(27)><$cname(341)><br></color>mit seinem Talent <$cdef(27)><$spwfull(25)> </color>einschätzen, um welche Art<br>von Item es sich dabei handelt.",
+      "pt_br": ""
+    },
+    {
+      "id": 124,
+      "en": "<$cdef(27)>Driftlon</color> kann dich an wundersame Orte mitnehmen, die auch als<br><$cdef(27)>Wunderinseln</color> bekannt sind. Dort kannst du Gegenstände finden,<br>die es an keinem anderen Ort gibt, also nimm dir Zeit, sie gut zu<br>erkunden. Sprichst du <$cdef(27)>Driftlon</color> auf einer <$cdef(27)>Wunderinsel</color> erneut an,<br>bringt es dich wieder zurück.",
+      "pt_br": ""
+    },
+    {
+      "id": 125,
+      "en": "Du kannst pro Tag <$cdef(27)>nur eine</color> Wunderinsel bereisen, dafür jedoch<br><$cdef(27)>sooft du willst</color>. Wenn du zu einer anderen <$cdef(27)>Wunderinsel</color> fliegen<br>möchtest, musst du allerdings bis zum nächsten Tag warten,<br>ehe du <$cdef(27)>Driftlon </color>darum bitten kannst.",
+      "pt_br": ""
+    },
+    {
+      "id": 126,
+      "en": "Genieß deine Zeit hier, indem du mit Pokémon sprichst, alle<br>möglichen Gegenstände herstellst und tust, was dir Spaß macht!",
+      "pt_br": ""
+    },
+    {
+      "id": 127,
+      "en": "Ob du lieber neue Pokémon suchst, <$cdef(27)>Wünsche</color> erfüllst oder dich<br>dem Bau deiner Traumstadt widmest, bleibt ganz allein dir<br>überlassen!",
+      "pt_br": ""
+    },
+    {
+      "id": 128,
+      "en": "Mit <$keyicon(153)> kannst du Dinge aufheben, die auf dem Boden liegen.<br>Diese werden dann automatisch in deinem Beutel gelagert.",
+      "pt_br": ""
+    },
+    {
+      "id": 129,
+      "en": "Damit kannst du dich in etwas <$spwicon(36)><$cdef(27)>verwandeln</color>, was sich direkt<br>vor dir befindet. Du kannst dich auch bewegen, während du<br>verwandelt bist.",
+      "pt_br": ""
+    },
+    {
+      "id": 130,
+      "en": "Wenn du ein <$cdef(27)><fqty(1)><$ifull(2793)> </color>trägst und mit einem Pokémon<br>unterwegs bist, das über das Talent <$cdef(27)><$spwfull(11)></color> verfügt,<br>drücke <$keyicon(0)>, um im Boden nach verborgenen Dingen zu suchen.",
+      "pt_br": ""
+    },
+    {
+      "id": 131,
+      "en": "Sprich ein Pokémon mit dem Talent <$cdef(27)><$spwfull(27)> </color>an,<br>um die aktuelle <$cdef(27)>Höhe der Luftfeuchtigkeit</color> zu erfahren.",
+      "pt_br": ""
+    },
+    {
+      "id": 132,
+      "en": "Wenn du deinen Beutel öffnest und <$keyicon(247)> drückst, kannst du die<br>Schnelltasche dauerhaft anzeigen lassen. Was du dort verstaust,<br>kannst du via <$keyicon(161)><$keyicon(162)> benutzen, ohne den Beutel zu öffnen.",
+      "pt_br": ""
+    },
+    {
+      "id": 133,
+      "en": "Sollte es in deiner Nähe mehrere Optionen zum <$cdef(27)>Untersuchen</color>,<br><$cdef(27)>Aufheben </color>oder <$cdef(27)>Reden </color>geben, kannst du durch Drücken von <$keyicon(249)><br>wählen, womit du interagieren möchtest. Dies ist sehr nützlich,<br>wenn du ansonsten Gefahr läufst, die falsche Wahl zu treffen.",
+      "pt_br": ""
+    },
+    {
+      "id": 134,
+      "en": "Wenn du Metalle wie <$cdef(27)><fqty(1)><$ifull(107)> </color>oder <$cdef(27)><fqty(1)><$ifull(106)> </color>hast, kannst du sie<br>von einem Pokémon mit dem Talent <$cdef(27)><$spwfull(10)> </color>an einem<br><$cdef(27)><fqty(1)><$ifull(1446)> </color>weiterverarbeiten lassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 135,
+      "en": "Um Schlamm zu beseitigen, brauchst du nur mit einem Pokémon<br>mit dem Talent <$cdef(27)><$spwfull(8)> </color>davor stehen zu bleiben.<br>Das Pokémon wird die Stelle mit Blasen besprühen, damit du<br>sie danach ganz leicht mit Wasser abspülen kannst.",
+      "pt_br": ""
+    },
+    {
+      "id": 136,
+      "en": "Pokémon mit dem Talent <$icon(10993)><$cdef(27)><$spwname(13)> </color>heben Materialien<br>und andere Dinge für dich vom Boden auf und legen sie dann<br>direkt in die <$cdef(27)><fqty(1)><$ifull(1460)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 137,
+      "en": "Sie nehmen auch Materialien aus der <$cdef(27)><fqty(1)><$ifull(1460)><br></color>heraus, um sie zu einem <$cdef(27)><fqty(1)><$ifull(1446)></color> oder anderen Orten<br>zur Weiterverarbeitung zu bringen.",
+      "pt_br": ""
+    },
+    {
+      "id": 138,
+      "en": "Wenn du einem gewissen Pokémon ein <$cdef(27)>Plüschi</color> zeigst,<br>nimmt es dich auf eine <$cdef(27)>Wunderinsel </color>mit.<br>Danach kommt es auch zu dir geflogen, wenn du ein<br>bereits platziertes <$cdef(27)>Plüschi</color> untersuchst.",
+      "pt_br": ""
+    },
+    {
+      "id": 139,
+      "en": "Pokémon mit dem Talent <$icon(11222)><$cdef(27)><$spwname(30)> </color>geben dir im Tausch<br>gegen <$cdef(27)>Fundsachen</color> oder <$cdef(27)>seltene Federn</color> andere Items.",
+      "pt_br": ""
+    },
+    {
+      "id": 140,
+      "en": "Wenn du einem Pokémon mit dem Talent <$cdef(27)><$spwfull(17)></color><br><$cdef(27)><fqty(1)><$ifull(1801)> </color>gibst, stellt es für dich daraus <$cdef(27)><fqty(1)><$ifull(126)> </color>her.",
+      "pt_br": ""
+    },
+    {
+      "id": 141,
+      "en": "<$cdef(27)><$cname(272)></color> besitzt das Talent <$icon(11219)><$cdef(27)><$spwname(28)> </color>und freut sich, wenn du<br>ihm etwas zu essen auf den <$cdef(27)><fqty(1)><$ifull(1811)> </color>legst. Und wer weiß?<br>Je nach Geschmack und Seltenheit des Essens könnte etwas<br>besonders Erfreuliches geschehen...",
+      "pt_br": ""
+    },
+    {
+      "id": 142,
+      "en": "Dank des Talents <$icon(11008)><$cdef(27)><$spwname(21)> </color>kann <$cdef(27)><$cname(206)></color> die Farbe<br>von Möbeln und anderen Dingen für dich mit <$cdef(27)>Farbstoff </color>ändern.<br>Es gibt allerdings auch Sachen, die sich nicht anmalen lassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 143,
+      "en": "Du kannst dir von <$cdef(27)><$cname(206)> </color>auch die Muster von Items<br>durch <$icon(11008)><$cdef(27)><$spwname(21)> </color>ändern lassen. Solltest du also einmal<br><$cdef(27)>Menschendokumente</color>, auf denen Muster abgebildet sind,<br>oder andere gemusterte Sachen finden, dann zeig sie ihm.",
+      "pt_br": ""
+    },
+    {
+      "id": 144,
+      "en": "Es gibt auch Gegenstände, bei denen du die jeweiligen Einzelteile<br>mit unterschiedlichen Farben und Mustern versehen kannst.",
+      "pt_br": ""
+    },
+    {
+      "id": 145,
+      "en": "Wenn du ein Pokémon mit dem Talent <$icon(11221)><$cdef(27)><$spwname(31)> </color>zu einer<br><$cdef(27)><fqty(1)><$ifull(1850)> </color>bringst, klettert es hinein und fliegt heraus,<br>sobald du die Kanone zündest. Beim Auftreffen zerstört es<br>dann alles im Umkreis mit einer Explosion.",
+      "pt_br": ""
+    },
+    {
+      "id": 146,
+      "en": "Gib <$cdef(27)><$cname(274)> </color>eine <$cdef(27)>CD</color>, damit es mit seinem Talent <$cdef(27)><$spwfull(29)><br></color>die Musik darauf abspielt. Wenn du ihm mehrere <$cdef(27)>CDs </color>gibst,<br>spielt es sie hintereinander ab.",
+      "pt_br": ""
+    },
+    {
+      "id": 147,
+      "en": "Du kannst es außerdem ansprechen, um in Erfahrung zu bringen,<br>wie gut die <$cdef(27)>Stimmung</color> schon geworden ist.",
+      "pt_br": ""
+    },
+    {
+      "id": 148,
+      "en": "<$cdef(27)><$cname(216)></color> kann mit seinem Talent <$cdef(27)><$spwfull(23)> </color>die Rolle<br>des <$cdef(27)>Anführers </color>übernehmen und als solcher anderen Pokémon<br>beim Kochen für eine <$cdef(27)>Party</color> Anweisungen geben.<br>Ohne einen Anführer kann keine <$cdef(27)>Party</color> gefeiert werden.",
+      "pt_br": ""
+    },
+    {
+      "id": 149,
+      "en": "Diese Pokémon sind außerdem selbst äußerst geschickt im<br>Kochen. Wenn du gemeinsam mit ihnen mit einem Küchenutensil<br>wie dem <$cdef(27)><fqty(1)><$ifull(1301)> </color>kochst, erhältst du womöglich eine<br>größere Menge als gewöhnlich.",
+      "pt_br": ""
+    },
+    {
+      "id": 150,
+      "en": "Wenn du ein Pokémon mit dem Talent <$icon(11225)><$cdef(27)><$spwname(34)> </color>ansprichst,<br>während du über den Pokédex ein Pokémon suchst, kann es dich<br>an den Ort bringen, an dem sich das gesuchte Pokémon aufhält.<br>Um ein Pokémon zu suchen, wähle es im Pokédex aus und<br>drücke <$keyicon(233)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 151,
+      "en": "Mit seinem Talent <$icon(11010)><$cdef(27)><$spwname(24)> </color>kann <$cdef(27)><$cname(215)><br></color>beim <$cdef(27)><$spwfull(1)></color> und Wiederaufbauen großer Gebäude die Rolle<br>des Bauleiters übernehmen und die Arbeit der anderen Pokémon<br>koordinieren. Als Bauleiter beim <$cdef(27)><$spwfull(1)> </color>normaler Gebäude<br>werden durch sein Talent die Bauarbeiten schneller abgeschlossen.",
+      "pt_br": ""
+    },
+    {
+      "id": 152,
+      "en": "Außerdem kannst du ihm <$cdef(27)><fqty(1)><$ifull(115)> </color>überreichen, damit es<br>sie für dich zu <$cdef(27)><fqty(2)><$ifull(119)>n </color>weiterverarbeitet.",
+      "pt_br": ""
+    },
+    {
+      "id": 153,
+      "en": "Wenn du einem Pokémon mit dem Talent <$cdef(27)><$spwfull(32)></color><br><$cdef(27)><fqty(2)><$ifull(92)> </color>gibst, macht es daraus<br><$cdef(27)><fqty(2)><$ifull(121)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 154,
+      "en": "Wenn du ein Pokémon mit dem Talent <$icon(11226)><$cdef(27)><$spwname(35)></color><br>ansprichst, während du über den Pokédex ein Pokémon suchst,<br>kann es dich an den Ort bringen, an dem sich das gesuchte<br>Pokémon aufhält. Um ein Pokémon zu suchen, wähle es im<br>Pokédex aus und drücke <$keyicon(233)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 155,
+      "en": "Besitzt ein Pokémon das Talent <$icon(11224)><$cdef(27)><$spwname(33)></color>, übernimmt<br>es beim <$cdef(27)>Abriss</color> für den Wiederaufbau des <$cdef(27)>Pokémon-Centers</color><br>die Rolle des unverzichtbaren Bauleiters, der anderen Pokémon<br>wichtige Anweisungen zum Abriss und Versetzen von Gebäuden<br>gibt.",
+      "pt_br": ""
+    },
+    {
+      "id": 156,
+      "en": "Die <$cdef(27)>Luftfeuchtigkeit</color> deiner ganzen Stadt hängt davon ab, wie viel<br>Vegetation und Wasserstellen es dort gibt beziehungsweise wie<br>groß letztere sind. Wie hoch die <$cdef(27)>Luftfeuchtigkeit</color> ist, kannst du<br>mit <$cdef(27)>Flegmons Gähnen</color> überprüfen.",
+      "pt_br": ""
+    },
+    {
+      "id": 157,
+      "en": "Es gibt drei Wege, um die <$cdef(27)>Luftfeuchtigkeit</color> zu erhöhen:<br>・ Bewässere ausgetrocknete Erde, damit Gras darauf wächst.<br>・ Schenke vertrocknetem Gras, Bäumen oder anderen Pflanzen<br>neues Leben, indem du sie bewässerst.<br>・ Baue Wasserstellen wie Teiche oder Ähnliches.",
+      "pt_br": ""
+    },
+    {
+      "id": 158,
+      "en": "Wenn du ein Haus abreißen möchtest, musst du dazu nur ein<br><$cdef(27)>Abriss-Set </color>vor dem Haus platzieren und Pokémon versammeln,<br>damit sie beim Abriss helfen.",
+      "pt_br": ""
+    },
+    {
+      "id": 159,
+      "en": "Du kannst ein Haus an einen anderen Ort versetzen, indem du<br>ein <$cdef(27)>Umzugs-Set </color>davor platzierst und Pokémon versammelst,<br>die bei den <$cdef(27)>Umzugsvorbereitungen </color>helfen. Sind alle Vorkehrungen<br>getroffen, kannst du den Bausatz an einem anderen Ort aufstellen<br>und dir von Pokémon mit dem <$cdef(27)>Umzug </color>helfen lassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 160,
+      "en": "Wenn du im Hauptmenü <$cdef(27)>Nach Hause zurückkehren </color>auswählst,<br>wirst du augenblicklich an einen sicheren Ort gebracht.<br>So befreist du dich auch aus dem größten Schlamassel!",
+      "pt_br": ""
+    },
+    {
+      "id": 161,
+      "en": "Wähle <$cdef(27)>Nach Hause zurückkehren </color>im Hauptmenü, um im Nu<br>zu deinem eigenen Haus zurückzukehren. Besitzt du kein Haus,<br>wirst du stattdessen an einen sicheren Ort gebracht.",
+      "pt_br": ""
+    },
+    {
+      "id": 162,
+      "en": "Manchmal findest du Dokumente wie Briefe oder Notizen<br>auf dem Boden, die von Menschen geschrieben wurden.<br>Untersuche sie, um zu erfahren, was darauf steht.",
+      "pt_br": ""
+    },
+    {
+      "id": 163,
+      "en": "Drücke im Wasser <$keyicon(28)>, um dich in <$cdef(27)>Lapras</color> zu verwandeln<br>und frei auf dem Wasser fortbewegen zu können.",
+      "pt_br": ""
+    },
+    {
+      "id": 164,
+      "en": "Mit <$cdef(27)><$sklfull(10)> </color>verbrauchst du schrittweise <$cdef(27)>AP</color>. Sind deine <$cdef(27)>AP</color><br>aufgebraucht, kannst du so lange weitersurfen, bis du <$keyicon(26)> drückst,<br>um deine ursprüngliche Gestalt anzunehmen. <$cdef(27)><$sklfull(10)></color> ist jedoch<br>nicht einsetzbar, wenn du über keine <$cdef(27)>AP</color> mehr verfügst.",
+      "pt_br": ""
+    },
+    {
+      "id": 165,
+      "en": "Trinke <$cdef(27)>Smoothies</color>, um <$cdef(27)><$sklfull(10)> </color>zu verstärken.<br>Mit <$keyicon(28)> kannst du dich dann auch tief unter Wasser in <$cdef(27)><$cname(36)><br></color>verwandeln.",
+      "pt_br": ""
+    },
+    {
+      "id": 166,
+      "en": "Ein Pokémon mit dem Talent <$cdef(27)><$spwfull(9)> </color>versorgt elektrische<br>Geräte in seiner Reichweite mit Strom, sofern es nicht anderweitig<br>beschäftigt ist. Wenn du mit einem Pokémon mit diesem Talent<br>unterwegs bist, musst du hierzu einfach vor einem Gerät stehen<br>bleiben und es erledigt es für dich.",
+      "pt_br": ""
+    },
+    {
+      "id": 167,
+      "en": "Pokémon mit dem Talent <$cdef(27)><$spwfull(12)></color> bieten dir allerlei<br>Tauschhandel an, wenn sich ein geeigneter Ort dafür findet.<br>Stell eine <$cdef(27)><fqty(1)><$ifull(1325)></color> auf einen Tisch, versorge sie mit Strom,<br>und schon kann es losgehen!",
+      "pt_br": ""
+    },
+    {
+      "id": 168,
+      "en": "Du kannst Gegenstände in deinem Besitz gegen jene eintauschen,<br>die du gerne haben möchtest. Du kannst deinem Tauschpartner<br>bis zu fünf verschiedene Gegenstände anbieten. Stimmt er zu,<br>kommt der Handel zustande. Wähle Dinge, die dein Gegenüber<br>mag, um deine Chancen auf einen Tausch zu erhöhen!",
+      "pt_br": ""
+    },
+    {
+      "id": 169,
+      "en": "Dank des Talents <$icon(11008)><$cdef(27)><$spwname(21)> </color>kann <$cdef(27)><$cname(206)></color> die Farbe<br>von Möbeln und anderen Dingen für dich mit <$cdef(27)>Farbstoff </color>ändern.<br>Es gibt allerdings auch Sachen, die sich nicht anmalen lassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 170,
+      "en": "Die Farbe von Häusern sowie weiteren nicht tragbaren<br>Objekten kannst du durch <$cdef(27)><$spwfull(21)></color> ändern, indem du<br><$cdef(27)><$cname;0(206)> </color>zu ihnen bringst.",
+      "pt_br": ""
+    },
+    {
+      "id": 171,
+      "en": "Benutze einen <$iicon(230)><$cdef(27)>Farbballon</color>, um einen Gegenstand, der sich<br>direkt vor dir befindet, in der Farbe des Ballons <$spwicon(21)><$cdef(27)>anzumalen</color>.<br><$iicon(230)><$cdef(27)>Farbballons </color>kannst du aus <$cdef(27)>Farbstoffen</color> herstellen.",
+      "pt_br": ""
+    },
+    {
+      "id": 172,
+      "en": "Du kannst dir von <$cdef(27)><$cname(206)> </color>auch die Muster von Items<br>ändern lassen. Solltest du also einmal <$cdef(27)>Menschendokumente</color>, auf<br>denen Muster abgebildet sind, oder andere gemusterte Sachen<br>finden, dann zeig sie ihm.",
+      "pt_br": ""
+    },
+    {
+      "id": 173,
+      "en": "Bei bestimmten Möbeln kannst du auch die Farben und Muster<br>der jeweiligen Einzelteile ändern.",
+      "pt_br": ""
+    },
+    {
+      "id": 174,
+      "en": "Pokémon mit dem Talent <$cdef(27)><$spwfull(4)> </color>lassen ab und zu<br>Gegenstände in der Nähe ihrer Bleibe fallen.",
+      "pt_br": ""
+    },
+    {
+      "id": 175,
+      "en": "Was sie fallen lassen, hängt von der Art der Pokémon ab.",
+      "pt_br": ""
+    },
+    {
+      "id": 176,
+      "en": "Pokémon lassen keine Gegenstände fallen, während du hinsiehst.<br>Lass sie zunächst ein wenig allein und schau später wieder vorbei.",
+      "pt_br": ""
+    },
+    {
+      "id": 177,
+      "en": "Wenn du einem Pokémon mit dem Talent <$cdef(27)><$spwfull(17)></color><br><$cdef(27)><fqty(1)><$ifull(1395)> </color>gibst, macht es daraus <$cdef(27)><fqty(1)><$ifull(107)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 178,
+      "en": "Wenn du <$keyicon(153)> gedrückt hältst, um tief einzuatmen, und dabei<br><$keyicon(206)> drückst, kannst du Wasser und andere Flüssigkeiten vor dir<br>aufsaugen und im Mund behalten.",
+      "pt_br": ""
+    },
+    {
+      "id": 179,
+      "en": "Die aufgesaugte Flüssigkeit kannst du mit <$keyicon(0)> an einem beliebigen<br>Ort wieder ausspucken. Sie verteilt sich dann in der Umgebung.",
+      "pt_br": ""
+    },
+    {
+      "id": 180,
+      "en": "Solange du etwas im Mund hast, kannst du <$keyicon(209)> gedrückt halten<br>und mit <$keyicon(222)> und <$keyicon(223)> die Menge beim Ausspucken anpassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 181,
+      "en": "Stelle Lichtquellen auf, um deine dunkle Stadt heller zu machen.<br>Um die gesamte Stadt zu beleuchten, solltest du an möglichst<br>vielen Orten Lichtquellen aufstellen.",
+      "pt_br": ""
+    },
+    {
+      "id": 182,
+      "en": "Einige Maschinen leuchten, wenn du sie an Strom anschließt.<br>Solche elektrischen Lichter erhellen die Stadt mehr als<br>andere Lichtquellen.",
+      "pt_br": ""
+    },
+    {
+      "id": 183,
+      "en": "Lichtquellen aus Feuer wirken sich nur schwach auf die Helligkeit<br>in der Stadt aus, dafür aber wird es um sie herum ein bisschen<br>wärmer. Sie eignen sich daher gut, um das <$cdef(27)>Wohlbefinden</color> von<br>Pokémon zu steigern, die solche Bedingungen bevorzugen.",
+      "pt_br": ""
+    },
+    {
+      "id": 184,
+      "en": "<$cdef(27)><$cname(121)></color> erzeugt mit seinem Talent <$cdef(27)><$spwfull(22)></color> Licht,<br>mit dem es die ganze Stadt beleuchten kann.<br>Um von diesem Talent Gebrauch zu machen, muss es sich<br>zuvor an einer aktiven <$cdef(27)><$bfull(32)> </color>mit ausreichend<br>Elektrizität aufgeladen haben.",
+      "pt_br": ""
+    },
+    {
+      "id": 185,
+      "en": "Solange es ausreichend Licht als Folge von <$cdef(27)><$spwfull(22)> </color>gibt,<br>können Pokémon ihre Aktivitäten auch nachts problemlos<br>fortsetzen.",
+      "pt_br": ""
+    },
+    {
+      "id": 186,
+      "en": "Diese Geräte können Strom generieren. Je nach Modell kann<br>die Art der Erzeugung sowie die Menge an generiertem Strom<br>variieren.",
+      "pt_br": ""
+    },
+    {
+      "id": 187,
+      "en": "Wenn du <$cdef(27)><fqty(2)><$ifull(1396)> </color>in der Nähe eines <$cdef(27)>Generators </color>aufstellst,<br>kannst du den Strom auch an weit entfernte Orte leiten.",
+      "pt_br": ""
+    },
+    {
+      "id": 188,
+      "en": "Ein <$cdef(27)><fqty(1)><$ifull(1379)></color> kann durch Windkraft Strom erzeugen.<br>Er lässt sich zwar überall betreiben, generiert aber an hohen<br>Orten besonders viel Strom.",
+      "pt_br": ""
+    },
+    {
+      "id": 189,
+      "en": "An <$cdef(27)>Frisiertischen</color> und anderen Spiegeln kannst du dich durch<br>Drücken von <$keyicon(6)> <$cdef(27)>verwandeln </color>und so dein Aussehen verändern.",
+      "pt_br": ""
+    },
+    {
+      "id": 190,
+      "en": "Passe beim <$cdef(27)>Verwandeln</color> mithilfe der Outfits, die du bisher<br>erlernt hast, dein Aussehen nach Lust und Laune an!",
+      "pt_br": ""
+    },
+    {
+      "id": 191,
+      "en": "Wenn du die <$cdef(27)>Ditto-Farbe</color> als Hautfarbe wählst, nimmt dein ganzer<br>Körper diese Farbe an und du kannst die Farbe deiner Haare und<br>deines Outfits nicht individuell anpassen.",
+      "pt_br": ""
+    },
+    {
+      "id": 192,
+      "en": "Je heller es in der Stadt wird, desto mehr Blumen erblühen auf<br><$cdef(27)><$cname;0(272)>s</color> Kopf. Stelle vielerorts Lichtquellen auf, um die Stadt zu<br>erhellen!",
+      "pt_br": ""
+    },
+    {
+      "id": 193,
+      "en": "Wenn du ein Getränk in der Hand hast, kannst du es mit <$keyicon(0)><br>in den Mund nehmen und dann je nach Art des Getränks eine<br>andere Flüssigkeit ausspucken.",
+      "pt_br": ""
+    },
+    {
+      "id": 194,
+      "en": "Mit dem <$cdef(27)><fqty(1)><$ifull(1443)> </color>im <$cdef(27)>Pokémon-Center </color>kannst du Dinge<br>nachbilden, die auf Fotos abgelichtet sind. Um sie zu kopieren,<br>benötigst du allerdings <$cdef(27)><fqty(1)><$ifull(120)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 195,
+      "en": "Um etwas kopieren zu können, musst du es im Objektmodus<br>fotografieren. Öffne dafür zunächst mit <$keyicon(52)> die Kamera und<br>wechsle dann mit <$keyicon(50)> in den Objektmodus.",
+      "pt_br": ""
+    },
+    {
+      "id": 196,
+      "en": "Solange du Fotos von ihnen besitzt, kannst du sogar Kopien von<br>Dingen herstellen, die du auf Online-Inseln oder in den Städten<br>anderer Spieler gesehen hast.",
+      "pt_br": ""
+    },
+    {
+      "id": 197,
+      "en": "Wenn das Pokémon, das du suchst, nicht in der Nähe seiner<br>Bleibe ist, kannst du vor seiner Bleibe <$cdef(27)><fqty(1)><$ifull(3994)></color> benutzen.<br>Der süße Duft wird es zurück nach Hause locken.",
+      "pt_br": ""
+    },
+    {
+      "id": 198,
+      "en": "Wenn du möchtest, dass ein Pokémon seine Bleibe wechselt,<br>führe es zu einem anderen Habitat und sprich es an, um es<br>um einen Umzug zu bitten. Ein Umzug ist sogar in eine andere<br>Stadt möglich.",
+      "pt_br": ""
+    },
+    {
+      "id": 199,
+      "en": "Allerdings wird ein Pokémon nicht in ein Habitat umziehen, wenn<br>es dort etwas gibt, das es nicht mag.",
+      "pt_br": ""
+    },
+    {
+      "id": 200,
+      "en": "Manchmal bewegt sich die Wasseroberfläche und eine Stelle<br>beginnt zu funkeln. Wenn du sie untersuchst, erhältst du Items.",
+      "pt_br": ""
+    },
+    {
+      "id": 201,
+      "en": "Manchmal glitzern Blumen. Wenn du sie untersuchst,<br>erhältst du <$cdef(27)><fqty(1)><$ifull(3994)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 202,
+      "en": "Wenn du mit dem <$cdef(27)><fqty(1)><$ifull(2793)> </color>in der Hand ein Pokémon mit<br>dem Talent <$cdef(27)><$spwfull(11)> </color>ansprichst, kannst du mit der Itemsuche<br>beginnen. Gemeinsam könnt ihr sogar vergrabene Dinge finden!",
+      "pt_br": ""
+    },
+    {
+      "id": 203,
+      "en": "Wenn du <$keyicon(0)> drückst, verrät dir das Pokémon, in welcher<br>Richtung etwas vergraben ist.",
+      "pt_br": ""
+    },
+    {
+      "id": 204,
+      "en": "In die Vertiefungen dieses Wandbilds kannst du<br><$cdef(27)>Rätselhafte Steinplatten</color> einsetzen.",
+      "pt_br": ""
+    },
+    {
+      "id": 205,
+      "en": "Diese <$cdef(27)>Rätselhaften Steinplatten </color>kannst du manchmal mithilfe des<br><$cdef(27)>Itemradars </color>im Boden vergraben finden. Vielleicht passiert ja<br>etwas, wenn du alle <$cdef(27)>Steinplatten</color> in die richtigen Vertiefungen<br>eingesetzt hast.",
+      "pt_br": ""
+    },
+    {
+      "id": 206,
+      "en": "Du kannst pro Tag <$cdef(27)>nur eine</color> Wunderinsel bereisen, dafür jedoch<br><$cdef(27)>sooft du willst</color>. Wenn du zu einer anderen <$cdef(27)>Wunderinsel</color> fliegen<br>möchtest, musst du allerdings bis zum nächsten Tag warten,<br>ehe du <$cdef(27)>Driftlon </color>darum bitten kannst.",
+      "pt_br": ""
+    },
+    {
+      "id": 207,
+      "en": "Sobald der nächste Tag anbricht, vergisst <$cdef(27)>Driftlon </color>den Weg zur<br>vorherigen <$cdef(27)>Wunderinsel </color>und findet stattdessen eine neue Insel<br>zum Bereisen.<br>Wenn du auf der Suche nach vielen Materialien bist, solltest du es<br>daher am besten jeden Tag darum bitten, dich mitzunehmen.",
+      "pt_br": ""
+    },
+    {
+      "id": 208,
+      "en": "Dies sind kleine Ziele, die das <$cdef(27)>Wohlbefinden</color> der Pokémon und<br>damit den <$cdef(27)>Umgebungslevel</color> erhöhen. Wenn du die Ziele erfüllst,<br>erhältst du <$cdef(27)>Life-Münzen</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 209,
+      "en": "Einmal pro Woche gibt es ein besonderes <$cdef(27)>Challenge-Event</color>.<br>Für das Abschließen <$cdef(27)>täglicher Challenges </color>bekommst du an<br>diesem Tag mehr <$cdef(27)>Life-Münzen</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 210,
+      "en": "Im <$cdef(27)>Laden </color>des <$cdef(27)>PCs</color> kannst du mit den <$cdef(27)>Life-Münzen</color>, die du durch<br><$cdef(27)>Challenges </color>gesammelt hast, <$cdef(27)>Items</color>, <$cdef(27)>Anleitungen </color>und mehr kaufen.",
+      "pt_br": ""
+    },
+    {
+      "id": 211,
+      "en": "Es gibt auch Waren, durch die du praktische Funktionen nutzen<br>kannst. Erfülle also fleißig <$cdef(27)>Challenges</color> und sammle <$cdef(27)>Life-Münzen</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 212,
+      "en": "Mehrmals pro Woche gibt es besondere <$cdef(27)>Laden-Events</color>.<br>Unter den <$cdef(27)>täglich wechselnden Waren </color>findest du an diesen Tagen<br>etwas ausgefallenere Sachen als sonst.",
+      "pt_br": ""
+    },
+    {
+      "id": 213,
+      "en": "Waren, die du in den Städten anderer Spieler in <$cdef(27)>Läden</color> siehst,<br>kannst du via <$cdef(27)>Bestellen </color>kaufen. Zurück bei dir zu Hause kannst du<br>die <$cdef(27)>bestellten</color> Sachen dann an deinem <$cdef(27)>PC </color>entgegennehmen.",
+      "pt_br": ""
+    },
+    {
+      "id": 214,
+      "en": "Wenn du dir am <$cdef(27)>PC</color> des <$cdef(27)>Pokémon-Centers</color> eine Karte holst,<br>kannst du <$cdef(27)>Stempel sammeln</color>. Du kannst deine Karte einmal täglich<br>am <$cdef(27)>PC</color> abstempeln.",
+      "pt_br": ""
+    },
+    {
+      "id": 215,
+      "en": "Jeden Freitag kannst du die gesammelten Stempel gegen<br><$cdef(27)>Life-Münzen</color> eintauschen. Für seltene Stempel gibt es etwas<br>mehr <$cdef(27)>Münzen</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 216,
+      "en": "Stempel bekommst du auch am <$cdef(27)>PC</color> der <$cdef(27)>Pokémon-Center</color><br>in den Städten anderer Spieler oder auf <$cdef(27)>Online-Inseln</color>.<br>Sammle bis freitags möglichst viele Stempel!",
+      "pt_br": ""
+    },
+    {
+      "id": 217,
+      "en": "Wähle im <$cdef(27)>Pokédex</color> das Pokémon, das du finden möchtest,<br>und drücke <$keyicon(233)>, um eine <$cdef(27)>Suche nach ihm</color> zu starten.<br>Wenn du andere Pokémon ansprichst, während solch eine<br>Suche läuft, verraten sie dir, wo sich das Pokémon befindet.",
+      "pt_br": ""
+    },
+    {
+      "id": 218,
+      "en": "Diese Kamera kannst du aufstellen, wo du willst, um aus der Ferne<br>zu sehen, was vor der Linse passiert. Wähle sie im Hauptmenü<br>unter <$cdef(27)>Kamera</color> aus, um die Lage zu überprüfen. Bei mehreren<br><$cdef(27)><fqty(2)><$ifull(1471)></color> kannst du zwischen den verschiedenen<br>Ansichten wechseln. Pro Stadt kannst du acht Kameras aufstellen.",
+      "pt_br": ""
+    },
+    {
+      "id": 219,
+      "en": "Wenn du ein auf dem Boden platziertes <$cdef(27)>Plüschi </color>untersuchst,<br>schwebt <$cdef(27)>Driftlon </color>herbei. So kannst du es rufen, wann immer du<br>zu einer <$cdef(27)>Wunderinsel</color> aufbrechen willst.",
+      "pt_br": ""
+    },
+    {
+      "id": 220,
+      "en": "Je nach Art des <$cdef(27)>Plüschis </color>ändert sich die Art der <$cdef(27)>Wunderinsel</color>,<br>zu der <$cdef(27)>Driftlon </color>dich bringt. Wenn du ein neues <$cdef(27)>Plüschi </color>findest,<br>erwartet dich also mit Sicherheit eine Reise zu einer <$cdef(27)>Wunderinsel</color>,<br>die du so noch nicht gesehen hast!",
+      "pt_br": ""
+    },
+    {
+      "id": 221,
+      "en": "Stelle den Joy-Con 2 mit der flachen Seite nach unten auf eine<br>ebene Oberfläche wie z. B. einen Tisch, um automatisch in den<br><$cdef(27)>Maus-Modus</color> zu wechseln. Dieser Modus ermöglicht es dir, Dinge<br>an der Stelle wieder auszuspucken, an die du den Zeiger bewegst.",
+      "pt_br": ""
+    },
+    {
+      "id": 222,
+      "en": "Außerdem ist es dir im Maus-Modus möglich, mit Zertrümmerer<br>gezielt nur die Blöcke zu zerstören, auf die du den Zeiger<br>bewegst.",
+      "pt_br": ""
+    },
+    {
+      "id": 223,
+      "en": "Du kannst den Maus-Modus sowohl mit dem rechten als auch<br>mit dem linken Joy-Con 2 nutzen.",
+      "pt_br": ""
+    },
+    {
+      "id": 224,
+      "en": "Mit <$cdef(27)>Taucher</color> kannst du dich frei im Wasser bewegen, ohne zu<br>ertrinken, selbst wenn du lange Zeit unter Wasser bleibst oder<br>an tiefe Orte tauchst.",
+      "pt_br": ""
+    },
+    {
+      "id": 225,
+      "en": "Wenn du unter Wasser <$keyicon(55)> gedrückt hältst, kannst du<br>umherschwimmen.<br>Während du <$keyicon(55)> gedrückt hältst, kannst du zudem<br>mit <$keyicon(77)> abtauchen und mit <$keyicon(76)> aufsteigen.",
+      "pt_br": ""
+    },
+    {
+      "id": 226,
+      "en": "Während du <$keyicon(141)> gedrückt hältst, treibst du im Wasser,<br>ohne zu sinken. Das ist besonders praktisch, um Gegenstände<br>exakt zu platzieren.<br>Drehst du <$keyicon(194)> im Kreis, kannst du im Nu zum Meeresboden<br>hinabtauchen.",
+      "pt_br": ""
+    },
+    {
+      "id": 227,
+      "en": "Halte <$keyicon(6)> gedrückt, um die Attacke <$cdef(27)>Stärke</color> zu aktivieren.<br>Während <$cdef(27)>Stärke</color> aktiv ist, kannst du Gegenstände schieben<br>oder ziehen.",
+      "pt_br": ""
+    },
+    {
+      "id": 228,
+      "en": "Solange <$cdef(27)>Stärke </color>aktiv ist, kannst du außerdem einen Gegenstand,<br>der sich direkt vor dir befindet, nach links oder rechts drehen,<br>indem du <$keyicon(194)> neigst.",
+      "pt_br": ""
+    },
+    {
+      "id": 229,
+      "en": "Mit Kochutensilien wie einem <$cdef(27)><fqty(1)><$ifull(1301)></color> kannst du aus<br>Zutaten Gerichte zubereiten. Wenn du diese isst, werden deine<br>Attacken verstärkt.",
+      "pt_br": ""
+    },
+    {
+      "id": 230,
+      "en": "Wenn Pokémon in der Nähe sind, helfen sie dir manchmal beim<br>Zubereiten von Essen. Je nachdem, welche Talente sie haben und<br>welche Zutaten benutzt werden, können andere Gerichte als sonst<br>dabei herauskommen. Bereite verschiedene Gerichte zu und<br>sieh selbst!",
+      "pt_br": ""
+    },
+    {
+      "id": 231,
+      "en": "Metalle wie <$cdef(27)><fqty(1)><$ifull(106)> </color>und <$cdef(27)><fqty(1)><$ifull(107)> </color>lassen sich einschmelzen,<br>um zu <$cdef(27)>Barren </color>weiterverarbeitet zu werden. Lege die Materialien<br>hierzu in den Schmelzofen<$cdef(27)> </color>und lass dir von einem Pokémon mit<br>dem Talent <$cdef(27)><$spwfull(10)></color> helfen.",
+      "pt_br": ""
+    },
+    {
+      "id": 232,
+      "en": "Ein Pokémon mit dem Talent <$icon(11004)><$cdef(27)><$spwname(14)> </color>beginnt zu tanzen,<br>wenn in de",
+      "pt_br": ""
+    }
+  ]
+}

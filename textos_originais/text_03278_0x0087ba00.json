@@ -1,0 +1,219 @@
+{
+  "entry_index": 3278,
+  "bin_id": "0x87ba00",
+  "decompressed_size": 4864,
+  "first_tag_offset": 799,
+  "total_strings": 42,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)>Pokémon Center</color>.<clear><br>Would you like to rest your tired Pokémon?",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "We hope to see you again!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Welcome to the <$cdef(27)>Pokémon Center</color>.<clear><br>Our free care service is no longer available for the day.",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "If you would like to continue using the service, please<br>register as a member on the following screen...",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "... ... ...<br>Looks like you can’t use that service right now!<slide><br>Try again tomorrow!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "You found all three special Pokémon! Please accept this<br>reward for your efforts.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "*beep beep beep*<br>Boot-up complete.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Obtaining information about this town...",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "This is <$stgname;0(13)>!<clear><br>This land belongs to no one but you. You can freely alter<br>the landscape, build houses, and otherwise customize it<slide><br>as you see fit.",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Please choose a name for the town.",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "Is “<$cdef(27)><$stgmyname;0(12)></color>” OK?",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Name registered!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "*beep beep*<br><$cdef(27)>Special challenges</color> prepared.",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "These <$cdef(27)>special challenges</color> have been prepared to help you<br>develop your town!<clear><br>There are generous prizes for those who complete them,<br>so please give them your best effort.",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "Keep on living your best <$cdef(27)>Poké Life</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "You can put items from your inventory into this<br><$cdef(27)><fqty(1)><$ifull(2045)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Place it wherever you like and use it to store things when<br>you have too much to carry!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "There’s already a <$cdef(27)>CD </color>in the <$cdef(27)><fqty(1)><$ifull(1802)></color>. Would you like<br>to swap it out for another <$cdef(27)>CD </color>you have?",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "There’s no <$cdef(27)>CD </color>in the <$cdef(27)><fqty(1)><$ifull(1802)></color>. Go ahead and put<br>one in.",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "There’s a <$cdef(27)>CD </color>in the <$cdef(27)><fqty(1)><$ifull(1802)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "You retrieved items from the <$cdef(27)>PC</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "<oneline><wowner;0> retrieved items from the <$cdef(27)>PC</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "This <$cdef(27)><fqty(1)><$ifull(1471)></color> allows you to check up on<br>Pokémon who are far away.",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Place it wherever you like, then open the main menu and<br>select Camera → <$cdef(27)>Security Cameras </color>in order to watch the<slide><br><$cdef(27)><fqty(1)><$ifull(1471)></color> feed.",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "It’s useful to see how certain Pokémon are doing or to<br>check if a new Pokémon has appeared in a habitat.",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "You have a vague memory of <$cdef(27)>Professor Tangrowth</color><br>suggesting that you use the <$cdef(27)><fqty(1)><$ifull(1898)></color> in<slide><br>the <$cdef(27)><$stgname;0(4)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "Please place your Pokédex over the gate panel.",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Checking Pokédex...<clear><br>Data for all Pokémon confirmed!<clear><br>Congratulations! You will receive an award for your great<br>achievement. Please wait while it prints...",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "*beep* *whirrr*",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "Please accept your award.",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<oneline>Try asking nearby Pokémon where to<br>find <$cdef(27)><pksrchtar;0></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<oneline>It seems like <$cdef(27)><pksrchtar;0></color> is in<br><$cdef(27)><srchtarhmst;1></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "They don’t seem to be around here.",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "Would you like use <$cdef(27)>Return Home</color> to go there?",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "It seems like there’s something else you need to do.<br>Try talking to <$cdef(27)><storychspk;0></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "It seems like there’s something else you need to do.<br>Try talking to the Pokémon following you.",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Actually, there’s <$cdef(27)>another gate</color> in <$cdef(27)><$stgname;0(1)></color> that<br><$cdef(27)>leads to a different town</color>!<clear><br>You might be able to go through it!",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "This is a rare metal called <$cdef(27)><fqty(1)><$ifull(120)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "It can be used as a material to make a variety of items.<br>If you come across it in the <$cdef(27)>shop</color> or anywhere else, you<slide><br>should get it while you have the chance!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "It looks like...a treasure map somebody drew!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "Try heading to the place marked on the map, then search<br>for treasure with the <$cdef(27)><fqty(1)><$ifull(2793)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "You can look at your treasure map at any time in the<br><$cdef(27)>Human Records</color> section of the <$cdef(27)>Collection (Basin)</color> menu.",
+      "pt_br": ""
+    }
+  ]
+}

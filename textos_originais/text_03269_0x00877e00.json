@@ -1,0 +1,124 @@
+{
+  "entry_index": 3269,
+  "bin_id": "0x877e00",
+  "decompressed_size": 3520,
+  "first_tag_offset": 360,
+  "total_strings": 23,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(1,9)>Whoa there, <$cdef(27)><pname;0></color>! Wait for me!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<$emotion(1,8)><$voicel(1,8)>You’re about to head through that gate, right? Then I’ll<br>come along with you!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>I wonder what lies ahead of us. This is certainly exciting,<br>isn’t it, <$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(1,9)>Whoa there, <$cdef(27)><pname;0></color>! Wait for me!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>What do you suppose we’ll find beyond this gate? Let’s go<br>find out for ourselves!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(1,9)>Whoa there, <$cdef(27)><pname;0></color>! Wait for me!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(1,3)><$motion(1,661)><$voicel(1,7)>I see you’re able to go through yet another new gate now!<br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Come on, then—let’s see what’s on the other side!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Is it time yet?",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Can I open my eyes now?",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Looook...thaaat...",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "WAY!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "*beep beep beep*<br>Congratulations!<clear><br>All Pokémon have been registered in your <$cdef(27)>Pokédex</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "In honor of your achievement, please accept this<br>special <$cdef(27)>recipe</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "It’s for a powered-up version of the <$cdef(27)><fqty(1)><$ifull(2793)></color>:<br>the <$cdef(27)><fqty(1)><$ifull(1898)></color>!<clear><br>It can accurately detect objects in a larger area. Please<br>give it a try.",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<oneline><$motion(1,803)><$voicel(1,7)>Hello there, <$cdef(27)><pname;0></color>! The PC at the<br><$cdef(27)>Pokémon</color><slide><br><$cdef(27)>Center</color><slide><br><$motion(1,807)><$voicel(1,6)>is<slide><br>kicking<slide><br>up<slide><br>a ruckus!<clear><br><$motion(1,666)><$voicel(1,7)>Is there anything out of the ordinary where you are?",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$motion(1,803)><$voicel(1,6)>What’s that? A <$cdef(27)>recipe </color>for a new tool?<clear><br><$motion(1,806)><$voicel(1,3)>Oho, I didn’t know such advanced technology existed!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "<$motion(1,803)><$voicel(1,9)>I’ve got it! Once you’ve built that thing, <$motion(1,824)><$voicel(1,8)>why don’t you<br>try using it in the <$cdef(27)><$stgname;0(4)></color>?<clear><br><$voicel(1,5)>You’re likely to find all sorts of rare things there!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "<$facial(1,4)><$motion(1,664)><$voicel(1,9)>If you find any particularly notable treasure, please come<br>and show it to me!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "<oneline><$emotion(1,14)><$voicel(1,9)>Oho, <$cdef(27)><pname;0></color>! It seems you’ve acquired<br><$emotion(1,8)><$voicel(1,8)>quite<slide><br>a<slide><br>special <$cdef(27)>recipe</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$comeff(1,20)><$motion(1,803)><$voicel(1,9)>I’ve got it! Once you’ve built that thing, <$comeff(1,6)><$motion(1,666)><$voicel(1,8)>why don’t you<br>try using it in the <$cdef(27)><$stgname;0(4)></color>?<clear><br><$comeff(1,14)><$motion(1,661)><$voicel(1,5)>You’re likely to find all sorts of rare things there!",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>If you find any particularly notable treasure, please come<br>and show it to me!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "*beep beep beep*<br>Congratulations!<clear><br>All Pokémon have been registered in your<br><$cdef(27)>Pokédex (Basin)</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "In honor of your achievement, please accept this<br>special <$cdef(27)>recipe</color>.",
+      "pt_br": ""
+    }
+  ]
+}

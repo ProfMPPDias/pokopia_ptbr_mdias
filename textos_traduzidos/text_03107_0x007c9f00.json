@@ -1,0 +1,529 @@
+{
+  "entry_index": 3107,
+  "bin_id": "0x7c9f00",
+  "decompressed_size": 17136,
+  "first_tag_offset": 1721,
+  "total_strings": 104,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$emotion(2,14)><$voicel(2,5)>Pardon me, <$cdef(27)><pname;0></color>. I have a favor to<br>ask...<slide><br>Could<slide><br>I<slide><br>borrow<slide><br>you<slide><br>for<slide><br>a moment?",
+      "pt_br": "<$emotion(2,14)><$voicel(2,5)>Com licença. <$cdef(27)><pname;0></color>Tenho um favor a fazer.<br>perguntar...<slide><br>Poderia<slide><br>I<slide><br>emprestado<slide><br>você<slide><br>em vez<slide><br>Um momento?"
+    },
+    {
+      "id": 1,
+      "en": "<$comeff(2,14)><$facial(2,1)><$motion(2,661)><$voicel(2,5)>It has to do with my inability to generate electricity.",
+      "pt_br": "<$comeff(2,14)><$facial(2,1)><$motion(2,661)><$voicel(2,5)>Tem a ver com a minha incapacidade de gerar electricidade."
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(2,14)><$motion(2,824)><$voicel(2,5)>You see, I had something of a little family before—some<br>younger Pokémon who were frail and feeble, <$voicel(2,8)>so I got in<slide><br>the habit of sharing my electricity with them.",
+      "pt_br": "<$comeff(2,14)><$motion(2,824)><$voicel(2,5)>sabe, eu já tive uma espécie de família.<br>Pokémon mais jovem, frágil e fraco, <$voicel(2,8)>Então eu entrei.<slide><br>o hábito de partilhar a minha electricidade com eles."
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(2,3)><$facial(2,10)>But there came a day when the whole lot of them fell ill<br>all at once, and <$voicel(2,6)>in response, I took things a bit too far...",
+      "pt_br": "<$voicel(2,3)><$facial(2,10)>Mas chegou um dia em que todos eles adoeceram.<br>todos de uma só vez, e <$voicel(2,6)>Em resposta, levei as coisas longe demais..."
+    },
+    {
+      "id": 4,
+      "en": "<$emotion(2,41)><$voicel(2,3)>I pushed myself to the absolute limit trying to share<br>even more electricity with them and, well...I couldn’t<slide><br><$cdef(27)><$spwfull(9)> </color>a single spark after that.",
+      "pt_br": "<$emotion(2,41)><$voicel(2,3)>Eu empurrei-me para o limite absoluto tentando compartilhar<br>ainda mais eletricidade com eles e, bem... eu não poderia<slide><br><$cdef(27)><$spwfull(9)> </color>Uma única faísca depois disso."
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(2,17)><$facial(2,9)><$motion(2,805)><$voicel(2,3)>If by chance my little family members have also returned<br>to the area, I would be so delighted to see them again...<slide><br><$emotion(2,29)><$voicel(2,6)>Could I trouble you to look for them?",
+      "pt_br": "<$comeff(2,17)><$facial(2,9)><$motion(2,805)><$voicel(2,3)>Se por acaso os meus familiares também regressaram<br>Para a área, eu ficaria tão feliz em vê-los novamente...<slide><br><$emotion(2,29)><$voicel(2,6)>Posso incomodá-lo a procurá-los?"
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(2,21)><$facial(2,4)><$motion(2,801)><$voicel(2,9)>Truly? Thank you ever so much!",
+      "pt_br": "<$comeff(2,21)><$facial(2,4)><$motion(2,801)><$voicel(2,9)>Muito obrigado!"
+    },
+    {
+      "id": 7,
+      "en": "<$emotion(2,29)><$voicel(2,5)>In that case, could I ask you to look for <$cdef(27)>Pichu </color>first?",
+      "pt_br": "<$emotion(2,29)><$voicel(2,5)>Nesse caso, posso pedir-lhe para procurar <$cdef(27)>Pichu </color>Primeiro?"
+    },
+    {
+      "id": 8,
+      "en": "<$comeff(2,10)><$facial(2,4)><$motion(2,824)><$voicel(2,7)><$cdef(27)>Pichu</color> was a reliable one, always looking to bear the<br>burdens of others...",
+      "pt_br": "<$comeff(2,10)><$facial(2,4)><$motion(2,824)><$voicel(2,7)><$cdef(27)>Pichu</color> foi um um confiável, sempre olhando para suportar o<br>fardos dos outros..."
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(2,5)>But <$cdef(27)>Pichu</color> always craved love and attention the most...<clear><br><$emotion(2,8)><$voicel(2,10)>I can hardly wait to shower them with affection when<br>we’re reunited!",
+      "pt_br": "<$voicel(2,5)>Mas... <$cdef(27)>Pichu</color> sempre desejou amor e atenção mais...<clear><br><$emotion(2,8)><$voicel(2,10)>Mal posso esperar para os banhar com carinho quando<br>Estamos reunidos!"
+    },
+    {
+      "id": 10,
+      "en": "<$comeff(2,14)><$voicel(2,7)><$facial(2,1)>If you do find <$cdef(27)>Pichu</color>, please bring them to me. <$emotion(2,37)><$voicel(2,10)>I would be<br>in your debt.",
+      "pt_br": "<$comeff(2,14)><$voicel(2,7)><$facial(2,1)>Se você encontrar <$cdef(27)>Pichu</color>Por favor, traga-os para mim. <$emotion(2,37)><$voicel(2,10)>Eu estaria<br>em dívida para com você."
+    },
+    {
+      "id": 11,
+      "en": "<$emotion(2,50)><$voicel(2,7)>Please bring <$cdef(27)>Pichu</color> to me. I shall be in your debt.",
+      "pt_br": "<$emotion(2,50)><$voicel(2,7)>Por favor, tragam-no. <$cdef(27)>Pichu</color> Ficarei em dívida para com você."
+    },
+    {
+      "id": 12,
+      "en": "<$comeff(2,14)><$facial(2,9)><$motion(2,807)><$voicel(2,5)>I’m just so worried about my little family members right<br>now... Please call on me some other time.",
+      "pt_br": "<$comeff(2,14)><$facial(2,9)><$motion(2,807)><$voicel(2,5)>Estou tão preocupado com meus pequenos familiares.<br>Por favor, ligue-me noutra altura."
+    },
+    {
+      "id": 13,
+      "en": "<$comeff(4,6)><$motion(4,805)><$voicel(4,6)>What’s up, <$cdef(27)><pname;0></color>?",
+      "pt_br": "<$comeff(4,6)><$motion(4,805)><$voicel(4,6)>O que está acontecendo, <$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 14,
+      "en": "<$comeff(4,5)><$motion(4,803)><$voicel(4,9)>What?! <$cdef(27)>Pikachu</color>’s looking for me? <$comeff(4,4)><$facial(4,1)><$motion(4,801)><$voicel(4,8)>I gotta go find them!",
+      "pt_br": "<$comeff(4,5)><$motion(4,803)><$voicel(4,9)>O quê? <$cdef(27)>Pikachu</color>Está à minha procura? <$comeff(4,4)><$facial(4,1)><$motion(4,801)><$voicel(4,8)>Tenho de ir procurá-los!"
+    },
+    {
+      "id": 15,
+      "en": "<$comeff(4,10)><$motion(4,803)><$voicel(4,7)>Could you please take me to <$cdef(27)>Pikachu</color>?",
+      "pt_br": "<$comeff(4,10)><$motion(4,803)><$voicel(4,7)>Pode levar-me, por favor? <$cdef(27)>Pikachu</color>?"
+    },
+    {
+      "id": 16,
+      "en": "<$comeff(4,21)><$motion(4,803)><$voicel(4,5)><$cdef(27)>Pikachu</color>’s always worked real, real hard for us...",
+      "pt_br": "<$comeff(4,21)><$motion(4,803)><$voicel(4,5)><$cdef(27)>Pikachu</color>Sempre trabalhou muito, muito duro para nós..."
+    },
+    {
+      "id": 17,
+      "en": "<$comeff(4,9)><$facial(4,4)><$motion(4,801)><$voicel(4,7)>I just wanna say thank you and...and that we’re all OK now.",
+      "pt_br": "<$comeff(4,9)><$facial(4,4)><$motion(4,801)><$voicel(4,7)>Eu só quero dizer obrigado e ... e que estamos todos bem agora."
+    },
+    {
+      "id": 18,
+      "en": "<$facial(4,4)><$motion(4,859)><$voicel(4,10)><$cdef(27)>PIKACHU</color>! Watch this!",
+      "pt_br": "<$facial(4,4)><$motion(4,859)><$voicel(4,10)><$cdef(27)>PIKACHU</color>Olha para isto!"
+    },
+    {
+      "id": 19,
+      "en": "<$emotion(2,14)><$voicel(2,8)>Why, what a marvelous shock that was!",
+      "pt_br": "<$emotion(2,14)><$voicel(2,8)>Ora, que choque maravilhoso!"
+    },
+    {
+      "id": 20,
+      "en": "<$comeff(4,21)><$facial(4,4)><$motion(4,803)><$voicel(4,7)>Heh heh... I’m just so happy to see you!",
+      "pt_br": "<$comeff(4,21)><$facial(4,4)><$motion(4,803)><$voicel(4,7)>Heh heh... Estou tão feliz em vê-lo!"
+    },
+    {
+      "id": 21,
+      "en": "<$comeff(2,10)><$facial(2,4)><$motion(2,801)><$voicel(2,5)>Pii-hee-hee, I was shocked! You always used to struggle to<br><$cdef(27)><$spwfull(9)> </color>electricity in the past. <$comeff(2,21)><$facial(2,4)><$motion(2,803)><$voicel(2,8)>You have truly<slide><br>grown, my dear <$cdef(27)>Pichu</color>.",
+      "pt_br": "<$comeff(2,10)><$facial(2,4)><$motion(2,801)><$voicel(2,5)>Pii-hee-hee, eu estava chocada!<br><$cdef(27)><$spwfull(9)> </color>electricidade no passado. <$comeff(2,21)><$facial(2,4)><$motion(2,803)><$voicel(2,8)>tem mesmo<slide><br>crescida, minha querida <$cdef(27)>Pichu</color>."
+    },
+    {
+      "id": 22,
+      "en": "<$emotion(2,8)><$voicel(2,10)>I am so very proud of you.",
+      "pt_br": "<$emotion(2,8)><$voicel(2,10)>Estou muito orgulhosa de ti."
+    },
+    {
+      "id": 23,
+      "en": "<$comeff(4,21)><$facial(4,4)><$kfacial(4)><$motion(4,806)><$voicel(4,7)>Thanks, <$cdef(27)>Pikachu</color>! Um, um, while you were gone, <$comeff(4,9)><$motion(4,801)><$voicel(4,10)>I<br>practiced really, really hard!",
+      "pt_br": "<$comeff(4,21)><$facial(4,4)><$kfacial(4)><$motion(4,806)><$voicel(4,7)>Obrigado. <$cdef(27)>Pikachu</color>Enquanto estiveste fora, <$comeff(4,9)><$motion(4,801)><$voicel(4,10)>I<br>Praticou muito, muito duro!"
+    },
+    {
+      "id": 24,
+      "en": "<$comeff(4,10)><$motion(4,803)><$voicel(4,7)>So, now you don’t have to work so hard to look after me!<br>Thank you so much for everything, and...<$comeff(4,9)><$motion(4,801)><$voicel(4,7)>I hope maybe<slide><br>now, I can help you out more...",
+      "pt_br": "<$comeff(4,10)><$motion(4,803)><$voicel(4,7)>Então, agora você não precisa trabalhar tanto para cuidar de mim!<br>Muito obrigado por tudo, e...<$comeff(4,9)><$motion(4,801)><$voicel(4,7)>Espero que sim.<slide><br>Agora, posso ajudar-te mais..."
+    },
+    {
+      "id": 25,
+      "en": "<$comeff(2,21)><$facial(2,4)><$motion(2,801)><$voicel(2,9)>My dear little <$cdef(27)>Pichu</color>... Thank you.",
+      "pt_br": "<$comeff(2,21)><$facial(2,4)><$motion(2,801)><$voicel(2,9)>Minha querida <$cdef(27)>Pichu</color>Obrigado."
+    },
+    {
+      "id": 26,
+      "en": "<$emotion(2,8)><$voicel(2,7)>Thank you ever so much for reuniting me with <$cdef(27)>Pichu</color>,<br><$cdef(27)><pname;0></color>.",
+      "pt_br": "<$emotion(2,8)><$voicel(2,7)>Muito obrigado por me reunires com <$cdef(27)>Pichu</color>,<br><$cdef(27)><pname;0></color>."
+    },
+    {
+      "id": 27,
+      "en": "<$emotion(2,29)><$voicel(2,5)>Next, could I ask you to bring <$cdef(27)>Toxel</color> to me?",
+      "pt_br": "<$emotion(2,29)><$voicel(2,5)>A seguir, posso pedir-lhe para trazer <$cdef(27)>Toxel</color> Para mim?"
+    },
+    {
+      "id": 28,
+      "en": "<$comeff(2,14)><$facial(2,4)><$motion(2,661)><$voicel(2,9)><$cdef(27)>Toxel </color>was such a kind, sweet child. <$comeff(2,21)><$facial(2,4)><$motion(2,803)><$voicel(2,8)>Always fretting over<br>me, worrying I was pushing myself too hard...",
+      "pt_br": "<$comeff(2,14)><$facial(2,4)><$motion(2,661)><$voicel(2,9)><$cdef(27)>Toxel </color>era uma criança tão gentil e doce. <$comeff(2,21)><$facial(2,4)><$motion(2,803)><$voicel(2,8)>Sempre a preocupar-se<br>Eu, preocupado por estar a esforçar-me demasiado..."
+    },
+    {
+      "id": 29,
+      "en": "<$comeff(2,14)><$facial(2,9)><$motion(2,805)><$voicel(2,3)>They used to be a bit of a loner, and I worry they are off<br>crying on their own somewhere...",
+      "pt_br": "<$comeff(2,14)><$facial(2,9)><$motion(2,805)><$voicel(2,3)>Eles costumavam ser um pouco solitários, e eu me preocupo que eles estão fora<br>Choravam sozinhas algures..."
+    },
+    {
+      "id": 30,
+      "en": "<oneline><$comeff(2,3)><$facial(2,1)><$motion(2,803)><$voicel(2,5)>I am counting on you to reunite me with <$cdef(27)>Toxel</color>,<br><$cdef(27)><pname;0></color>.",
+      "pt_br": "<oneline><$comeff(2,3)><$facial(2,1)><$motion(2,803)><$voicel(2,5)>Estou a contar com você para me reunires com <$cdef(27)>Toxel</color>,<br><$cdef(27)><pname;0></color>."
+    },
+    {
+      "id": 31,
+      "en": "<$emotion(2,50)><$voicel(2,5)>Could you bring <$cdef(27)>Toxel</color> to me? I would be indebted to you.",
+      "pt_br": "<$emotion(2,50)><$voicel(2,5)>pode trazer-me? <$cdef(27)>Toxel</color> Eu ficaria em dívida para com você."
+    },
+    {
+      "id": 32,
+      "en": "<$comeff(4,6)><$motion(4,805)><$voicel(4,6)>Oh... Um, hi, <$cdef(27)><pname;0></color>. What’s up?",
+      "pt_br": "<$comeff(4,6)><$motion(4,805)><$voicel(4,6)>Olá. <$cdef(27)><pname;0></color>O que está acontecendo?"
+    },
+    {
+      "id": 33,
+      "en": "<$comeff(4,5)><$motion(4,803)><$voicel(4,9)>What...? <$cdef(27)>Pikachu</color>...? <$comeff(4,14)><$facial(4,9)><$motion(4,807)><$voicel(4,4)>Oh, I sure would like to see them...",
+      "pt_br": "<$comeff(4,5)><$motion(4,803)><$voicel(4,9)>O que...? <$cdef(27)>Pikachu</color>...? <$comeff(4,14)><$facial(4,9)><$motion(4,807)><$voicel(4,4)>Oh, eu gostaria de vê-los..."
+    },
+    {
+      "id": 34,
+      "en": "<$comeff(4,3)><$motion(4,803)><$voicel(4,7)>Could...could you take me to <$cdef(27)>Pikachu</color>, please?",
+      "pt_br": "<$comeff(4,3)><$motion(4,803)><$voicel(4,7)>pode levar-me para... <$cdef(27)>Pikachu</color>Por favor?"
+    },
+    {
+      "id": 35,
+      "en": "<$comeff(4,14)><$facial(4,9)><$motion(4,805)><$voicel(4,5)>I hope <$cdef(27)>Pikachu</color>’s doing OK... They work so hard...",
+      "pt_br": "<$comeff(4,14)><$facial(4,9)><$motion(4,805)><$voicel(4,5)>Espero que sim. <$cdef(27)>Pikachu</color>Está tudo bem... eles trabalham tanto..."
+    },
+    {
+      "id": 36,
+      "en": "<oneline><$emotion(2,14)><$voicel(2,7)>Oh, <$cdef(27)><pname;0></color>! Thank you so so much for<br><$emotion(2,8)><$voicel(2,10)>bringing<slide><br><$cdef(27)>Toxel</color><slide><br>to me!",
+      "pt_br": "<oneline><$emotion(2,14)><$voicel(2,7)>Oh, Oh, <$cdef(27)><pname;0></color>Muito obrigado por<br><$emotion(2,8)><$voicel(2,10)>trazendo<slide><br><$cdef(27)>Toxel</color><slide><br>Para mim!"
+    },
+    {
+      "id": 37,
+      "en": "<$comeff(4,14)><$facial(4,9)><$kfacial(4)>... ... ...",
+      "pt_br": "<$comeff(4,14)><$facial(4,9)><$kfacial(4)>... ... ..."
+    },
+    {
+      "id": 38,
+      "en": "<$comeff(2,6)><$facial(2,9)><$motion(2,666)><$voicel(2,5)><$cdef(27)>Toxel</color>? What’s the matter? Are you still feeling unwell after<br>all this time?",
+      "pt_br": "<$comeff(2,6)><$facial(2,9)><$motion(2,666)><$voicel(2,5)><$cdef(27)>Toxel</color>? Qual é o problema? Você ainda está se sentindo mal depois<br>Todo este tempo?"
+    },
+    {
+      "id": 39,
+      "en": "<$comeff(4,2)><$motion(4,826)><$voicel(4,9)>WAAAHHH! <$cdef(27)>PIKACHUUU</color>! I missed you so so SO<br>much! <$voicel(4,8)>Please don’t go away ever again! Please!",
+      "pt_br": "<$comeff(4,2)><$motion(4,826)><$voicel(4,9)>Waaahhh! <$cdef(27)>PICACHUU</color>Senti tanto a tua falta.<br>Muito! <$voicel(4,8)>Por favor, nunca mais vá embora! Por favor!"
+    },
+    {
+      "id": 40,
+      "en": "<$comeff(2,4)><$motion(2,807)><$voicel(2,7)><$cdef(27)>Toxel</color>! B-be careful! You’re shaking me!",
+      "pt_br": "<$comeff(2,4)><$motion(2,807)><$voicel(2,7)><$cdef(27)>Toxel</color>Tenha cuidado! Você está me sacudindo!"
+    },
+    {
+      "id": 41,
+      "en": "<$comeff(4,3)><$facial(4,1)><$motion(4,803)><$voicel(4,5)>Oh, I-I’m sorry! I couldn’t help it... I hope I didn’t<br>hurt you...",
+      "pt_br": "<$comeff(4,3)><$facial(4,1)><$motion(4,803)><$voicel(4,5)>Oh, eu-eu sinto muito! Eu não pude evitar... Eu espero que eu não<br>Magoei-te..."
+    },
+    {
+      "id": 42,
+      "en": "<$emotion(2,37)><$voicel(2,7)>Why, pay it no mind at all. It takes more than that to<br>harm me.",
+      "pt_br": "<$emotion(2,37)><$voicel(2,7)>Não se preocupe, é preciso mais do que isso para<br>Faz-me mal."
+    },
+    {
+      "id": 43,
+      "en": "<$comeff(4,17)><$motion(4,803)><$voicel(4,7)>O-oh, OK... That’s good... <$comeff(4,14)><$motion(4,805)><$voicel(4,6)>I saw you looking really tired after<br>you’d given us electricity, and...",
+      "pt_br": "<$comeff(4,17)><$motion(4,803)><$voicel(4,7)>Está bem... está bem... <$comeff(4,14)><$motion(4,805)><$voicel(4,6)>Vi-te a olhar muito cansado depois.<br>você nos deu eletricidade, e..."
+    },
+    {
+      "id": 44,
+      "en": "<$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>I promise I won’t tire you out like that ever again! I’m<br>gonna protect you, OK?",
+      "pt_br": "<$comeff(4,10)><$facial(4,4)><$motion(4,801)><$voicel(4,9)>Eu prometo que eu não vou cansá-lo assim nunca mais!<br>Vou proteger-te, está bem?"
+    },
+    {
+      "id": 45,
+      "en": "<$emotion(2,8)><$voicel(2,9)>Oh, <$cdef(27)>Toxel</color>... Thank you. You’re still the sweetheart I<br>remember you as.",
+      "pt_br": "<$emotion(2,8)><$voicel(2,9)>Oh, Oh, <$cdef(27)>Toxel</color>... Obrigado. Você ainda é a querida<br>Lembra-te de ti."
+    },
+    {
+      "id": 46,
+      "en": "<$emotion(2,14)><$voicel(2,7)>You’ve reunited me with both <$cdef(27)>Pichu </color>and <$cdef(27)>Toxel</color>... I am <$emotion(2,8)><$voicel(2,10)>truly<br>in your debt.",
+      "pt_br": "<$emotion(2,14)><$voicel(2,7)>Você me reuniu com ambos <$cdef(27)>Pichu </color>e <$cdef(27)>Toxel</color>Eu sou. <$emotion(2,8)><$voicel(2,10)>verdadeiramente<br>em dívida para com você."
+    },
+    {
+      "id": 47,
+      "en": "<$comeff(2,6)><$motion(2,666)><$voicel(2,5)>Lastly, could I impose upon you to bring me <$cdef(27)>Dedenne</color>?",
+      "pt_br": "<$comeff(2,6)><$motion(2,666)><$voicel(2,5)>Por último, posso impor-lhe que me traga <$cdef(27)>Dedenne</color>?"
+    },
+    {
+      "id": 48,
+      "en": "<$comeff(2,10)><$facial(2,4)><$motion(2,824)><$voicel(2,7)><$cdef(27)>Dedenne </color>was quite the curious one, always running off to<br>explore all sorts of places.",
+      "pt_br": "<$comeff(2,10)><$facial(2,4)><$motion(2,824)><$voicel(2,7)><$cdef(27)>Dedenne </color>foi bastante curioso, sempre correndo para<br>explorar todos os tipos de lugares."
+    },
+    {
+      "id": 49,
+      "en": "<$voicel(2,5)>And they brought me so many presents from their little<br>escapades. <$emotion(2,38)><$voicel(2,8)>Pii-hee! Why, those were the days...",
+      "pt_br": "<$voicel(2,5)>E trouxeram-me tantos presentes dos seus pequenos<br>Escapas. <$emotion(2,38)><$voicel(2,8)>Pii-hee, aqueles eram os dias..."
+    },
+    {
+      "id": 50,
+      "en": "<oneline><$comeff(2,9)><$facial(2,1)><$motion(2,803)><$voicel(2,9)>Once <$cdef(27)>Dedenne </color>is here, our whole little family will be<br>together again. I’m counting on you,<slide><br><$cdef(27)><pname;0></color>!",
+      "pt_br": "<oneline><$comeff(2,9)><$facial(2,1)><$motion(2,803)><$voicel(2,9)>Uma vez <$cdef(27)>Dedenne </color>está aqui, toda a nossa pequena família estará<br>Eu estou contando com você,<slide><br><$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 51,
+      "en": "<$emotion(2,60)><$voicel(2,9)>Please bring <$cdef(27)>Dedenne</color> to me. I’ll be in your debt.",
+      "pt_br": "<$emotion(2,60)><$voicel(2,9)>Por favor, tragam-no. <$cdef(27)>Dedenne</color> para mim. Eu estarei em dívida com você."
+    },
+    {
+      "id": 52,
+      "en": "<$comeff(4,3)><$motion(4,803)><$voicel(4,7)><$cdef(27)><pname;0></color>! What’s wrong, bestie?",
+      "pt_br": "<$comeff(4,3)><$motion(4,803)><$voicel(4,7)><$cdef(27)><pname;0></color>O que se passa, amiga?"
+    },
+    {
+      "id": 53,
+      "en": "<$comeff(4,5)><$facial(4,13)><$motion(4,805)><$voicel(4,9)>WHAT?! <$cdef(27)>PIKACHU </color>is looking for me?!",
+      "pt_br": "<$comeff(4,5)><$facial(4,13)><$motion(4,805)><$voicel(4,9)>O quê? <$cdef(27)>PIKACHU </color>está à minha procura?!"
+    },
+    {
+      "id": 54,
+      "en": "<$comeff(4,4)><$motion(4,807)><$voicel(4,7)>I gotta see them RIGHT now! Come on, what are you<br>waiting for?! We have to GO! Lead the way! AHHH!",
+      "pt_br": "<$comeff(4,4)><$motion(4,807)><$voicel(4,7)>Tenho de vê-los agora!<br>Esperar?! Temos que ir! Mostre o caminho!"
+    },
+    {
+      "id": 55,
+      "en": "<$comeff(4,10)><$facial(4,4)><$motion(4,803)><$voicel(4,10)>I can’t wait to see <$cdef(27)>PIKACHU</color>!",
+      "pt_br": "<$comeff(4,10)><$facial(4,4)><$motion(4,803)><$voicel(4,10)>Mal posso esperar para ver <$cdef(27)>PIKACHU</color>!"
+    },
+    {
+      "id": 56,
+      "en": "<$comeff(4,10)><$facial(4,4)><$kfacial(4)><$motion(4,803)><$voicel(4,7)><$cdef(27)>Pikachu</color> is seriously the greatest! So amazing, so nice, so<br>beautiful... <$comeff(4,21)><$motion(4,801)><$voicel(4,10)>And so dang COOL!",
+      "pt_br": "<$comeff(4,10)><$facial(4,4)><$kfacial(4)><$motion(4,803)><$voicel(4,7)><$cdef(27)>Pikachu</color> é realmente o maior! Tão incrível, tão agradável, então<br>Lindo... <$comeff(4,21)><$motion(4,801)><$voicel(4,10)>E tão fixe!"
+    },
+    {
+      "id": 57,
+      "en": "<$comeff(4,9)><$motion(4,806)><$voicel(4,7)>What should I even say when I see <$cdef(27)>Pikachu</color> again?! There’s<br>SOOO much that I want to tell them!",
+      "pt_br": "<$comeff(4,9)><$motion(4,806)><$voicel(4,7)>O que devo dizer quando vir <$cdef(27)>Pikachu</color> novamente?! Há<br>O que eu quero dizer-lhes!"
+    },
+    {
+      "id": 58,
+      "en": "<$comeff(5,10)><$facial(5,4)><$motion(5,803)><$voicel(5,9)><$cdef(27)>PIKACHUUU</color>! It’s been FOR—E—VER! I missed you<br>SOOO much!",
+      "pt_br": "<$comeff(5,10)><$facial(5,4)><$motion(5,803)><$voicel(5,9)><$cdef(27)>PICACHUU</color>! Tem sido para - E - Ver! Senti sua falta<br>Muito!"
+    },
+    {
+      "id": 59,
+      "en": "<$emotion(2,14)><$voicel(2,7)>Why, my dearest <$cdef(27)>Dedenne</color>! It truly has been quite<br>some time.",
+      "pt_br": "<$emotion(2,14)><$voicel(2,7)>Por que, minha querida <$cdef(27)>Dedenne</color>Tem sido realmente bastante<br>Algum dia."
+    },
+    {
+      "id": 60,
+      "en": "<$comeff(5,14)><$facial(5,1)><$motion(5,805)><$voicel(5,5)>Yeah, it really has!<clear><br>... ... ...<clear><br>Uhhh...",
+      "pt_br": "<$comeff(5,14)><$facial(5,1)><$motion(5,805)><$voicel(5,5)>Sim, foi mesmo!<clear><br>... ... ...<clear><br>Uhhh..."
+    },
+    {
+      "id": 61,
+      "en": "<$comeff(2,6)><$motion(2,666)><$voicel(2,6)>Is something troubling you?",
+      "pt_br": "<$comeff(2,6)><$motion(2,666)><$voicel(2,6)>Há alguma coisa que te incomoda?"
+    },
+    {
+      "id": 62,
+      "en": "<$comeff(5,4)><$facial(5,9)><$motion(5,807)><$voicel(5,5)>Dang, I just have SO many things I want to tell you! <$comeff(5,7)><$motion(5,802)><$voicel(5,8)>Argh!<br>I’m all jumbled up! I don’t even know where to BEGIN!",
+      "pt_br": "<$comeff(5,4)><$facial(5,9)><$motion(5,807)><$voicel(5,5)>Bolas, tenho tantas coisas para te dizer! <$comeff(5,7)><$motion(5,802)><$voicel(5,8)>Argh!<br>Eu estou todo confuso! Eu nem sei por onde começar!"
+    },
+    {
+      "id": 63,
+      "en": "<$comeff(2,1)><$facial(2,4)><$motion(2,801)><$voicel(2,7)>Pii-hee! Take all the time you need, <$cdef(27)>Dedenne</color>. <$comeff(2,10)><$motion(2,803)><$voicel(2,10)>I’m glad to<br>see you so full of energy—that rambunctiousness suits you.",
+      "pt_br": "<$comeff(2,1)><$facial(2,4)><$motion(2,801)><$voicel(2,7)>Pii-hee, leva o tempo que precisares. <$cdef(27)>Dedenne</color>. <$comeff(2,10)><$motion(2,803)><$voicel(2,10)>Fico feliz em<br>E vê-lo tão cheio de energia, que a rambunciosidade combina com você."
+    },
+    {
+      "id": 64,
+      "en": "<$comeff(5,10)><$facial(5,4)><$motion(5,801)><$voicel(5,9)>Hehehe, yup, that’s me! Full blast, all day every day! And I<br>don’t even need to steal your electricity to get all<slide><br>charged up anymore!",
+      "pt_br": "<$comeff(5,10)><$facial(5,4)><$motion(5,801)><$voicel(5,9)>Hehehe, yup, que sou eu! Explosão total, todos os dias todos os dias! E eu<br>nem mesmo precisa roubar sua eletricidade para obter todos<slide><br>Mais carregados!"
+    },
+    {
+      "id": 65,
+      "en": "<$comeff(5,3)><$facial(5,4)><$motion(5,803)><$voicel(5,7)>So promise me you’ll use the electricity YOU make just for<br>YOURSELF! <$comeff(5,9)><$motion(5,806)><$voicel(5,10)>’Cause you can make a whole bunch of it!<slide><br>Unlike, uhhh—some of us!",
+      "pt_br": "<$comeff(5,3)><$facial(5,4)><$motion(5,803)><$voicel(5,7)>Então me prometa que você vai usar a eletricidade que você faz apenas para<br>Tu mesmo! <$comeff(5,9)><$motion(5,806)><$voicel(5,10)>Porque você pode fazer um monte dele!<slide><br>Ao contrário de alguns de nós!"
+    },
+    {
+      "id": 66,
+      "en": "<$comeff(2,14)><$facial(2,5)><$motion(2,801)><$voicel(2,5)>Why, <$cdef(27)>Dedenne</color>, I... *sniff*",
+      "pt_br": "<$comeff(2,14)><$facial(2,5)><$motion(2,801)><$voicel(2,5)>Porquê? <$cdef(27)>Dedenne</color>, I... * sniff *"
+    },
+    {
+      "id": 67,
+      "en": "<$comcan(2)><$comeff(4,3)><$motion(4,802)><$voicel(4,7)>H-hey! How come <$cdef(27)>Dedenne</color> gets all the attention? I wanna<br>talk to you too, <$cdef(27)>Pikachu</color>...",
+      "pt_br": "<$comcan(2)><$comeff(4,3)><$motion(4,802)><$voicel(4,7)>Porque é que... <$cdef(27)>Dedenne</color> Eu quero...<br>Também falo com você. <$cdef(27)>Pikachu</color>..."
+    },
+    {
+      "id": 68,
+      "en": "<$comeff(6,10)><$motion(6,803)><$voicel(6,9)>Yeah! I wanna talk too!",
+      "pt_br": "<$comeff(6,10)><$motion(6,803)><$voicel(6,9)>Eu também quero falar!"
+    },
+    {
+      "id": 69,
+      "en": "<$comeff(5,3)><$facial(5,4)><$motion(5,803)><$voicel(5,9)>Whoa! It’s <$cdef(27)>Toxel </color>and <$cdef(27)>Pichu</color>! Long time no see!",
+      "pt_br": "<$comeff(5,3)><$facial(5,4)><$motion(5,803)><$voicel(5,9)>Uau! É <$cdef(27)>Toxel </color>e <$cdef(27)>Pichu</color>Há quanto tempo!"
+    },
+    {
+      "id": 70,
+      "en": "<$emotion(2,38)><$voicel(2,9)><$kfacial(2)>Oh, this is just like the old days...and we have you to<br>thank, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$emotion(2,38)><$voicel(2,9)><$kfacial(2)>Isto é como nos velhos tempos... e nós temos-te a ti.<br>Obrigado, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 71,
+      "en": "<$comeff(2,14)><$motion(2,805)><$voicel(2,5)>Well then, now that we’re all gathered, I have something<br>to show you all. <$comeff(2,9)><$facial(2,4)><$motion(2,806)><$voicel(2,8)>Give me just a moment to prepare...",
+      "pt_br": "<$comeff(2,14)><$motion(2,805)><$voicel(2,5)>Bem, então, agora que estamos todos reunidos, eu tenho algo<br>para vos mostrar a todos. <$comeff(2,9)><$facial(2,4)><$motion(2,806)><$voicel(2,8)>Dê-me só um momento para me preparar..."
+    },
+    {
+      "id": 72,
+      "en": "<$comeff(2,10)><$facial(2,4)><$motion(2,664)><$voicel(2,10)>All right, here I go.",
+      "pt_br": "<$comeff(2,10)><$facial(2,4)><$motion(2,664)><$voicel(2,10)>Muito bem, aqui vou eu."
+    },
+    {
+      "id": 73,
+      "en": "<$comeff(4,21)><$facial(4,4)><$motion(4,803)><$voicel(4,10)>Oh wow... So sparkly!",
+      "pt_br": "<$comeff(4,21)><$facial(4,4)><$motion(4,803)><$voicel(4,10)>Tão brilhante!"
+    },
+    {
+      "id": 74,
+      "en": "<$comeff(5,9)><$facial(5,4)><$motion(5,803)><$voicel(5,10)>I knew you had it in you! That is BEAUTIFUL! ♪",
+      "pt_br": "<$comeff(5,9)><$facial(5,4)><$motion(5,803)><$voicel(5,10)>Eu sabia que tinhas isso em ti!"
+    },
+    {
+      "id": 75,
+      "en": "<$emotion(2,8)><$voicel(2,10)>Chu! I’m happy you enjoyed it.",
+      "pt_br": "<$emotion(2,8)><$voicel(2,10)>Chu! Estou feliz que você gostou."
+    },
+    {
+      "id": 76,
+      "en": "<$comeff(6,21)><$facial(6,4)><$motion(6,806)><$voicel(6,9)>I hope I can make that much electricity someday...",
+      "pt_br": "<$comeff(6,21)><$facial(6,4)><$motion(6,806)><$voicel(6,9)>Espero poder fazer tanta electricidade algum dia..."
+    },
+    {
+      "id": 77,
+      "en": "<$emotion(2,60)><$voicel(2,7)>Pii-hee, I am quite certain you all will one day.",
+      "pt_br": "<$emotion(2,60)><$voicel(2,7)>Pii-hee, tenho a certeza de que todos irão um dia."
+    },
+    {
+      "id": 78,
+      "en": "<$comeff(6,9)><$facial(6,4)><$motion(6,801)><$voicel(6,9)>Really?! Then I’m gonna practice <$spwicon(9)><$cdef(27)>generating<br></color>every day!",
+      "pt_br": "<$comeff(6,9)><$facial(6,4)><$motion(6,801)><$voicel(6,9)>Sério?! Então eu vou praticar <$spwicon(9)><$cdef(27)>gerando<br></color>Todos os dias!"
+    },
+    {
+      "id": 79,
+      "en": "<$comeff(4,3)><$motion(4,803)><$voicel(4,8)>M-me too...",
+      "pt_br": "<$comeff(4,3)><$motion(4,803)><$voicel(4,8)>Eu também..."
+    },
+    {
+      "id": 80,
+      "en": "<$comeff(5,10)><$facial(5,4)><$motion(5,801)><$voicel(5,10)>And me!",
+      "pt_br": "<$comeff(5,10)><$facial(5,4)><$motion(5,801)><$voicel(5,10)>E eu!"
+    },
+    {
+      "id": 81,
+      "en": "<oneline><$emotion(2,29)><$voicel(2,5)>Before I forget... Could I ask one last favor of you,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": "<oneline><$emotion(2,29)><$voicel(2,5)>Antes que me esqueça, posso pedir-lhe um último favor?<br><$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 82,
+      "en": "<$comeff(2,14)><$motion(2,824)><$voicel(2,7)>Would you please keep the fact <$voicel(2,6)>that I cannot <$cdef(27)><$spwfull(9)><br></color>my own electricity between us?",
+      "pt_br": "<$comeff(2,14)><$motion(2,824)><$voicel(2,7)>Pode, por favor, manter o fato? <$voicel(2,6)>que eu não posso <$cdef(27)><$spwfull(9)><br></color>A minha própria electricidade entre nós?"
+    },
+    {
+      "id": 83,
+      "en": "<$emotion(2,8)><$voicel(2,7)>For now, I just want them to keep seeing me as the<br>Pokémon they can rely upon for anything.",
+      "pt_br": "<$emotion(2,8)><$voicel(2,7)>Por agora, só quero que eles continuem a ver-me como o<br>Pokémon podem confiar em qualquer coisa."
+    },
+    {
+      "id": 84,
+      "en": "<$comeff(2,14)><$facial(2,1)><$motion(2,666)><$voicel(2,5)>Oh dear, they aren’t in this area, either? What to do, what<br>to do...",
+      "pt_br": "<$comeff(2,14)><$facial(2,1)><$motion(2,666)><$voicel(2,5)>Oh querida, eles não estão nesta área, também? O que fazer, o que<br>Para fazer..."
+    },
+    {
+      "id": 85,
+      "en": "<$comeff(2,3)><$facial(2,1)><$motion(2,803)><$voicel(2,6)>I’m actually looking for some little friends of mine...",
+      "pt_br": "<$comeff(2,3)><$facial(2,1)><$motion(2,803)><$voicel(2,6)>Na verdade, estou procurando alguns amiguinhos meus..."
+    },
+    {
+      "id": 86,
+      "en": "<$comeff(2,6)><$facial(2,1)><$motion(2,805)><$voicel(2,8)>If you happen to be free, could I trouble you to <$voicel(2,7)>guide me<br>to <$cdef(27)><$stgname;1(2)></color>?",
+      "pt_br": "<$comeff(2,6)><$facial(2,1)><$motion(2,805)><$voicel(2,8)>Se acontecer de seres livre, posso incomodar-te? <$voicel(2,7)>guia-me<br>para <$cdef(27)><$stgname;1(2)></color>?"
+    },
+    {
+      "id": 87,
+      "en": "<oneline><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,8)>Could I trouble you to guide me to<br><$cdef(27)><$stgname;0(2)></color>?",
+      "pt_br": "<oneline><$comeff(2,3)><$facial(2,1)><$motion(2,661)><$voicel(2,8)>Posso incomodá-lo a guiar-me para<br><$cdef(27)><$stgname;0(2)></color>?"
+    },
+    {
+      "id": 88,
+      "en": "<$comeff(2,7)><$facial(2,1)><$motion(2,805)><$voicel(2,3)>Hmmm... I’m still not seeing them anywhere.",
+      "pt_br": "<$comeff(2,7)><$facial(2,1)><$motion(2,805)><$voicel(2,3)>Hmmm... Eu ainda não estou vendo eles em qualquer lugar."
+    },
+    {
+      "id": 89,
+      "en": "<oneline><$comeff(2,3)><$facial(2,1)><$motion(2,803)><$voicel(2,6)>Pardon me, <$cdef(27)><pname;0></color>. Could I borrow<br>you<slide><br>for<slide><br>a moment?",
+      "pt_br": "<oneline><$comeff(2,3)><$facial(2,1)><$motion(2,803)><$voicel(2,6)>Com licença. <$cdef(27)><pname;0></color>Posso pedir emprestado?<br>você<slide><br>em vez<slide><br>Um momento?"
+    },
+    {
+      "id": 90,
+      "en": "<$comeff(2,14)><$facial(2,1)><$motion(2,661)><$voicel(2,5)>It has to do with my inability to generate electricity.",
+      "pt_br": "<$comeff(2,14)><$facial(2,1)><$motion(2,661)><$voicel(2,5)>Tem a ver com a minha incapacidade de gerar electricidade."
+    },
+    {
+      "id": 91,
+      "en": "<$comcan(2)><$facial(2,1)><$motion(2,807)><$voicel(2,3)>When I first woke up, I couldn’t quite recall the reason<br>why my electricity was gone...",
+      "pt_br": "<$comcan(2)><$facial(2,1)><$motion(2,807)><$voicel(2,3)>Quando acordei pela primeira vez, não conseguia me lembrar bem da razão<br>Porque é que a minha electricidade se foi..."
+    },
+    {
+      "id": 92,
+      "en": "<$comeff(2,5)><$facial(2,1)><$motion(2,806)><$voicel(2,8)>But the more time I spend here, the more my memory has<br>returned in little bits and pieces. <$voicel(2,7)>And I’ve recalled<slide><br>an important memory from long ago.",
+      "pt_br": "<$comeff(2,5)><$facial(2,1)><$motion(2,806)><$voicel(2,8)>Mas quanto mais tempo passo aqui, mais a minha memória tem.<br>voltou em pedacinhos. <$voicel(2,7)>E eu me lembrei<slide><br>uma memória importante de há muito tempo."
+    },
+    {
+      "id": 93,
+      "en": "<$comeff(2,14)><$motion(2,824)><$voicel(2,5)>You see, I had something of a little family before—some<br>younger Pokémon who were frail and feeble, <$voicel(2,8)>so I got in<slide><br>the habit of sharing my electricity with them.",
+      "pt_br": "<$comeff(2,14)><$motion(2,824)><$voicel(2,5)>sabe, eu já tive uma espécie de família.<br>Pokémon mais jovem, frágil e fraco, <$voicel(2,8)>Então eu entrei.<slide><br>o hábito de partilhar a minha electricidade com eles."
+    },
+    {
+      "id": 94,
+      "en": "<$voicel(2,3)><$facial(2,10)>But there came a day when the whole lot of them fell ill<br>all at once, and <$voicel(2,6)>in response, I took things a bit too far...",
+      "pt_br": "<$voicel(2,3)><$facial(2,10)>Mas chegou um dia em que todos eles adoeceram.<br>todos de uma só vez, e <$voicel(2,6)>Em resposta, levei as coisas longe demais..."
+    },
+    {
+      "id": 95,
+      "en": "<$emotion(2,41)><$voicel(2,3)>I pushed myself to the absolute limit trying to share<br>even more electricity with them and, well...I couldn’t<slide><br><$cdef(27)><$spwfull(9)></color> a single spark after that.",
+      "pt_br": "<$emotion(2,41)><$voicel(2,3)>Eu empurrei-me para o limite absoluto tentando compartilhar<br>ainda mais eletricidade com eles e, bem... eu não poderia<slide><br><$cdef(27)><$spwfull(9)></color> Uma única faísca depois disso."
+    },
+    {
+      "id": 96,
+      "en": "<$comeff(2,17)><$facial(2,9)><$motion(2,805)><$voicel(2,3)>If by chance my little family members have also returned<br>to the area, I would be so delighted to see them again...<slide><br><$emotion(2,29)><$voicel(2,6)>Could I trouble you to look for them?",
+      "pt_br": "<$comeff(2,17)><$facial(2,9)><$motion(2,805)><$voicel(2,3)>Se por acaso os meus familiares também regressaram<br>Para a área, eu ficaria tão feliz em vê-los novamente...<slide><br><$emotion(2,29)><$voicel(2,6)>Posso incomodá-lo a procurá-los?"
+    },
+    {
+      "id": 97,
+      "en": "<$comeff(2,21)><$facial(2,4)><$motion(2,801)><$voicel(2,9)>Truly? Thank you ever so much!",
+      "pt_br": "<$comeff(2,21)><$facial(2,4)><$motion(2,801)><$voicel(2,9)>Muito obrigado!"
+    },
+    {
+      "id": 98,
+      "en": "<$emotion(2,29)><$voicel(2,5)>In that case, could I ask you to look for <$cdef(27)>Pichu </color>first?",
+      "pt_br": "<$emotion(2,29)><$voicel(2,5)>Nesse caso, posso pedir-lhe para procurar <$cdef(27)>Pichu </color>Primeiro?"
+    },
+    {
+      "id": 99,
+      "en": "<$comeff(2,10)><$facial(2,4)><$motion(2,824)><$voicel(2,7)><$cdef(27)>Pichu</color> was a reliable one, always looking to bear the<br>burdens of others...",
+      "pt_br": "<$comeff(2,10)><$facial(2,4)><$motion(2,824)><$voicel(2,7)><$cdef(27)>Pichu</color> foi um um confiável, sempre olhando para suportar o<br>fardos dos outros..."
+    },
+    {
+      "id": 100,
+      "en": "<$voicel(2,5)><$facial(2,5)>But <$cdef(27)>Pichu</color> always craved love and attention the most...<clear><br><$comeff(2,9)><$motion(2,801)><$voicel(2,10)>I can hardly wait to shower them with affection when<br>we’re reunited!",
+      "pt_br": "<$voicel(2,5)><$facial(2,5)>Mas... <$cdef(27)>Pichu</color> sempre desejou amor e atenção mais...<clear><br><$comeff(2,9)><$motion(2,801)><$voicel(2,10)>Mal posso esperar para os banhar com carinho quando<br>Estamos reunidos!"
+    },
+    {
+      "id": 101,
+      "en": "<$comeff(2,14)><$voicel(2,7)><$facial(2,1)>If you do find <$cdef(27)>Pichu</color>, please bring them to me. <$emotion(2,37)><$voicel(2,10)>I would be<br>in your debt.",
+      "pt_br": "<$comeff(2,14)><$voicel(2,7)><$facial(2,1)>Se você encontrar <$cdef(27)>Pichu</color>Por favor, traga-os para mim. <$emotion(2,37)><$voicel(2,10)>Eu estaria<br>em dívida para com você."
+    },
+    {
+      "id": 102,
+      "en": "<$comcan(2)><$facial(2,1)><$motion(2,807)><$voicel(2,3)>When I first woke up, I couldn’t quite recall the reason<br>why my electricity was gone...",
+      "pt_br": "<$comcan(2)><$facial(2,1)><$motion(2,807)><$voicel(2,3)>Quando acordei pela primeira vez, não conseguia me lembrar bem da razão<br>Porque é que a minha electricidade se foi..."
+    },
+    {
+      "id": 103,
+      "en": "<$comeff(2,5)><$facial(2,1)><$motion(2,806)><$voicel(2,8)>But the more time I spend here, the more my memory has<br>returned in little bits and pieces. <$voicel(2,7)>And I’ve recalled<slide><br>an important memory from long ago.",
+      "pt_br": "<$comeff(2,5)><$facial(2,1)><$motion(2,806)><$voicel(2,8)>Mas quanto mais tempo passo aqui, mais a minha memória tem.<br>voltou em pedacinhos. <$voicel(2,7)>E eu me lembrei<slide><br>uma memória importante de há muito tempo."
+    }
+  ]
+}

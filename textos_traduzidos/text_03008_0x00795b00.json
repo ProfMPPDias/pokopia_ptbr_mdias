@@ -1,0 +1,89 @@
+{
+  "entry_index": 3008,
+  "bin_id": "0x795b00",
+  "decompressed_size": 3176,
+  "first_tag_offset": 328,
+  "total_strings": 16,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$emotion(4,14)><$voicel(4,7)><$cdef(27)><pname;0></color>. I thank you for the home.<clear><br><$comeff(4,14)><$motion(4,805)><$voicel(4,5)>I wish to teach you the method for making a<br><$cdef(27)><fqty(1)><$ifull(1922)> </color>in return.",
+      "pt_br": "<$emotion(4,14)><$voicel(4,7)><$cdef(27)><pname;0></color>Agradeço-lhe o lar.<clear><br><$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Desejo ensinar-lhe o método para fazer um<br><$cdef(27)><fqty(1)><$ifull(1922)> </color>em troca."
+    },
+    {
+      "id": 1,
+      "en": "<$emotion(4,1)><$voicel(4,7)>A machine. It sends electricity far away. It is like a<br><$cdef(27)>utility pole</color>.<clear><br><$comeff(4,10)><$motion(4,661)><$voicel(4,5)>But it is less large than a <$cdef(27)>utility pole</color>. And it does not use<br>wires. It can make the town look more nice.<clear><br><$emotion(4,31)><$voicel(4,3)>But there is a problem. The recipe data in my head is not<br>yet restored. To use other words—I forgot.",
+      "pt_br": "<$emotion(4,1)><$voicel(4,7)>Uma máquina. Ela envia eletricidade para longe.<br><$cdef(27)>poste utilitário</color>.<clear><br><$comeff(4,10)><$motion(4,661)><$voicel(4,5)>Mas é menos grande do que um <$cdef(27)>poste utilitário</color>. E não usa<br>Pode fazer com que a cidade fique mais bonita.<clear><br><$emotion(4,31)><$voicel(4,3)>Mas há um problema. Os dados da receita na minha cabeça não são<br>mas restaurada. Para usar outras palavras — esqueci-me."
+    },
+    {
+      "id": 2,
+      "en": "<$emotion(4,31)><$voicel(4,3)>There is a problem. The recipe data in my head is not yet<br>restored. To use other words—I forgot.<clear><br><$emotion(4,14)><$voicel(4,5)>I also must explain. A <$cdef(27)><fqty(1)><$ifull(1922)> </color>is a<br>machine. It sends electricity far away, <$voicel(4,8)>like a <$cdef(27)>utility pole</color>.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>But it is less large than a <$cdef(27)>utility pole</color>. And it does not use<br>wires. It can make the town look more nice.",
+      "pt_br": "<$emotion(4,31)><$voicel(4,3)>Há um problema. Os dados da receita na minha cabeça ainda não estão<br>restaurada. Para usar outras palavras — esqueci-me.<clear><br><$emotion(4,14)><$voicel(4,5)>Também tenho de explicar. <$cdef(27)><fqty(1)><$ifull(1922)> </color>é um<br>máquina. Ele envia eletricidade para longe, <$voicel(4,8)>como um <$cdef(27)>poste utilitário</color>.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Mas é menos grande do que um <$cdef(27)>poste utilitário</color>. E não usa<br>Pode fazer com que a cidade fique mais bonita."
+    },
+    {
+      "id": 3,
+      "en": "<$comeff(4,14)><$motion(4,805)><$voicel(4,5)>If I hear good music, my head will become clear. I will<br>remember. I think.",
+      "pt_br": "<$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Se ouvir boa música, a minha cabeça ficará clara.<br>Lembra-te, eu acho."
+    },
+    {
+      "id": 4,
+      "en": "<$emotion(4,29)><$voicel(4,7)>So I must ask. Can you play a <$cdef(27)>CD</color> nearby so that I can<br>hear it?",
+      "pt_br": "<$emotion(4,29)><$voicel(4,7)>Por isso, tenho de perguntar. <$cdef(27)>CD</color> perto para que eu possa<br>está a ouvir?"
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(4,14)><$voicel(4,5)>My computations whisper to me. They tell me a<br><$emotion(4,1)><$voicel(4,8)><$cdef(27)><fqty(1)><$ifull(1802)> </color>exists on the ground in this town.<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,9)>If it has not been found, you must search. Search where<br>the many broken buildings are.",
+      "pt_br": "<$comeff(4,14)><$voicel(4,5)>Os meus cálculos sussurram-me.<br><$emotion(4,1)><$voicel(4,8)><$cdef(27)><fqty(1)><$ifull(1802)> </color>existe no terreno nesta cidade.<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,9)>Se não foi encontrado, você deve procurar.<br>Os muitos edifícios partidos são."
+    },
+    {
+      "id": 6,
+      "en": "<$emotion(4,29)><$voicel(4,5)>Can you play a <$cdef(27)>CD</color> nearby so that I can hear it?",
+      "pt_br": "<$emotion(4,29)><$voicel(4,5)>Você pode jogar um <$cdef(27)>CD</color> perto para que eu possa ouvi-lo?"
+    },
+    {
+      "id": 7,
+      "en": "<$comeff(4,14)><$motion(4,805)><$voicel(4,7)>The music will help me remember. I will know how to make<br>a <$cdef(27)><fqty(1)><$ifull(1922)> </color>again. I think.",
+      "pt_br": "<$comeff(4,14)><$motion(4,805)><$voicel(4,7)>A música vai ajudar-me a lembrar.<br>a <$cdef(27)><fqty(1)><$ifull(1922)> </color>Acho que sim."
+    },
+    {
+      "id": 8,
+      "en": "<$emotion(4,50)><$voicel(4,9)><$kfacial(4)>Ah. This is it. The music is good.",
+      "pt_br": "<$emotion(4,50)><$voicel(4,9)><$kfacial(4)>É isto, a música é boa."
+    },
+    {
+      "id": 9,
+      "en": "<$comeff(4,10)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>My head is now clear. I remember. <$voicel(4,10)>I can teach you to make<br>a <$cdef(27)><fqty(1)><$ifull(1922)></color>.",
+      "pt_br": "<$comeff(4,10)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>A minha cabeça agora está limpa. <$voicel(4,10)>Posso ensinar-te a fazer<br>a <$cdef(27)><fqty(1)><$ifull(1922)></color>."
+    },
+    {
+      "id": 10,
+      "en": "You learned a <$cdef(27)>recipe </color>for a<br><$cdef(27)><fqty(1)><$ifull(1848)></color>!",
+      "pt_br": "Aprendeste a... <$cdef(27)>receita </color>para uma<br><$cdef(27)><fqty(1)><$ifull(1848)></color>!"
+    },
+    {
+      "id": 11,
+      "en": "<$emotion(4,1)><$voicel(4,7)>You may use the <$cdef(27)><fqty(1)><$ifull(1922)> </color>to make<br>the town more wonderful.",
+      "pt_br": "<$emotion(4,1)><$voicel(4,7)>Pode utilizar o <$cdef(27)><fqty(1)><$ifull(1922)> </color>a fazer<br>A cidade é mais maravilhosa."
+    },
+    {
+      "id": 12,
+      "en": "You learned a <$cdef(27)>recipe</color> for a <$cdef(27)><fqty(1)><$ifull(1922)></color>!",
+      "pt_br": "Aprendeste a... <$cdef(27)>receita</color> para uma <$cdef(27)><fqty(1)><$ifull(1922)></color>!"
+    },
+    {
+      "id": 13,
+      "en": "*bzzz zzzt*<br>That Pokédex cannot unlock this gate.",
+      "pt_br": "* bzzz zzzt *<br>Aquele Pokédex não pode abrir este portão."
+    },
+    {
+      "id": 14,
+      "en": "To unlock the gate, please place a completed Pokédex<br>with all Pokémon registered in it over the panel.",
+      "pt_br": "Para desbloquear o portão, coloque um Pokédex completo<br>Com todos os Pokémon registados no painel."
+    },
+    {
+      "id": 15,
+      "en": "Completed Pokédex confirmed. Unlocking gate.",
+      "pt_br": "Pokédex confirmado, destrancando o portão."
+    }
+  ]
+}

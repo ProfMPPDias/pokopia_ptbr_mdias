@@ -1,0 +1,304 @@
+{
+  "entry_index": 2621,
+  "bin_id": "0x684d00",
+  "decompressed_size": 10136,
+  "first_tag_offset": 1176,
+  "total_strings": 59,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$comeff(3,15)>Zzzzz...",
+      "pt_br": "<$comeff(3,15)>Zzzzz..."
+    },
+    {
+      "id": 1,
+      "en": "Zzzzz... ZZZZZ...",
+      "pt_br": "Zzzzz... ZZZZZ..."
+    },
+    {
+      "id": 2,
+      "en": "<$emotion(4,14)><$voicel(4,5)>Hey, <$cdef(27)><pname;0></color>! Yo, you got a second?",
+      "pt_br": "<$emotion(4,14)><$voicel(4,5)>Olá. <$cdef(27)><pname;0></color>tem um segundo?"
+    },
+    {
+      "id": 3,
+      "en": "<$comeff(4,14)><$motion(4,805)><$voicel(4,4)>So, uh...I literally just noticed this, but...<clear><br><$voicel(4,5)>I’m hearin’ some really weird noises coming from over<br>that way.",
+      "pt_br": "<$comeff(4,14)><$motion(4,805)><$voicel(4,4)>Então... Literalmente reparei nisto, mas...<clear><br><$voicel(4,5)>Eu estou ouvindo’ alguns ruídos realmente estranhos vindo de mais<br>Por ali."
+    },
+    {
+      "id": 4,
+      "en": "<$comeff(4,6)><$voicel(4,8)>What do you think’s making ’em, yo?",
+      "pt_br": "<$comeff(4,6)><$voicel(4,8)>O que você acha que está fazendo?"
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>I’m really interested in weird noises, y’know? But um...<br>It’s always more fun to do things with friends, so...<clear><br><$emotion(4,29)><$voicel(4,7)>Why don’t you come check out where the noises are<br>comin’ from with me, <$cdef(27)><pname;1></color>?",
+      "pt_br": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>Eu estou realmente interessado em ruídos estranhos, sabe? Mas um...<br>É sempre mais divertido fazer coisas com amigos, então...<clear><br><$emotion(4,29)><$voicel(4,7)>Por que você não vem verificar onde estão os ruídos<br>vindo de mim, <$cdef(27)><pname;1></color>?"
+    },
+    {
+      "id": 6,
+      "en": "<$emotion(4,8)><$voicel(4,9)>Thanks, yo! It’ll totally be reassuring to have you around,<br><$cdef(27)><pname;0></color>!<clear><br><$comeff(4,4)><$facial(4,1)><$motion(4,803)><$voicel(4,8)>N-not that I was too scared to go alone or anything!<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>I’ll be followin’ right behind you! Lead us over to where<br>the noises are comin’ from!",
+      "pt_br": "<$emotion(4,8)><$voicel(4,9)>Obrigado, yo! Vai ser totalmente reconfortante para tê-lo por perto,<br><$cdef(27)><pname;0></color>!<clear><br><$comeff(4,4)><$facial(4,1)><$motion(4,803)><$voicel(4,8)>Não que eu estivesse com medo de ir sozinho ou algo assim!<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,9)>Eu estarei seguindo’ logo atrás de você! Leve-nos até onde<br>os ruídos estão vindo’!"
+    },
+    {
+      "id": 7,
+      "en": "<$comeff(4,4)><$facial(4,9)><$motion(4,807)><$voicel(4,10)>Wh-what?! I’m not scared, yo!<clear><br><$comeff(4,14)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>I just thought that, y’know...you might be curious about it<br>too, <$cdef(27)><pname;0></color>!<clear><br><$emotion(4,14)><$voicel(4,7)>And, uh... Maybe you wouldn’t mind leading the<br>way, either?<clear><br><$emotion(4,38)><$voicel(4,9)>I’ll be followin’ right behind you! Lead us over to where<br>the noises are comin’ from!",
+      "pt_br": "<$comeff(4,4)><$facial(4,9)><$motion(4,807)><$voicel(4,10)>Wh-o quê?!! Eu não estou com medo, yo!<clear><br><$comeff(4,14)><$facial(4,1)><$motion(4,805)><$voicel(4,5)>Eu só pensei que, você sabe ... você pode estar curioso sobre isso<br>Também. <$cdef(27)><pname;0></color>!<clear><br><$emotion(4,14)><$voicel(4,7)>E, uh... talvez você não se importaria de liderar o<br>- Nem de um jeito?<clear><br><$emotion(4,38)><$voicel(4,9)>Eu estarei seguindo’ logo atrás de você! Leve-nos até onde<br>os ruídos estão vindo’!"
+    },
+    {
+      "id": 8,
+      "en": "<$emotion(4,14)><$voicel(4,5)>I think those weird noises are comin’ from over this<br>way, yo...",
+      "pt_br": "<$emotion(4,14)><$voicel(4,5)>Eu acho que esses ruídos estranhos estão vindo’ sobre isso<br>Muito bem, meu..."
+    },
+    {
+      "id": 9,
+      "en": "Zzz...",
+      "pt_br": "Zzz..."
+    },
+    {
+      "id": 10,
+      "en": "Zzz... ZZZ...",
+      "pt_br": "Zzz... ZZZ..."
+    },
+    {
+      "id": 11,
+      "en": "<$emotion(4,37)><$voicel(4,9)>The noises are gettin’ louder, yo! We must be close!",
+      "pt_br": "<$emotion(4,37)><$voicel(4,9)>Os barulhos estão ficando mais altos, yo! Devemos estar perto!"
+    },
+    {
+      "id": 12,
+      "en": "Zzzzzzzzz...",
+      "pt_br": "Zzzzzzzzz..."
+    },
+    {
+      "id": 13,
+      "en": "Zzzzz... ZZZZZ!",
+      "pt_br": "Zzzzz... ZZZZZ!"
+    },
+    {
+      "id": 14,
+      "en": "<$emotion(4,38)><$voicel(4,9)>Those noises are really loud now! We must be super close!",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>Esses barulhos estão muito altos agora! Devemos estar muito perto!"
+    },
+    {
+      "id": 15,
+      "en": "<$emotion(4,1)><$voicel(4,10)>The noises sound really close now, yo!",
+      "pt_br": "<$emotion(4,1)><$voicel(4,10)>Os barulhos parecem muito próximos, meu!"
+    },
+    {
+      "id": 16,
+      "en": "<$comeff(4,6)><$facial(4,1)><$motion(4,666)><$voicel(4,5)>Where exactly do you think they’re comin’ from, though?<br>Maybe someone’s hidin’ nearby and making weird noises?",
+      "pt_br": "<$comeff(4,6)><$facial(4,1)><$motion(4,666)><$voicel(4,5)>De onde exatamente você acha que eles estão vindo?<br>Talvez alguém se esconda por perto e faça barulhos estranhos?"
+    },
+    {
+      "id": 17,
+      "en": "Zzz... ZZZ... Zzz...",
+      "pt_br": "Zzz... ZZZ... Zzz..."
+    },
+    {
+      "id": 18,
+      "en": "Zzzzz... ZZZZZ!",
+      "pt_br": "Zzzzz... ZZZZZ!"
+    },
+    {
+      "id": 19,
+      "en": "A moss-covered <$cdef(27)>Snorlax </color>is sleeping peacefully!",
+      "pt_br": "Um musgo coberto <$cdef(27)>Snorlax </color>Está a dormir em paz!"
+    },
+    {
+      "id": 20,
+      "en": "<$emotion(4,14)><$voicel(4,7)>Yooo! So those weird sounds were the snores of this<br>sleeping <$cdef(27)>Snorlax</color>?",
+      "pt_br": "<$emotion(4,14)><$voicel(4,7)>Então esses sons estranhos foram os roncos disto.<br>dormindo <$cdef(27)>Snorlax</color>?"
+    },
+    {
+      "id": 21,
+      "en": "<oneline><$emotion(4,38)><$voicel(4,9)>It’s all thanks to you, <$cdef(27)><pname;0></color>! I sure feel<br>silly<slide><br>for<slide><br>gettin’<slide><br>all scared!",
+      "pt_br": "<oneline><$emotion(4,38)><$voicel(4,9)>É tudo graças a você, <$cdef(27)><pname;0></color>Sinto-me mesmo<br>tonta<slide><br>em vez<slide><br>Obtenção»<slide><br>Todos assustados!"
+    },
+    {
+      "id": 22,
+      "en": "<$comeff(4,4)><$motion(4,807)><$voicel(4,5)>I-I told you I wasn’t scared, yo! But, uh...yeah, still totally<br>thanks to you, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$comeff(4,4)><$motion(4,807)><$voicel(4,5)>I-Eu disse que não estava com medo, yo! Mas, uh... sim, ainda totalmente<br>graças a ti, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 23,
+      "en": "<$comeff(4,14)><$motion(4,805)><$voicel(4,7)>But, yooo... This <$cdef(27)>Snorlax </color>is totally covered in moss... More<br>like “<$cdef(27)>Mosslax</color>,” am I right? Heh.",
+      "pt_br": "<$comeff(4,14)><$motion(4,805)><$voicel(4,7)>Mas... isto... <$cdef(27)>Snorlax </color>é totalmente coberto em musgo... Mais<br>como “<$cdef(27)>Mosslax</color>, estou certo?"
+    },
+    {
+      "id": 24,
+      "en": "<$emotion(4,29)><$voicel(4,5)>D’you think they’ve been sleepin’ here so long that all this<br>moss had time to just naturally grow on ’em?",
+      "pt_br": "<$emotion(4,29)><$voicel(4,5)>Você acha que eles estão dormindo aqui há tanto tempo que tudo isso<br>O musgo teve tempo de simplesmente naturalmente crescer neles?"
+    },
+    {
+      "id": 25,
+      "en": "<$comeff(4,14)><$motion(4,666)><$voicel(4,3)>Either way, this loud snorin’ is pretty disruptive...<clear><br><$emotion(4,51)><$voicel(4,5)>I think we’d better wake ’em up, but that might not be easy...",
+      "pt_br": "<$comeff(4,14)><$motion(4,666)><$voicel(4,3)>De qualquer forma, este ronco alto 'é bastante perturbador...<clear><br><$emotion(4,51)><$voicel(4,5)>Acho melhor acordá - los, mas isso talvez não seja fácil..."
+    },
+    {
+      "id": 26,
+      "en": "<$comeff(4,20)><$motion(4,803)><$voicel(4,10)>Oh, I know!<clear><br><$emotion(4,38)><$voicel(4,7)>We can ask <$cdef(27)>Professor Tangrowth</color>! I bet they’ll know how<br>to wake up a sleepin’ <$cdef(27)>Snorlax</color>! <$comeff(4,9)><$motion(4,806)><$voicel(4,10)>Let’s go ask together, yo!",
+      "pt_br": "<$comeff(4,20)><$motion(4,803)><$voicel(4,10)>Eu sei!<clear><br><$emotion(4,38)><$voicel(4,7)>Podemos perguntar. <$cdef(27)>Professor Tangrowth</color>Eu aposto que eles vão saber como<br>para acordar um dorminhoco’ <$cdef(27)>Snorlax</color>! <$comeff(4,9)><$motion(4,806)><$voicel(4,10)>Vamos perguntar juntos, yo!"
+    },
+    {
+      "id": 27,
+      "en": "<$comeff(4,14)><$facial(4,9)><$motion(4,805)><$voicel(4,3)>I really hope we can wake up <$cdef(27)>Mosslax</color>, yo. Well, I actually<br>just wanna stop the snorin’, but, y’know... Yeah...",
+      "pt_br": "<$comeff(4,14)><$facial(4,9)><$motion(4,805)><$voicel(4,3)>Espero que possamos acordar. <$cdef(27)>Mosslax</color>Bem, na verdade, eu...<br>só quero parar o ronco, mas, você sabe..."
+    },
+    {
+      "id": 28,
+      "en": "<$emotion(4,38)><$voicel(4,9)>Let’s go ask <$cdef(27)>Professor Tangrowth </color>if they know any way to<br>wake up a sleepin’ <$cdef(27)>Snorlax</color>!",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>Vamos perguntar <$cdef(27)>Professor Tangrowth </color>se souberem de alguma forma de<br>acordar um sono’ <$cdef(27)>Snorlax</color>!"
+    },
+    {
+      "id": 29,
+      "en": "<oneline><$emotion(1,14)><$voicel(1,7)>Oh, <$cdef(27)><pname;0></color> and <$cdef(27)>Trubbish</color>! <$comeff(1,14)><$facial(1,9)><$voicel(1,4)>I’ve been<br>hearing<slide><br>the<slide><br>oddest<slide><br>noises<slide><br>for<slide><br>a<slide><br>while now.<clear><br><$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>I don’t suppose you two know something about that?",
+      "pt_br": "<oneline><$emotion(1,14)><$voicel(1,7)>Oh, Oh, <$cdef(27)><pname;0></color> e <$cdef(27)>Trubbish</color>! <$comeff(1,14)><$facial(1,9)><$voicel(1,4)>Eu tenho sido<br>Audição<slide><br>a<slide><br>mais estranho<slide><br>ruídos<slide><br>em vez<slide><br>a<slide><br>enquanto isso.<clear><br><$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,6)>Suponho que vocês dois não sabem alguma coisa sobre isso?"
+    },
+    {
+      "id": 30,
+      "en": "<$emotion(4,37)><$voicel(4,7)>That’s <$cdef(27)>Mosslax</color>’s<$cdef(27)> </color>snorin’, yo! They’re a <$cdef(27)>Snorlax</color> who’s been<br>sleepin’ so long they’re all covered in moss!<clear><br><$emotion(4,8)><$voicel(4,9)><$cdef(27)><pname;0> </color>and I found ’em!",
+      "pt_br": "<$emotion(4,37)><$voicel(4,7)>Isso é <$cdef(27)>Mosslax</color>’s<$cdef(27)> </color>ronco’, yo! Eles são um <$cdef(27)>Snorlax</color> que tem sido<br>dormir’ tanto tempo eles estão todos cobertos de musgo!<clear><br><$emotion(4,8)><$voicel(4,9)><$cdef(27)><pname;0> </color>e eu os encontrei!"
+    },
+    {
+      "id": 31,
+      "en": "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,9)>What?! A mossy <$cdef(27)>Snorlax</color>? Now you’ve certainly caught<br>my attention!",
+      "pt_br": "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,9)>O quê? <$cdef(27)>Snorlax</color>? Agora você certamente pegou<br>A minha atenção!"
+    },
+    {
+      "id": 32,
+      "en": "<$emotion(4,38)><$voicel(4,9)>And I was totally the first one to notice the sounds, yo.",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>E fui o primeiro a reparar nos sons."
+    },
+    {
+      "id": 33,
+      "en": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Hmmm... I can’t draw any conclusions until I’ve seen this<br><$cdef(27)>Snorlax </color>for myself.",
+      "pt_br": "<$comeff(1,14)><$motion(1,666)><$voicel(1,5)>Hmmm... Eu não posso tirar nenhuma conclusão até que eu tenha visto isso<br><$cdef(27)>Snorlax </color>Por mim."
+    },
+    {
+      "id": 34,
+      "en": "<$comeff(1,10)><$motion(1,661)><$voicel(1,7)>I hate to put you out of your way, but please, take me to<br>that <$cdef(27)>Snorlax</color>!",
+      "pt_br": "<$comeff(1,10)><$motion(1,661)><$voicel(1,7)>Odeio ter de te pôr fora do teu caminho, mas por favor, leva-me para...<br>que <$cdef(27)>Snorlax</color>!"
+    },
+    {
+      "id": 35,
+      "en": "<$emotion(4,29)><$voicel(4,7)>Hey! I’m bored. Mind if I tag along?",
+      "pt_br": "<$emotion(4,29)><$voicel(4,7)>Ei! Estou entediado. Importa-se se eu for junto?"
+    },
+    {
+      "id": 36,
+      "en": "<$emotion(5,38)><$voicel(5,10)>It’s always more fun to go places with friends, yo!",
+      "pt_br": "<$emotion(5,38)><$voicel(5,10)>É sempre mais divertido ir a lugares com amigos, yo!"
+    },
+    {
+      "id": 37,
+      "en": "<$comeff(1,3)><$facial(0,4)><$motion(1,806)><$voicel(1,9)>That’s quite true! Let’s all go together, shall we?",
+      "pt_br": "<$comeff(1,3)><$facial(0,4)><$motion(1,806)><$voicel(1,9)>Isso é bem verdade! Vamos todos juntos, sim?"
+    },
+    {
+      "id": 38,
+      "en": "<$emotion(4,38)><$voicel(4,9)>Thanks a bunch! All right, let’s hit the trail!",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>Muito obrigado! Tudo bem, vamos para a trilha!"
+    },
+    {
+      "id": 39,
+      "en": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>Imagine sleeping so long, you wake up covered in moss...<wait(0.8)><br>That’s gotta be the comfiest nap spot EVER!",
+      "pt_br": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>Imagina dormir tanto que acordas coberto de musgo...<wait(0.8)><br>Isso tem que ser o ponto de soneca mais confortável de sempre!"
+    },
+    {
+      "id": 40,
+      "en": "<$comeff(4,6)><$motion(4,666)><$voicel(4,6)>Yo... D’you think moss tastes good?",
+      "pt_br": "<$comeff(4,6)><$motion(4,666)><$voicel(4,6)>Achas que o musgo sabe bem?"
+    },
+    {
+      "id": 41,
+      "en": "<$comeff(1,6)><$motion(1,666)><$voicel(1,5)>Could you please take me to see <$cdef(27)>Snorlax</color>?",
+      "pt_br": "<$comeff(1,6)><$motion(1,666)><$voicel(1,5)>pode levar-me para ver? <$cdef(27)>Snorlax</color>?"
+    },
+    {
+      "id": 42,
+      "en": "<$comeff(1,14)><$motion(1,824)><$voicel(1,6)>If they’ve been sleeping for as long as you say...<clear><br><$voicel(1,7)>Perhaps they remember something from when the humans<br>were here.",
+      "pt_br": "<$comeff(1,14)><$motion(1,824)><$voicel(1,6)>Se eles têm dormido por tanto tempo quanto você diz...<clear><br><$voicel(1,7)>Talvez se lembrem de algo de quando os humanos<br>Estava aqui."
+    },
+    {
+      "id": 43,
+      "en": "<$comeff(1,6)><$motion(1,666)><$voicel(1,6)>Hm? This is the <$cdef(27)>Snorlax </color>you mentioned?",
+      "pt_br": "<$comeff(1,6)><$motion(1,666)><$voicel(1,6)>Isto é o... <$cdef(27)>Snorlax </color>Já me disse?"
+    },
+    {
+      "id": 44,
+      "en": "<$emotion(1,41)><$voicel(1,3)>There’s so much stuff in the way, I can’t really see...",
+      "pt_br": "<$emotion(1,41)><$voicel(1,3)>Há tanta coisa no caminho, eu realmente não posso ver..."
+    },
+    {
+      "id": 45,
+      "en": "<$emotion(1,14)><$voicel(1,7)>Oho! That’s one mossy <$cdef(27)>Snorlax</color>, all right.<clear><br><$comeff(1,14)><$motion(1,666)><$voicel(1,6)>And some awfully impressive snoring...",
+      "pt_br": "<$emotion(1,14)><$voicel(1,7)>Oho! Isso é um musgo <$cdef(27)>Snorlax</color>Está bem.<clear><br><$comeff(1,14)><$motion(1,666)><$voicel(1,6)>E alguns roncos impressionantes..."
+    },
+    {
+      "id": 46,
+      "en": "<$comcan(1)><$comeff(4,10)><$motion(4,803)><$voicel(4,7)>I love my naps as much as the next ’mon, but this is<br>some next-level napping!",
+      "pt_br": "<$comcan(1)><$comeff(4,10)><$motion(4,803)><$voicel(4,7)>Eu amo meus cochilos tanto quanto o próximo 'mon, mas este é<br>Um cochilo do outro nível!"
+    },
+    {
+      "id": 47,
+      "en": "<$comeff(1,3)><$motion(1,824)><$voicel(1,9)>Yes... It’s well known that once a <$cdef(27)>Snorlax </color>falls asleep, they<br>don’t wake up easily.<clear><br><$voicel(1,7)>But I’ve never heard of one sleeping so long that they get<br>completely covered in moss!<clear><br><$emotion(1,31)><$voicel(1,3)>I have to imagine their body would grow weak after going<br>all this time without eating...",
+      "pt_br": "<$comeff(1,3)><$motion(1,824)><$voicel(1,9)>Sim... É bem sabido que uma vez um <$cdef(27)>Snorlax </color>Adormece, eles<br>não acorde facilmente.<clear><br><$voicel(1,7)>Mas eu nunca ouvi falar de alguém dormindo tanto tempo que eles ficam<br>completamente coberto de musgo!<clear><br><$emotion(1,31)><$voicel(1,3)>Tenho de imaginar que o corpo deles ficaria fraco depois de ir.<br>Todo este tempo sem comer..."
+    },
+    {
+      "id": 48,
+      "en": "<$emotion(5,29)><$voicel(5,8)>How d’you think we can wake ’em up, yo?",
+      "pt_br": "<$emotion(5,29)><$voicel(5,8)>Como achas que podemos acordá-los?"
+    },
+    {
+      "id": 49,
+      "en": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>Don’t most folks naturally wake up when the sun comes out?<br><wait(0.5)><$emotion(4,37)><$voicel(4,8)>I mean, nighttime is playtime for me, but...",
+      "pt_br": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>A maioria das pessoas não acorda naturalmente quando o sol sai?<br><wait(0.5)><$emotion(4,37)><$voicel(4,8)>Quero dizer, a noite é hora de brincar para mim, mas..."
+    },
+    {
+      "id": 50,
+      "en": "<$comeff(1,20)><$motion(1,803)><$voicel(1,9)>Oho! That’s it, <$cdef(27)>Meowth</color>!",
+      "pt_br": "<$comeff(1,20)><$motion(1,803)><$voicel(1,9)>É isso aí, <$cdef(27)>Meowth</color>!"
+    },
+    {
+      "id": 51,
+      "en": "<$comeff(4,6)><$motion(4,805)><$voicel(4,6)>Huh? What’d I say?",
+      "pt_br": "<$comeff(4,6)><$motion(4,805)><$voicel(4,6)>O que é que eu disse?"
+    },
+    {
+      "id": 52,
+      "en": "<$comeff(1,10)><$motion(1,824)><$voicel(1,9)>I believe the reason <$cdef(27)>Snorlax </color>won’t wake up is because this<br>town is simply too dark!<clear><br><$voicel(1,7)>So dark, in fact, they can’t even tell night from day!<br><$voicel(1,10)>And that’s why they’re still sleeping! <wait(0.8)><$comeff(1,4)><$motion(1,807)><$voicel(1,4)>Probably!",
+      "pt_br": "<$comeff(1,10)><$motion(1,824)><$voicel(1,9)>Acredito na razão. <$cdef(27)>Snorlax </color>não vai acordar é porque isso<br>A cidade é muito escura!<clear><br><$voicel(1,7)>Tão escuro, na verdade, eles não conseguem nem mesmo distinguir a noite do dia!<br><$voicel(1,10)>E é por isso que eles ainda estão dormindo! <wait(0.8)><$comeff(1,4)><$motion(1,807)><$voicel(1,4)>Provavelmente!"
+    },
+    {
+      "id": 53,
+      "en": "<$emotion(5,37)><$voicel(5,9)>Yeah! That makes sense! You have the most professory<br>ideas, yo!",
+      "pt_br": "<$emotion(5,37)><$voicel(5,9)>Sim, faz sentido, tem mais professores.<br>Ideias, yo!"
+    },
+    {
+      "id": 54,
+      "en": "<$emotion(4,38)><$voicel(4,10)>And I give the best hints!",
+      "pt_br": "<$emotion(4,38)><$voicel(4,10)>E dou as melhores dicas!"
+    },
+    {
+      "id": 55,
+      "en": "<$emotion(1,1)><$voicel(1,7)>Which leads us to...<$cdef(27)><pname;0></color>!<clear><br><$comeff(1,14)><$facial(1,1)><$voicel(1,5)>If at all possible, I’d like you to <$cdef(27)>brighten up this town</color>.<clear><br><$comeff(1,14)><$motion(1,824)><$voicel(1,5)>If we can wake a Pokémon who’s been sleeping for such<br>an incredibly long time...<clear><br><$voicel(1,7)>Maybe we can hear more about when humans were<br>still around!",
+      "pt_br": "<$emotion(1,1)><$voicel(1,7)>O que nos leva a...<$cdef(27)><pname;0></color>!<clear><br><$comeff(1,14)><$facial(1,1)><$voicel(1,5)>Se possível, gostaria que você <$cdef(27)>Iluminar esta cidade</color>.<clear><br><$comeff(1,14)><$motion(1,824)><$voicel(1,5)>Se conseguirmos acordar um Pokémon que está dormindo para tal<br>Um tempo incrivelmente longo...<clear><br><$voicel(1,7)>Talvez possamos ouvir mais sobre quando os humanos eram<br>Ainda por aí!"
+    },
+    {
+      "id": 56,
+      "en": "<$comeff(1,3)><$voicel(1,7)>As for <$cdef(27)>Meowth </color>and <$cdef(27)>Trubbish</color>, <$comeff(1,6)><$motion(1,666)><$voicel(1,6)>could you two please do<br>what you can to assist <$cdef(27)><pname;0></color>?<clear><br><$emotion(1,38)><$voicel(1,9)>If you all work together, I’m sure you can succeed!",
+      "pt_br": "<$comeff(1,3)><$voicel(1,7)>Quanto a <$cdef(27)>Meowth </color>e <$cdef(27)>Trubbish</color>, <$comeff(1,6)><$motion(1,666)><$voicel(1,6)>Vocês dois, por favor, podem fazer<br>o que você pode ajudar <$cdef(27)><pname;0></color>?<clear><br><$emotion(1,38)><$voicel(1,9)>Se todos vocês trabalharem juntos, tenho certeza de que vocês podem ter sucesso!"
+    },
+    {
+      "id": 57,
+      "en": "<$emotion(4,8)><$voicel(4,9)>I kinda like it dark, but how could I not return the favor<br>after <$cdef(27)><pname;1></color> helped me out so much?",
+      "pt_br": "<$emotion(4,8)><$voicel(4,9)>Eu gosto de escuro, mas como eu poderia não retribuir o favor<br>após <$cdef(27)><pname;1></color> Ajudaste-me tanto?"
+    },
+    {
+      "id": 58,
+      "en": "<$emotion(5,38)><$voicel(5,9)>I’ll totally help out too if it’ll stop this snorin’!",
+      "pt_br": "<$emotion(5,38)><$voicel(5,9)>Eu vou ajudar totalmente para fora também se ele vai parar este ronco!"
+    }
+  ]
+}

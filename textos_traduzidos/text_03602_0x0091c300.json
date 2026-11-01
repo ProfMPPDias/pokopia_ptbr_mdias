@@ -1,0 +1,29 @@
+{
+  "entry_index": 3602,
+  "bin_id": "0x91c300",
+  "decompressed_size": 784,
+  "first_tag_offset": 192,
+  "total_strings": 4,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(2,5)><$emotion(2,65)>Hmm. Actually, I can kinda sense them around already.",
+      "pt_br": "<$voicel(2,5)><$emotion(2,65)>Na verdade, já consigo senti-los por aí."
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(2,1)><$emotion(2,31)>They REALLY love playing with other Pokémon, <$voicel(2,8)><$emotion(2,51)>so if they<br>haven’t found anybody else, I bet they’re super bored.",
+      "pt_br": "<$voicel(2,1)><$emotion(2,31)>Eles realmente amam jogar com outros Pokémon, <$voicel(2,8)><$emotion(2,51)>Então, se eles<br>não encontrei mais ninguém, eu aposto que eles estão super entediado."
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(2,7)><$emotion(2,14)>There’s a <$cdef(27)>big, broken bridge</color> over there, and I think that<br>Pokémon’s past there somewhere!",
+      "pt_br": "<$voicel(2,7)><$emotion(2,14)>Há um <$cdef(27)>grande, ponte quebrada</color> Ali, e eu acho que<br>O passado de Pokémon ali em algum lugar!"
+    },
+    {
+      "id": 3,
+      "en": "<$facial(2,5)><$motion(2,838)><$comeff(2,21)><$voicel(2,9)>Oooh, you met <$cdef(27)><$cname(554)></color>? YAY! If they need anything, make<br>sure to help ’em out!",
+      "pt_br": "<$facial(2,5)><$motion(2,838)><$comeff(2,21)><$voicel(2,9)>Oooh, já se conhecem. <$cdef(27)><$cname(554)></color>Se precisarem de alguma coisa, façam<br>É claro que os ajudarão!"
+    }
+  ]
+}

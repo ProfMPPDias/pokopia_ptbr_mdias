@@ -1,0 +1,219 @@
+{
+  "entry_index": 2900,
+  "bin_id": "0x755d00",
+  "decompressed_size": 10512,
+  "first_tag_offset": 617,
+  "total_strings": 42,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Hohoho! It’s thanks to you we were able to reach this<br>island, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Hohoho! Foi graças a você que conseguimos chegar a isso<br>ilha, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 1,
+      "en": "<oneline><$comeff(1,5)><$motion(1,803)><$voicel(1,7)>Oho! Look at that, <$cdef(27)><pname;0></color>! I spy a<br><$cdef(27)>Pokémon Center</color>!<clear><br><$comeff(1,7)><$motion(1,802)><$voicel(1,4)>But...as I suppose I should have expected, it’s gone to ruin.",
+      "pt_br": "<oneline><$comeff(1,5)><$motion(1,803)><$voicel(1,7)>Olha para isto. <$cdef(27)><pname;0></color>Estou a ver.<br><$cdef(27)>Centro Pokémon</color>!<clear><br><$comeff(1,7)><$motion(1,802)><$voicel(1,4)>Mas... como eu acho que eu deveria ter esperado, ele foi para a ruína."
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Hm? Look, there’s a Pokémon near it!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,7)>Right, then! First, let’s try talking to that Pokémon.",
+      "pt_br": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Hm? Olhe, há um Pokémon perto dele!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,7)>Certo, então! Primeiro, vamos tentar falar com aquele Pokémon."
+    },
+    {
+      "id": 3,
+      "en": "<$comeff(1,3)><$facial(1,4)><$motion(1,664)><$voicel(1,7)>Let’s try talking to that Pokémon first!",
+      "pt_br": "<$comeff(1,3)><$facial(1,4)><$motion(1,664)><$voicel(1,7)>Vamos tentar falar com aquele Pokémon primeiro!"
+    },
+    {
+      "id": 4,
+      "en": "<$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Oooh, hello! Nice to meet you! But how did you get here<br>when you don’t have any wings?<clear><br><$comeff(4,6)><$motion(4,806)><$voicel(4,7)>Wait—are you the kind of Pokémon who can fly even<br>WITHOUT wings?!",
+      "pt_br": "<$comeff(4,9)><$motion(4,801)><$voicel(4,9)>Olá, prazer em conhecê-lo, mas como chegou aqui?<br>quando você não tem asas?<clear><br><$comeff(4,6)><$motion(4,806)><$voicel(4,7)>Espera, és o tipo de Pokémon que sabe voar até<br>Sem asas?!"
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(1,3)><$motion(1,801)><$voicel(1,9)>Hoho! I wouldn’t be surprised if you learned how to fly<br>sooner or later, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$comeff(1,3)><$motion(1,801)><$voicel(1,9)>Hoho! Eu não ficaria surpreso se você aprendeu a voar<br>Mais cedo ou mais tarde, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(1,3)><$motion(1,801)><$voicel(1,9)>Hoho! I wouldn’t be surprised if you learned how to fly<br>sooner or later, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$comeff(1,3)><$motion(1,801)><$voicel(1,9)>Hoho! Eu não ficaria surpreso se você aprendeu a voar<br>Mais cedo ou mais tarde, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 7,
+      "en": "<$comeff(1,10)><$motion(1,661)><$voicel(1,5)>You seem to be familiar with this town. Would you tell us<br>what sort of place it is? <$comeff(1,6)><$motion(1,666)><$voicel(1,8)>Are there any humans around?",
+      "pt_br": "<$comeff(1,10)><$motion(1,661)><$voicel(1,5)>Parece estar familiarizado com esta cidade.<br>Que tipo de sítio é? <$comeff(1,6)><$motion(1,666)><$voicel(1,8)>Há algum humano por perto?"
+    },
+    {
+      "id": 8,
+      "en": "<$comeff(4,14)><$motion(4,802)><$voicel(4,4)>Humans? No, I’ve never seen one.<clear><br><$comeff(4,5)><$motion(4,803)><$voicel(4,7)>Oh, but there are lots ’n’ lotsa buildings and machines that<br>humans built around here! <$comeff(4,3)><$motion(4,805)><$voicel(4,4)>Mostly broken ones, though.",
+      "pt_br": "<$comeff(4,14)><$motion(4,802)><$voicel(4,4)>Humanos? Não, eu nunca vi um.<clear><br><$comeff(4,5)><$motion(4,803)><$voicel(4,7)>Oh, mas há muitos ‘n’ lotes de edifícios e máquinas que<br>Humanos construídos por aqui! <$comeff(4,3)><$motion(4,805)><$voicel(4,4)>Mas a maioria está partida."
+    },
+    {
+      "id": 9,
+      "en": "<$comeff(1,7)><$motion(1,802)><$voicel(1,3)>Hmm, yes... And the <$cdef(27)>Pokémon Center</color> is broken down too.<br><$comeff(1,3)><$motion(1,661)><$voicel(1,8)>By the way, do you like this town?",
+      "pt_br": "<$comeff(1,7)><$motion(1,802)><$voicel(1,3)>Sim... e o... <$cdef(27)>Centro Pokémon</color> está quebrado também.<br><$comeff(1,3)><$motion(1,661)><$voicel(1,8)>A propósito, gostas desta cidade?"
+    },
+    {
+      "id": 10,
+      "en": "<$comeff(4,8)><$motion(4,801)><$voicel(4,9)>Yes, I LOVE it! There are lotsa different islands, and it’s<br>really fun to fly around between them!<clear><br><$comeff(4,10)><$motion(4,807)><$voicel(4,7)>This island we’re on is the biggest one. I just wish there<br>were more Pokémon around...",
+      "pt_br": "<$comeff(4,8)><$motion(4,801)><$voicel(4,9)>Sim, eu adoro! Há muitas ilhas diferentes, e é<br>É muito divertido voar entre eles!<clear><br><$comeff(4,10)><$motion(4,807)><$voicel(4,7)>Esta ilha em que estamos é a maior. Eu só desejo lá<br>eram mais Pokémon em torno..."
+    },
+    {
+      "id": 11,
+      "en": "<oneline><$comeff(1,9)><$motion(1,801)><$voicel(1,7)>Well, you’re in luck—<$cdef(27)><pname;0></color> here is<br>something<slide><br>of<slide><br>an<slide><br>expert<slide><br>at<slide><br>making<slide><br>Pokémon habitats!<clear><br><$comeff(1,3)><$motion(1,664)><$voicel(1,9)>And once there are more habitats in this town, more<br>Pokémon may return!",
+      "pt_br": "<oneline><$comeff(1,9)><$motion(1,801)><$voicel(1,7)>Bem, você está com sorte...<$cdef(27)><pname;0></color> Aqui está.<br>algo<slide><br>de<slide><br>a<slide><br>Perito<slide><br>em<slide><br>making<slide><br>Habitats de Pokémon!<clear><br><$comeff(1,3)><$motion(1,664)><$voicel(1,9)>E uma vez que há mais habitats nesta cidade, mais<br>Pokémon pode voltar!"
+    },
+    {
+      "id": 12,
+      "en": "<$comeff(4,10)><$motion(4,801)><$voicel(4,9)>Really? That’s AMAZING! Oooh, I can’t wait! And I wanna<br>help too!",
+      "pt_br": "<$comeff(4,10)><$motion(4,801)><$voicel(4,9)>Realmente? Isso é incrível! Oooh, Eu não posso esperar! E eu quero<br>Ajuda também!"
+    },
+    {
+      "id": 13,
+      "en": "<oneline><$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Hohoho! Well then, <$cdef(27)><pname;0></color>, why don’t<br>you<slide><br>make<slide><br>a<slide><br>whole<slide><br>passel<slide><br>of<slide><br>Pokémon<slide><br>habitats<slide><br><$comeff(1,3)><$facial(1,4)><$motion(1,664)><$voicel(1,8)>here<slide><br>in<slide><br>this<slide><br>town too?",
+      "pt_br": "<oneline><$comeff(1,9)><$facial(1,4)><$motion(1,801)><$voicel(1,7)>Bem, então... <$cdef(27)><pname;0></color>, por que não<br>você<slide><br>make<slide><br>a<slide><br>inteiro<slide><br>passel<slide><br>de<slide><br>Pokémon<slide><br>habitats<slide><br><$comeff(1,3)><$facial(1,4)><$motion(1,664)><$voicel(1,8)>Aqui.<slide><br>em<slide><br>isto<slide><br>Também na cidade?"
+    },
+    {
+      "id": 14,
+      "en": "<$comeff(1,5)><$motion(1,665)><$voicel(1,5)>But first we ought to take a peek at the <$cdef(27)>Pokémon<br>Center PC</color>.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,7)>We might be able to get some more useful items from it!",
+      "pt_br": "<$comeff(1,5)><$motion(1,665)><$voicel(1,5)>Mas primeiro devíamos dar uma olhadela no <$cdef(27)>Pokémon<br>Centralizar PC</color>.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,7)>Talvez possamos obter alguns itens mais úteis dele!"
+    },
+    {
+      "id": 15,
+      "en": "<$comeff(1,5)><$motion(1,665)><$voicel(1,5)>But first we ought to take a peek at the <$cdef(27)>Pokémon<br>Center PC</color>.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,7)>We might be able to get some more useful items from it!",
+      "pt_br": "<$comeff(1,5)><$motion(1,665)><$voicel(1,5)>Mas primeiro devíamos dar uma olhadela no <$cdef(27)>Pokémon<br>Centralizar PC</color>.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,7)>Talvez possamos obter alguns itens mais úteis dele!"
+    },
+    {
+      "id": 16,
+      "en": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Let’s get a gander at the <$cdef(27)>Pokémon Center PC</color>!",
+      "pt_br": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Vamos dar uma olhada no <$cdef(27)>Pokémon Central PC</color>!"
+    },
+    {
+      "id": 17,
+      "en": "<$comeff(1,4)><$motion(1,807)><$voicel(1,3)>Whoa there, <$cdef(27)><pname;0></color>—wait for me!<clear><br><$comeff(1,3)><$motionoff(1,804)><$voicel(1,8)>I want to see that <$cdef(27)>PC</color> too!",
+      "pt_br": "<$comeff(1,4)><$motion(1,807)><$voicel(1,3)>Calma aí. <$cdef(27)><pname;0></color>- Espera por mim!<clear><br><$comeff(1,3)><$motionoff(1,804)><$voicel(1,8)>Quero ver isso. <$cdef(27)>PC</color> Também!"
+    },
+    {
+      "id": 18,
+      "en": "<$comeff(1,9)><$motion(1,801)><$voicel(1,7)>Hohoho! This <$cdef(27)>PC </color>seems to be in perfect working order!",
+      "pt_br": "<$comeff(1,9)><$motion(1,801)><$voicel(1,7)>Isto é... <$cdef(27)>PC </color>parece estar em perfeita ordem de trabalho!"
+    },
+    {
+      "id": 19,
+      "en": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>I do hope we’ll get our hands on some more new items!",
+      "pt_br": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Eu espero que nós vamos obter as nossas mãos em mais alguns itens novos!"
+    },
+    {
+      "id": 20,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>So let’s use this <$cdef(27)>PC </color>just like the others to improve the<br>environment around here!",
+      "pt_br": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Então vamos usar isso <$cdef(27)>PC </color>tal como os outros para melhorar o<br>ambiente por aqui!"
+    },
+    {
+      "id": 21,
+      "en": "<$comeff(1,9)><$motion(1,661)><$voicel(1,5)>Just as you’ve done before, I think you ought to work on<br>increasing the Pokémon population here in this town too!<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,7)>And once we’ve got a lot of Pokémon around, it would be<br>kind of you to improve their <$cdef(27)>comfort levels</color> as best you can.",
+      "pt_br": "<$comeff(1,9)><$motion(1,661)><$voicel(1,5)>Assim como você já fez antes, eu acho que você deve trabalhar em<br>Aumentando a população de Pokémon aqui nesta cidade também!<clear><br><$comeff(1,10)><$motion(1,806)><$voicel(1,7)>E uma vez que temos um monte de Pokémon ao redor, seria<br>tipo de você para melhorar o <$cdef(27)>níveis de conforto</color> O melhor que puderes."
+    },
+    {
+      "id": 22,
+      "en": "<$comeff(1,3)><$motion(1,661)><$voicel(1,7)>It’s probably best to start out where <$cdef(27)>Rookidee </color>suggested<br><$comeff(1,14)><$motion(1,666)><$voicel(1,6)>and make Pokémon habitats here on this island where<slide><br>the <$cdef(27)>Pokémon Center </color>is.<clear><br><$comeff(1,10)><$motion(1,664)><$voicel(1,8)>But I’ll leave the method up to you. <$comeff(1,9)><$motion(1,801)><$voicel(1,9)>You’re already a<br>town-building master, after all!",
+      "pt_br": "<$comeff(1,3)><$motion(1,661)><$voicel(1,7)>Provavelmente é melhor começar onde <$cdef(27)>Rookidee </color>sugerido<br><$comeff(1,14)><$motion(1,666)><$voicel(1,6)>e fazer Pokémon habitats aqui nesta ilha onde<slide><br>a <$cdef(27)>Centro Pokémon </color>É.<clear><br><$comeff(1,10)><$motion(1,664)><$voicel(1,8)>Mas vou deixar o método para você. <$comeff(1,9)><$motion(1,801)><$voicel(1,9)>Você já é um<br>Afinal de contas, mestre da construção da cidade!"
+    },
+    {
+      "id": 23,
+      "en": "<$comeff(1,3)><$facial(1,4)><$motion(1,803)><$voicel(1,9)>But of course you can come ask me anytime if there’s<br>something you’re unsure about.",
+      "pt_br": "<$comeff(1,3)><$facial(1,4)><$motion(1,803)><$voicel(1,9)>Mas é claro que você pode vir me perguntar a qualquer hora se houver<br>algo que você não está certo sobre."
+    },
+    {
+      "id": 24,
+      "en": "Try to get the <$cdef(27)>environment level </color>up to <$cdef(27)>three </color>to satisfy<br><$cdef(27)>Professor Tangrowth</color>!<clear><br>The <$cdef(27)>environment level </color>will increase as more Pokémon<br>arrive and their <$cdef(27)>comfort levels </color>improve!",
+      "pt_br": "Tentar obter o <$cdef(27)>nível de ambiente </color>até <$cdef(27)>três </color>para satisfazer<br><$cdef(27)>Professor Tangrowth</color>!<clear><br>A <$cdef(27)>nível de ambiente </color>aumentará à medida que mais Pokémon<br>chegar e o seu <$cdef(27)>níveis de conforto </color>Melhorar!"
+    },
+    {
+      "id": 25,
+      "en": "You can check the current <$cdef(27)>environment level</color> anytime at<br>the <$cdef(27)>Pokémon Center PC</color>!",
+      "pt_br": "Você pode verificar o atual <$cdef(27)>nível de ambiente</color> a qualquer momento em<br>a <$cdef(27)>Pokémon Central PC</color>!"
+    },
+    {
+      "id": 26,
+      "en": "<$comeff(1,3)><$motion(1,661)><$voicel(1,7)>I’d like you to increase the Pokémon population of this<br>town too, and help improve their <$cdef(27)>comfort levels</color>!",
+      "pt_br": "<$comeff(1,3)><$motion(1,661)><$voicel(1,7)>Eu gostaria que você aumentasse a população Pokémon deste<br>cidade também, e ajudar a melhorar a sua <$cdef(27)>níveis de conforto</color>!"
+    },
+    {
+      "id": 27,
+      "en": "Try to get the <$cdef(27)>environment level </color>up to <$cdef(27)>three </color>to satisfy<br><$cdef(27)>Professor Tangrowth</color>!<clear><br>The <$cdef(27)>environment level </color>will increase as more Pokémon<br>arrive and their <$cdef(27)>comfort levels </color>improve!",
+      "pt_br": "Tentar obter o <$cdef(27)>nível de ambiente </color>até <$cdef(27)>três </color>para satisfazer<br><$cdef(27)>Professor Tangrowth</color>!<clear><br>A <$cdef(27)>nível de ambiente </color>aumentará à medida que mais Pokémon<br>chegar e o seu <$cdef(27)>níveis de conforto </color>Melhorar!"
+    },
+    {
+      "id": 28,
+      "en": "You can check the current <$cdef(27)>environment level</color> anytime at<br>the <$cdef(27)>Pokémon Center PC</color>!",
+      "pt_br": "Você pode verificar o atual <$cdef(27)>nível de ambiente</color> a qualquer momento em<br>a <$cdef(27)>Pokémon Central PC</color>!"
+    },
+    {
+      "id": 29,
+      "en": "<oneline><$comeff(1,3)><$motion(1,803)><$voicel(1,7)>Oho, <$cdef(27)><pname;0></color>! I see more Pokémon<br>have<slide><br>arrived<slide><br>in<slide><br>this<slide><br>town too!<clear><br><$comeff(1,9)><$motion(1,659)><$voicel(1,9)>And they all seem to be enjoying themselves, as well! We<br>have you to thank for that—so, thank you!",
+      "pt_br": "<oneline><$comeff(1,3)><$motion(1,803)><$voicel(1,7)>Oho, <$cdef(27)><pname;0></color>Vejo mais Pokémon.<br>ter<slide><br>chegou<slide><br>em<slide><br>isto<slide><br>A cidade também!<clear><br><$comeff(1,9)><$motion(1,659)><$voicel(1,9)>E todos eles parecem estar se divertindo, também!<br>tem que agradecer por isso - então, obrigado!"
+    },
+    {
+      "id": 30,
+      "en": "<$comeff(1,5)><$facial(1,1)><$motion(1,661)><$voicel(1,7)>And that all leads me to something I’d like to ask of you.<clear><br><$voicel(1,8)>Would you work together with everyone to rebuild this<br>town’s <$cdef(27)>Pokémon Center</color>?",
+      "pt_br": "<$comeff(1,5)><$facial(1,1)><$motion(1,661)><$voicel(1,7)>E tudo isso me leva a algo que eu gostaria de lhe pedir.<clear><br><$voicel(1,8)>Você trabalharia junto com todos para reconstruir este<br>da cidade <$cdef(27)>Centro Pokémon</color>?"
+    },
+    {
+      "id": 31,
+      "en": "<$comeff(1,3)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>I’m certain it’s possible if you all work together!<clear><br><$voicel(1,8)>It may take a while, but I’ll be waiting!",
+      "pt_br": "<$comeff(1,3)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Estou certo de que é possível se todos vocês trabalharem juntos!<clear><br><$voicel(1,8)>Pode demorar um pouco, mas estarei esperando!"
+    },
+    {
+      "id": 32,
+      "en": "<oneline><$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Now that I think of it, <$cdef(27)><pname;0></color>, have you<br>tried<slide><br><$cdef(27)><$spwfull(36)>ing</color><slide><br>into<slide><br><$comeff(1,6)><$motion(1,666)><$voicel(1,6)>a<slide><br>Pokémon<slide><br>who<slide><br>can<slide><br>fly,<slide><br>like <$cdef(27)>Rookidee</color>?<clear><br><$comeff(1,10)><$motion(1,801)><$voicel(1,7)>If you could do that, it would make traveling between<br>islands much easier, don’t you think?",
+      "pt_br": "<oneline><$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Agora que penso nisso, <$cdef(27)><pname;0></color>, você tem<br>tentou<slide><br><$cdef(27)><$spwfull(36)>ing</color><slide><br>em<slide><br><$comeff(1,6)><$motion(1,666)><$voicel(1,6)>a<slide><br>Pokémon<slide><br>Quem?<slide><br>pode<slide><br>Voar,<slide><br>como <$cdef(27)>Rookidee</color>?<clear><br><$comeff(1,10)><$motion(1,801)><$voicel(1,7)>Se pudesses fazer isso, faria com que viajar entre<br>ilhas muito mais fáceis, você não acha?"
+    },
+    {
+      "id": 33,
+      "en": "<$comeff(1,7)><$facial(1,9)><$motion(1,806)><$voicel(1,3)>Hrmmm, yes... I’d forgotten that you in particular can’t<br><$cdef(27)><$spwfull(36)></color> into just any Pokémon.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,7)>Quite an odd quirk, when you consider how well you can<br><$cdef(27)><$spwfull(36)></color> into a human.",
+      "pt_br": "<$comeff(1,7)><$facial(1,9)><$motion(1,806)><$voicel(1,3)>Hrmmm, sim... Eu tinha esquecido que você em particular não pode<br><$cdef(27)><$spwfull(36)></color> em qualquer Pokémon.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,7)>Que peculiar, quando se considera o quão bem se pode<br><$cdef(27)><$spwfull(36)></color> em um humano."
+    },
+    {
+      "id": 34,
+      "en": "<$comeff(1,7)><$facial(1,9)><$motion(1,806)><$voicel(1,3)>Hrmmm, yes... I’d forgotten that you in particular can’t<br><$cdef(27)><$spwfull(36)></color> into just any Pokémon.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,7)>Quite an odd quirk, when you consider how well you can<br><$cdef(27)><$spwfull(36)></color> into a human.",
+      "pt_br": "<$comeff(1,7)><$facial(1,9)><$motion(1,806)><$voicel(1,3)>Hrmmm, sim... Eu tinha esquecido que você em particular não pode<br><$cdef(27)><$spwfull(36)></color> em qualquer Pokémon.<clear><br><$comeff(1,3)><$motion(1,661)><$voicel(1,7)>Que peculiar, quando se considera o quão bem se pode<br><$cdef(27)><$spwfull(36)></color> em um humano."
+    },
+    {
+      "id": 35,
+      "en": "<$comeff(1,9)><$motion(1,668)><$voicel(1,9)>There’s a Pokémon called <$cdef(27)>Dragonite </color>that’s a true<br>flying expert.<clear><br><$comeff(1,3)><$motion(1,664)><$voicel(1,7)>I’m quite sure it would be useful if you could <$cdef(27)><$spwfull(36)><br></color>into a Pokémon like that!<clear><br><$comeff(1,6)><$motion(1,666)><$voicel(1,8)>Why don’t you try searching for them?",
+      "pt_br": "<$comeff(1,9)><$motion(1,668)><$voicel(1,9)>Há um Pokémon chamado <$cdef(27)>Dragonite </color>isso é verdade<br>Especialista em voo.<clear><br><$comeff(1,3)><$motion(1,664)><$voicel(1,7)>Tenho certeza que seria útil se você pudesse <$cdef(27)><$spwfull(36)><br></color>num Pokémon assim!<clear><br><$comeff(1,6)><$motion(1,666)><$voicel(1,8)>Por que não tenta procurá - los?"
+    },
+    {
+      "id": 36,
+      "en": "<$comeff(1,3)><$motion(1,806)><$voicel(1,5)>This town seems to be comprised of several different<br>islands. <$comeff(1,6)><$motion(1,666)><$voicel(1,8)>Why don’t you try exploring the other ones?",
+      "pt_br": "<$comeff(1,3)><$motion(1,806)><$voicel(1,5)>Esta cidade parece ser composta por vários diferentes<br>ilhas. <$comeff(1,6)><$motion(1,666)><$voicel(1,8)>Por que não tenta explorar os outros?"
+    },
+    {
+      "id": 37,
+      "en": "<$comeff(1,9)><$motion(1,801)><$voicel(1,7)>You might meet some new Pokémon out there.",
+      "pt_br": "<$comeff(1,9)><$motion(1,801)><$voicel(1,7)>Talvez conheças um novo Pokémon."
+    },
+    {
+      "id": 38,
+      "en": "<$comeff(1,10)><$motion(1,668)><$voicel(1,7)><$cdef(27)>Dragonite </color>is an expert flier. If you could <$cdef(27)><$spwfull(36)></color> into<br>a Pokémon like that, <$comeff(1,3)><$voicel(1,8)>you could travel between islands<slide><br>with a lot less hassle!",
+      "pt_br": "<$comeff(1,10)><$motion(1,668)><$voicel(1,7)><$cdef(27)>Dragonite </color>é um piloto experiente. <$cdef(27)><$spwfull(36)></color> em<br>um Pokémon assim, <$comeff(1,3)><$voicel(1,8)>você poderia viajar entre ilhas<slide><br>Com muito menos problemas!"
+    },
+    {
+      "id": 39,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,661)><$voicel(1,7)>Hohoho! It seems this really was a machine meant to<br>transport folks from island to island!<clear><br><$comeff(1,9)><$motion(1,801)><$voicel(1,10)>I had a hunch that’s what it was!",
+      "pt_br": "<$comeff(1,10)><$facial(1,4)><$motion(1,661)><$voicel(1,7)>Parece que isto era mesmo uma máquina destinada a<br>transporte pessoas de ilha para ilha!<clear><br><$comeff(1,9)><$motion(1,801)><$voicel(1,10)>Eu tinha um palpite de que era isso!"
+    },
+    {
+      "id": 40,
+      "en": "<oneline><$comeff(1,5)><$motion(1,803)><$voicel(1,7)>Oho! Look at that, <$cdef(27)><pname;0></color>! I spy a<br><$cdef(27)>Pokémon Center</color>!<clear><br><$comeff(1,7)><$motion(1,802)><$voicel(1,4)>But...as I suppose I should have expected, it’s gone to ruin.",
+      "pt_br": "<oneline><$comeff(1,5)><$motion(1,803)><$voicel(1,7)>Olha para isto. <$cdef(27)><pname;0></color>Estou a ver.<br><$cdef(27)>Centro Pokémon</color>!<clear><br><$comeff(1,7)><$motion(1,802)><$voicel(1,4)>Mas... como eu acho que eu deveria ter esperado, ele foi para a ruína."
+    },
+    {
+      "id": 41,
+      "en": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Hm? Look, there’s a Pokémon near it!<clear><br><$comeff(1,10)><$motion(1,664)><$voicel(1,7)>Right, then! First, let’s try talking to that Pokémon.",
+      "pt_br": "<$comeff(1,3)><$motion(1,661)><$voicel(1,5)>Hm? Olhe, há um Pokémon perto dele!<clear><br><$comeff(1,10)><$motion(1,664)><$voicel(1,7)>Certo, então! Primeiro, vamos tentar falar com aquele Pokémon."
+    }
+  ]
+}

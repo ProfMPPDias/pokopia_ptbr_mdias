@@ -1,0 +1,389 @@
+{
+  "entry_index": 2408,
+  "bin_id": "0x5f0500",
+  "decompressed_size": 15232,
+  "first_tag_offset": 1096,
+  "total_strings": 76,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(1,5)><$comeff(1,6)><$motion(1,666)>Ah. Hast ja offenbar schon ’n paar <$cdef(27)><fqty(2)><$ifull(404)></color> dabei.<br>Du magst mir doch bestimmt welche überlassen, oder?",
+      "pt_br": "<$voicel(1,5)><$comeff(1,6)><$motion(1,666)>Ah. Hast ja offenbar schon ’n paar <$cdef(27)><fqty(2)><$ifull(404)></color> dabei.<br>Du magst mir doch bestimmt welche überlassen, oder?"
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(4,7)><$emotion(4,38)>Klasse Sache, da bedank ich mich.<br>Dann wollen wir mal.",
+      "pt_br": "<$voicel(4,7)><$emotion(4,38)>Klasse Sache, da bedank ich mich.<br>Dann wollen wir mal."
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(4,6)><$motion(4,200)>Tschack... <wait(0.1)>Tschaack... <wait(1.4)><$voicel(4,10)>Tschaaack!",
+      "pt_br": "<$voicel(4,6)><$motion(4,200)>Tschack... <wait(0.1)>Tschaack... <wait(1.4)><$voicel(4,10)>Tschaaack!"
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(4,9)><$facial(4,5)>Das war mal ’ne abgefahrene Trainingseinheit.<br>Nennt sich übrigens <$cdef(27)><$sklfull(4)></color>, die Attacke.",
+      "pt_br": "<$voicel(4,9)><$facial(4,5)>Das war mal ’ne abgefahrene Trainingseinheit.<br>Nennt sich übrigens <$cdef(27)><$sklfull(4)></color>, die Attacke."
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(2,9)><$emotion(2,14)>Das Fleckchen Gras, in dem <$cdef(27)>Bisasam</color> lebt, sieht total<br>gemütlich aus!",
+      "pt_br": "<$voicel(2,9)><$emotion(2,14)>Das Fleckchen Gras, in dem <$cdef(27)>Bisasam</color> lebt, sieht total<br>gemütlich aus!"
+    },
+    {
+      "id": 5,
+      "en": "<oneline><$comeff(2,21)><$facial(2,4)><$motion(2,801)><$voicel(2,7)>Das macht mich voll neidisch...<br>Ich hätte auch gern ein gemütliches Zuhause.<clear><br><$comeff(2,17)><$facial(2,9)><$motion(2,806)><$voicel(2,5)>Ich wünschte, es würde <$cdef(27)>noch eine</color> Fläche<br><indirect><$cdef(27)><$hatname;1(3)></color><slide><br>geben...",
+      "pt_br": "<oneline><$comeff(2,21)><$facial(2,4)><$motion(2,801)><$voicel(2,7)>Das macht mich voll neidisch...<br>Ich hätte auch gern ein gemütliches Zuhause.<clear><br><$comeff(2,17)><$facial(2,9)><$motion(2,806)><$voicel(2,5)>Ich wünschte, es würde <$cdef(27)>noch eine</color> Fläche<br><indirect><$cdef(27)><$hatname;1(3)></color><slide><br>geben..."
+    },
+    {
+      "id": 6,
+      "en": "<oneline><$comeff(2,21)><$facial(2,4)><$motion(2,803)><$voicel(2,7)><$cdef(27)>Bisasam</color> hat es gut mit seinem schönen Fleckchen Gras...<clear><br><$facial(2,9)><$motion(2,806)><$voicel(2,5)>Ich würde auch sooo gerne an einem Ort<br><$cdef(27)><indirect><$hatname;1(3)></color><slide><br>wohnen!",
+      "pt_br": "<oneline><$comeff(2,21)><$facial(2,4)><$motion(2,803)><$voicel(2,7)><$cdef(27)>Bisasam</color> hat es gut mit seinem schönen Fleckchen Gras...<clear><br><$facial(2,9)><$motion(2,806)><$voicel(2,5)>Ich würde auch sooo gerne an einem Ort<br><$cdef(27)><indirect><$hatname;1(3)></color><slide><br>wohnen!"
+    },
+    {
+      "id": 7,
+      "en": "<oneline><$voicel(2,9)><$emotion(2,14)>Du hast eine Fläche<br><$cdef(27)><indirect><$hatname;0(3)></color><slide><br>wachsen<slide><br>lassen,<slide><br>richtig?<slide><br>Juchhuuu! Ich freu mich so!",
+      "pt_br": "<oneline><$voicel(2,9)><$emotion(2,14)>Du hast eine Fläche<br><$cdef(27)><indirect><$hatname;0(3)></color><slide><br>wachsen<slide><br>lassen,<slide><br>richtig?<slide><br>Juchhuuu! Ich freu mich so!"
+    },
+    {
+      "id": 8,
+      "en": "<oneline><$voicel(2,5)><$emotion(2,14)>Hallöchen, <$cdef(27)><pname;0></color>!<br>Hast du kurz Zeit?",
+      "pt_br": "<oneline><$voicel(2,5)><$emotion(2,14)>Hallöchen, <$cdef(27)><pname;0></color>!<br>Hast du kurz Zeit?"
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(4,7)><$comeff(4,14)>Hehe. Genau. Diese riesige Felsenansammlung kann man<br>mit <$comeff(4,10)><$voicel(4,10)><$cdef(27)><$sklfull(4)> </color>zerstören.",
+      "pt_br": "<$voicel(4,7)><$comeff(4,14)>Hehe. Genau. Diese riesige Felsenansammlung kann man<br>mit <$comeff(4,10)><$voicel(4,10)><$cdef(27)><$sklfull(4)> </color>zerstören."
+    },
+    {
+      "id": 10,
+      "en": "<$motion(4,814)><$voicel(4,7)>Guck <$cdef(27)>nach oben</color>, um an die oberen Felsen ranzukommen,<br><wait(0.4)><$motion(4,815)>und <$cdef(27)>nach unten</color> für die Felsen zu deinen Füßen. Zack!<clear><br><$motion(4,814)><$voicel(4,10)>Auf die in der Mitte kannst du einfach draufkloppen.",
+      "pt_br": "<$motion(4,814)><$voicel(4,7)>Guck <$cdef(27)>nach oben</color>, um an die oberen Felsen ranzukommen,<br><wait(0.4)><$motion(4,815)>und <$cdef(27)>nach unten</color> für die Felsen zu deinen Füßen. Zack!<clear><br><$motion(4,814)><$voicel(4,10)>Auf die in der Mitte kannst du einfach draufkloppen."
+    },
+    {
+      "id": 11,
+      "en": "<$emotion(4,37)><$voicel(4,7)>Dann hau mal schön drauf, <$cdef(27)><pname;0></color>.<br>Zeig den Felsen, wer hier der Boss ist!<clear><br><$emotion(4,8)><$voicel(4,10)>Schlag für Schlag, bis du <$cdef(27)><$sklfull(4)> </color>gemeistert hast.",
+      "pt_br": "<$emotion(4,37)><$voicel(4,7)>Dann hau mal schön drauf, <$cdef(27)><pname;0></color>.<br>Zeig den Felsen, wer hier der Boss ist!<clear><br><$emotion(4,8)><$voicel(4,10)>Schlag für Schlag, bis du <$cdef(27)><$sklfull(4)> </color>gemeistert hast."
+    },
+    {
+      "id": 12,
+      "en": "Bewegst du mit <$keyicon(190)> die Kamera hoch, kannst du Blöcke<br>zertrümmern, die weiter oben liegen. Bewegst du sie<slide><br>nach unten, kannst du Blöcke im Boden zerstören.",
+      "pt_br": "Bewegst du mit <$keyicon(190)> die Kamera hoch, kannst du Blöcke<br>zertrümmern, die weiter oben liegen. Bewegst du sie<slide><br>nach unten, kannst du Blöcke im Boden zerstören."
+    },
+    {
+      "id": 13,
+      "en": "<$voicel(4,7)><$emotion(4,14)>Ey, <$cdef(27)><pname;0></color>. Hast du ’nen Moment?",
+      "pt_br": "<$voicel(4,7)><$emotion(4,14)>Ey, <$cdef(27)><pname;0></color>. Hast du ’nen Moment?"
+    },
+    {
+      "id": 14,
+      "en": "<$voicel(4,7)><$emotion(4,31)>Auf der Anhöhe hier is’ irgendwas, aber <$voicel(4,4)>ich schaff’s<br>nich’, da hochzuklettern...<clear><br><$textsize(0)>Wie auch, mit diesen Fäusten?!</textsize><clear><br><$voicel(4,6)><$comeff(4,6)><$facial(4,1)>Könntest du <$cdef(27)>hochkraxeln und die Lage mal abchecken</color>?",
+      "pt_br": "<$voicel(4,7)><$emotion(4,31)>Auf der Anhöhe hier is’ irgendwas, aber <$voicel(4,4)>ich schaff’s<br>nich’, da hochzuklettern...<clear><br><$textsize(0)>Wie auch, mit diesen Fäusten?!</textsize><clear><br><$voicel(4,6)><$comeff(4,6)><$facial(4,1)>Könntest du <$cdef(27)>hochkraxeln und die Lage mal abchecken</color>?"
+    },
+    {
+      "id": 15,
+      "en": "Wenn du <$cdef(27)><fqty(1)><$ifull(1021)></color> oder andere<br>Blöcke stapelst, kannst du <$cdef(27)>an hohe Orte gelangen</color>.",
+      "pt_br": "Wenn du <$cdef(27)><fqty(1)><$ifull(1021)></color> oder andere<br>Blöcke stapelst, kannst du <$cdef(27)>an hohe Orte gelangen</color>."
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(4,7)><$emotion(4,14)>Wär nett, wenn du mal checken könntest,<br>was da auf der Anhöhe rumliegt.",
+      "pt_br": "<$voicel(4,7)><$emotion(4,14)>Wär nett, wenn du mal checken könntest,<br>was da auf der Anhöhe rumliegt."
+    },
+    {
+      "id": 17,
+      "en": "Wenn du <$cdef(27)><fqty(1)><$ifull(1021)></color> oder andere<br>Blöcke stapelst, kannst du <$cdef(27)>an hohe Orte gelangen</color>.",
+      "pt_br": "Wenn du <$cdef(27)><fqty(1)><$ifull(1021)></color> oder andere<br>Blöcke stapelst, kannst du <$cdef(27)>an hohe Orte gelangen</color>."
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(4,9)><$emotion(4,27)><$facial(4,4)>Yo, danke fürs Abchecken. Echt cool von dir.<br>Hast du denn irgendwas Interessantes entdeckt?",
+      "pt_br": "<$voicel(4,9)><$emotion(4,27)><$facial(4,4)>Yo, danke fürs Abchecken. Echt cool von dir.<br>Hast du denn irgendwas Interessantes entdeckt?"
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(2,3)>Du siehst doch auch diese Felswand dort, ja?<clear><br><$voicel(2,5)>Ich frage mich, was sich auf der anderen Seite befindet...",
+      "pt_br": "<$voicel(2,3)>Du siehst doch auch diese Felswand dort, ja?<clear><br><$voicel(2,5)>Ich frage mich, was sich auf der anderen Seite befindet..."
+    },
+    {
+      "id": 20,
+      "en": "<$comeff(2,14)><$voicel(2,5)>Irgendjemand müsste die <$cdef(27)>Wand kaputtmachen</color>,<br>sonst komm ich da nie durch.<slide><br>So richtig zertrümmern, weißt du? RUMMS!<clear><br><$comeff(2,6)><$voicel(2,8)>Kannst du so was, <$cdef(27)><pname;0></color>?",
+      "pt_br": "<$comeff(2,14)><$voicel(2,5)>Irgendjemand müsste die <$cdef(27)>Wand kaputtmachen</color>,<br>sonst komm ich da nie durch.<slide><br>So richtig zertrümmern, weißt du? RUMMS!<clear><br><$comeff(2,6)><$voicel(2,8)>Kannst du so was, <$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 21,
+      "en": "<$comeff(2,5)><$facial(2,13)><$motion(2,803)><$voicel(2,9)>Was? Echt?! Du kannst <$cdef(27)><$sklname;0(4)> </color>einsetzen?<clear><br><$comeff(2,14)><$motion(2,805)><$facial(2,1)>...<clear><br><$comeff(2,1)><$facial(2,4)><$motion(2,803)><$voicel(2,9)>Oh, okay... Wäre auch zu schön gewesen.",
+      "pt_br": "<$comeff(2,5)><$facial(2,13)><$motion(2,803)><$voicel(2,9)>Was? Echt?! Du kannst <$cdef(27)><$sklname;0(4)> </color>einsetzen?<clear><br><$comeff(2,14)><$motion(2,805)><$facial(2,1)>...<clear><br><$comeff(2,1)><$facial(2,4)><$motion(2,803)><$voicel(2,9)>Oh, okay... Wäre auch zu schön gewesen."
+    },
+    {
+      "id": 22,
+      "en": "<$voicel(2,7)><$emotion(2,12)>Es gibt da so eine <$cdef(27)>Attacke namens <$sklfull(4)></color>,<br>mit der wir diese Wand zerstören könnten, aber...<clear><br><$voicel(2,4)>Wenn du sie nicht beherrschst... Pustekuchen.",
+      "pt_br": "<$voicel(2,7)><$emotion(2,12)>Es gibt da so eine <$cdef(27)>Attacke namens <$sklfull(4)></color>,<br>mit der wir diese Wand zerstören könnten, aber...<clear><br><$voicel(2,4)>Wenn du sie nicht beherrschst... Pustekuchen."
+    },
+    {
+      "id": 23,
+      "en": "<$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Ah, ’n <$cdef(27)><fqty(1)><$ifull(2793)></color> hast du also gefunden, hm?<clear><br><$comeff(4,17)><$facial(4,9)><$motion(4,807)><$voicel(4,3)>Nich’, dass ich ’nen Schimmer hätte, was man damit macht.<clear><br><$comeff(4,1)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>Aber das kriegst du bestimmt noch raus. Kenn dich ja.<br><$emotion(4,8)><$voicel(4,10)>Meine Neugier is’ jedenfalls erst mal gestillt.<slide><br>Danke dir, <$cdef(27)><pname;2></color>.",
+      "pt_br": "<$comeff(4,14)><$motion(4,805)><$voicel(4,5)>Ah, ’n <$cdef(27)><fqty(1)><$ifull(2793)></color> hast du also gefunden, hm?<clear><br><$comeff(4,17)><$facial(4,9)><$motion(4,807)><$voicel(4,3)>Nich’, dass ich ’nen Schimmer hätte, was man damit macht.<clear><br><$comeff(4,1)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>Aber das kriegst du bestimmt noch raus. Kenn dich ja.<br><$emotion(4,8)><$voicel(4,10)>Meine Neugier is’ jedenfalls erst mal gestillt.<slide><br>Danke dir, <$cdef(27)><pname;2></color>."
+    },
+    {
+      "id": 24,
+      "en": "<$voicel(2,7)><$emotion(2,9)>Hm... Es ist schon eine ganze Weile her, aber ich hab da<br>mal ein Pokémon getroffen, <$voicel(2,6)>das <$cdef(27)><$sklfull(4)></color> echt gut<slide><br>einsetzen konnte!",
+      "pt_br": "<$voicel(2,7)><$emotion(2,9)>Hm... Es ist schon eine ganze Weile her, aber ich hab da<br>mal ein Pokémon getroffen, <$voicel(2,6)>das <$cdef(27)><$sklfull(4)></color> echt gut<slide><br>einsetzen konnte!"
+    },
+    {
+      "id": 25,
+      "en": "<$voicel(2,5)><$emotion(2,13)>Es hat immer mit einem <$cdef(27)>Boxsack</color> trainiert...<clear><br><$voicel(2,8)>Und dabei sah es so cool aus! Selbst wenn es sich bloß<br>mal auf einer <$cdef(27)>Bank </color>ausgeruht hat, war das sooo cool!",
+      "pt_br": "<$voicel(2,5)><$emotion(2,13)>Es hat immer mit einem <$cdef(27)>Boxsack</color> trainiert...<clear><br><$voicel(2,8)>Und dabei sah es so cool aus! Selbst wenn es sich bloß<br>mal auf einer <$cdef(27)>Bank </color>ausgeruht hat, war das sooo cool!"
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(2,7)><$emotion(2,18)>Ich hätte mir von ihm <$cdef(27)><$sklfull(4)></color> beibringen lassen<br>sollen...!<clear><br><$voicel(2,4)>Aber bei meinen kurzen Armen wär das wahrscheinlich<br>eh nichts geworden...",
+      "pt_br": "<$voicel(2,7)><$emotion(2,18)>Ich hätte mir von ihm <$cdef(27)><$sklfull(4)></color> beibringen lassen<br>sollen...!<clear><br><$voicel(2,4)>Aber bei meinen kurzen Armen wär das wahrscheinlich<br>eh nichts geworden..."
+    },
+    {
+      "id": 27,
+      "en": "<$voicel(2,7)><$emotion(2,14)>Falls du irgendwann <$cdef(27)><$sklfull(4)></color> erlernst,<br>sag Bescheid. Dann finden wir zusammen raus,<slide><br><$emotion(2,38)><$voicel(2,10)>was hinter dieser Felswand so alles liegt!",
+      "pt_br": "<$voicel(2,7)><$emotion(2,14)>Falls du irgendwann <$cdef(27)><$sklfull(4)></color> erlernst,<br>sag Bescheid. Dann finden wir zusammen raus,<slide><br><$emotion(2,38)><$voicel(2,10)>was hinter dieser Felswand so alles liegt!"
+    },
+    {
+      "id": 28,
+      "en": "<$voicel(2,5)><$facial(2,1)><$comeff(2,14)>Dieses Pokémon, das <$cdef(27)><$sklfull(4)></color> einsetzen konnte,<br>hat immer mit einem <$cdef(27)>Boxsack </color>trainiert.<clear><br><$voicel(2,8)><$comcan(2)><$motion(2,803)>Und wenn es müde war, hat es sich auf einer <$cdef(27)>Bank</color><br>ausgeruht.",
+      "pt_br": "<$voicel(2,5)><$facial(2,1)><$comeff(2,14)>Dieses Pokémon, das <$cdef(27)><$sklfull(4)></color> einsetzen konnte,<br>hat immer mit einem <$cdef(27)>Boxsack </color>trainiert.<clear><br><$voicel(2,8)><$comcan(2)><$motion(2,803)>Und wenn es müde war, hat es sich auf einer <$cdef(27)>Bank</color><br>ausgeruht."
+    },
+    {
+      "id": 29,
+      "en": "<$voicel(2,7)><$emotion(2,27)>Was?! Du hast echt <$cdef(27)><$sklfull(4)> </color>erlernt? Wie cool!",
+      "pt_br": "<$voicel(2,7)><$emotion(2,27)>Was?! Du hast echt <$cdef(27)><$sklfull(4)> </color>erlernt? Wie cool!"
+    },
+    {
+      "id": 30,
+      "en": "<$voicel(2,9)><$emotion(2,1)>Dann lass uns nachsehen, was sich auf der<br><$cdef(27)>anderen Seite dieser Wand</color> befindet!",
+      "pt_br": "<$voicel(2,9)><$emotion(2,1)>Dann lass uns nachsehen, was sich auf der<br><$cdef(27)>anderen Seite dieser Wand</color> befindet!"
+    },
+    {
+      "id": 31,
+      "en": "<$voicel(2,7)><$emotion(2,29)>Ich bin echt gespannt, was uns hinter der Wand erwartet...",
+      "pt_br": "<$voicel(2,7)><$emotion(2,29)>Ich bin echt gespannt, was uns hinter der Wand erwartet..."
+    },
+    {
+      "id": 32,
+      "en": "<$voicel(2,9)><$emotion(2,15)>Wooow! Ein riesiger Strand!",
+      "pt_br": "<$voicel(2,9)><$emotion(2,15)>Wooow! Ein riesiger Strand!"
+    },
+    {
+      "id": 33,
+      "en": "<$voicel(2,9)><$comeff(2,8)>Ist das schön hier... Ich bin so froh, dass wir<br>hergekommen sind!",
+      "pt_br": "<$voicel(2,9)><$comeff(2,8)>Ist das schön hier... Ich bin so froh, dass wir<br>hergekommen sind!"
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(2,7)><$emotion(2,14)>Oh, guck mal! Eine Höhle gibt’s auch!<clear><br><$voicel(2,6)>Ich will da aber nicht rein... Das ist mir zu unheimlich.",
+      "pt_br": "<$voicel(2,7)><$emotion(2,14)>Oh, guck mal! Eine Höhle gibt’s auch!<clear><br><$voicel(2,6)>Ich will da aber nicht rein... Das ist mir zu unheimlich."
+    },
+    {
+      "id": 35,
+      "en": "<$voicel(2,7)><$emotion(2,13)>Da fällt mir ein... <$cdef(27)>Professor Tangoloss</color> hat gesagt,<br>dass es <$cdef(27)>in Höhlen seltene Pilze</color> geben soll.<clear><br><$voicel(2,6)>Mir ist das aber trotzdem zu gruselig...",
+      "pt_br": "<$voicel(2,7)><$emotion(2,13)>Da fällt mir ein... <$cdef(27)>Professor Tangoloss</color> hat gesagt,<br>dass es <$cdef(27)>in Höhlen seltene Pilze</color> geben soll.<clear><br><$voicel(2,6)>Mir ist das aber trotzdem zu gruselig..."
+    },
+    {
+      "id": 36,
+      "en": "<$voicel(2,8)><$emotion(2,1)>Danke jedenfalls, dass du mit mir hergekommen bist!",
+      "pt_br": "<$voicel(2,8)><$emotion(2,1)>Danke jedenfalls, dass du mit mir hergekommen bist!"
+    },
+    {
+      "id": 37,
+      "en": "<oneline><$voicel(2,5)>Hallöchen, <$cdef(27)><pname;0></color>!<br>Hast du kurz Zeit?",
+      "pt_br": "<oneline><$voicel(2,5)>Hallöchen, <$cdef(27)><pname;0></color>!<br>Hast du kurz Zeit?"
+    },
+    {
+      "id": 38,
+      "en": "<$voicel(2,7)><$comeff(2,10)>Ich wollte rausfinden, wohin dieser Weg da führt...",
+      "pt_br": "<$voicel(2,7)><$comeff(2,10)>Ich wollte rausfinden, wohin dieser Weg da führt..."
+    },
+    {
+      "id": 39,
+      "en": "<$emotion(2,29)><$voicel(2,7)>Möchtest du vielleicht mitkommen?<wait(0.6)><br><$comeff(2,4)>A-Also, ich hab keine Angst oder so! War nur eine Idee!",
+      "pt_br": "<$emotion(2,29)><$voicel(2,7)>Möchtest du vielleicht mitkommen?<wait(0.6)><br><$comeff(2,4)>A-Also, ich hab keine Angst oder so! War nur eine Idee!"
+    },
+    {
+      "id": 40,
+      "en": "<$emotion(2,8)><$voicel(2,9)>Juchuuu! Ich wusste, dass ich mich auf dich verlassen kann!",
+      "pt_br": "<$emotion(2,8)><$voicel(2,9)>Juchuuu! Ich wusste, dass ich mich auf dich verlassen kann!"
+    },
+    {
+      "id": 41,
+      "en": "<$emotion(2,60)><$voicel(2,9)>Dann lass uns mal schauen, wohin dieser Weg führt!<br>Ähm... Geh du am besten vor, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$emotion(2,60)><$voicel(2,9)>Dann lass uns mal schauen, wohin dieser Weg führt!<br>Ähm... Geh du am besten vor, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 42,
+      "en": "<$voicel(4,7)><$emotion(4,14)>Ey, <$cdef(27)><pname;0></color>, du kommst genau richtig.",
+      "pt_br": "<$voicel(4,7)><$emotion(4,14)>Ey, <$cdef(27)><pname;0></color>, du kommst genau richtig."
+    },
+    {
+      "id": 43,
+      "en": "<$voicel(4,5)>Zieh dir mal diese Felsenansammlung da rein...<br>Was denkst du?",
+      "pt_br": "<$voicel(4,5)>Zieh dir mal diese Felsenansammlung da rein...<br>Was denkst du?"
+    },
+    {
+      "id": 44,
+      "en": "<$motion(4,814)><$voicel(4,7)>Guck <$cdef(27)>nach oben</color>, um an die oberen Felsen ranzukommen,<br><wait(0.4)><$motion(4,815)>und <$cdef(27)>nach unten</color> für die Felsen zu deinen Füßen. Zack!<clear><br><$motion(4,814)><$voicel(4,10)>Auf die in der Mitte kannst du einfach draufkloppen.",
+      "pt_br": "<$motion(4,814)><$voicel(4,7)>Guck <$cdef(27)>nach oben</color>, um an die oberen Felsen ranzukommen,<br><wait(0.4)><$motion(4,815)>und <$cdef(27)>nach unten</color> für die Felsen zu deinen Füßen. Zack!<clear><br><$motion(4,814)><$voicel(4,10)>Auf die in der Mitte kannst du einfach draufkloppen."
+    },
+    {
+      "id": 45,
+      "en": "<$voicel(4,7)><$comeff(4,9)><$motion(4,801)><$facial(4,4)>Dann hau mal schön drauf, <$cdef(27)><pname;0></color>.<br>Zeig den Felsen, wer hier der Boss ist!<clear><br><$voicel(4,10)><$comeff(4,5)><$motionoff(4,804)>Schlag für Schlag, bis du <$cdef(27)><$sklfull(4)> </color>gemeistert hast.",
+      "pt_br": "<$voicel(4,7)><$comeff(4,9)><$motion(4,801)><$facial(4,4)>Dann hau mal schön drauf, <$cdef(27)><pname;0></color>.<br>Zeig den Felsen, wer hier der Boss ist!<clear><br><$voicel(4,10)><$comeff(4,5)><$motionoff(4,804)>Schlag für Schlag, bis du <$cdef(27)><$sklfull(4)> </color>gemeistert hast."
+    },
+    {
+      "id": 46,
+      "en": "Bewegst du mit <$keyicon(190)> die Kamera hoch, kannst du Blöcke<br>zertrümmern, die weiter oben liegen. Bewegst du sie<slide><br>nach unten, kannst du Blöcke im Boden zerstören.",
+      "pt_br": "Bewegst du mit <$keyicon(190)> die Kamera hoch, kannst du Blöcke<br>zertrümmern, die weiter oben liegen. Bewegst du sie<slide><br>nach unten, kannst du Blöcke im Boden zerstören."
+    },
+    {
+      "id": 47,
+      "en": "<$emotion(4,14)><$voicel(4,9)>Nice, die Felsen hast du problemlos kleingekriegt,<br><$cdef(27)><pname;0></color>. Wie erwartet.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>Soll heißen: Du hast <$cdef(27)><$sklfull(4)> </color>gemeistert!<br><$emotion(4,38)><$voicel(4,9)>Viel Spaß damit. Fetz einfach alles weg.",
+      "pt_br": "<$emotion(4,14)><$voicel(4,9)>Nice, die Felsen hast du problemlos kleingekriegt,<br><$cdef(27)><pname;0></color>. Wie erwartet.<clear><br><$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>Soll heißen: Du hast <$cdef(27)><$sklfull(4)> </color>gemeistert!<br><$emotion(4,38)><$voicel(4,9)>Viel Spaß damit. Fetz einfach alles weg."
+    },
+    {
+      "id": 48,
+      "en": "Je mehr Blöcke du mit <$cdef(27)><$sklfull(4)> </color>zerstörst,<br>desto unordentlicher wird die Umgebung.<clear><br>In so einer Situation <$cdef(27)>halte</color> <$keyicon(153)> <$cdef(27)>gedrückt</color>, um Dinge<br><$cdef(27)>aufzusaugen</color> und so das Chaos etwas zu beseitigen.",
+      "pt_br": "Je mehr Blöcke du mit <$cdef(27)><$sklfull(4)> </color>zerstörst,<br>desto unordentlicher wird die Umgebung.<clear><br>In so einer Situation <$cdef(27)>halte</color> <$keyicon(153)> <$cdef(27)>gedrückt</color>, um Dinge<br><$cdef(27)>aufzusaugen</color> und so das Chaos etwas zu beseitigen."
+    },
+    {
+      "id": 49,
+      "en": "<$voicel(4,7)><$emotion(4,14)>He, <$cdef(27)><pname;0></color>! Ich hab da mal eine Frage.",
+      "pt_br": "<$voicel(4,7)><$emotion(4,14)>He, <$cdef(27)><pname;0></color>! Ich hab da mal eine Frage."
+    },
+    {
+      "id": 50,
+      "en": "<$voicel(4,5)><$comeff(4,6)>Kannst du eigentlich einen <$cdef(27)><fqty(1)><acc><$ifull(1290)> </color>bauen?",
+      "pt_br": "<$voicel(4,5)><$comeff(4,6)>Kannst du eigentlich einen <$cdef(27)><fqty(1)><acc><$ifull(1290)> </color>bauen?"
+    },
+    {
+      "id": 51,
+      "en": "<$voicel(4,7)><$voicel(4,7)>Das Material dafür, <$cdef(27)><fqty(2)><$ifull(1482)></color>, kriegst du<br>ganz leicht. Musst nur ein paar Bäume zerschneiden!<clear><br><$voicel(4,4)><$emotion(4,31)>Aber, äh, ich kann das mit dem Zerschneiden leider nicht...",
+      "pt_br": "<$voicel(4,7)><$voicel(4,7)>Das Material dafür, <$cdef(27)><fqty(2)><$ifull(1482)></color>, kriegst du<br>ganz leicht. Musst nur ein paar Bäume zerschneiden!<clear><br><$voicel(4,4)><$emotion(4,31)>Aber, äh, ich kann das mit dem Zerschneiden leider nicht..."
+    },
+    {
+      "id": 52,
+      "en": "<$voicel(4,7)><$emotion(4,1)>Kennst du das Pokémon <$cdef(27)>Sichlor</color>? Es hat Arme, die fast wie<br>Sensen aussehen.<clear><br><$voicel(4,9)>Damit kann es doch bestimmt auch dicke Bäume mit links<br>kleinhacken!",
+      "pt_br": "<$voicel(4,7)><$emotion(4,1)>Kennst du das Pokémon <$cdef(27)>Sichlor</color>? Es hat Arme, die fast wie<br>Sensen aussehen.<clear><br><$voicel(4,9)>Damit kann es doch bestimmt auch dicke Bäume mit links<br>kleinhacken!"
+    },
+    {
+      "id": 53,
+      "en": "<$voicel(4,7)><$emotion(4,13)><$cdef(27)>Sichlor</color> hab ich hier in der Gegend noch nicht gesehen...<br>Ich glaub, es mag Grasflächen, genau wie ich.<slide><br><$voicel(4,6)><$emotion(4,14)>Oh, aber es mag Hitze nicht so gern...<clear><br><$voicel(4,9)>Früher hab ich es auf jeden Fall oft im Gras unter Bäumen<br>gesehen, wo es kühlen Schatten gibt.",
+      "pt_br": "<$voicel(4,7)><$emotion(4,13)><$cdef(27)>Sichlor</color> hab ich hier in der Gegend noch nicht gesehen...<br>Ich glaub, es mag Grasflächen, genau wie ich.<slide><br><$voicel(4,6)><$emotion(4,14)>Oh, aber es mag Hitze nicht so gern...<clear><br><$voicel(4,9)>Früher hab ich es auf jeden Fall oft im Gras unter Bäumen<br>gesehen, wo es kühlen Schatten gibt."
+    },
+    {
+      "id": 54,
+      "en": "<$voicel(4,7)><$facial(4,4)>Wenn du <$cdef(27)>Sichlor</color> findest und es dir beibringt,<br>wie man Bäume zerschneidet...<clear><br><$voicel(4,9)>Dann kannst du mir ja einen <$cdef(27)><fqty(1)><acc><$ifull(1290)> </color>bauen,<br>hehe!",
+      "pt_br": "<$voicel(4,7)><$facial(4,4)>Wenn du <$cdef(27)>Sichlor</color> findest und es dir beibringt,<br>wie man Bäume zerschneidet...<clear><br><$voicel(4,9)>Dann kannst du mir ja einen <$cdef(27)><fqty(1)><acc><$ifull(1290)> </color>bauen,<br>hehe!"
+    },
+    {
+      "id": 55,
+      "en": "<$voicel(4,7)>Ich freu mich schon auf den <$cdef(27)><fqty(1)><$ifull(1290)></color>,<br>den du mir ja auf jeeeden Fall machen willst!",
+      "pt_br": "<$voicel(4,7)>Ich freu mich schon auf den <$cdef(27)><fqty(1)><$ifull(1290)></color>,<br>den du mir ja auf jeeeden Fall machen willst!"
+    },
+    {
+      "id": 56,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Dafür brauchst du <$cdef(27)><fqty(2)><$ifull(1482)></color>, die du<br>bekommst, wenn du wie <$cdef(27)>Sichlor</color> Bäume zerschneidest.",
+      "pt_br": "<$voicel(4,5)><$emotion(4,14)>Dafür brauchst du <$cdef(27)><fqty(2)><$ifull(1482)></color>, die du<br>bekommst, wenn du wie <$cdef(27)>Sichlor</color> Bäume zerschneidest."
+    },
+    {
+      "id": 57,
+      "en": "<$voicel(4,9)>Früher hab ich <$cdef(27)>Sichlor</color> oft im Gras unter Bäumen gesehen,<br>wo es kühlen Schatten gibt.",
+      "pt_br": "<$voicel(4,9)>Früher hab ich <$cdef(27)>Sichlor</color> oft im Gras unter Bäumen gesehen,<br>wo es kühlen Schatten gibt."
+    },
+    {
+      "id": 58,
+      "en": "<$emotion(4,8)><$voicel(4,9)>Oh, du hast echt einen <$cdef(27)><fqty(1)><acc><$ifull(1290)></color> für mich<br>gemacht? Juhuuu, voll cool!<clear><br><$emotion(4,60)><$voicel(4,7)>Stell ihn einfach irgendwo hin. Da, wo’s dir gefällt!",
+      "pt_br": "<$emotion(4,8)><$voicel(4,9)>Oh, du hast echt einen <$cdef(27)><fqty(1)><acc><$ifull(1290)></color> für mich<br>gemacht? Juhuuu, voll cool!<clear><br><$emotion(4,60)><$voicel(4,7)>Stell ihn einfach irgendwo hin. Da, wo’s dir gefällt!"
+    },
+    {
+      "id": 59,
+      "en": "<$comeff(4,5)><$motion(4,801)><$voicel(4,9)>Dieser <$cdef(27)><fqty(1)><$iname(1290)> </color>ist voll schön,<br>so hab ich ihn mir vorgestellt!<clear><br><$comeff(4,9)><$motion(4,803)><$voicel(4,7)>Weißt du was? Du solltest noch viel mehr Möbel bauen<br>und sie als Deko hinstellen, wo du willst!<clear><br><$comeff(4,3)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>Andere Pokémon freuen sich bestimmt auch so darüber<br>wie ich!",
+      "pt_br": "<$comeff(4,5)><$motion(4,801)><$voicel(4,9)>Dieser <$cdef(27)><fqty(1)><$iname(1290)> </color>ist voll schön,<br>so hab ich ihn mir vorgestellt!<clear><br><$comeff(4,9)><$motion(4,803)><$voicel(4,7)>Weißt du was? Du solltest noch viel mehr Möbel bauen<br>und sie als Deko hinstellen, wo du willst!<clear><br><$comeff(4,3)><$facial(4,4)><$motion(4,806)><$voicel(4,7)>Andere Pokémon freuen sich bestimmt auch so darüber<br>wie ich!"
+    },
+    {
+      "id": 60,
+      "en": "<$voicel(4,7)><$emotion(4,14)>He, <$cdef(27)><pname;0></color>! Ich hab da mal eine Frage.",
+      "pt_br": "<$voicel(4,7)><$emotion(4,14)>He, <$cdef(27)><pname;0></color>! Ich hab da mal eine Frage."
+    },
+    {
+      "id": 61,
+      "en": "<$voicel(4,5)><$comeff(4,6)>Kannst du eigentlich einen <$cdef(27)><fqty(1)><acc><$ifull(1290)> </color>bauen?",
+      "pt_br": "<$voicel(4,5)><$comeff(4,6)>Kannst du eigentlich einen <$cdef(27)><fqty(1)><acc><$ifull(1290)> </color>bauen?"
+    },
+    {
+      "id": 62,
+      "en": "<$voicel(4,7)><$voicel(4,7)>Das Material dafür, <$cdef(27)><fqty(2)><$ifull(1482)></color>, kriegst du<br>ganz leicht. Musst nur ein paar Bäume zerschneiden!<clear><br><$voicel(4,4)><$emotion(4,31)>Aber, äh, ich kann das mit dem Zerschneiden leider nicht...",
+      "pt_br": "<$voicel(4,7)><$voicel(4,7)>Das Material dafür, <$cdef(27)><fqty(2)><$ifull(1482)></color>, kriegst du<br>ganz leicht. Musst nur ein paar Bäume zerschneiden!<clear><br><$voicel(4,4)><$emotion(4,31)>Aber, äh, ich kann das mit dem Zerschneiden leider nicht..."
+    },
+    {
+      "id": 63,
+      "en": "<$voicel(4,5)><$emotion(4,38)>Ich wette, <$cdef(27)>Sichlor</color> kann mit seinen beiden Sicheln sogar<br>superdicke Bäume durchschneiden!",
+      "pt_br": "<$voicel(4,5)><$emotion(4,38)>Ich wette, <$cdef(27)>Sichlor</color> kann mit seinen beiden Sicheln sogar<br>superdicke Bäume durchschneiden!"
+    },
+    {
+      "id": 64,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Wenn du irgendwann von <$cdef(27)>Sichlor</color> gelernt hast,<br>wie man Bäume zerschneidet...<clear><br><$voicel(4,7)>Dann kannst du mir ja einen <$cdef(27)><fqty(1)><acc><$ifull(1290)></color> bauen,<br>hehe!",
+      "pt_br": "<$voicel(4,5)><$emotion(4,14)>Wenn du irgendwann von <$cdef(27)>Sichlor</color> gelernt hast,<br>wie man Bäume zerschneidet...<clear><br><$voicel(4,7)>Dann kannst du mir ja einen <$cdef(27)><fqty(1)><acc><$ifull(1290)></color> bauen,<br>hehe!"
+    },
+    {
+      "id": 65,
+      "en": "<$voicel(4,8)>Ich freu mich schon auf den <$cdef(27)><fqty(1)><$ifull(1290)></color>,<br>den du mir ja auf jeeeden Fall machen willst!",
+      "pt_br": "<$voicel(4,8)>Ich freu mich schon auf den <$cdef(27)><fqty(1)><$ifull(1290)></color>,<br>den du mir ja auf jeeeden Fall machen willst!"
+    },
+    {
+      "id": 66,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Dafür brauchst du <$cdef(27)><fqty(2)><$ifull(1482)></color>, die du<br>bekommst, wenn du wie <$cdef(27)>Sichlor</color> Bäume zerschneidest.",
+      "pt_br": "<$voicel(4,5)><$emotion(4,14)>Dafür brauchst du <$cdef(27)><fqty(2)><$ifull(1482)></color>, die du<br>bekommst, wenn du wie <$cdef(27)>Sichlor</color> Bäume zerschneidest."
+    },
+    {
+      "id": 67,
+      "en": "<$voicel(4,7)><$emotion(4,14)>He, <$cdef(27)><pname;0></color>! Ich hab da mal eine Frage.",
+      "pt_br": "<$voicel(4,7)><$emotion(4,14)>He, <$cdef(27)><pname;0></color>! Ich hab da mal eine Frage."
+    },
+    {
+      "id": 68,
+      "en": "<$voicel(4,5)><$comeff(4,6)>Kannst du eigentlich einen <$cdef(27)><fqty(1)><acc><$ifull(1290)> </color>bauen?",
+      "pt_br": "<$voicel(4,5)><$comeff(4,6)>Kannst du eigentlich einen <$cdef(27)><fqty(1)><acc><$ifull(1290)> </color>bauen?"
+    },
+    {
+      "id": 69,
+      "en": "<$voicel(4,7)><$facial(4,4)><$voicel(4,7)>Das Material dafür, <$cdef(27)><fqty(2)><$ifull(1482)></color>, kriegst du<br>ganz leicht. Musst nur ein paar Bäume zerschneiden!",
+      "pt_br": "<$voicel(4,7)><$facial(4,4)><$voicel(4,7)>Das Material dafür, <$cdef(27)><fqty(2)><$ifull(1482)></color>, kriegst du<br>ganz leicht. Musst nur ein paar Bäume zerschneiden!"
+    },
+    {
+      "id": 70,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Wenn du irgendwann von <$cdef(27)>Sichlor</color> gelernt hast,<br>wie man Bäume zerschneidet...<clear><br><$voicel(4,7)>Dann kannst du mir ja einen <$cdef(27)><fqty(1)><acc><$ifull(1290)></color> bauen,<br>hehe!",
+      "pt_br": "<$voicel(4,5)><$emotion(4,14)>Wenn du irgendwann von <$cdef(27)>Sichlor</color> gelernt hast,<br>wie man Bäume zerschneidet...<clear><br><$voicel(4,7)>Dann kannst du mir ja einen <$cdef(27)><fqty(1)><acc><$ifull(1290)></color> bauen,<br>hehe!"
+    },
+    {
+      "id": 71,
+      "en": "<$voicel(4,8)><$facial(4,4)>Ich freu mich schon auf den <$cdef(27)><fqty(1)><$ifull(1290)></color>,<br>den du mir ja auf jeeeden Fall machen willst!",
+      "pt_br": "<$voicel(4,8)><$facial(4,4)>Ich freu mich schon auf den <$cdef(27)><fqty(1)><$ifull(1290)></color>,<br>den du mir ja auf jeeeden Fall machen willst!"
+    },
+    {
+      "id": 72,
+      "en": "<$voicel(4,5)><$emotion(4,14)>Dafür brauchst du <$cdef(27)><fqty(2)><$ifull(1482)></color>, die du<br>bekommst, wenn du wie <$cdef(27)>Sichlor</color> Bäume zerschneidest.",
+      "pt_br": "<$voicel(4,5)><$emotion(4,14)>Dafür brauchst du <$cdef(27)><fqty(2)><$ifull(1482)></color>, die du<br>bekommst, wenn du wie <$cdef(27)>Sichlor</color> Bäume zerschneidest."
+    },
+    {
+      "id": 73,
+      "en": "In dieser Stadt gibt es noch etwas zu erledigen.",
+      "pt_br": "In dieser Stadt gibt es noch etwas zu erledigen."
+    },
+    {
+      "id": 74,
+      "en": "*bzzzt*<clear><br>Das Tor lässt sich nicht öffnen, weil auf der anderen Seite<br>ein Problem aufgetreten ist.",
+      "pt_br": "*bzzzt*<clear><br>Das Tor lässt sich nicht öffnen, weil auf der anderen Seite<br>ein Problem aufgetreten ist."
+    },
+    {
+      "id": 75,
+      "en": "Wenn du einen <$cdef(27)>Boxsack</color> neben eine <$cdef(27)>Bank</color> stellst,<br>scheint daraus ein Habitat zu entstehen.<clear><br>Vielleicht befinden sich ja zufällig ein <$cdef(27)>Boxsack</color> und<br>eine <$cdef(27)>Bank </color>hier in der Nähe. Sieh dich gut um!",
+      "pt_br": "Wenn du einen <$cdef(27)>Boxsack</color> neben eine <$cdef(27)>Bank</color> stellst,<br>scheint daraus ein Habitat zu entstehen.<clear><br>Vielleicht befinden sich ja zufällig ein <$cdef(27)>Boxsack</color> und<br>eine <$cdef(27)>Bank </color>hier in der Nähe. Sieh dich gut um!"
+    }
+  ]
+}

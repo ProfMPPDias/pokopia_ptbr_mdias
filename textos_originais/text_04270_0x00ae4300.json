@@ -1,0 +1,424 @@
+{
+  "entry_index": 4270,
+  "bin_id": "0xae4300",
+  "decompressed_size": 4296,
+  "first_tag_offset": 1292,
+  "total_strings": 83,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Erba lussureggiante, devo dire.",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "A un lungo e fruttuoso sodalizio!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "Pregusto già l'opera finita!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Ancora non si vede la fine dei lavori!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "Siamo quasi in procinto di concludere l'opera!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "È stato un gran diletto.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Piove... Sarà bene rincasare.",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Sembra una vera leccornia!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Dove si cela il tesoro...?",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "Temo di non riuscire a raggiungere quel posto...",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Le mie povere e stanche membra...",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "Finalmente giungo alla meta!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "Il passaggio non è dei più agevoli...",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "È qui, non c'è dubbio.",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "Ne deduco che si trovi qui sopra.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Propongo di scavare qui sotto.",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Ritengo che sia da questa parte.",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "Ahimè! Da queste parti, di tesori nemmeno l'ombra.",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Presumo che si trovi di là.",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "È poco distante, questo è certo!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "È tutto pronto per il tragitto?",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "Ahimè, purtroppo non si può procedere...",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "È un po' troppo distante...",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Ti ringrazio per il tuo dono!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "<genqty;0(Il mio,La mia,I miei,Le mie)> <$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>... Sigh...",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "Questo caldo è alquanto gradevole! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Il caldo è eccessivo...",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Che fresco rigenerante! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "Questo freddo non mi è congeniale...",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "Questa luce aggiuntiva mi rallegra!",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "Trovo questa luce un po' abbagliante...",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Vedo con piacere che è più buio! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "Temo che sia troppo buio...",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Che delizia quest'umidità! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "L'umidità è salita troppo...",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Quest'aria asciutta è un assoluto piacere! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Manca un tocco di umidità in più...",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "Di qui il passaggio è ostico... Che fare?",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Sembra un luogo davvero ameno.",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "Una dimora ragguardevole!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "Ho da offrire cose interessanti.",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "Direi che non è grande a dovere...",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "Vogliamo andare?",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "Avremo di nuovo occasione di vederci.",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "Sarà un assoluto piacere.",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Che fragranza invitante!",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "Mi rincresce, ma adesso non posso.",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "Il risultato mi sembra soddisfacente.",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Non temere, ci penso io.",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "Che paesaggio affascinante...",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>, di che si tratta?",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "È tempo di andare in perlustrazione.",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "Spiacente, ma il mio stomaco langue...",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "Oh... Vuoi vedere che...?",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Strabiliante!",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "E voilà!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "Che sensazione piacevole.",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Potresti attendere, cortesemente?",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "Ah, non riesco a proseguire...",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Mi faccio carico io di questo lavoro.",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Anzitutto è necessario usare dell'acqua.",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Dove potrebbe mai trovarsi?",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "Ancora nessuna traccia...",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "Il mio istinto mi dice di cercare qui.",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "È sufficiente seguire la traccia.",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "È impossibile sfuggirmi.",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Ah-ah! Ho avvistato l'obiettivo!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "Tutto si sta svolgendo come da programma.",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "Sniff sniff... Quale incredibile aroma!",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "Attendo con trepidazione.",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "Splendido! <fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "Attendo con trepidazione.",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Spero tu ci dia il via libera a breve.",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "Che risultato straordinario!",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "Questo posto mi mette veramente a mio agio.",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "Quest'acqua è assai sgradita...",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "Bene, gustiamoci questo manicaretto!",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "È preferibile che sia tutto sgombro sopra le piante.",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Avrò preso un abbaglio...",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "Mi è parso di udire un rumore sospetto...",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "Splendido! <fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "Innanzitutto urgono delle <$cdef(27)>bolle</color>.",
+      "pt_br": ""
+    }
+  ]
+}

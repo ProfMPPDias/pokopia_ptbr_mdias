@@ -1,0 +1,444 @@
+{
+  "entry_index": 4223,
+  "bin_id": "0xacea00",
+  "decompressed_size": 3456,
+  "first_tag_offset": 1118,
+  "total_strings": 87,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Whoa! Niiice!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Oof, I’m wiped...",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "How am I gonna do this...?",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Yo! <$cdef(27)><$etpname;0(lnum1)></color>! Hey!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "Whoa, check that out!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Y’know, you’re all right!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "We got this!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "I could do this all day!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "This’ll be done in no time!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<$etpkcryhp;0(lnum1)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Rain? I’m outta here.",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "Dang, that looks tasty!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "I wanna have some fun.",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "Well, this ain’t gonna work...",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "I’m all outta steam...",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Ha! Made it!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Pretty rough going...",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "Aw yeah! Found something!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Check above us!",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "Check below us!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "I think there’s something over here!",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "No luck so far...",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Yo, check over there!",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Something’s close—I know it!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Yo! We good to go?",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "Whaaat! A dead end?",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Move it a little closer, will ya?",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Aw heck yeah!",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "Where’s the <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "Ahhh, so warm and toasty! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "Not big on this heat.",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Ahhh, so cool and refreshing! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "Not big on this cold.",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "It got brighter! Nice! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "Yeesh, it’s kinda bright.",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "It got darker! Nice! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Yeesh, it’s so dark.",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "The air’s more humid! Nice! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Yeesh, it’s so muggy.",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "The air’s drier! Nice! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "Yeesh, I need more humidity.",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "Uh, pal? I can’t get through.",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "Likin’ the look of this place!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "Dang, this place RULES!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "I got some great stuff over here!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Looks kinda...small?",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "Aw yeah, let’s go!",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "See ya, pal!",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "I’m itchin’ to get started!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "That smells great!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "Sorry, pal. Not now.",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "Ha! Check out this masterpiece!",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "I’ll take care of this.",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "Whoa, check this place out!",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Hey pal, whatcha got?",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "I’m gonna find ya!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "On an empty stomach? No chance, pal.",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Huh? Someone there?",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "Dang, that’s awesome!",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Bam!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "I’m warmin’ up!",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Wait up, pal!",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "Uh, don’t think I can make it, pal.",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "Aw yeah, let’s get this done!",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "Looks like it needs some waterin’!",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "Where you at?",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Hmmm, not here...",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "Is this...? Hmmm...",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "I can smell ya!",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "You can transform, but you can’t hide!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "Ha! I gotcha!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "Take THAT!",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "I’m gettin’ hungry!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "I’m so pumped!",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "We startin’ soon or what?",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "Lemme cook!",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "Way to go!",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Dang, this is pretty rad!",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "So about this water...",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "It was worth the wait!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "That thing above it’s in the way.",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "Huh... Must’ve imagined it.",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "What the heck was that sound?",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "How about some <$cdef(27)>bubbles</color>, pal?",
+      "pt_br": ""
+    }
+  ]
+}

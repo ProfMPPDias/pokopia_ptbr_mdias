@@ -1,0 +1,114 @@
+{
+  "entry_index": 2705,
+  "bin_id": "0x6d5100",
+  "decompressed_size": 4952,
+  "first_tag_offset": 946,
+  "total_strings": 21,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Ah, du willst also <$cdef(27)>Straßenlaternen </color>mit Strom versorgen,<br>um es hier heller zu machen, ja?",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Wenn du zusammen mit einem Pokémon mit dem Talent<br><$cdef(27)><$spwfull(9)> </color>zu einer <$cdef(27)><fqty(1)><$ifull(1703)> </color>gehst,<slide><br><$voicel(1,6)>wird es dir sicher helfen!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(1,4)><$comeff(1,6)><$motion(1,666)>Du möchtest eine Bleibe bauen, in der sich ein Feuer<br>befindet?",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(1,5)><$comeff(1,10)><$motion(1,661)><$facial(1,4)><$kfacial(1)>Dann solltest du eine <$cdef(27)><fqty(1)><$ifull(1278)> </color>oder ein <$cdef(27)><fqty(1)><$ifull(1280)><br></color>parat haben.",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(1,7)><$comeff(1,9)><$motion(1,664)>Zu guter Letzt musst du noch ein Pokémon herführen,<br>das mit Feuer umgehen kann, damit es die Flammen<slide><br>für dich entzünden kann.",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(1,9)><$comeff(1,3)><$motion(1,803)><$facial(1,4)><$kfacial(1)>Um <$cdef(27)>Relaxo </color>aufwecken zu können, muss die Stadt noch<br>ein wenig heller erstrahlen.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "<$voicel(1,5)><$emotion(1,49)>Zu diesem Zweck solltest du unterschiedliche<br>Lichtquellen in der Stadt platzieren.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,660)><$facial(1,9)>Stell sie aber nicht zu nah beieinander auf, denn das wäre<br>sonst eine ziemliche Verschwendung.<clear><br><$voicel(1,5)><$motion(1,806)><$facial(1,4)><$comcan(1)>Achte deshalb immer darauf, einen ausreichenden Abstand<br>zwischen den einzelnen Lichtquellen zu haben.",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "<$voicel(1,5)><$comeff(1,9)><$motion(1,668)><$facial(1,2)>Und wenn du das Gefühl hast, dass es hell genug ist,<br>dann komm und sieh nach <$cdef(27)>Relaxo</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Bitte stelle eine <$cdef(27)><fqty(1)><$ifull(1622)> </color>her. Das würde auch<br><$cdef(27)>Schlappchu </color>etwas aufheitern.",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(1,5)><$comeff(1,9)><$facial(1,4)>Platziere sie neben <$cdef(27)>Relaxo</color>, sobald du fertig bist.<clear><br><$voicel(1,7)><$emotion(1,49)>Und denk daran, ein Pokémon mit einem Talent zum<br><$cdef(27)><$spwfull(9)> </color>zu bitten, sie anzuschalten.",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(1,7)><$emotion(1,14)>Bitte stelle <$cdef(27)><fqty(2)><$ifull(1396)></color> auf, um den Strom vom<br><$cdef(27)><$bfull(33)> </color>transportieren zu können.",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(1,5)><$comeff(1,14)><$motion(1,666)>Achte darauf, dass der Abstand zum <$cdef(27)><fqty(1)><$ifull(1396)> </color>nicht<br>zu groß ist, sonst wird er nicht mit Strom versorgt.<clear><br><$voicel(1,8)><$emotion(1,38)>Behalte das im Hinterkopf!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Stelle eine <$cdef(27)>Straßenlaterne </color>neben einem <$cdef(27)><fqty(1)><$ifull(1396)> </color>auf,<br>durch den Strom fließt.",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Wenn die <$cdef(27)>Straßenlaterne </color>erst einmal leuchtet, <$voicel(1,10)><$comeff(1,9)><$motion(1,664)>kannst du<br>den Vorgang wiederholen, bis die ganze Stadt erstrahlt!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$voicel(1,7)><$emotion(1,49)>Mit einem <$cdef(27)>Generator </color>und <$cdef(27)><fqty(2)><$ifull(1396)> </color>kannst du<br>auf einen Schlag ganz viele Lichtquellen mit Strom<slide><br>versorgen!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Allerdings benötigst du für die Herstellung jede Menge<br><$cdef(27)><fqty(1)><$ifull(107)> </color>und andere Materialien...",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "<$voicel(1,9)><$comeff(1,9)><$motion(1,668)><$facial(1,4)><$kfacial(1)>Lass dir bei der Beschaffung der Materialien ruhig von<br>anderen Pokémon helfen. Die machen das sicher gerne!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(1,7)><$comeff(1,6)><$motion(1,660)><$facial(1,2)>Könntest du dieses Gerät mit ganz viel Strom versorgen?<br><$voicel(1,10)><$emotion(1,14)><$facial(1,4)><$cdef(27)>Schlappchu </color>wird sich schon irgendetwas dabei denken!",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(1,5)><$motion(1,661)>Wenn du genau hinschaust, erkennst du an der Maschine<br>doch ein paar Lampen, nicht wahr?",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(1,3)><$motion(1,666)><$comeff(1,14)><$facial(1,9)>Meinereiner schätzt, dass die Maschine einsatzbereit ist,<br>sobald alle Lampen leuchten.",
+      "pt_br": ""
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "entry_index": 2648,
+  "bin_id": "0x6a3a00",
+  "decompressed_size": 10432,
+  "first_tag_offset": 1535,
+  "total_strings": 53,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$emotion(2,14)><$voicel(2,5)>Now then, we have one more thing we must prepare.",
+      "pt_br": "<$emotion(2,14)><$voicel(2,5)>Agora, temos mais uma coisa que temos de preparar."
+    },
+    {
+      "id": 1,
+      "en": "<oneline><$comeff(1,6)><$motion(1,661)><$voicel(1,5)>Do you know what it is we need to prepare,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": "<oneline><$comeff(1,6)><$motion(1,661)><$voicel(1,5)>sabe o que precisamos de preparar,<br><$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 2,
+      "en": "<$emotion(1,8)><$voicel(1,10)>That’s exactly right, <$cdef(27)><pname;0></color>!<clear><br><$motion(1,661)><$voicel(1,5)>We’re going to use <$cdef(27)><fqty(2)><$ifull(1396)></color> to supply electricity to<br><$cdef(27)><fqty(2)><$ifull(1703)></color>!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Then we might be able to brighten the whole town—and<br>keep it that way!",
+      "pt_br": "<$emotion(1,8)><$voicel(1,10)>Isso é exatamente certo, <$cdef(27)><pname;0></color>!<clear><br><$motion(1,661)><$voicel(1,5)>Nós vamos usar <$cdef(27)><fqty(2)><$ifull(1396)></color> para fornecer electricidade a<br><$cdef(27)><fqty(2)><$ifull(1703)></color>!<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Então, talvez possamos iluminar toda a cidade.<br>Mantenha-o assim!"
+    },
+    {
+      "id": 3,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,8)>Hohoho! Then allow me to explain!<clear><br><$comeff(1,14)><$facial(1,1)><$motion(1,661)><$voicel(1,9)>This time, you’ll be using <$cdef(27)><fqty(2)><$ifull(1396)></color> to supply<br>electricity to <$cdef(27)><fqty(2)><$ifull(1703)></color>!<clear><br><$voicel(1,7)>Once you’ve powered up several <$cdef(27)>streetlights</color>, <$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>we may be<br>able to brighten this town up—and keep it that way!",
+      "pt_br": "<$comeff(1,10)><$facial(1,4)><$motion(1,801)><$voicel(1,8)>Então deixe-me explicar!<clear><br><$comeff(1,14)><$facial(1,1)><$motion(1,661)><$voicel(1,9)>Desta vez, você estará usando <$cdef(27)><fqty(2)><$ifull(1396)></color> Fornecimento<br>electricidade para <$cdef(27)><fqty(2)><$ifull(1703)></color>!<clear><br><$voicel(1,7)>Uma vez que você tem alimentado vários <$cdef(27)>luzes de rua</color>, <$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>nós podemos ser<br>capaz de iluminar esta cidade e mantê-la assim!"
+    },
+    {
+      "id": 4,
+      "en": "<$emotion(2,14)><$voicel(2,7)>That’s where you come in, <$cdef(27)><pname;0></color>!<clear><br><$voicel(2,5)>Could we ask you to prepare a <$cdef(27)><fqty(1)><$ifull(1703)> </color>and<br><$emotion(2,8)><$voicel(2,8)>place it near the <$cdef(27)><fqty(1)><$ifull(1396)></color> you set up earlier?",
+      "pt_br": "<$emotion(2,14)><$voicel(2,7)>É aí que você entra, <$cdef(27)><pname;0></color>!<clear><br><$voicel(2,5)>Podemos pedir-lhe para preparar um <$cdef(27)><fqty(1)><$ifull(1703)> </color>e<br><$emotion(2,8)><$voicel(2,8)>colocá-lo perto da <$cdef(27)><fqty(1)><$ifull(1396)></color> Preparaste-te mais cedo?"
+    },
+    {
+      "id": 5,
+      "en": "<$comeff(1,10)><$motion(1,806)><$voicel(1,7)>I wonder if it will light up properly... Ohhh, I’ll be waiting<br>on tenterhooks!",
+      "pt_br": "<$comeff(1,10)><$motion(1,806)><$voicel(1,7)>Eu me pergunto se ele vai acender corretamente ... Ohhh, Eu estarei esperando<br>Em tenterhooks!"
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(2,3)><$facial(2,4)><$motion(2,806)><$voicel(2,8)>Well, I’m sure it will be just fine...",
+      "pt_br": "<$comeff(2,3)><$facial(2,4)><$motion(2,806)><$voicel(2,8)>Bem, tenho certeza que vai ficar tudo bem..."
+    },
+    {
+      "id": 7,
+      "en": "<$emotion(2,14)><$voicel(2,7)>Could we ask you to place a <$cdef(27)><fqty(1)><$ifull(1703)> </color>near the<br><$cdef(27)><fqty(1)><$ifull(1396)></color> you set up earlier?",
+      "pt_br": "<$emotion(2,14)><$voicel(2,7)>Podemos pedir-lhe para colocar um <$cdef(27)><fqty(1)><$ifull(1703)> </color>perto da<br><$cdef(27)><fqty(1)><$ifull(1396)></color> Preparaste-te mais cedo?"
+    },
+    {
+      "id": 8,
+      "en": "<$comeff(1,10)><$motion(1,806)><$voicel(1,7)>I wonder if it will light up properly... Ohhh, I’ll be waiting<br>on tenterhooks!",
+      "pt_br": "<$comeff(1,10)><$motion(1,806)><$voicel(1,7)>Eu me pergunto se ele vai acender corretamente ... Ohhh, Eu estarei esperando<br>Em tenterhooks!"
+    },
+    {
+      "id": 9,
+      "en": "<$emotion(2,38)><$voicel(2,9)>You’ve done it! The <$cdef(27)><fqty(1)><$ifull(1703)> </color>lit up!",
+      "pt_br": "<$emotion(2,38)><$voicel(2,9)>Você conseguiu! <$cdef(27)><fqty(1)><$ifull(1703)> </color>Iluminado!"
+    },
+    {
+      "id": 10,
+      "en": "<$emotion(1,8)><$voicel(1,10)>Yes! Well done indeed, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$emotion(1,8)><$voicel(1,10)>Sim, muito bem feito, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 11,
+      "en": "<$comeff(1,14)><$motion(1,824)><$voicel(1,5)>Once you connect a <$cdef(27)><fqty(1)><$ifull(1396)></color> to the <$cdef(27)><$bfull(33)></color>,<br><$voicel(1,8)>you can then add more poles to transport electricity to<slide><br>the <$cdef(27)>streetlights</color>.<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,10)>That should help brighten up the whole town!",
+      "pt_br": "<$comeff(1,14)><$motion(1,824)><$voicel(1,5)>Uma vez que você conectar um <$cdef(27)><fqty(1)><$ifull(1396)></color> à <$cdef(27)><$bfull(33)></color>,<br><$voicel(1,8)>você pode então adicionar mais pólos para o transporte de eletricidade para<slide><br>a <$cdef(27)>luzes de rua</color>.<clear><br><$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,10)>Isso deve ajudar a iluminar toda a cidade!"
+    },
+    {
+      "id": 12,
+      "en": "<$emotion(2,8)><$voicel(2,9)>Right, and it might even be enough to get <$cdef(27)>Snorlax </color>to open<br>their eyes!",
+      "pt_br": "<$emotion(2,8)><$voicel(2,9)>Certo, e pode até ser o suficiente para obter <$cdef(27)>Snorlax </color>para abrir<br>Os olhos deles!"
+    },
+    {
+      "id": 13,
+      "en": "<$emotion(1,38)><$voicel(1,7)>If there’s anything you don’t understand along the way,<br>you can always come ask me for help!",
+      "pt_br": "<$emotion(1,38)><$voicel(1,7)>Se há algo que você não entende ao longo do caminho,<br>pode sempre vir pedir-me ajuda!"
+    },
+    {
+      "id": 14,
+      "en": "<oneline><$comeff(2,1)><$facial(2,4)><$motion(2,668)><$voicel(2,9)>I have the utmost faith in you, <$cdef(27)><pname;0></color>.<br>Please<slide><br>give<slide><br>it<slide><br>your all!",
+      "pt_br": "<oneline><$comeff(2,1)><$facial(2,4)><$motion(2,668)><$voicel(2,9)>Tenho a maior fé em ti. <$cdef(27)><pname;0></color>.<br>Por favor.<slide><br>dar<slide><br>ele<slide><br>O teu tudo!"
+    },
+    {
+      "id": 15,
+      "en": "<oneline><$emotion(4,14)><$voicel(4,5)>Oh, hey, <$cdef(27)><pname;0></color>! You’re trying to light<br>up<slide><br>this<slide><br>town, right?",
+      "pt_br": "<oneline><$emotion(4,14)><$voicel(4,5)>Olá. <$cdef(27)><pname;0></color>Você está tentando iluminar<br>para cima<slide><br>isto<slide><br>Cidade, certo?"
+    },
+    {
+      "id": 16,
+      "en": "<$comeff(4,14)><$motion(4,827)><$voicel(4,7)>I was trying to come up with ways I could help, but...<$voicel(4,5)>I don’t<br>think there’s much I can do, since I can’t use electricity...<clear><br><$emotion(4,18)><$voicel(4,4)>It’s got me feeling kind of sad...",
+      "pt_br": "<$comeff(4,14)><$motion(4,827)><$voicel(4,7)>Estava a tentar arranjar maneiras de ajudar, mas...<$voicel(4,5)>Eu não<br>acho que há muito que eu posso fazer, já que eu não posso usar eletricidade...<clear><br><$emotion(4,18)><$voicel(4,4)>Isso me fez sentir um pouco triste..."
+    },
+    {
+      "id": 17,
+      "en": "<$emotion(4,29)><$voicel(4,5)>I wanted to play real hard to clear my head, so I was<br>wondering...is there a waterwheel around here?",
+      "pt_br": "<$emotion(4,29)><$voicel(4,5)>Eu queria jogar muito duro para limpar a cabeça, então eu estava<br>Pergunto-me... Há alguma roda d'água por aqui?"
+    },
+    {
+      "id": 18,
+      "en": "<$comeff(4,14)><$motion(4,666)><$voicel(4,7)>Oh, um... It’s this big, round machine that, like, spins when<br>water flows over it. <$emotion(4,8)><$voicel(4,10)>I love splashing around near them,<slide><br>they’re so much fun!",
+      "pt_br": "<$comeff(4,14)><$motion(4,666)><$voicel(4,7)>É uma máquina grande e redonda que gira quando<br>a água flui sobre ela. <$emotion(4,8)><$voicel(4,10)>Adoro espirrar perto deles.<slide><br>eles são tão divertidos!"
+    },
+    {
+      "id": 19,
+      "en": "<$emotion(4,29)><$voicel(4,5)>If you do find a waterwheel, could you take me to it?<$emotion(4,38)><$voicel(4,10)> I bet<br>I’ll get a good idea as I play!",
+      "pt_br": "<$emotion(4,29)><$voicel(4,5)>Se encontrares uma roda d'água, pode levar-me até ela?<$emotion(4,38)><$voicel(4,10)> Aposto que sim.<br>Eu vou ter uma boa idéia enquanto eu jogo!"
+    },
+    {
+      "id": 20,
+      "en": "<$emotion(4,29)><$voicel(4,5)>If you do find a waterwheel, could you take me to it?",
+      "pt_br": "<$emotion(4,29)><$voicel(4,5)>Se encontrares uma roda d'água, pode levar-me até ela?"
+    },
+    {
+      "id": 21,
+      "en": "<$emotion(4,38)><$voicel(4,9)>I bet once I play a bit and clear my head, I’ll have some<br>ideas for how to help make the town brighter!",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>Eu aposto uma vez que eu jogo um pouco e clarear a minha cabeça, eu vou ter alguns<br>ideias para ajudar a tornar a cidade mais brilhante!"
+    },
+    {
+      "id": 22,
+      "en": "You found something that looks like a waterwheel!<br>Bring <$cdef(27)>Piplup </color>to check it out!",
+      "pt_br": "Encontraste algo que parece uma roda d'água!<br>Trazer <$cdef(27)>Piplup </color>Para verificar!"
+    },
+    {
+      "id": 23,
+      "en": "<$emotion(4,38)><$voicel(4,9)>Oh, wow! You found a waterwheel!",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>Encontraste uma roda d'água!"
+    },
+    {
+      "id": 24,
+      "en": "<$emotion(4,41)><$voicel(4,3)>But, uhhh...it looks like it’s not moving.",
+      "pt_br": "<$emotion(4,41)><$voicel(4,3)>Mas, uhh... parece que não está se movendo."
+    },
+    {
+      "id": 25,
+      "en": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>I think we can make it spin if we can get some water to<br>flow over here...",
+      "pt_br": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>Acho que podemos fazê-lo girar se conseguirmos alguma água.<br>Fluxo aqui..."
+    },
+    {
+      "id": 26,
+      "en": "<$comeff(4,6)><$motion(4,805)><$voicel(4,7)>I wonder if there’s anywhere nearby that has enough water<br>for that?",
+      "pt_br": "<$comeff(4,6)><$motion(4,805)><$voicel(4,7)>Eu me pergunto se há algum lugar próximo que tenha água suficiente<br>Por isso?"
+    },
+    {
+      "id": 27,
+      "en": "<$comeff(4,14)><$facial(4,9)><$motion(4,827)><$voicel(4,3)><$kfacial(4)>I’m real happy you found me a waterwheel, but...it’s not<br>working, is it?",
+      "pt_br": "<$comeff(4,14)><$facial(4,9)><$motion(4,827)><$voicel(4,3)><$kfacial(4)>Estou realmente feliz que você encontrou-me uma roda d'água, mas ... não é<br>Trabalhando, não é?"
+    },
+    {
+      "id": 28,
+      "en": "<$voicel(4,5)>I think we can make it spin if we can get some water to<br>flow over here...",
+      "pt_br": "<$voicel(4,5)>Acho que podemos fazê-lo girar se conseguirmos alguma água.<br>Fluxo aqui..."
+    },
+    {
+      "id": 29,
+      "en": "<$comeff(4,6)><$motion(4,805)><$voicel(4,7)>I wonder if there’s anywhere nearby that has enough water<br>for that?",
+      "pt_br": "<$comeff(4,6)><$motion(4,805)><$voicel(4,7)>Eu me pergunto se há algum lugar próximo que tenha água suficiente<br>Por isso?"
+    },
+    {
+      "id": 30,
+      "en": "<oneline><$emotion(4,14)><$voicel(4,8)>Oh, hey! The waterwheel’s moving!<clear><br><oneline><$emotion(4,38)><$voicel(4,9)>You fixed it up, didn’t you, <$cdef(27)><pname;0></color>?<br>Thank<slide><br>you<slide><br>so much!<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,8)>Now I get to splash around near it as much as I like!",
+      "pt_br": "<oneline><$emotion(4,14)><$voicel(4,8)>Oh, ei! A roda d'água está se movendo!<clear><br><oneline><$emotion(4,38)><$voicel(4,9)>Você a consertou, não foi? <$cdef(27)><pname;0></color>?<br>Obrigado.<slide><br>você<slide><br>Tanto!<clear><br><$comeff(4,9)><$motion(4,806)><$voicel(4,8)>Agora posso espirrar perto dele o quanto quiser!"
+    },
+    {
+      "id": 31,
+      "en": "This <$cdef(27)><$bfull(34)></color> is actually a generator that produces<br>electricity using hydropower!<clear><br>Connect <$cdef(27)><fqty(2)><$ifull(1396)> </color>to it to transmit electricity over<br>long distances!",
+      "pt_br": "Isto. <$cdef(27)><$bfull(34)></color> é realmente um gerador que produz<br>eletricidade usando energia hidrelétrica!<clear><br>Ligar <$cdef(27)><fqty(2)><$ifull(1396)> </color>para que ele transmita eletricidade sobre<br>Longas distâncias!"
+    },
+    {
+      "id": 32,
+      "en": "<$emotion(4,38)><$voicel(4,9)>Yayyy! The waterwheel’s running! I bet it’ll be so much fun<br>to play in the water here!",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>Yayyy! A roda d'água está correndo! Aposto que vai ser muito divertido<br>para brincar na água aqui!"
+    },
+    {
+      "id": 33,
+      "en": "<oneline><$emotion(4,29)><$voicel(4,7)>You found this, right, <$cdef(27)><pname;0></color>?<$emotion(4,8)><$voicel(4,10)> Thanks<br>for<slide><br>bringing<slide><br>me here!",
+      "pt_br": "<oneline><$emotion(4,29)><$voicel(4,7)>Encontraste isto, certo? <$cdef(27)><pname;0></color>?<$emotion(4,8)><$voicel(4,10)> Obrigado.<br>em vez<slide><br>trazendo<slide><br>Eu aqui!"
+    },
+    {
+      "id": 34,
+      "en": "This <$cdef(27)><$bfull(34)></color> is actually a generator that produces<br>electricity using hydropower!<clear><br>Connect <$cdef(27)><fqty(2)><$ifull(1396)> </color>to it to transmit electricity over<br>long distances!",
+      "pt_br": "Isto. <$cdef(27)><$bfull(34)></color> é realmente um gerador que produz<br>eletricidade usando energia hidrelétrica!<clear><br>Ligar <$cdef(27)><fqty(2)><$ifull(1396)> </color>para que ele transmita eletricidade sobre<br>Longas distâncias!"
+    },
+    {
+      "id": 35,
+      "en": "<$emotion(4,38)><$voicel(4,9)>Hey! Hey, <$cdef(27)><pname;0></color>, listen!<clear><br><$emotion(4,29)><$voicel(4,7)>So, um, you’re trying to make the whole town brighter<br>using electricity, right?",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>Olá. <$cdef(27)><pname;0></color>Ouve!<clear><br><$emotion(4,29)><$voicel(4,7)>Então, está a tentar tornar a cidade inteira mais brilhante.<br>Usando eletricidade, certo?"
+    },
+    {
+      "id": 36,
+      "en": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>I was thinking and thinking and trying to come up with a<br>good idea to help...<$emotion(4,8)><$voicel(4,8)>and then I remembered something!",
+      "pt_br": "<$comeff(4,14)><$motion(4,666)><$voicel(4,5)>Estava a pensar, a pensar e a tentar inventar um<br>Boa ideia para ajudar...<$emotion(4,8)><$voicel(4,8)>E depois lembrei-me de uma coisa!"
+    },
+    {
+      "id": 37,
+      "en": "<$emotion(4,14)><$voicel(4,5)>You can make electricity by burning up lots and LOTS of<br>stuff all at once!",
+      "pt_br": "<$emotion(4,14)><$voicel(4,5)>Você pode fazer eletricidade queimando lotes e LOTS de<br>Tudo de uma vez!"
+    },
+    {
+      "id": 38,
+      "en": "<$comeff(4,14)><$motion(4,827)><$voicel(4,7)>I don’t really get how it works or anything.<clear><br><$voicel(4,5)>I just know people would throw stuff they didn’t need into<br>this big, tough-looking machine, and burn it!",
+      "pt_br": "<$comeff(4,14)><$motion(4,827)><$voicel(4,7)>Eu realmente não entendo como funciona ou algo assim.<clear><br><$voicel(4,5)>Eu só sei que as pessoas jogariam coisas que eles não precisam em<br>Esta máquina grande e dura, e queimá-la!"
+    },
+    {
+      "id": 39,
+      "en": "<$emotion(4,60)><$voicel(4,9)>If you find a weird-looking machine like that, can you take<br>me to it, please? <$comeff(4,9)><$motion(4,806)><$voicel(4,8)>Maybe I can help out!",
+      "pt_br": "<$emotion(4,60)><$voicel(4,9)>Se encontrares uma máquina esquisita como aquela, pode levar<br>Eu, por favor? <$comeff(4,9)><$motion(4,806)><$voicel(4,8)>Talvez eu possa ajudar!"
+    },
+    {
+      "id": 40,
+      "en": "<$emotion(4,14)><$voicel(4,5)>I heard you can make electricity by burning up stuff you<br>don’t need.",
+      "pt_br": "<$emotion(4,14)><$voicel(4,5)>Ouvi dizer que pode fazer electricidade queimando coisas que tu<br>não precisa."
+    },
+    {
+      "id": 41,
+      "en": "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,7)><$kfacial(4)>You’re s’posed to burn lots ’n’ lots of stuff in a big,<br>tough-looking machine!",
+      "pt_br": "<$comeff(4,9)><$facial(4,4)><$motion(4,806)><$voicel(4,7)><$kfacial(4)>Você é obrigado a queimar lotes 'n’ lotes de coisas em um grande,<br>Máquina de aparência dura!"
+    },
+    {
+      "id": 42,
+      "en": "<$emotion(4,38)><$voicel(4,9)>If you find a weird-looking machine like that, can you<br>please take me to it?",
+      "pt_br": "<$emotion(4,38)><$voicel(4,9)>Se encontrares uma máquina esquisita como aquela, consegues<br>Por favor, leva-me até lá?"
+    },
+    {
+      "id": 43,
+      "en": "You found a big, tough-looking machine! The inside is<br>burnt and blackened...",
+      "pt_br": "Encontraste uma máquina grande e dura!<br>Queimado e enegrecido..."
+    },
+    {
+      "id": 44,
+      "en": "Try bringing <$cdef(27)>Torchic </color>here!",
+      "pt_br": "Tenta trazer. <$cdef(27)>Torchic </color>Aqui!"
+    },
+    {
+      "id": 45,
+      "en": "<oneline><$emotion(4,14)><$voicel(4,7)>Yes, <$cdef(27)><pname;0></color>! This is it! This is the thing I<br>was<slide><br>talking about!<clear><br><$emotion(4,38)><$voicel(4,10)>The machine you can use to make electricity by<br>burning stuff! <$comeff(4,21)><$facial(4,4)><$motion(4,803)><$voicel(4,8)>I can tell just by looking at it!",
+      "pt_br": "<oneline><$emotion(4,14)><$voicel(4,7)>Sim. <$cdef(27)><pname;0></color>Isto é o que eu quero.<br>foi<slide><br>A falar de quê?<clear><br><$emotion(4,38)><$voicel(4,10)>A máquina que você pode usar para fazer eletricidade por<br>Queimar coisas! <$comeff(4,21)><$facial(4,4)><$motion(4,803)><$voicel(4,8)>Consigo ver só de olhar para ele!"
+    },
+    {
+      "id": 46,
+      "en": "<$comeff(4,14)><$motion(4,666)><$voicel(4,6)>But it looks like it’s not working right now.",
+      "pt_br": "<$comeff(4,14)><$motion(4,666)><$voicel(4,6)>Mas parece que não está funcionando agora."
+    },
+    {
+      "id": 47,
+      "en": "<$emotion(4,29)><$voicel(4,7)>Do you think it’ll work if we put something in it to burn?",
+      "pt_br": "<$emotion(4,29)><$voicel(4,7)>Você acha que vai funcionar se colocarmos algo nele para queimar?"
+    },
+    {
+      "id": 48,
+      "en": "<$emotion(4,29)><$voicel(4,5)>Do you think this machine’ll start working if we put<br>something in it to burn?",
+      "pt_br": "<$emotion(4,29)><$voicel(4,5)>Você acha que esta máquina vai começar a funcionar se colocarmos<br>Alguma coisa nela para queimar?"
+    },
+    {
+      "id": 49,
+      "en": "<$emotion(4,8)><$voicel(4,9)>YAAAY! It’s burning the stuff! I guess it still works!",
+      "pt_br": "<$emotion(4,8)><$voicel(4,9)>YAAAY! Está queimando as coisas! Acho que ainda funciona!"
+    },
+    {
+      "id": 50,
+      "en": "<$comeff(4,6)><$motion(4,666)><$voicel(4,3)>But...what do we do now? How do we get the electricity?<clear><br><$emotion(4,60)><$voicel(4,7)>Ngh, I dunno how to do it, but I bet YOU can figure it out<br>no problem, <$cdef(27)><pname;1></color>!",
+      "pt_br": "<$comeff(4,6)><$motion(4,666)><$voicel(4,3)>Mas... o que fazemos agora?<clear><br><$emotion(4,60)><$voicel(4,7)>Não sei como fazê-lo, mas aposto que consegues descobrir.<br>Não há problema. <$cdef(27)><pname;1></color>!"
+    },
+    {
+      "id": 51,
+      "en": "As a matter of fact, the <$cdef(27)><$bfull(35)></color> is already generating<br>electricity. Connect <$cdef(27)><fqty(2)><$ifull(1396)></color> to it to transmit<slide><br>electricity over long distances!",
+      "pt_br": "Na verdade, o <$cdef(27)><$bfull(35)></color> já está gerando<br>eletricidade. Conectar <$cdef(27)><fqty(2)><$ifull(1396)></color> a ele transmitir<slide><br>electricidade a longas distâncias!"
+    },
+    {
+      "id": 52,
+      "en": "To run the <$cdef(27)><$bfull(35)></color>, you need burnable materials.<clear><br>The more you burn, the more electricity you can generate!",
+      "pt_br": "Para executar o <$cdef(27)><$bfull(35)></color>, você precisa de materiais queimáveis.<clear><br>Quanto mais você queimar, mais eletricidade você pode gerar!"
+    }
+  ]
+}

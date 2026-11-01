@@ -1,0 +1,1294 @@
+{
+  "entry_index": 5123,
+  "bin_id": "0xd56200",
+  "decompressed_size": 15016,
+  "first_tag_offset": 2922,
+  "total_strings": 257,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><fcap><$spwname(11)></color> specialty to help you.",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "There aren’t any Pokémon who can be called over...",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "You don’t have enough Pokémon helpers...",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "You can only plant things in tilled soil.",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Still cooking... Come back later!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "None of the items in your bag are already stored here.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "You can’t use this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "You can’t use that move now.",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Save successful",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Unable to save",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "You can’t access this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "There’s no point in placing more of these.",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "There are too many of these for them to work properly.",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "You are currently playing in that language.",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "That won’t have any effect here...",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "There aren’t any items to retrieve.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "You can’t do that right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "None of the items stored here are already in your bag.",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "You can’t buy from the shop right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "You can only install wallpaper indoors.",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "You can’t install wallpaper in this house.",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "You’re carrying too much stuff!",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "You need to water the dry ground before you can plant that.",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "You already have this information.",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "You can’t select this yet.",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Failed to save the game.",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "You don’t have enough PP!",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "This move isn’t registered.",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Nothing has been registered to this slot.",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "You don’t have enough materials...",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "You don’t have enough materials...",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "You can’t do that inside a building.",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "You can’t use that while camouflaged...",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "You don’t have enough Life Coins.",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Out of stock.",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "You can’t save right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Your inventory is full. You can’t place any more orders.",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "You can’t remove a move that’s currently in use.",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "You can’t make this exchange because your inventory is full.",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "There’s nothing burnable inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "You’re carrying too much stuff!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "You don’t have enough Pokémon helpers...",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "Try adding food.",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "You don’t have enough ingredients to add.",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "You can’t add that ingredient.",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "Only <$cdef(27)><$strpname;0(lstr1,lnum1)></color> can finish this building.",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Incorrect passcode.",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "Hey! That <$cdef(27)><fqty(1)><$iname(1677)></color> belongs to <$cdef(27)><$strpname;0(lstr1,lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "It’s full and can’t hold any more.",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "You can’t move that here.",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "You don’t have enough materials or Pokémon helpers...",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "You can’t use this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "The object isn’t in the picture.",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "That object can’t be copied.",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "The object is too close to the camera.",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "The object is too far from the camera.",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "You can’t place a camera here.",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "You can’t operate the camera right now. Exiting photo mode.",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "You’ve entered water. Exiting photo mode.",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "You’re too far away from the camera! Exiting photo mode.",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "You couldn’t receive some items because your inventory is full.",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Some items could not be stored.",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "This isn’t the correct item.",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "You can’t change tabs while photos are selected.",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "You don’t have enough materials...",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "You can’t trade for this item...",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "They don’t seem interested in this...",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Someone else is using this! You can’t use it right now!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "Please place a security camera.",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "There’s already a Pokémon nearby...",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "Raise the environment level!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "You need to meet the conditions first.",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "You don’t have any completed challenges to report!",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "This challenge has already been reported.",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "You can’t move any more items here.",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "You have too many security cameras. If you place another, you won’t be able to use it.",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "There isn’t enough space in your bag to fit everything.",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "The mood isn’t 100 yet.",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "There’s not enough space to build.",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "You can’t build on a surface that isn’t level.",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "There’s nothing to demolish.",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "You’re in the process of moving into another building.",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "You can’t build any more buildings.",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "You probably shouldn’t have more building projects happening at once.",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "You became friends with <$cdef(27)><$cname;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "Building has been interrupted. Canceling...",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "Fully recovered PP!",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "Recovered PP!",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "They’re busy doing something else right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "They’re in a different town right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "You can’t relocate to a different area.",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "The Pokémon following you right now can’t go with you.",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "Only one other Pokémon may accompany you.",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "You can’t go as is.",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "It’s about to explode! Splash it with water to cool it down!",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "This could be something good! Keep smashing <$keyicon(6)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "Building underway... Come back and check in later!",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "This move has been registered.",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "Eating salad has powered up your <$cdef(27)><$sklname(1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "Eating soup has powered up your <$cdef(27)><$sklname(3)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "Eating hamburger steak has powered up your <$cdef(27)><$sklname(4)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "Eating bread has powered up your <$cdef(27)><$sklname(5)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "You’ve restored <iart;0()><$cdef(27)><$hatname;0(lnum1)></color> habitat!",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "You can’t use this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "You only need one Pokémon Center.",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "They won’t grow in this type of ground.",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "<$cdef(27)><pname;0> </color>wins!",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "<$cdef(27)><$cname;0(lnum1)> </color>wins!",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "It doesn’t look like you can deposit anything else...",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "You couldn’t store some items.",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "This photo is already in your highlight reel.",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "You need to clear out everything that’s in the house.",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "You can’t do that when someone’s still inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "You need to clear off everything that’s attached to the house.",
+      "pt_br": ""
+    },
+    {
+      "id": 114,
+      "en": "You can’t do that right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 115,
+      "en": "There is nothing to move.",
+      "pt_br": ""
+    },
+    {
+      "id": 116,
+      "en": "You can’t build any more houses.",
+      "pt_br": ""
+    },
+    {
+      "id": 117,
+      "en": "There’s no point in building another one.",
+      "pt_br": ""
+    },
+    {
+      "id": 118,
+      "en": "You can’t do that with water nearby.",
+      "pt_br": ""
+    },
+    {
+      "id": 119,
+      "en": "You can’t break this while another player is using it.",
+      "pt_br": ""
+    },
+    {
+      "id": 120,
+      "en": "You can’t break this while it’s being used to conduct <$cdef(27)><$spwname(12)>s</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 121,
+      "en": "You can’t break this while it’s running.",
+      "pt_br": ""
+    },
+    {
+      "id": 122,
+      "en": "You can’t break this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 123,
+      "en": "This should be placed on a flat wall.",
+      "pt_br": ""
+    },
+    {
+      "id": 124,
+      "en": "This should be placed on a flat ceiling.",
+      "pt_br": ""
+    },
+    {
+      "id": 125,
+      "en": "This can’t be placed because something’s in the way.",
+      "pt_br": ""
+    },
+    {
+      "id": 126,
+      "en": "You already have a home in this town.",
+      "pt_br": ""
+    },
+    {
+      "id": 127,
+      "en": "You shouldn’t put this inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 128,
+      "en": "You shouldn’t place this while someone’s inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 129,
+      "en": "You can’t place this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 130,
+      "en": "You can’t plant this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 131,
+      "en": "You can only search for Pokémon you already know.",
+      "pt_br": ""
+    },
+    {
+      "id": 132,
+      "en": "There are no patterns in the picture.",
+      "pt_br": ""
+    },
+    {
+      "id": 133,
+      "en": "You’ve shown this picture before.",
+      "pt_br": ""
+    },
+    {
+      "id": 134,
+      "en": "This can’t be <$cdef(27)><$spwname(21)>ed</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 135,
+      "en": "You need at least <dgt3;0(lnum1)> of these to have them <$cdef(27)><$spwname(21)>ed</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 136,
+      "en": "This can’t be changed when you’re already connected!",
+      "pt_br": ""
+    },
+    {
+      "id": 137,
+      "en": "There is no backup data.",
+      "pt_br": ""
+    },
+    {
+      "id": 138,
+      "en": "You can’t camouflage yourself as that.",
+      "pt_br": ""
+    },
+    {
+      "id": 139,
+      "en": "You can’t change your hair color when you’re Ditto color.",
+      "pt_br": ""
+    },
+    {
+      "id": 140,
+      "en": "You can’t stop when it’s almost finished.",
+      "pt_br": ""
+    },
+    {
+      "id": 141,
+      "en": "You didn’t find anything...",
+      "pt_br": ""
+    },
+    {
+      "id": 142,
+      "en": "There are no photos.",
+      "pt_br": ""
+    },
+    {
+      "id": 143,
+      "en": "Please choose the photos to delete.",
+      "pt_br": ""
+    },
+    {
+      "id": 144,
+      "en": "You should go with the host player.",
+      "pt_br": ""
+    },
+    {
+      "id": 145,
+      "en": "You can’t use this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 146,
+      "en": "You have received all the items.",
+      "pt_br": ""
+    },
+    {
+      "id": 147,
+      "en": "This doesn’t go in here.",
+      "pt_br": ""
+    },
+    {
+      "id": 148,
+      "en": "You can’t put an item in here.",
+      "pt_br": ""
+    },
+    {
+      "id": 149,
+      "en": "You should remove what’s been completed first.",
+      "pt_br": ""
+    },
+    {
+      "id": 150,
+      "en": "You can’t use the camera right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 151,
+      "en": "You can’t send messages right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 152,
+      "en": "You already added this stamp.",
+      "pt_br": ""
+    },
+    {
+      "id": 153,
+      "en": "You can’t give any more stamps today.",
+      "pt_br": ""
+    },
+    {
+      "id": 154,
+      "en": "You don’t have enough <$cdef(27)><fqty(2)><class><$iname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 155,
+      "en": "You need to pick something to <$cdef(27)><$spwname(12)></color> for.",
+      "pt_br": ""
+    },
+    {
+      "id": 156,
+      "en": "You can’t select this button.",
+      "pt_br": ""
+    },
+    {
+      "id": 157,
+      "en": "This can’t be changed.",
+      "pt_br": ""
+    },
+    {
+      "id": 158,
+      "en": "This button can’t be assigned to that command.",
+      "pt_br": ""
+    },
+    {
+      "id": 159,
+      "en": "You can’t add any more stamps this week.",
+      "pt_br": ""
+    },
+    {
+      "id": 160,
+      "en": "This can’t be exchanged right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 161,
+      "en": "You don’t have enough items to meet the requirements.",
+      "pt_br": ""
+    },
+    {
+      "id": 162,
+      "en": "Please wait for the guest player to arrive.",
+      "pt_br": ""
+    },
+    {
+      "id": 163,
+      "en": "There’s nothing nearby that can be <$cdef(27)><$spwname(21)>ed</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 164,
+      "en": "There’s nothing nearby that can be <$cdef(27)><$spwname(21)>ed</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 165,
+      "en": "That’s already been <$cdef(27)><$spwname(21)>ed </color>the same color.",
+      "pt_br": ""
+    },
+    {
+      "id": 166,
+      "en": "Be sure to pick up any items on the floor inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 167,
+      "en": "You can’t go any further.",
+      "pt_br": ""
+    },
+    {
+      "id": 168,
+      "en": "That’s something important, so you probably shouldn’t take it out right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 169,
+      "en": "That’s something important, so you probably shouldn’t drop it right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 170,
+      "en": "That’s something important, so you probably should keep it in your bag.",
+      "pt_br": ""
+    },
+    {
+      "id": 171,
+      "en": "They need to be closer to you to help out!",
+      "pt_br": ""
+    },
+    {
+      "id": 172,
+      "en": "That’s something important, so you probably should keep it in your bag.",
+      "pt_br": ""
+    },
+    {
+      "id": 173,
+      "en": "You can’t do that right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 174,
+      "en": "You can’t fit any more items inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 175,
+      "en": "You already inserted another CD there.",
+      "pt_br": ""
+    },
+    {
+      "id": 176,
+      "en": "You can’t do that because there’s lava.",
+      "pt_br": ""
+    },
+    {
+      "id": 177,
+      "en": "You shouldn’t use that inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 178,
+      "en": "You shouldn’t use that while playing.",
+      "pt_br": ""
+    },
+    {
+      "id": 179,
+      "en": "You don’t have enough materials...",
+      "pt_br": ""
+    },
+    {
+      "id": 180,
+      "en": "Please choose a color.",
+      "pt_br": ""
+    },
+    {
+      "id": 181,
+      "en": "Please choose a color or pattern.",
+      "pt_br": ""
+    },
+    {
+      "id": 182,
+      "en": "There’s no space for anything else.",
+      "pt_br": ""
+    },
+    {
+      "id": 183,
+      "en": "The Pokémon can’t get out because there’s so much stuff!",
+      "pt_br": ""
+    },
+    {
+      "id": 184,
+      "en": "This Cloud Island can’t be made public.",
+      "pt_br": ""
+    },
+    {
+      "id": 185,
+      "en": "Your comfort level is now <$cdef(27)><flow><$stflevel;1(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 186,
+      "en": "Only the host can report a challenge.",
+      "pt_br": ""
+    },
+    {
+      "id": 187,
+      "en": "You need to power up <$cdef(27)><$sklname(1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 188,
+      "en": "You can’t make any more reports today.",
+      "pt_br": ""
+    },
+    {
+      "id": 189,
+      "en": "You can’t do that right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 190,
+      "en": "They seem too busy to talk right now. Come back later!",
+      "pt_br": ""
+    },
+    {
+      "id": 191,
+      "en": "A communication error occurred. Your items have been reset.",
+      "pt_br": ""
+    },
+    {
+      "id": 192,
+      "en": "The elevator is moving...",
+      "pt_br": ""
+    },
+    {
+      "id": 193,
+      "en": "Someone else is using this.",
+      "pt_br": ""
+    },
+    {
+      "id": 194,
+      "en": "You probably shouldn’t hand over any more items.",
+      "pt_br": ""
+    },
+    {
+      "id": 195,
+      "en": "You probably shouldn’t trade important items.",
+      "pt_br": ""
+    },
+    {
+      "id": 196,
+      "en": "Please read the user agreement to the end.",
+      "pt_br": ""
+    },
+    {
+      "id": 197,
+      "en": "You probably shouldn’t burn important items.",
+      "pt_br": ""
+    },
+    {
+      "id": 198,
+      "en": "You haven’t added anything to burn.",
+      "pt_br": ""
+    },
+    {
+      "id": 199,
+      "en": "You can’t repaint that spot.",
+      "pt_br": ""
+    },
+    {
+      "id": 200,
+      "en": "There’s already a cooking pot in this area.",
+      "pt_br": ""
+    },
+    {
+      "id": 201,
+      "en": "The effects of food have worn off.",
+      "pt_br": ""
+    },
+    {
+      "id": 202,
+      "en": "You already know this recipe.",
+      "pt_br": ""
+    },
+    {
+      "id": 203,
+      "en": "You didn’t participate in this challenge, so you can’t report it.",
+      "pt_br": ""
+    },
+    {
+      "id": 204,
+      "en": "You need to connect it to another <$cdef(27)><fqty(1)><$iname(1457)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 205,
+      "en": "Which way do you want to go?",
+      "pt_br": ""
+    },
+    {
+      "id": 206,
+      "en": "You’ve arrived!",
+      "pt_br": ""
+    },
+    {
+      "id": 207,
+      "en": "You’ve arrived!",
+      "pt_br": ""
+    },
+    {
+      "id": 208,
+      "en": "You need to connect it to another <$cdef(27)><fqty(1)><$iname(1469)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 209,
+      "en": "This would probably still work, if only there were electricity...",
+      "pt_br": ""
+    },
+    {
+      "id": 210,
+      "en": "There’s something in the way of the electrical wires.",
+      "pt_br": ""
+    },
+    {
+      "id": 211,
+      "en": "You shouldn’t pick this up while there’s stuff in the way.",
+      "pt_br": ""
+    },
+    {
+      "id": 212,
+      "en": "You shouldn’t pick this up while a <$cdef(27)><$spwname(12)></color> is happening.",
+      "pt_br": ""
+    },
+    {
+      "id": 213,
+      "en": "You shouldn’t pick this up while it’s moving.",
+      "pt_br": ""
+    },
+    {
+      "id": 214,
+      "en": "You shouldn’t pick this up while Pokémon are <$cdef(27)><$spwname(1)>ing</color> it.",
+      "pt_br": ""
+    },
+    {
+      "id": 215,
+      "en": "You need to put the hose in water to use this.",
+      "pt_br": ""
+    },
+    {
+      "id": 216,
+      "en": "You discovered the <$cdef(27)><$hatname;0(lnum1)></color> habitat!",
+      "pt_br": ""
+    },
+    {
+      "id": 217,
+      "en": "There’s nothing you can report here.",
+      "pt_br": ""
+    },
+    {
+      "id": 218,
+      "en": "Someone else is using this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 219,
+      "en": "You can’t report this challenge.",
+      "pt_br": ""
+    },
+    {
+      "id": 220,
+      "en": "You can’t place that here.",
+      "pt_br": ""
+    },
+    {
+      "id": 221,
+      "en": "You can’t set up an elevator without a ladder.",
+      "pt_br": ""
+    },
+    {
+      "id": 222,
+      "en": "Try connecting this to another block.",
+      "pt_br": ""
+    },
+    {
+      "id": 223,
+      "en": "You need more electricity to run everything that’s connected.",
+      "pt_br": ""
+    },
+    {
+      "id": 224,
+      "en": "You can’t move this right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 225,
+      "en": "Another Pokémon is living here. Try somewhere else.",
+      "pt_br": ""
+    },
+    {
+      "id": 226,
+      "en": "Another Pokémon may want to live here. Try somewhere else.",
+      "pt_br": ""
+    },
+    {
+      "id": 227,
+      "en": "That Pokémon can’t live in this habitat. Try somewhere else.",
+      "pt_br": ""
+    },
+    {
+      "id": 228,
+      "en": "This habitat is already registered in your Habitat Dex.",
+      "pt_br": ""
+    },
+    {
+      "id": 229,
+      "en": "Some Pokémon couldn’t come with you due to a communication error.",
+      "pt_br": ""
+    },
+    {
+      "id": 230,
+      "en": "You can’t do that right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 231,
+      "en": "You shouldn’t place that there.",
+      "pt_br": ""
+    },
+    {
+      "id": 232,
+      "en": "Even if you plant more here, the plants won’t have room to grow.",
+      "pt_br": ""
+    },
+    {
+      "id": 233,
+      "en": "You can’t do that while using GameShare.",
+      "pt_br": ""
+    },
+    {
+      "id": 234,
+      "en": "You can’t place any more.",
+      "pt_br": ""
+    },
+    {
+      "id": 235,
+      "en": "Only the owner can do that.",
+      "pt_br": ""
+    },
+    {
+      "id": 236,
+      "en": "Please wait until your guests arrive.",
+      "pt_br": ""
+    },
+    {
+      "id": 237,
+      "en": "Your PP is full!",
+      "pt_br": ""
+    },
+    {
+      "id": 238,
+      "en": "You already know these recipes.",
+      "pt_br": ""
+    },
+    {
+      "id": 239,
+      "en": "You don’t have enough ingredients...",
+      "pt_br": ""
+    },
+    {
+      "id": 240,
+      "en": "You don’t have enough materials or Pokémon helpers...",
+      "pt_br": ""
+    },
+    {
+      "id": 241,
+      "en": "Drifloon is busy helping over in <dart;0()><$cdef(27)><$stgname;0(lnum1)> </color>right now!",
+      "pt_br": ""
+    },
+    {
+      "id": 242,
+      "en": "Even if you plant more here, the plants won’t produce anything.",
+      "pt_br": ""
+    },
+    {
+      "id": 243,
+      "en": "You can’t do that right now because one or more players are busy.",
+      "pt_br": ""
+    },
+    {
+      "id": 244,
+      "en": "When you’re Ditto color, other bag and clothing colors will not display.",
+      "pt_br": ""
+    },
+    {
+      "id": 245,
+      "en": "You can’t build floating structures without water.",
+      "pt_br": ""
+    },
+    {
+      "id": 246,
+      "en": "That’s something important, so you probably shouldn’t throw it away.",
+      "pt_br": ""
+    },
+    {
+      "id": 247,
+      "en": "Hey! That’s someone else’s <$cdef(27)><fqty(1)><$iname(1677)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 248,
+      "en": "This is <$cdef(27)><$strpname;0(lstr1,lnum1)></color>’s <$cdef(27)><fqty(1)><$iname(1677)></color>. You can’t break it.",
+      "pt_br": ""
+    },
+    {
+      "id": 249,
+      "en": "This is someone else’s <$cdef(27)><fqty(1)><$iname(1677)></color>. You can’t break it.",
+      "pt_br": ""
+    },
+    {
+      "id": 250,
+      "en": "You have to complete the Pokémon’s request first.",
+      "pt_br": ""
+    },
+    {
+      "id": 251,
+      "en": "Additional downloadable content required.",
+      "pt_br": ""
+    },
+    {
+      "id": 252,
+      "en": "Drinking a smoothie has powered up <$cdef(27)><$sklname(10)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 253,
+      "en": "You can’t change the color of this section after a pattern has been painted onto it.",
+      "pt_br": ""
+    },
+    {
+      "id": 254,
+      "en": "The <$cdef(27)><fqty(1)><$iname(1440)> </color>must be placed on top of a house.",
+      "pt_br": ""
+    },
+    {
+      "id": 255,
+      "en": "You can’t use <$cdef(27)>Surf</color> while deep underwater.",
+      "pt_br": ""
+    },
+    {
+      "id": 256,
+      "en": "You probably shouldn’t destroy someone’s home.",
+      "pt_br": ""
+    }
+  ]
+}

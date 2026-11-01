@@ -1,0 +1,424 @@
+{
+  "entry_index": 4297,
+  "bin_id": "0xaf0d00",
+  "decompressed_size": 4104,
+  "first_tag_offset": 1240,
+  "total_strings": 83,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>, tesoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Ottimo lavoro, <$cdef(27)><$etpname;0(lnum1)></color>, tesoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Vedrai, tesoro, andremo d'amore e d'accordo!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "Oplà!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "Mettiamocela tutta...!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "Ancora un ultimo sforzo...!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Ohi ohi, adesso mi devo riposare!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Oh cielo mio, piove...!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Oh cielo! Sembra buonissimo!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Andare in cerca di tesori è la mia specialità!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "Oh cielo, abbiamo un problema qui...",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Ho bisogno di riposarmi un po'...!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "Ed eccomi qua!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "Qui si fa un po' fatica...",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "Ma guarda un po'! Ecco qua, finalmente!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "È qui sopra!",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Prova a scavare qui sotto!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Di qua, di qua!",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "Oh cielo! Non riesco a trovare nulla...",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Proviamo ad andare di là!",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "Oh! È qua intorno, ne sono certa!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "Che dici, è tutto pronto per partire?",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "Oh cielo, non si passa!",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Non è un po' troppo lontano...?",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Oh, ma che meraviglia!",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "<genqty;0(Il mio,La mia,I miei,Le mie)> <fqty(1)><$cdef(27)><$ifull;0(lnum1)></color>...!!",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "Questo caldo è una benedizione! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Che caldo... Non si respira...",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Mi ci voleva proprio questo fresco! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "L'aria così fredda non mi giova...",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "Oh, c'è più luce adesso! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "Non mi trovo a mio agio con questa luce accecante...",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Adesso che è più buio mi sento meglio! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "È un tantino buio...",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Quest'umidità mi è di grande giovamento! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "L'aria troppo umida mi toglie le forze...",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Oooh, che meraviglia quest'aria asciutta! ♪",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "L'aria è fin troppo secca...",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "Oh cielo! Di qui non si passa!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Che atmosfera rilassante...!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "Oh cielo, ma questa casa è un vero gioiellino!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>! Butta un occhio qua!",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "Non mi pare sufficientemente grande...",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "Partiamo!",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "Spero mi vorrai di nuovo con te!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "Mi metto subito al lavoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "Che buono! Lo annuserei per ore!",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "Scusami, tesoro. Adesso non posso.",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "Ecco qua! Ho finito.",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Lascia che me ne occupi io!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "Che posto incantevole!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>, tesoro, che cos'è?",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "Vedrai che ora ti trovo!",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "Ho così tanta fame che non riesco a muovermi...",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "Oh cielo! Chi va là?",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Oh, ma che meraviglia!",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "Forza e coraggio!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "Ooh... Che sensazione divina...",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Aspettami, tesoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "Oh cielo, è impossibile andare là!",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Consideralo già fatto, tesoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Prima è necessario versarci sopra un po' d'acqua.",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "Sarà da questa parte...?",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "Mmmh... Niente da fare!",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "Oh cielo... Non sarà...?",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "Ti troverò con il mio olfatto!",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "Il mio sguardo non si inganna, tesoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Eccoti qui, tesoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "Forza, forza!",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "Ci siamo quasi...!",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "Non vedo l'ora!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "Oho! <fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "Non vedo l'ora di mettermi all'opera, tesoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "Vedrai, preparerò una vera leccornia!",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "Che splendore!",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "Questo posto è davvero delizioso!",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "Come faccio con tutta quest'acqua...",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "Mangiamo a volontà!",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "Oh cielo, così non può crescere!",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Sarà stata una mia impressione.",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "Sbaglio o ho sentito un rumore?!",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "Oh cielo! <fcap><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "Prima bisogna metterci delle <$cdef(27)>bolle</color>, tesoro.",
+      "pt_br": ""
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "entry_index": 4259,
+  "bin_id": "0xadef00",
+  "decompressed_size": 3944,
+  "first_tag_offset": 1234,
+  "total_strings": 82,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)><$etpname;0(lnum1)></color>.",
+      "pt_br": "<$cdef(27)><$etpname;0(lnum1)></color>."
+    },
+    {
+      "id": 1,
+      "en": "Nicely done there, <$cdef(27)><$etpname;0(lnum1)></color>.",
+      "pt_br": "Muito bem feito. <$cdef(27)><$etpname;0(lnum1)></color>."
+    },
+    {
+      "id": 2,
+      "en": "Ready fer some good times, I do declare!",
+      "pt_br": "Pronto para alguns bons momentos, eu declaro!"
+    },
+    {
+      "id": 3,
+      "en": "I’m itchin’ to get started!",
+      "pt_br": "Estou coçando’ para começar!"
+    },
+    {
+      "id": 4,
+      "en": "Now we’re gettin’ somewhere!",
+      "pt_br": "Agora estamos chegando a algum lugar!"
+    },
+    {
+      "id": 5,
+      "en": "Jus’ about done, I reckon!",
+      "pt_br": "Acho que já está feito!"
+    },
+    {
+      "id": 6,
+      "en": "Phew!",
+      "pt_br": "Ufa!"
+    },
+    {
+      "id": 7,
+      "en": "It’s rainin’? I’m goin’ home, then...",
+      "pt_br": "Está chovendo’? Eu vou para casa, então..."
+    },
+    {
+      "id": 8,
+      "en": "Now that sure does look tasty!",
+      "pt_br": "Isso parece mesmo saboroso!"
+    },
+    {
+      "id": 9,
+      "en": "I’m quite the treasure hunter, if I do say so myself.",
+      "pt_br": "Sou um caçador de tesouros, se eu mesmo o digo."
+    },
+    {
+      "id": 10,
+      "en": "Now how’m I s’posed to get past here?",
+      "pt_br": "Agora, como eu sou obrigado a passar por aqui?"
+    },
+    {
+      "id": 11,
+      "en": "I am plumb tuckered out...",
+      "pt_br": "Estou exausto..."
+    },
+    {
+      "id": 12,
+      "en": "I made it!",
+      "pt_br": "Consegui!"
+    },
+    {
+      "id": 13,
+      "en": "Bit rough gettin’ through here...",
+      "pt_br": "Um pouco áspero passar por aqui..."
+    },
+    {
+      "id": 14,
+      "en": "It’s right here, I tell ya!",
+      "pt_br": "É bem aqui, eu digo!"
+    },
+    {
+      "id": 15,
+      "en": "I do believe it’s up above here!",
+      "pt_br": "Eu acredito que é aqui em cima!"
+    },
+    {
+      "id": 16,
+      "en": "I reckon it’s down below here!",
+      "pt_br": "Eu acho que é aqui embaixo!"
+    },
+    {
+      "id": 17,
+      "en": "It’s thisaway!",
+      "pt_br": "É isso aí!"
+    },
+    {
+      "id": 18,
+      "en": "Hmmm... Can’t seem to find anything ’round here.",
+      "pt_br": "Hmmm... Parece que não se encontra nada por aqui."
+    },
+    {
+      "id": 19,
+      "en": "Maybe over thataway?",
+      "pt_br": "Talvez por ali?"
+    },
+    {
+      "id": 20,
+      "en": "It’s ’round here somewhere!",
+      "pt_br": "Está por aqui em algum lugar!"
+    },
+    {
+      "id": 21,
+      "en": "We good to set off?",
+      "pt_br": "Estamos prontos para partir?"
+    },
+    {
+      "id": 22,
+      "en": "Hmmm... I reckon this is a dead end.",
+      "pt_br": "Acho que isto é um beco sem saída."
+    },
+    {
+      "id": 23,
+      "en": "Could ya bring it a bit closer fer me?",
+      "pt_br": "pode aproximar-te um pouco mais?"
+    },
+    {
+      "id": 24,
+      "en": "Yeah! That’s it!",
+      "pt_br": "É isso aí!"
+    },
+    {
+      "id": 25,
+      "en": "The <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>...?",
+      "pt_br": "A <$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>...?"
+    },
+    {
+      "id": 26,
+      "en": "Nice ’n’ warm! ♪",
+      "pt_br": "Quente!"
+    },
+    {
+      "id": 27,
+      "en": "It’s a li’l hot out...",
+      "pt_br": "É um li'l quente para fora..."
+    },
+    {
+      "id": 28,
+      "en": "I do love me a cool breeze! ♪",
+      "pt_br": "Eu adoro uma brisa fresca!"
+    },
+    {
+      "id": 29,
+      "en": "It’s a wee bit cold...",
+      "pt_br": "Está um pouco frio..."
+    },
+    {
+      "id": 30,
+      "en": "It’s brightened up ’round these parts! ♪",
+      "pt_br": "Está iluminada em torno destas partes!"
+    },
+    {
+      "id": 31,
+      "en": "Ain’t it a bit too bright?",
+      "pt_br": "Não é um pouco brilhante demais?"
+    },
+    {
+      "id": 32,
+      "en": "Sure am glad it’s a bit darker ’round here now! ♪",
+      "pt_br": "Certamente estou feliz que é um pouco mais escuro ’ por aqui agora! ♪"
+    },
+    {
+      "id": 33,
+      "en": "Bit too dark for me, I tell you what...",
+      "pt_br": "Um pouco escuro demais para mim, digo-te uma coisa..."
+    },
+    {
+      "id": 34,
+      "en": "Oh! Nice ’n’ humid now. ♪",
+      "pt_br": "Que bom, agora está húmido."
+    },
+    {
+      "id": 35,
+      "en": "Bit too humid, I do declare...",
+      "pt_br": "Um pouco húmido demais, eu declaro..."
+    },
+    {
+      "id": 36,
+      "en": "The air’s dried up nicely. ♪",
+      "pt_br": "O ar secou bem."
+    },
+    {
+      "id": 37,
+      "en": "It’s a bit too dry in these parts...",
+      "pt_br": "É um pouco muito seco nestas partes..."
+    },
+    {
+      "id": 38,
+      "en": "Hmmm... I can’t get myself over there.",
+      "pt_br": "Hmmm... Eu não consigo chegar até lá."
+    },
+    {
+      "id": 39,
+      "en": "I could settle down here nicely!",
+      "pt_br": "Podia ficar aqui bem!"
+    },
+    {
+      "id": 40,
+      "en": "Now this is a nice home, I tell you what!",
+      "pt_br": "Esta é uma bela casa, digo-te uma coisa!"
+    },
+    {
+      "id": 41,
+      "en": "Well, howdy! Glad ya came!",
+      "pt_br": "Que bom que vieste!"
+    },
+    {
+      "id": 42,
+      "en": "Bit too small, if ya ask me...",
+      "pt_br": "Um pouco pequeno demais, se me perguntares..."
+    },
+    {
+      "id": 43,
+      "en": "All righty! Let’s go!",
+      "pt_br": "Muito bem, vamos!"
+    },
+    {
+      "id": 44,
+      "en": "I’ll be seein’ ya!",
+      "pt_br": "Eu vou estar te vendo!"
+    },
+    {
+      "id": 45,
+      "en": "I’m itchin’ to get started!",
+      "pt_br": "Estou coçando’ para começar!"
+    },
+    {
+      "id": 46,
+      "en": "Somethin’ smells mighty good!",
+      "pt_br": "Alguma coisa cheira muito bem!"
+    },
+    {
+      "id": 47,
+      "en": "Sure am sorry, but I can’t right now...",
+      "pt_br": "Claro que sinto muito, mas não posso agora..."
+    },
+    {
+      "id": 48,
+      "en": "Now that’s a job well done, if I do say so myself!",
+      "pt_br": "Agora que é um trabalho bem feito, se eu mesmo digo!"
+    },
+    {
+      "id": 49,
+      "en": "Lemme give it a go.",
+      "pt_br": "Deixa-me tentar."
+    },
+    {
+      "id": 50,
+      "en": "Nice place ya got here!",
+      "pt_br": "Bela casa que tem aqui!"
+    },
+    {
+      "id": 51,
+      "en": "Whatcha got there?",
+      "pt_br": "O que tem aí?"
+    },
+    {
+      "id": 52,
+      "en": "I’m gonna find ya!",
+      "pt_br": "Vou encontrar-te!"
+    },
+    {
+      "id": 53,
+      "en": "I’m too hungry to move another inch...",
+      "pt_br": "Estou com muita fome para mover mais um centímetro..."
+    },
+    {
+      "id": 54,
+      "en": "Hm? What’s this now?",
+      "pt_br": "O que é isso agora?"
+    },
+    {
+      "id": 55,
+      "en": "Nice ’un!",
+      "pt_br": "Boa ’un!"
+    },
+    {
+      "id": 56,
+      "en": "Hrumf!",
+      "pt_br": "Hrumf!"
+    },
+    {
+      "id": 57,
+      "en": "This sure is nice, I tell ya what...",
+      "pt_br": "Isto é mesmo bom, digo-te uma coisa..."
+    },
+    {
+      "id": 58,
+      "en": "Slow down—I say, slow down!",
+      "pt_br": "Devagar, eu digo, devagar!"
+    },
+    {
+      "id": 59,
+      "en": "Hmmm. Don’t reckon I can make it there!",
+      "pt_br": "Hmmm. Não acho que eu posso fazê-lo lá!"
+    },
+    {
+      "id": 60,
+      "en": "Well now, you jus’ leave this to me!",
+      "pt_br": "Bem, agora, você deixa isso para mim!"
+    },
+    {
+      "id": 61,
+      "en": "I reckon this needs a li’l water first.",
+      "pt_br": "Eu acho que isso precisa de uma água li’l primeiro."
+    },
+    {
+      "id": 62,
+      "en": "Now where might ya be...",
+      "pt_br": "Agora, onde poderias estar..."
+    },
+    {
+      "id": 63,
+      "en": "Hm... Not here...",
+      "pt_br": "Aqui não."
+    },
+    {
+      "id": 64,
+      "en": "Hm?! Did I find ’em...?",
+      "pt_br": "Será que eu os encontrei...?"
+    },
+    {
+      "id": 65,
+      "en": "I’mma sniff ya out!",
+      "pt_br": "Eu vou farejar você!"
+    },
+    {
+      "id": 66,
+      "en": "Ya can’t fool these ol’ eyes of mine!",
+      "pt_br": "Você não pode enganar estes meus olhos velhos!"
+    },
+    {
+      "id": 67,
+      "en": "Ha! Found ya!",
+      "pt_br": "Encontrei-te!"
+    },
+    {
+      "id": 68,
+      "en": "Easy does it!",
+      "pt_br": "Calma!"
+    },
+    {
+      "id": 69,
+      "en": "Feast yer eyes on my secret ingredient!",
+      "pt_br": "Refresquem os vossos olhos no meu ingrediente secreto!"
+    },
+    {
+      "id": 70,
+      "en": "I’m starvin’...",
+      "pt_br": "Estou esfomeado..."
+    },
+    {
+      "id": 71,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+    },
+    {
+      "id": 72,
+      "en": "Gotta put these ol’ bones to work.",
+      "pt_br": "Tenho de pôr estes ossos a funcionar."
+    },
+    {
+      "id": 73,
+      "en": "Lookin’ forward to it!",
+      "pt_br": "Estou ansioso por isso!"
+    },
+    {
+      "id": 74,
+      "en": "A job well done!",
+      "pt_br": "Um trabalho bem feito!"
+    },
+    {
+      "id": 75,
+      "en": "Why, this is a mighty fine domicile!",
+      "pt_br": "Ora, este é um magnífico lar!"
+    },
+    {
+      "id": 76,
+      "en": "Kinda difficult with all that water...",
+      "pt_br": "É um pouco difícil com toda aquela água..."
+    },
+    {
+      "id": 77,
+      "en": "We sure did a good job!",
+      "pt_br": "Fizemos um bom trabalho!"
+    },
+    {
+      "id": 78,
+      "en": "Get rid o’ that thing up there.",
+      "pt_br": "Livre-se daquela coisa lá em cima."
+    },
+    {
+      "id": 79,
+      "en": "Eyes mus’ be playin’ tricks on me...",
+      "pt_br": "Os olhos devem estar pregando peças em mim..."
+    },
+    {
+      "id": 80,
+      "en": "What’s that noise?!",
+      "pt_br": "Que barulho é esse?!"
+    },
+    {
+      "id": 81,
+      "en": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": "<fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!"
+    }
+  ]
+}

@@ -1,0 +1,2294 @@
+{
+  "entry_index": 2324,
+  "bin_id": "0x59b100",
+  "decompressed_size": 41944,
+  "first_tag_offset": 4533,
+  "total_strings": 457,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)>five </color>stamps! You can exchange them for<br><$cdef(27)>Life Coins </color>from <timemd;0(lnum1,lnum2)> to <timemd;1(lnum3,lnum4)>.<clear><br>You can replace your stamps until <timemd;2(lnum5,lnum6)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<oneline>You made<br><$cdef(27)><dgt5;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<oneline>You made<br><$cdef(27)><dgt5;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "You learned <$cdef(27)><$sklfull;1(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<oneline>You got a <$cdef(27)>recipe</color> for<br><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "*deedle-beep!*<br>A message from your Pokédex!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "You’ve earned a recipe as a reward for discovering lots<br>of Pokémon!",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Choose where to set <$cdef(27)><$sklfull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "<oneline>You got<br><$cdef(27)><dgt5;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "You found a trace of a Pokémon!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "The building is in ruins...",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "What could this be?",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "You received the <$cdef(27)><$spwfull(25)>d </color>items!",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "Intense flames prevent you from picking up this item.<br>Maybe you can put out the fire somehow?",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "You dug up some treasure! Pick it up and see what it is!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "No downloadable content available for purchase.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "No items available.",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "This content has not yet been announced.",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "This content is not yet available for play.",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Try going to an area you haven’t visited yet.",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "Try progressing the story in <$cdef(27)><$stgmyname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "Try fulfilling <$cdef(27)><$cname;0(lnum1)></color>’s request.",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "<oneline>Try completing the important request<br>“<$iqname;1(lnum2)>”<slide><br>in <$cdef(27)><$stgmyname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "You found a <$cdef(27)>recipe</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "<oneline>Try heading over to the <$cdef(27)>Pokémon Center </color>in<br><$cdef(27)><$stgmyname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "You cannot receive this because you have not purchased<br>the relevant downloadable content.",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "You’ve already received this.",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Everything went black!",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "It’s an old machine...",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "You came up with a <$cdef(27)>recipe</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<oneline>You and <$cdef(27)><nname;0></color> are in perfect sync<br>with<slide><br>one another!",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<oneline>You and <$cdef(27)><nname;0> </color>are now great<br>friends!",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Bring a Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty over to light<br>a fire.",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "You need fire to use this item. Try placing it on a campfire<br>or cooking stove.",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Looks like it will grow if you water it.",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "It’s crackling with electricity. Maybe it used to be<br>connected to something?",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Would you like to search for <$cdef(27)><$cname;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Stop searching for <$cdef(27)><$cname;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "<oneline>Stop searching for <$cdef(27)><$cname;0(lnum1)> </color>and<br>search<slide><br>for<slide><br><$cdef(27)><$cname;1(lnum2)> </color>instead?",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Which Pokémon would you like to search for?",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "You learned about a Pokémon! Would you like to view<br>their entry in your Pokédex?",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "<oneline>Ending search for <$cdef(27)><$cname;0(lnum1)></color>. Which<br>Pokémon<slide><br>would<slide><br>you<slide><br>like<slide><br>to<slide><br>search for?",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "You can’t send any more items to your town’s <$cdef(27)>PC</color>.<br>Items that can’t be sent to the <$cdef(27)>PC</color> are sent to the<slide><br><$cdef(27)><fqty(1)><$ifull(1442)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "<oneline>You got a <$cdef(27)>recipe</color> for<br><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!<slide><br>But you already know this <$cdef(27)>recipe</color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)> </color>reached the <$cdef(27)>PC</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "Do you want to stop playing hide-and-sneak?",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "<oneline><$cdef(27)><string;0(lstr1)> </color>ended the<br>game<slide><br>of<slide><br>hide-and-sneak.",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "The wind is too strong for you to get any closer. Is there a<br>move that could cut through it?",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "How do you want to connect?",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "Do you want to stop playing hide-and-sneak?<br>This will end the game for all other players as well.",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "Time to rebuild the <$cdef(27)>Pokémon Center</color>! Gather up materials<br>and Pokémon helpers!",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "Flip it over?",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "It looks like a Pokémon following you has unfinished<br>business in this town.",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "Would you like to begin with the selected language?",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "The game must restart to change the language settings.<br>Do you wish to restart the game?",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "Whose items will you collect?",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "Are you sure you want to play in Japanese?",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "Are you sure you want to play in English?",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "Are you sure you want to play in French?",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "Are you sure you want to play in Italian?",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "Are you sure you want to play in German?",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "Are you sure you want to play in Spanish?",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "<$cdef(27)><fcap><$spwfull(21)></color> with this color?",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "You used Transform!",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "<oneline>You came up with a <$cdef(27)>recipe</color> for<br><iart;0()><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "Your bag is full and can’t hold any more. Swap this with an<br>item from your bag?",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "You learned the <$cdef(27)><$emotename;0(lnum1)> </color>emote!",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "Go to <dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "You can’t go there yet.",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "Check the settings for <dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "Are these settings OK?",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "*beep beep beep*<br>This Pokédex will register Pokémon who live on<slide><br>Cloud Islands!<clear><br>Work with your friends to register as many Pokémon<br>as possible!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "<oneline>How many<br><$cdef(27)><fqty(2)><class><$ifull;0(lnum1)></color><slide><$cdef(27)><br></color>will<slide><br>you<slide><br>hand<slide><br>over?<slide><br>(You have <$cdef(27)><dgt4;1(lnum2)></color>.)",
+      "pt_br": ""
+    },
+    {
+      "id": 73,
+      "en": "<oneline>Hand over<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color><slide><br>to<slide><br>be<slide><br>made<slide><br>into<slide><br><$cdef(27)><dgt5;3(lnum4)> <class><$ifullwithnum;2(lnum3,lnum4)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 74,
+      "en": "*beep beep beep*<br>You cannot pass through this area gate at your current<slide><br>Trainer rank.",
+      "pt_br": ""
+    },
+    {
+      "id": 75,
+      "en": "*beep beep beep*<br>You have arrived at an area gate.",
+      "pt_br": ""
+    },
+    {
+      "id": 76,
+      "en": "Please scan the gate panel with your Pokédex.",
+      "pt_br": ""
+    },
+    {
+      "id": 77,
+      "en": "*beep beep beep*<br>Your Trainer rank is <$cdef(27)><trnrank;0></color>.<slide><br>The area gate will now open.",
+      "pt_br": ""
+    },
+    {
+      "id": 78,
+      "en": "Begin building the <$cdef(27)><$bfull;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 79,
+      "en": "Begin rebuilding the <$cdef(27)><$bfull;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 80,
+      "en": "<oneline>How many<br><$cdef(27)><fqty(2)><class><$ifull;0(lnum1)></color><slide><br>will<slide><br>you<slide><br>hand<slide><br>over?<slide><br>(You have <$cdef(27)><dgt4;1(lnum2)></color>.)",
+      "pt_br": ""
+    },
+    {
+      "id": 81,
+      "en": "<oneline>Hand over<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color><slide><br>to<slide><br>be<slide><br>made<slide><br>into<slide><br><$cdef(27)><dgt5;3(lnum4)> <class><$ifullwithnum;2(lnum3,lnum4)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 82,
+      "en": "<oneline>How many copies of the<br><$cdef(27)><fqty(1)><$ifull;0(lnum1)></color><slide><br>will<slide><br>you make?",
+      "pt_br": ""
+    },
+    {
+      "id": 83,
+      "en": "Begin making <iart;0()><$cdef(27)><$bfull;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 84,
+      "en": "<oneline>Use <$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color><br>to make<slide><br><$cdef(27)><dgt4;3(lnum4)> <class><$ifullwithnum;2(lnum3,lnum4)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 85,
+      "en": "<oneline>You opened <$cdef(27)><fqty(1)><$ifull;0(lnum1)></color>!<br>Come<slide><br>back<slide><br>in<slide><br>a<slide><br>little while.",
+      "pt_br": ""
+    },
+    {
+      "id": 86,
+      "en": "One or more players are not ready yet.",
+      "pt_br": ""
+    },
+    {
+      "id": 87,
+      "en": "Area gate unlocked. You may now pass through.",
+      "pt_br": ""
+    },
+    {
+      "id": 88,
+      "en": "*beep beep beep*<br>Calculating completion time...",
+      "pt_br": ""
+    },
+    {
+      "id": 89,
+      "en": "It’ll be done at <timehm;0(lnum1,lnum2)>.",
+      "pt_br": ""
+    },
+    {
+      "id": 90,
+      "en": "It’ll be done tomorrow.",
+      "pt_br": ""
+    },
+    {
+      "id": 91,
+      "en": "*beep beep beep*<br>To enter this area, you need to purchase and download<slide><br>the Pokémon Pokopia Expansion Pass.<clear><br>For more info, please visit Nintendo eShop.",
+      "pt_br": ""
+    },
+    {
+      "id": 92,
+      "en": "If you purchase the Pokémon Pokopia Expansion Pass and<br>update your Pokédex, you’ll be able to go to this new town!",
+      "pt_br": ""
+    },
+    {
+      "id": 93,
+      "en": "The <$cdef(27)><$bfull;0(lnum1)> </color>is complete!",
+      "pt_br": ""
+    },
+    {
+      "id": 94,
+      "en": "You rebuilt the <$cdef(27)><$bfull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 95,
+      "en": "To receive a <$cdef(27)><fqty(1)><$ifull(433)></color>, you must have a<br><$cdef(27)><fqty(1)><$ifull(432)> </color>to give to a Pokémon when you accept<slide><br>their request.<clear><br>Do you want to hear their request anyway?",
+      "pt_br": ""
+    },
+    {
+      "id": 96,
+      "en": "You found someone’s hidden treasure!<br>It’s <iart;0()><$cdef(27)><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 97,
+      "en": "<oneline>You learned the <$cdef(27)><$coordname;1(lnum1)> </color>look!",
+      "pt_br": ""
+    },
+    {
+      "id": 98,
+      "en": "A Pokémon with the <$cdef(27)><fcap><$spwfull(21)> </color>specialty might be able to<br>learn this design and reproduce it for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 99,
+      "en": "<$cdef(27)><$cname(206)> </color>learned a new pattern!",
+      "pt_br": ""
+    },
+    {
+      "id": 100,
+      "en": "<oneline>You got<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 101,
+      "en": "You learned some <$cdef(27)>Packing Tips</color>!<clear><br>You can now fit a little more in your bag!",
+      "pt_br": ""
+    },
+    {
+      "id": 102,
+      "en": "You used a <$cdef(27)><fqty(1)><$ifull(3976)></color>. You can now use your moves a<br>lot more!",
+      "pt_br": ""
+    },
+    {
+      "id": 103,
+      "en": "The food you ate powered up <$cdef(27)><$sklfull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 104,
+      "en": "Would you like to check out the new info you got?",
+      "pt_br": ""
+    },
+    {
+      "id": 105,
+      "en": "<$cdef(27)>Photo op snagged!</color>",
+      "pt_br": ""
+    },
+    {
+      "id": 106,
+      "en": "This will open Nintendo eShop.<clear><br>Your game will stay open and can be resumed later.<clear><br>However, you must restart the game to activate any<br>new downloadable content.<clear><br>Would you like to save now?",
+      "pt_br": ""
+    },
+    {
+      "id": 107,
+      "en": "Which items would you like to check?",
+      "pt_br": ""
+    },
+    {
+      "id": 108,
+      "en": "Receive these items?",
+      "pt_br": ""
+    },
+    {
+      "id": 109,
+      "en": "You can’t receive these items because your bag is full.",
+      "pt_br": ""
+    },
+    {
+      "id": 110,
+      "en": "<oneline><$cdef(27)><$cname;0(lnum2)></color> is once again offering some<br>special<slide><br>items<slide><br>at the<slide><br><$cdef(27)><$stgmyname;1(lnum1)></color><slide><$cdef(27)><br>Pokémon</color><slide><$cdef(27)><br>Center </color>today!<clear><br>Looks like they’ll trade these items in exchange for<br><$cdef(27)><fqty(2)><evcpitem;3></color><slide><br>for<slide><br><$cdef(27)><evcleftdnum;2></color><slide><br>more <qty;2(day,days)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 111,
+      "en": "<oneline>Today’s the last day to trade with<br><$cdef(27)><$cname;1(lnum2)></color><slide><br>at the<slide><br><$cdef(27)><$stgmyname;0(lnum1)></color><slide><$cdef(27)><br>Pokémon Center</color>!<clear><br>If they have any items you want, be sure to bring some<br><$cdef(27)><fqty(2)><evcpitem;2></color> to trade!",
+      "pt_br": ""
+    },
+    {
+      "id": 112,
+      "en": "You have already registered this Pokémon. Would you like<br>to open your Pokédex?",
+      "pt_br": ""
+    },
+    {
+      "id": 113,
+      "en": "In your last session, you did not disconnect correctly.<clear><br>Disconnecting during a Link Play session may cause your<br>progress in the game to revert to your last save point.<clear><br>Please check that you have a stable connection before<br>enjoying Link Play.",
+      "pt_br": ""
+    },
+    {
+      "id": 114,
+      "en": "Your photo album is full! Would you like to open your<br>album to make room?",
+      "pt_br": ""
+    },
+    {
+      "id": 115,
+      "en": "You sense a strong presence coming from within. It seems<br>like someone is inside...",
+      "pt_br": ""
+    },
+    {
+      "id": 116,
+      "en": "Saving...<br>Do not turn off the power.",
+      "pt_br": ""
+    },
+    {
+      "id": 117,
+      "en": "<oneline>You got <$cdef(27)><dgt2;1(lnum2)></color> <$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color><br>from a <$cdef(27)><$spwfull(12)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 118,
+      "en": "Are you sure you want to change the passcode?",
+      "pt_br": ""
+    },
+    {
+      "id": 119,
+      "en": "<oneline>You learned the <$cdef(27)><$hairname;1(lnum1)><br></color>hairstyle!",
+      "pt_br": ""
+    },
+    {
+      "id": 120,
+      "en": "Would you like to set a passcode?",
+      "pt_br": ""
+    },
+    {
+      "id": 121,
+      "en": "<oneline>This is <$cdef(27)><$strpname;0(lstr1,lnum1)></color>’s <$cdef(27)><fqty(1)><$ifull(1677)></color>. Would you<br>like<slide><br>to<slide><br>open it?",
+      "pt_br": ""
+    },
+    {
+      "id": 122,
+      "en": "Set your desired passcode.",
+      "pt_br": ""
+    },
+    {
+      "id": 123,
+      "en": "Enter the passcode.",
+      "pt_br": ""
+    },
+    {
+      "id": 124,
+      "en": "Are you sure you wish to delete the selected photos?",
+      "pt_br": ""
+    },
+    {
+      "id": 125,
+      "en": "Are you sure you wish to delete this photo?",
+      "pt_br": ""
+    },
+    {
+      "id": 126,
+      "en": "Change your highlight reel photo?",
+      "pt_br": ""
+    },
+    {
+      "id": 127,
+      "en": "Do you wish to return home?",
+      "pt_br": ""
+    },
+    {
+      "id": 128,
+      "en": "Show this human record to <$cdef(27)><$cname;0(206)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 129,
+      "en": "Backup data from <timeymd;0(lnum1,lnum2,lnum3)> found.<clear><br>Would you like to recover this data and replace your<br>existing save data?",
+      "pt_br": ""
+    },
+    {
+      "id": 130,
+      "en": "Loading backup data. Don’t turn off the power.",
+      "pt_br": ""
+    },
+    {
+      "id": 131,
+      "en": "Save and quit the game?",
+      "pt_br": ""
+    },
+    {
+      "id": 132,
+      "en": "Recovering backup data will delete your existing save<br>data. Do you wish to proceed?",
+      "pt_br": ""
+    },
+    {
+      "id": 133,
+      "en": "Would you like to stay <$cdef(27)>transformed</color> like this?",
+      "pt_br": ""
+    },
+    {
+      "id": 134,
+      "en": "Store everything that’s in your bag?",
+      "pt_br": ""
+    },
+    {
+      "id": 135,
+      "en": "Store everything that’s in your handy bag?",
+      "pt_br": ""
+    },
+    {
+      "id": 136,
+      "en": "Retrieve all the items inside?",
+      "pt_br": ""
+    },
+    {
+      "id": 137,
+      "en": "Are you sure you wish to play in Chinese (Traditional)?",
+      "pt_br": ""
+    },
+    {
+      "id": 138,
+      "en": "Are you sure you wish to play in Korean?",
+      "pt_br": ""
+    },
+    {
+      "id": 139,
+      "en": "Are you sure you wish to play in Chinese (Simplified)?",
+      "pt_br": ""
+    },
+    {
+      "id": 140,
+      "en": "Would you like to have your handy bag accessible at<br>all times?",
+      "pt_br": ""
+    },
+    {
+      "id": 141,
+      "en": "Would you like to put away your handy bag?",
+      "pt_br": ""
+    },
+    {
+      "id": 142,
+      "en": "Which home would you like to return to?",
+      "pt_br": ""
+    },
+    {
+      "id": 143,
+      "en": "<oneline>Taking you back to your home in<br><dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 144,
+      "en": "You don’t have a home. Would you like to go to a safe<br>location nearby instead?",
+      "pt_br": ""
+    },
+    {
+      "id": 145,
+      "en": "You can’t return to your home right now. Would you like to<br>go to a safe location nearby instead?",
+      "pt_br": ""
+    },
+    {
+      "id": 146,
+      "en": "Taking you to a different location.",
+      "pt_br": ""
+    },
+    {
+      "id": 147,
+      "en": "You have arrived home.",
+      "pt_br": ""
+    },
+    {
+      "id": 148,
+      "en": "Your home could not be found. You were taken to a safe<br>location nearby instead.",
+      "pt_br": ""
+    },
+    {
+      "id": 149,
+      "en": "<oneline>You got<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 150,
+      "en": "This is someone else’s <$cdef(27)><fqty(1)><$ifull(1677)></color>. Do you want to open it?",
+      "pt_br": ""
+    },
+    {
+      "id": 151,
+      "en": "If you do not set a passcode, anyone will be able to open<br>this. Are you sure you want to continue?",
+      "pt_br": ""
+    },
+    {
+      "id": 152,
+      "en": "Items left inside will disappear tomorrow. Are you OK with<br>leaving everything inside?",
+      "pt_br": ""
+    },
+    {
+      "id": 153,
+      "en": "You have been taken to a safe location nearby.",
+      "pt_br": ""
+    },
+    {
+      "id": 154,
+      "en": "<oneline>You don’t have a home in<br><dart;0()><$cdef(27)><$stgmynamefull;0(lnum1)></color>.<clear><br>If you leave<br><dart;1()><$cdef(27)><$stgmynamefull;1(lnum1)></color>,<slide><br>you<slide><br>won’t<slide><br>be able<slide><br>to come<slide><br>back<slide><br>using<slide><br>Return Home.<slide><br>Is that OK?",
+      "pt_br": ""
+    },
+    {
+      "id": 155,
+      "en": "You got some habitat information!",
+      "pt_br": ""
+    },
+    {
+      "id": 156,
+      "en": "Would you like to skip the credits?",
+      "pt_br": ""
+    },
+    {
+      "id": 157,
+      "en": "Are you sure you wish to disband the current group of<br>players and close the connection?",
+      "pt_br": ""
+    },
+    {
+      "id": 158,
+      "en": "<oneline>That will be <$icon(lnum1)><moneyint;0(lnum2)>. Would you like to make<br>this purchase?",
+      "pt_br": ""
+    },
+    {
+      "id": 159,
+      "en": "Purchase complete.",
+      "pt_br": ""
+    },
+    {
+      "id": 160,
+      "en": "<$cdef(27)><gevcmainpk;0></color> seems determined to continue the event<br>through <$cdef(27)>today</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 161,
+      "en": "*beep beep beep*<br>New data found! Commencing Pokédex update.",
+      "pt_br": ""
+    },
+    {
+      "id": 162,
+      "en": "Update complete! You can now register new Pokémon.",
+      "pt_br": ""
+    },
+    {
+      "id": 163,
+      "en": "A message from your Pokédex!<clear><br>Today’s your lucky day—you’re going to find more<br>sparkling ripples and lost relics than usual!",
+      "pt_br": ""
+    },
+    {
+      "id": 164,
+      "en": "A Pokémon is the talk of the town!<clear><br>Head to <dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color> to see for yourself!",
+      "pt_br": ""
+    },
+    {
+      "id": 165,
+      "en": "A Pokémon is the talk of the town!<clear><br>Head to the <$cdef(27)>Pokémon Center</color> to see for yourself!",
+      "pt_br": ""
+    },
+    {
+      "id": 166,
+      "en": "<oneline>A Pokémon is still the talk of the town today!<clear><br>Head to the<br><$cdef(27)><$stgmyname;0(lnum1)></color><slide><$cdef(27)><br>Pokémon Center</color><slide><br>to talk<slide><br>to them!",
+      "pt_br": ""
+    },
+    {
+      "id": 167,
+      "en": "<oneline>You got<br><iart;1()><$cdef(27)><class><$ifullwithnum;1(lnum1,lnum2)></color><slide><$cdef(27)><br></color>from<slide><br><$cdef(27)><gevcmainpk;0></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 168,
+      "en": "You got a lot of prizes from <$cdef(27)>Bulbasaur</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 169,
+      "en": "Your reward was sent to the <$cdef(27)>PC</color> in your own world.",
+      "pt_br": ""
+    },
+    {
+      "id": 170,
+      "en": "<$cdef(27)><gevcmainpk;0></color> seems determined to continue the event for<br><$cdef(27)><gevcleftdnum;1></color> more <qty;1(day,days)>!",
+      "pt_br": ""
+    },
+    {
+      "id": 171,
+      "en": "Press a button?",
+      "pt_br": ""
+    },
+    {
+      "id": 172,
+      "en": "Looks like it needs to be restocked... Try again tomorrow!",
+      "pt_br": ""
+    },
+    {
+      "id": 173,
+      "en": "<oneline><fcap><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)><br></color>popped out!",
+      "pt_br": ""
+    },
+    {
+      "id": 174,
+      "en": "Please choose how you want to play.",
+      "pt_br": ""
+    },
+    {
+      "id": 175,
+      "en": "You’re now connected!",
+      "pt_br": ""
+    },
+    {
+      "id": 176,
+      "en": "<oneline>What luck! Another<br><fqty(1)><class><$cdef(27)><$ifull;0(lnum1)></color><slide><br>tumbled down!",
+      "pt_br": ""
+    },
+    {
+      "id": 177,
+      "en": "Would you like to <$cdef(27)><$spwfull(36)> </color>into this look?",
+      "pt_br": ""
+    },
+    {
+      "id": 178,
+      "en": "Cancel any changes and keep your current look?",
+      "pt_br": ""
+    },
+    {
+      "id": 179,
+      "en": "Communicating. Don’t turn off the power.",
+      "pt_br": ""
+    },
+    {
+      "id": 180,
+      "en": "Please enter the Link Code.",
+      "pt_br": ""
+    },
+    {
+      "id": 181,
+      "en": "That destination couldn’t be found.",
+      "pt_br": ""
+    },
+    {
+      "id": 182,
+      "en": "Would you like to search again?",
+      "pt_br": ""
+    },
+    {
+      "id": 183,
+      "en": "You need a Link Code to join this player. Please enter the<br>Link Code.",
+      "pt_br": ""
+    },
+    {
+      "id": 184,
+      "en": "You didn’t enter the correct Link Code. Would you like<br>to try again?",
+      "pt_br": ""
+    },
+    {
+      "id": 185,
+      "en": "You already have a Cloud Island. If you would like to<br>create a new one, you must first delete your existing island<slide><br>from the settings menu.",
+      "pt_br": ""
+    },
+    {
+      "id": 186,
+      "en": "You are the island’s owner. Would you like to change<br>the settings?",
+      "pt_br": ""
+    },
+    {
+      "id": 187,
+      "en": "If you change the settings, the current group of players will<br>be disbanded.",
+      "pt_br": ""
+    },
+    {
+      "id": 188,
+      "en": "If you need to confirm your Cloud Island’s address or Link<br>Code again, you can check the <$cdef(27)>PC</color> at its <$cdef(27)>Pokémon Center</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 189,
+      "en": "To search for an island, please enter the address.",
+      "pt_br": ""
+    },
+    {
+      "id": 190,
+      "en": "Cloud Island not found. Would you like to try entering the<br>address again?",
+      "pt_br": ""
+    },
+    {
+      "id": 191,
+      "en": "Search canceled.",
+      "pt_br": ""
+    },
+    {
+      "id": 192,
+      "en": "Your rewards were sent to the <$cdef(27)>PC</color> in your own world.",
+      "pt_br": ""
+    },
+    {
+      "id": 193,
+      "en": "You probably shouldn’t pass through here just yet.",
+      "pt_br": ""
+    },
+    {
+      "id": 194,
+      "en": "There are rumors of a new Pokémon in this town. Go find<br>them and talk with them!",
+      "pt_br": ""
+    },
+    {
+      "id": 195,
+      "en": "Downloadable content data is required in order to access<br>this town.<clear><br>Please ensure that the applicable content has been<br>downloaded to your system.",
+      "pt_br": ""
+    },
+    {
+      "id": 196,
+      "en": "You can now take on <$cdef(27)>daily challenges</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 197,
+      "en": "You can now shop for daily items!",
+      "pt_br": ""
+    },
+    {
+      "id": 198,
+      "en": "New <$cdef(27)>challenges</color> have been added, thanks to the increased<br><$cdef(27)>environment level</color> of the area!",
+      "pt_br": ""
+    },
+    {
+      "id": 199,
+      "en": "New items have been added to the <$cdef(27)>shop</color>, thanks to the<br>increased <$cdef(27)>environment level</color> of the area!",
+      "pt_br": ""
+    },
+    {
+      "id": 200,
+      "en": "<oneline>Make <$cdef(27)><dgt4;2(lnum3)><br><class><$ifullwithnum;1(lnum1,lnum3)></color><slide><br>×<dgt4;1(lnum2)>?",
+      "pt_br": ""
+    },
+    {
+      "id": 201,
+      "en": "<oneline>Make<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 202,
+      "en": "<oneline>Make<br><$cdef(27)><dgt4;1(lnum2)> <class><$ifullwithnum;0(lnum1,lnum2)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 203,
+      "en": "It’s a new day! <$cdef(27)>Daily challenges</color> have been updated.",
+      "pt_br": ""
+    },
+    {
+      "id": 204,
+      "en": "It’s a new day! Daily items have been updated.",
+      "pt_br": ""
+    },
+    {
+      "id": 205,
+      "en": "There are new <$cdef(27)>challenges</color> to take on!",
+      "pt_br": ""
+    },
+    {
+      "id": 206,
+      "en": "New items are available!",
+      "pt_br": ""
+    },
+    {
+      "id": 207,
+      "en": "Selecting Fast will make text display quickly.",
+      "pt_br": ""
+    },
+    {
+      "id": 208,
+      "en": "Selecting Normal will make text display at a<br>moderate speed.",
+      "pt_br": ""
+    },
+    {
+      "id": 209,
+      "en": "Selecting Slow will make text display more gradually.",
+      "pt_br": ""
+    },
+    {
+      "id": 210,
+      "en": "<oneline>Finalize the <$cdef(27)><$spwfull(12)></color> and receive<br><iart;0()><$cdef(27)><class><$ifullwithnum;0(lnum1,lnum2)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 211,
+      "en": "This project should take less time than usual, thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!",
+      "pt_br": ""
+    },
+    {
+      "id": 212,
+      "en": "The building process is going smoothly, but it will take a<br>little time before construction is complete.",
+      "pt_br": ""
+    },
+    {
+      "id": 213,
+      "en": "The rebuild should take less time than usual, thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!",
+      "pt_br": ""
+    },
+    {
+      "id": 214,
+      "en": "The rebuild is going smoothly, but it will take a little time<br>to finish.",
+      "pt_br": ""
+    },
+    {
+      "id": 215,
+      "en": "Stop building?",
+      "pt_br": ""
+    },
+    {
+      "id": 216,
+      "en": "It’s a new day! This page will be updated.",
+      "pt_br": ""
+    },
+    {
+      "id": 217,
+      "en": "You should come here with <$cdef(27)><$cname(562)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 218,
+      "en": "The demolition should take less time than usual, thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!",
+      "pt_br": ""
+    },
+    {
+      "id": 219,
+      "en": "The demolition is going smoothly, but it will take a little<br>time to finish.",
+      "pt_br": ""
+    },
+    {
+      "id": 220,
+      "en": "Relocation preparations should take less time than usual,<br>thanks to <$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!",
+      "pt_br": ""
+    },
+    {
+      "id": 221,
+      "en": "The relocation preparations are going smoothly, but it will<br>take a little time to finish.",
+      "pt_br": ""
+    },
+    {
+      "id": 222,
+      "en": "Stop demolishing?",
+      "pt_br": ""
+    },
+    {
+      "id": 223,
+      "en": "Stop preparing to relocate?",
+      "pt_br": ""
+    },
+    {
+      "id": 224,
+      "en": "Stop relocating?",
+      "pt_br": ""
+    },
+    {
+      "id": 225,
+      "en": "Stop rebuilding?",
+      "pt_br": ""
+    },
+    {
+      "id": 226,
+      "en": "If you’re creating a new island, it will need a name!<br>But don’t worry—you can change this name later.",
+      "pt_br": ""
+    },
+    {
+      "id": 227,
+      "en": "Now choose what kind of settings you want to apply to<br>this Cloud Island!",
+      "pt_br": ""
+    },
+    {
+      "id": 228,
+      "en": "Please enter the magic number.",
+      "pt_br": ""
+    },
+    {
+      "id": 229,
+      "en": "Are you sure you wish to disband the current group of<br>players and close the connection?",
+      "pt_br": ""
+    },
+    {
+      "id": 230,
+      "en": "Do you want to disconnect and head back home?<clear><br>All the items you have will be kept in this <$cdef(27)>PC</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 231,
+      "en": "You are currently the host. Would you like to disband the<br>current group of players and close the connection, or<slide><br>will you make another player the host and leave?",
+      "pt_br": ""
+    },
+    {
+      "id": 232,
+      "en": "Who will you choose?",
+      "pt_br": ""
+    },
+    {
+      "id": 233,
+      "en": "Are you sure?",
+      "pt_br": ""
+    },
+    {
+      "id": 234,
+      "en": "Stop remodeling?",
+      "pt_br": ""
+    },
+    {
+      "id": 235,
+      "en": "<oneline>Begin demolishing the<br><$cdef(27)><$bfull;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 236,
+      "en": "<oneline>Begin remodeling the<br><$cdef(27)><$bfull;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 237,
+      "en": "<oneline>Begin preparations to relocate the<br><$cdef(27)><$bfull;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 238,
+      "en": "<oneline>Begin relocating the<br><$cdef(27)><$bfull;0(lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 239,
+      "en": "New personal record!",
+      "pt_br": ""
+    },
+    {
+      "id": 240,
+      "en": "You successfully jumped <spsjmprpnum;0> <qty;0(time,times)> in jump rope!",
+      "pt_br": ""
+    },
+    {
+      "id": 241,
+      "en": "<oneline>You got <$cdef(27)><dgt4;2(lnum3)></color><br><$cdef(27)><class><$ifullwithnum;1(lnum2,lnum3)></color><slide><br>from <$cdef(27)><$cname;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 242,
+      "en": "Your reward was sent to the <$cdef(27)>PC</color> in your own world.",
+      "pt_br": ""
+    },
+    {
+      "id": 243,
+      "en": "Try placing a <$cdef(27)><fqty(1)><$ifull(1396)></color> and connecting lot of<br><$cdef(27)>generators</color> to it to transmit electricity from outside.<clear><br>If you don’t have the materials to build a <$cdef(27)>generator</color>, try<br>visiting a <$cdef(27)>Dream Island</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 244,
+      "en": "These goggles will allow you to view Cloud Islands made<br>by other players. Would you like to put them on?<clear><br>A paid Nintendo Switch Online membership is required to<br>use this feature.",
+      "pt_br": ""
+    },
+    {
+      "id": 245,
+      "en": "Enter the address of the Cloud Island you wish to view.",
+      "pt_br": ""
+    },
+    {
+      "id": 246,
+      "en": "Cloud Island not found. Would you like to try entering the<br>address again?",
+      "pt_br": ""
+    },
+    {
+      "id": 247,
+      "en": "Canceling search.",
+      "pt_br": ""
+    },
+    {
+      "id": 248,
+      "en": "Cloud Island found. Commencing virtual mode.",
+      "pt_br": ""
+    },
+    {
+      "id": 249,
+      "en": "Quit virtual mode and return to your own town?",
+      "pt_br": ""
+    },
+    {
+      "id": 250,
+      "en": "Quitting virtual mode.",
+      "pt_br": ""
+    },
+    {
+      "id": 251,
+      "en": "Congratulations on completing the Cloud Island Pokédex!<br>Please accept this reward in honor of your hard work.",
+      "pt_br": ""
+    },
+    {
+      "id": 252,
+      "en": "<oneline>Are you sure you’d like to choose<br><$cdef(27)><$strpname;0(lstr1,lnum1)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 253,
+      "en": "<oneline><$cdef(27)><$strpname;0(lstr1,lnum1)></color> will become the new host, and<br>you<slide><br>will<slide><br>return<slide><br>to<slide><br>your<slide><br>world.",
+      "pt_br": ""
+    },
+    {
+      "id": 254,
+      "en": "Stop cooking?",
+      "pt_br": ""
+    },
+    {
+      "id": 255,
+      "en": "<$cdef(27)><$cname;0(216)> </color>and the others are working hard and should be<br>finished soon!",
+      "pt_br": ""
+    },
+    {
+      "id": 256,
+      "en": "Change the pattern on which part?",
+      "pt_br": ""
+    },
+    {
+      "id": 257,
+      "en": "The relocation should take less time than usual thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!",
+      "pt_br": ""
+    },
+    {
+      "id": 258,
+      "en": "The relocation is going smoothly, but it will take a little<br>more time to finish.",
+      "pt_br": ""
+    },
+    {
+      "id": 259,
+      "en": "The remodel should take less time than usual thanks to<br><$cdef(27)><$cname;0(215)></color>’s enthusiastic efforts!",
+      "pt_br": ""
+    },
+    {
+      "id": 260,
+      "en": "The remodel is going smoothly, but it will take a little more<br>time to finish.",
+      "pt_br": ""
+    },
+    {
+      "id": 261,
+      "en": "Save to console album?",
+      "pt_br": ""
+    },
+    {
+      "id": 262,
+      "en": "Call for <$cdef(27)><$cname;0(123)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 263,
+      "en": "It is recommended that you gain a lot more knowledge<br>before visiting this town.",
+      "pt_br": ""
+    },
+    {
+      "id": 264,
+      "en": "You know... There’s actually a town in this area you haven’t<br>visited yet.",
+      "pt_br": ""
+    },
+    {
+      "id": 265,
+      "en": "Try heading to the coast where <$cdef(27)><$cname(17)></color> was!",
+      "pt_br": ""
+    },
+    {
+      "id": 266,
+      "en": "It doesn’t look like <$cdef(27)><$cname;0(123)> </color>is coming... Maybe they’re<br>too tired?",
+      "pt_br": ""
+    },
+    {
+      "id": 267,
+      "en": "You’re about to visit an area you’ve never been to before.<br>Are you sure about heading over there?",
+      "pt_br": ""
+    },
+    {
+      "id": 268,
+      "en": "Commission <$cdef(27)><dgt5;0(lnum1)> </color>of these?",
+      "pt_br": ""
+    },
+    {
+      "id": 269,
+      "en": "Confirm your request?",
+      "pt_br": ""
+    },
+    {
+      "id": 270,
+      "en": "Unable to start poll because one or more players are busy.",
+      "pt_br": ""
+    },
+    {
+      "id": 271,
+      "en": "Please wait for all players to be ready.",
+      "pt_br": ""
+    },
+    {
+      "id": 272,
+      "en": "Jump Rope Contest (<timeymd;0(lnum1,lnum2,lnum3)>)<br>Record: <dgt5;1(lnum4)> <qty;1(Jump,Jumps)>",
+      "pt_br": ""
+    },
+    {
+      "id": 273,
+      "en": "Hide-and-Sneak Contest (<timeymd;0(lnum1,lnum2,lnum3)>)<br>Record: <timerms;1(lnum4,lnum5)>",
+      "pt_br": ""
+    },
+    {
+      "id": 274,
+      "en": "Display a photo?",
+      "pt_br": ""
+    },
+    {
+      "id": 275,
+      "en": "Select which photo to display.",
+      "pt_br": ""
+    },
+    {
+      "id": 276,
+      "en": "You can’t add any more photos.<clear><br>If you want to display a new photo, the oldest photo will<br>be removed.",
+      "pt_br": ""
+    },
+    {
+      "id": 277,
+      "en": "Displaying photo...",
+      "pt_br": ""
+    },
+    {
+      "id": 278,
+      "en": "Remove photo on display?",
+      "pt_br": ""
+    },
+    {
+      "id": 279,
+      "en": "This is the <$cdef(27)><fqty(1)><$ifull(1460)></color>.<clear><br>Place it somewhere, and Pokémon with the <$cdef(27)><fcap><$spwfull(13)></color><br>specialty will put items they’ve gathered in it.<clear><br>Also, if a Pokémon who can process materials is near the<br>box, they can process the materials in it.<clear><br>Would you like to put anything inside?",
+      "pt_br": ""
+    },
+    {
+      "id": 280,
+      "en": "You can put food in this basket to share it with other<br>Pokémon. Would you like to put some inside?",
+      "pt_br": ""
+    },
+    {
+      "id": 281,
+      "en": "It looks like Pokémon can process the materials you put in<br>here. Would you like to put something inside?",
+      "pt_br": ""
+    },
+    {
+      "id": 282,
+      "en": "Looks like the Pokémon isn’t responding to your call...<br>Try ringing the bell when they’re flying nearby.",
+      "pt_br": ""
+    },
+    {
+      "id": 283,
+      "en": "You can’t go there right now because you are currently<br>playing hide-and-sneak.",
+      "pt_br": ""
+    },
+    {
+      "id": 284,
+      "en": "Players on a <$cdef(27)>Dream Island</color> cannot participate in jump rope.<br>Would you like to start playing now?",
+      "pt_br": ""
+    },
+    {
+      "id": 285,
+      "en": "Players on a <$cdef(27)>Dream Island</color> cannot participate in<br>hide-and-sneak. Would you like to start playing now?",
+      "pt_br": ""
+    },
+    {
+      "id": 286,
+      "en": "You cannot join the group because it is full.",
+      "pt_br": ""
+    },
+    {
+      "id": 287,
+      "en": "You can’t visit any more towns made by other<br>players today.",
+      "pt_br": ""
+    },
+    {
+      "id": 288,
+      "en": "Unable to join the group because one or more players are<br>currently busy.<clear><br>Please try again later.",
+      "pt_br": ""
+    },
+    {
+      "id": 289,
+      "en": "You got this week’s stamp card!",
+      "pt_br": ""
+    },
+    {
+      "id": 290,
+      "en": "Would you like to add today’s stamp?",
+      "pt_br": ""
+    },
+    {
+      "id": 291,
+      "en": "You got <moneyint;0(lnum1)> <$cdef(27)>Life Coins</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 292,
+      "en": "You could not exchange your stamp card because you<br>haven’t added any stamps to it.",
+      "pt_br": ""
+    },
+    {
+      "id": 293,
+      "en": "Stamp cards can be exchanged for <$cdef(27)>coins</color>. Check the<br>Stamp Rally menu for more information.",
+      "pt_br": ""
+    },
+    {
+      "id": 294,
+      "en": "You haven’t exchanged your stamp card yet. You have<br><dgt1;0(lnum1)> <qty;0(day,days)> left to do so. Check the Stamp Rally menu for<slide><br>more information.",
+      "pt_br": ""
+    },
+    {
+      "id": 295,
+      "en": "You still have at least one <$cdef(27)>challenge</color> to report.",
+      "pt_br": ""
+    },
+    {
+      "id": 296,
+      "en": "You still have at least one <$cdef(27)>challenge</color> reward to claim.",
+      "pt_br": ""
+    },
+    {
+      "id": 297,
+      "en": "You still have at least one <$cdef(27)>challenge</color> to report or a<br><$cdef(27)>challenge </color>reward to claim.",
+      "pt_br": ""
+    },
+    {
+      "id": 298,
+      "en": "There isn’t enough space here for the Pokémon to land.",
+      "pt_br": ""
+    },
+    {
+      "id": 299,
+      "en": "<oneline>You got the <$cdef(27)><$phfrname;0(lnum1)></color><br>photo frame!",
+      "pt_br": ""
+    },
+    {
+      "id": 300,
+      "en": "Ready to go with these settings?",
+      "pt_br": ""
+    },
+    {
+      "id": 301,
+      "en": "Multiple functions have been assigned to a single button.<br>Would you like to save the changes you made?",
+      "pt_br": ""
+    },
+    {
+      "id": 302,
+      "en": "Are you sure you wish to restore default settings?",
+      "pt_br": ""
+    },
+    {
+      "id": 303,
+      "en": "Take back the items you put in the machine?",
+      "pt_br": ""
+    },
+    {
+      "id": 304,
+      "en": "This will send the data for the photo you have selected.<br>Do you wish to proceed?",
+      "pt_br": ""
+    },
+    {
+      "id": 305,
+      "en": "If you place this outside and talk to it, <$cdef(27)>Drifloon</color> might<br>stop by.",
+      "pt_br": ""
+    },
+    {
+      "id": 306,
+      "en": "You can’t do that right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 307,
+      "en": "This seems important... Are you sure you want to drop it?",
+      "pt_br": ""
+    },
+    {
+      "id": 308,
+      "en": "<oneline>In order to create new backup data for<br><$cdef(27)><$stgmyname;0(lnum1)></color>,<slide><br>any<slide><br>data<slide><br>currently<slide><br>on<slide><br>your<slide><br>console<slide><br>must<slide><br>be deleted.<clear><br>Are you sure you wish to proceed?",
+      "pt_br": ""
+    },
+    {
+      "id": 309,
+      "en": "You saved your progress!",
+      "pt_br": ""
+    },
+    {
+      "id": 310,
+      "en": "Failed to connect to the internet.<br>Would you like to try again?",
+      "pt_br": ""
+    },
+    {
+      "id": 311,
+      "en": "<oneline>Saving backup data for<br><$cdef(27)><$stgmyname;0(lnum1)></color>...<slide><br>Don’t<slide><br>turn<slide><br>off<slide><br>the power.",
+      "pt_br": ""
+    },
+    {
+      "id": 312,
+      "en": "Save successful! Save time: <timeymdhm;0(lnum1,lnum2,lnum3,lnum4,lnum5)>",
+      "pt_br": ""
+    },
+    {
+      "id": 313,
+      "en": "<$cdef(27)><$stgmyname;0(lnum1)> </color>not found.<br>Unable to save data.",
+      "pt_br": ""
+    },
+    {
+      "id": 314,
+      "en": "Unable to save data.",
+      "pt_br": ""
+    },
+    {
+      "id": 315,
+      "en": "You’ve already restored data today. Please try again<br>tomorrow.",
+      "pt_br": ""
+    },
+    {
+      "id": 316,
+      "en": "<oneline>In order to restore backup data, the session must end for<br>all players currently playing on<slide><br><dart;0()><$cdef(27)><$stgmyname;0(lnum1)></color>.<clear><br>Do you wish to proceed?",
+      "pt_br": ""
+    },
+    {
+      "id": 317,
+      "en": "<oneline>Restoring backup data for<br><$cdef(27)><$stgmyname;0(lnum1)></color>...<slide><br>Don’t<slide><br>turn<slide><br>off<slide><br>the power.",
+      "pt_br": ""
+    },
+    {
+      "id": 318,
+      "en": "Restoration successful!",
+      "pt_br": ""
+    },
+    {
+      "id": 319,
+      "en": "A communication error occurred.<br>Please check to make sure the island was restored.",
+      "pt_br": ""
+    },
+    {
+      "id": 320,
+      "en": "Would you like to add a note to this backup data?",
+      "pt_br": ""
+    },
+    {
+      "id": 321,
+      "en": "Confirm with these details?",
+      "pt_br": ""
+    },
+    {
+      "id": 322,
+      "en": "Returning to original location.",
+      "pt_br": ""
+    },
+    {
+      "id": 323,
+      "en": "The <$cdef(27)>wish note</color> you gave them is shining!",
+      "pt_br": ""
+    },
+    {
+      "id": 324,
+      "en": "You got a <$cdef(27)><fqty(1)><$ifull(433)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 325,
+      "en": "<oneline>“<$cdef(27)><fcap><getmptname;0></color>” has been added to<br>your<slide><br>human records!",
+      "pt_br": ""
+    },
+    {
+      "id": 326,
+      "en": "Pokémon won’t move into a house unless it has at least<br>three different pieces of furniture inside.",
+      "pt_br": ""
+    },
+    {
+      "id": 327,
+      "en": "Give them some food?",
+      "pt_br": ""
+    },
+    {
+      "id": 328,
+      "en": "Take <$cdef(27)><nname;0></color> with you?",
+      "pt_br": ""
+    },
+    {
+      "id": 329,
+      "en": "The Pokémon might come back if you use <$cdef(27)></color><fqty(1)><$ifull(3994)> on<br>their home.",
+      "pt_br": ""
+    },
+    {
+      "id": 330,
+      "en": "Reporting...",
+      "pt_br": ""
+    },
+    {
+      "id": 331,
+      "en": "Report complete.<clear><br>If you would like to quit Link Play, please select <$keyicon(227)> from<br>the menu.",
+      "pt_br": ""
+    },
+    {
+      "id": 332,
+      "en": "A communication error occurred.<br>Would you like to try again?",
+      "pt_br": ""
+    },
+    {
+      "id": 333,
+      "en": "Report canceled.",
+      "pt_br": ""
+    },
+    {
+      "id": 334,
+      "en": "Something might fit in this indentation...",
+      "pt_br": ""
+    },
+    {
+      "id": 335,
+      "en": "That will be <$icon(lnum1)><moneyint;0(lnum2)>. Would you like to make<br>this purchase?<slide><br>(A <$cdef(27)>recipe</color> you already know is included in this item.)",
+      "pt_br": ""
+    },
+    {
+      "id": 336,
+      "en": "New daily items have been added to the <$cdef(27)>shop</color>, thanks to<br>the increased <$cdef(27)>environment level</color> of the area!",
+      "pt_br": ""
+    },
+    {
+      "id": 337,
+      "en": "You’re about to leave the Settings screen.<br>Would you like to save your changes?",
+      "pt_br": ""
+    },
+    {
+      "id": 338,
+      "en": "Multiple actions have been assigned to one or more<br>buttons. Would you like to save your changes?<slide><br>(Select <$cdef(27)>No</color> to return without saving.)",
+      "pt_br": ""
+    },
+    {
+      "id": 339,
+      "en": "It’s too hot to move. You may be able to move it if you<br>splash it with water to cool it down.",
+      "pt_br": ""
+    },
+    {
+      "id": 340,
+      "en": "Waiting for other players...",
+      "pt_br": ""
+    },
+    {
+      "id": 341,
+      "en": "This looks recently watered. You don’t need to water it<br>again for a while.",
+      "pt_br": ""
+    },
+    {
+      "id": 342,
+      "en": "You’re about to open the <$cdef(27)>Button Assignments </color>screen.<br>Would you like to save your previous changes?",
+      "pt_br": ""
+    },
+    {
+      "id": 343,
+      "en": "You’re about to open the <$cdef(27)>Language Settings</color> screen.<br>Would you like to save your previous changes?",
+      "pt_br": ""
+    },
+    {
+      "id": 344,
+      "en": "Try using the <$cdef(27)><fqty(1)><$ifull(1898)></color> in the<br><$cdef(27)><$stgname;0(4)></color> when you’re alone.",
+      "pt_br": ""
+    },
+    {
+      "id": 345,
+      "en": "Are you sure you want to change your settings?<br>(If you are currently playing with other players, please<slide><br>let them know that your group will be disbanded.)",
+      "pt_br": ""
+    },
+    {
+      "id": 346,
+      "en": "Are you sure you want to delete this island?<br>(If you are currently playing with other players, please<slide><br>let them know that your group will be disbanded.)",
+      "pt_br": ""
+    },
+    {
+      "id": 347,
+      "en": "The Cloud Island has been deleted.",
+      "pt_br": ""
+    },
+    {
+      "id": 348,
+      "en": "A communication error occurred.<br>Please check to make sure the island was deleted.",
+      "pt_br": ""
+    },
+    {
+      "id": 349,
+      "en": "Please wait for the other players to arrive.",
+      "pt_br": ""
+    },
+    {
+      "id": 350,
+      "en": "This stone debris is especially hard. A simple punch won’t<br>be strong enough to break it.",
+      "pt_br": ""
+    },
+    {
+      "id": 351,
+      "en": "It’s some metal debris. Is there a move that could break it?",
+      "pt_br": ""
+    },
+    {
+      "id": 352,
+      "en": "<oneline>You need <$cdef(27)><dgt4;2(lnum3)> <$ifullwithnum;1(lnum2,lnum3)> </color>to<br>make<slide><br><iart;0()><$cdef(27)><class><$ifull;0(lnum1)></color>.<slide><br>(Currently held: <$cdef(27)><dgt4;3(lnum4)></color>)",
+      "pt_br": ""
+    },
+    {
+      "id": 353,
+      "en": "You will be connected to the internet, and your game will<br>be saved. Would you like to continue?",
+      "pt_br": ""
+    },
+    {
+      "id": 354,
+      "en": "Connecting to the internet...<br>Please stand by.",
+      "pt_br": ""
+    },
+    {
+      "id": 355,
+      "en": "Verifying...<br>Don’t turn off the power.",
+      "pt_br": ""
+    },
+    {
+      "id": 356,
+      "en": "Searching for gifts...",
+      "pt_br": ""
+    },
+    {
+      "id": 357,
+      "en": "No gifts were found.",
+      "pt_br": ""
+    },
+    {
+      "id": 358,
+      "en": "Receiving your gift...<br>Don’t turn off the power.",
+      "pt_br": ""
+    },
+    {
+      "id": 359,
+      "en": "You’ve already received this gift. You can’t receive<br>it again.",
+      "pt_br": ""
+    },
+    {
+      "id": 360,
+      "en": "Do you want to stop for now?",
+      "pt_br": ""
+    },
+    {
+      "id": 361,
+      "en": "This code has been used in other save data.",
+      "pt_br": ""
+    },
+    {
+      "id": 362,
+      "en": "You can’t receive the gift provided by this code or<br>password yet.",
+      "pt_br": ""
+    },
+    {
+      "id": 363,
+      "en": "This code or password has expired.",
+      "pt_br": ""
+    },
+    {
+      "id": 364,
+      "en": "Your game can’t receive the gift provided by this code<br>or password.",
+      "pt_br": ""
+    },
+    {
+      "id": 365,
+      "en": "The code or password update failed...<br>You can’t receive the gift provided by this code<slide><br>or password.",
+      "pt_br": ""
+    },
+    {
+      "id": 366,
+      "en": "You have already received the gift provided by this code<br>or password.",
+      "pt_br": ""
+    },
+    {
+      "id": 367,
+      "en": "This code has already been used.<br>Once a code is used, it can’t be used in another save data.",
+      "pt_br": ""
+    },
+    {
+      "id": 368,
+      "en": "You failed multiple times to enter the correct code or<br>password, so you can’t connect to the server for a while.<slide><br>Please try again later.",
+      "pt_br": ""
+    },
+    {
+      "id": 369,
+      "en": "The gift has been received!",
+      "pt_br": ""
+    },
+    {
+      "id": 370,
+      "en": "You couldn’t receive it because your bag is full.",
+      "pt_br": ""
+    },
+    {
+      "id": 371,
+      "en": "Would you like to try entering the code or password again?",
+      "pt_br": ""
+    },
+    {
+      "id": 372,
+      "en": "Something has gone wrong.<br>We aren’t able to retrieve that gift right now.",
+      "pt_br": ""
+    },
+    {
+      "id": 373,
+      "en": "A gift was found, but you can’t receive it with this version<br>of the game.",
+      "pt_br": ""
+    },
+    {
+      "id": 374,
+      "en": "Cloud Island data could not be uploaded.",
+      "pt_br": ""
+    },
+    {
+      "id": 375,
+      "en": "It looks like <$cdef(27)><$strpname;0(lstr1,lnum1)> </color>has already left.",
+      "pt_br": ""
+    },
+    {
+      "id": 376,
+      "en": "It looks like this could be filled by using <$cdef(27)><$sklfull(3)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 377,
+      "en": "Try clearing up the area around the <$cdef(27)>Pokémon Center</color> first<br>before playing hide-and-sneak.",
+      "pt_br": ""
+    },
+    {
+      "id": 378,
+      "en": "Try clearing up the area around the <$cdef(27)>Pokémon Center</color> first<br>before asking <$cdef(27)>Zorua</color> to play hide-and-sneak.",
+      "pt_br": ""
+    },
+    {
+      "id": 379,
+      "en": "Wait until the space in front of the <$cdef(27)>Pokémon Center</color> is free<br>before asking <$cdef(27)>Zorua</color> to play hide-and-sneak.",
+      "pt_br": ""
+    },
+    {
+      "id": 380,
+      "en": "Wait until the space in front of the <$cdef(27)>Pokémon Center</color> is free<br>before asking <$cdef(27)>Bulbasaur</color> to play jump rope.",
+      "pt_br": ""
+    },
+    {
+      "id": 381,
+      "en": "Would you like to try cooking a dish that you haven’t<br>made before?",
+      "pt_br": ""
+    },
+    {
+      "id": 382,
+      "en": "Undo this transformation?",
+      "pt_br": ""
+    },
+    {
+      "id": 383,
+      "en": "This house is now your home! You can use <$cdef(27)>Return Home</color> to<br>come back here anytime!",
+      "pt_br": ""
+    },
+    {
+      "id": 384,
+      "en": "Unable to start poll because one or more players are busy.",
+      "pt_br": ""
+    },
+    {
+      "id": 385,
+      "en": "Unable to start poll because one or more players are busy.",
+      "pt_br": ""
+    },
+    {
+      "id": 386,
+      "en": "You got a handy bag!<clear><br>It’s a bag that lets you take out or store items instantly.",
+      "pt_br": ""
+    },
+    {
+      "id": 387,
+      "en": "A communication error occurred.",
+      "pt_br": ""
+    },
+    {
+      "id": 388,
+      "en": "Your bag is full. Would you still like to try to get a gift?",
+      "pt_br": ""
+    },
+    {
+      "id": 389,
+      "en": "Are you sure you want to restore this island?",
+      "pt_br": ""
+    },
+    {
+      "id": 390,
+      "en": "There’s a stamp here already. Would you like to replace it?",
+      "pt_br": ""
+    },
+    {
+      "id": 391,
+      "en": "Your bag is full. Would you still like to try to get a gift?",
+      "pt_br": ""
+    },
+    {
+      "id": 392,
+      "en": "Stop searching for this Pokémon?",
+      "pt_br": ""
+    },
+    {
+      "id": 393,
+      "en": "There’s not enough room for <$cdef(27)>Drifloon</color> to land. Try to place<br>dolls in a larger area.",
+      "pt_br": ""
+    },
+    {
+      "id": 394,
+      "en": "Arrangement #1 is now playing. Which arrangement would<br>you like to put on?",
+      "pt_br": ""
+    },
+    {
+      "id": 395,
+      "en": "Arrangement #2 is now playing. Which arrangement would<br>you like to put on?",
+      "pt_br": ""
+    },
+    {
+      "id": 396,
+      "en": "Arrangement #3 is now playing. Which arrangement would<br>you like to put on?",
+      "pt_br": ""
+    },
+    {
+      "id": 397,
+      "en": "You’ve received an item! Select “Get Items” to claim it.",
+      "pt_br": ""
+    },
+    {
+      "id": 398,
+      "en": "Enter your name in this language.",
+      "pt_br": ""
+    },
+    {
+      "id": 399,
+      "en": "Are you OK with the name <$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 400,
+      "en": "<oneline>You got<br><iart;0()><$cdef(27)><fqty(1)><class><$ifull;0(lnum1)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 401,
+      "en": "This might work if it’s placed near water.",
+      "pt_br": ""
+    },
+    {
+      "id": 402,
+      "en": "When playing with others in this town, everyone will be<br>restricted to playing in Spectator Mode.<clear><br>Certain moves and items can’t be used while playing in<br>Spectator Mode.",
+      "pt_br": ""
+    },
+    {
+      "id": 403,
+      "en": "This Palette Town is currently in Spectator Mode. Certain<br>moves and items can’t be used while playing in this mode.",
+      "pt_br": ""
+    },
+    {
+      "id": 404,
+      "en": "You cannot use moves or items right now because this area<br>is in Spectator Mode.",
+      "pt_br": ""
+    },
+    {
+      "id": 405,
+      "en": "You can use moves and craft stuff while playing in this town.",
+      "pt_br": ""
+    },
+    {
+      "id": 406,
+      "en": "Are you sure you wish to close the connection?",
+      "pt_br": ""
+    },
+    {
+      "id": 407,
+      "en": "Are you sure you want to close the connection and<br>return home?<clear><br>All the items you have will be kept in the <$cdef(27)>PC</color> at the<br><$cdef(27)>Pokémon Center</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 408,
+      "en": "You learned <$cdef(27)><$sklfull(10)></color>! Press <$keyicon(28)> while in water to swim!",
+      "pt_br": ""
+    },
+    {
+      "id": 409,
+      "en": "You learned <$cdef(27)><$sklfull(11)></color>! Press <$keyicon(29)> while in the air to fly!",
+      "pt_br": ""
+    },
+    {
+      "id": 410,
+      "en": "You can’t get any more prizes today.",
+      "pt_br": ""
+    },
+    {
+      "id": 411,
+      "en": "You can’t get any more prizes today.",
+      "pt_br": ""
+    },
+    {
+      "id": 412,
+      "en": "You got an item!",
+      "pt_br": ""
+    },
+    {
+      "id": 413,
+      "en": "The <$cdef(27)>shop</color> now has a wider selection of items!",
+      "pt_br": ""
+    },
+    {
+      "id": 414,
+      "en": "New <$cdef(27)>challenges</color> are available!",
+      "pt_br": ""
+    },
+    {
+      "id": 415,
+      "en": "Head back to <$cdef(27)>Drifloon</color> with <$cdef(27)><nname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 416,
+      "en": "This <$cdef(27)><fqty(1)><$ifull(764)></color> is next to a <$cdef(27)><fqty(1)><$ifull(2045)></color>.<clear><br>That means when you use this <$cdef(27)><fqty(1)><$ifull(764)></color>, you can<br>access materials in your bag and in the <$cdef(27)><fqty(1)><$ifull(2045)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 417,
+      "en": "Daily items have been added to the <$cdef(27)>shop</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 418,
+      "en": "Do you want to burn what you’ve placed inside to<br>generate electricity?",
+      "pt_br": ""
+    },
+    {
+      "id": 419,
+      "en": "A Pokémon is following you who can’t go to a different<br>area. Would you like to part ways and go without them?",
+      "pt_br": ""
+    },
+    {
+      "id": 420,
+      "en": "Spray water on dry trees and gather the <$cdef(27)><fqty(2)><$ifull(2340)></color><br>that grow.",
+      "pt_br": ""
+    },
+    {
+      "id": 421,
+      "en": "Get seeds from the shop or from Dream Islands, and plant<br>them in tilled soil to grow them.",
+      "pt_br": ""
+    },
+    {
+      "id": 422,
+      "en": "Ask a Pokémon with the <$cdef(27)><fcap><$spwfull(15)></color> specialty to process<br><$cdef(27)><fqty(2)><$ifull(1482)></color> for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 423,
+      "en": "Fluffy Pokémon with the <$cdef(27)><fcap><$spwfull(4)></color> specialty may drop this<br>near their homes.",
+      "pt_br": ""
+    },
+    {
+      "id": 424,
+      "en": "Ask a Pokémon with the <$cdef(27)><fcap><$spwfull(17)> </color>specialty to process<br><$cdef(27)><fqty(1)><$ifull(1738)></color> for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 425,
+      "en": "Ask a Pokémon with the <$cdef(27)><fcap><$spwfull(10)></color> specialty to process<br><$cdef(27)><fqty(2)><$ifull(112)></color> for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 426,
+      "en": "Ask a Pokémon to process <$cdef(27)><fqty(1)><$ifull(113)></color> in a<br><$cdef(27)><fqty(1)><$ifull(1446)></color> for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 427,
+      "en": "Ask a Pokémon to process <$cdef(27)><fqty(1)><$ifull(1090)></color> in a<br><$cdef(27)><fqty(1)><$ifull(1458)></color> for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 428,
+      "en": "Search for these on Dream Islands or inside caves in<br><$cdef(27)><$stgname;0(3)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 429,
+      "en": "Ask a Pokémon with the <$cdef(27)><fcap><$spwfull(24)></color> specialty to process<$cdef(27)><br><fqty(2)><$ifull(115)></color> for you.",
+      "pt_br": ""
+    },
+    {
+      "id": 430,
+      "en": "Search for the recipe in <$cdef(27)><$stgname;0(3)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 431,
+      "en": "Search for the recipe in <$cdef(27)><$stgname;0(2)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 432,
+      "en": "Search for the recipe in the <$cdef(27)><$stgname;0(4)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 433,
+      "en": "Raise the environment level in <$cdef(27)><$stgname;0(2)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 434,
+      "en": "Raise the environment level in <$cdef(27)><$stgname;0(3)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 435,
+      "en": "Raise the environment level in the <$cdef(27)><$stgname;0(4)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 436,
+      "en": "Press <$keyicon(52)> to use your <$cdef(27)>camera</color> and take a photo!",
+      "pt_br": ""
+    },
+    {
+      "id": 437,
+      "en": "Raise the environment level in <$cdef(27)><$stgname;0(1)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 438,
+      "en": "How do you want to start your GameShare session?",
+      "pt_br": ""
+    },
+    {
+      "id": 439,
+      "en": "Canceled GameShare session.",
+      "pt_br": ""
+    },
+    {
+      "id": 440,
+      "en": "Preparing to communicate...<br>Don’t turn off the power.",
+      "pt_br": ""
+    },
+    {
+      "id": 441,
+      "en": "Are you sure you wish to end your GameShare session?<clear><br>(Items held by players other than the host will be sent to<br>the <$cdef(27)><fqty(1)><$ifull(1442)></color>.)",
+      "pt_br": ""
+    },
+    {
+      "id": 442,
+      "en": "Would you like to set a Link Code?",
+      "pt_br": ""
+    },
+    {
+      "id": 443,
+      "en": "This Cloud Island is currently not public.",
+      "pt_br": ""
+    },
+    {
+      "id": 444,
+      "en": "What would you like to do?",
+      "pt_br": ""
+    },
+    {
+      "id": 445,
+      "en": "Who would you like to send home?",
+      "pt_br": ""
+    },
+    {
+      "id": 446,
+      "en": "<$cdef(27)><$strpname;0(lstr1,lnum1)></color> was sent home.",
+      "pt_br": ""
+    },
+    {
+      "id": 447,
+      "en": "There is no one to send home.",
+      "pt_br": ""
+    },
+    {
+      "id": 448,
+      "en": "The host will be sent home. This will disband the current<br>player group and close the connection. Is that OK?",
+      "pt_br": ""
+    },
+    {
+      "id": 449,
+      "en": "Your rewards were sent to the <$cdef(27)>PC</color> in your own world.",
+      "pt_br": ""
+    },
+    {
+      "id": 450,
+      "en": "Unable to move to a different area due to inactivity.",
+      "pt_br": ""
+    },
+    {
+      "id": 451,
+      "en": "Looks like they want to meet <$cdef(27)><wowner;0></color>!<clear><br>Bring <$cdef(27)><wowner;1> </color>here to say hi!",
+      "pt_br": ""
+    },
+    {
+      "id": 452,
+      "en": "You sense a large presence coming from the ocean...",
+      "pt_br": ""
+    },
+    {
+      "id": 453,
+      "en": "Cloud Island not found.",
+      "pt_br": ""
+    },
+    {
+      "id": 454,
+      "en": "You can’t connect because another player does not have<br>the most recent software update.<clear><br>They need to restart and update the software to connect.",
+      "pt_br": ""
+    },
+    {
+      "id": 455,
+      "en": "This Cloud Island is currently not public.",
+      "pt_br": ""
+    },
+    {
+      "id": 456,
+      "en": "Available downloadable content has not been applied to<br>the Cloud Island.<clear><br>To update your game, the session must end for all other<br>players. Do you wish to proceed?",
+      "pt_br": ""
+    }
+  ]
+}

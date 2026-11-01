@@ -1,0 +1,374 @@
+{
+  "entry_index": 2351,
+  "bin_id": "0x5b8800",
+  "decompressed_size": 10904,
+  "first_tag_offset": 640,
+  "total_strings": 73,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$voicel(1,7)><$emotion(1,38)>Hohoho! I’ve found quite the haul today!",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "<$voicel(1,9)><$facial(1,9)>Wh-what was that? <$lookat(1,2,0)>Who’s there?!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "<$voicel(1,9)><$motionoff(1,804)><$comeff(1,5)><$facial(1,13)>Gadzooks! What in the world is a human doing here?!<br><$voicel(1,5)><$comeff(1,21)><$motion(1,801)><$facial(1,5)>I didn’t think there were any left!",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(1,5)><$comeff(1,6)>Hm? There’s something curious about you... <$voicel(1,2)>Are you<br>REALLY a human?",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "<$voicel(1,3)>Those simple eyes... That slack mouth... <$voicel(1,8)>Hrm?! Wait a<br>moment...<clear><br><$voicel(1,9)>Are you a <$cdef(27)>Ditto</color>?! My, what an impressive transformation!",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(1,9)>Oho! So you’re a <$cdef(27)>Ditto</color>, eh? <$voicel(1,10)>What an impressive<br>transformation!",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "*deedle-beep!*<clear><br><$cdef(27)>Owner </color>detected. Beginning backup battery boot up.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "<$voicel(1,3)><$comeff(1,6)>Hm? What’s that sound? Where’s it coming from?",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "<$voicel(1,3)><$comeff(1,6)><$motion(1,666)>Where’s that sound coming from? Can you find<br>the source?",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "You found a <$cdef(27)>Pokédex</color>! It’s even equipped with a camera<br>that can take selfies!",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<$voicel(1,7)><$emotion(1,32)>Oho! That’s a <$cdef(27)>Pokédex </color>I found ages ago!",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "<$voicel(1,5)><$emotion(1,14)>Is that so? I had thought that Pokédex was beyond repair,<br><$voicel(1,8)>but it started working as soon as you appeared...",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(1,7)><$facial(1,4)><$emotion(1,9)>You’re welcome to keep it.<clear><br><$voicel(1,3)>I haven’t the foggiest idea how to use the thing.",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "<$voicel(1,5)><$emotion(1,9)>Yes, it was already in pretty sorry shape when I found it.<clear><br><$voicel(1,7)><$emotion(1,13)>I’d thought that old gizmo was broken, but it started<br>working again just as you showed up...",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "<$voicel(1,7)><$facial(1,4)><$emotion(1,9)>You’re welcome to keep that Pokédex.<clear><br><$voicel(1,5)>I haven’t the foggiest idea how to use it.",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "<$voicel(1,7)><$comeff(1,3)><$motion(1,803)>Your human transformation really is quite impressive,<br>you know.<clear><br><$voicel(1,5)><$emotion(1,38)>And now that you’re holding a Pokédex, you look just like<br>a Pokémon Trainer!<clear><br><$voicel(1,3)><$comeff(1,6)><$facial(1,2)><$motion(1,666)>Could it be you’ve based that look of yours on your<br>own Trainer?",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "<$voicel(1,7)><$motion(1,801)><$comeff(1,10)><$facial(1,4)>Hohoho! I’m sure you and your Trainer must have been<br><$voicel(1,8)>splendid partners.",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "<$voicel(1,5)><$motion(1,827)><$facial(1,1)><$comeff(1,6)>By the by, did that Trainer give you a name?",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "<$voicel(1,5)><$emotion(1,9)>Ahhh, so you were called <$cdef(27)><pname;0></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "<$voicel(1,3)><$cdef(27)><pname;0></color>, eh? <$emotion(1,23)><$comeff(1,1)>That’s a snazzy one!",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "<$voicel(1,3)><$motion(1,652)><$cdef(27)><pname;0></color>, eh? <$motion(1,836)><$comeff(1,10)>That has an interesting ring to it.",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "<$voicel(1,3)><$motion(1,652)><$cdef(27)><pname;0></color>, eh? <$emotion(1,1)><$comeff(1,8)>That’s quite darling.",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "<$voicel(1,3)><$cdef(27)><pname;0></color>, eh? <$emotion(1,23)>That’s got a cheerful ring to it.",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "<$voicel(1,3)><$cdef(27)><pname;0></color>, eh? <$emotion(1,22)><$comeff(1,8)>What an enchanting name.",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "<$voicel(1,7)><$emotion(1,9)>In that case, I believe I’ll also take the liberty of calling<br>you “<$cdef(27)><pname;0></color>.”",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "<$voicel(1,9)><$emotion(1,1)>I see, I see. <$voicel(1,6)>I’m sure you were quite the special <$cdef(27)>Ditto<br></color>to your Trainer.",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "<$voicel(1,7)><$emotion(1,23)>In that case, I believe I’ll also take the liberty of calling<br>you <$cdef(27)><pname;0></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "It seems like there’s something in <$cdef(27)>Tangrowth</color>’s home.<br><$cdef(27)>Try looking around there first!</color>",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "<$voicel(1,3)><$emotion(1,31)>It’s been quite some time since I last laid eyes on<br>either a human or a Pokémon...<clear><br><$voicel(1,5)>Then, out of nowhere, I come across a Pokémon in the<br>shape of a human! How curious.",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "<$voicel(1,4)><$comeff(1,6)><$motion(1,827)>Hrm?<clear><br><$voicel(1,5)>You mean...you don’t know what’s happened here?<br><$voicel(1,8)><$comeff(1,3)><$motion(1,839)>Right, then. Come with me.",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<$voicel(1,1)>This place was once home to many humans...<clear><br><$voicel(1,2)><$comeff(1,17)><$facial(1,9)><$motion(1,806)>But now it’s... Well, what you see.",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<$voicel(1,3)>The grass and trees are withered and dry. And all those<br>humans and Pokémon who once lived here... <wait(1.5)><$voicel(1,2)>They’re gone.",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "<$voicel(1,3)>But my question is, where have YOU been this whole—",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "<$voicel(1,6)>Hm?!",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "<$voicel(1,9)>What’s that on the ground over there? Could it be<br>a Pokémon?!",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "<$voicel(1,8)>Come on, <$cdef(27)><pname;0></color>! Let’s go see!",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "<$voicel(1,6)><$comeff(1,5)>This way!",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "<$voicel(1,4)><$emotion(1,5)>Wh-what could have happened?!",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "<$voicel(2,2)>Nnngh...<clear><br>Wa...water...",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "<$voicel(1,9)><$motion(1,803)><$comeff(1,5)>Well, I’ll be gobsmacked! If it isn’t a <$cdef(27)>Squirtle</color>! And they’re<br>nearly all dried up!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "<$voicel(1,5)><$motion(1,827)>Here I thought <$cdef(27)>Squirtle </color>were supposed to have an<br>excellent command of water...",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "<$voicel(1,4)><$motion(1,654)><$emotion(1,31)>Isn’t there anything we can do to help?!",
+      "pt_br": ""
+    },
+    {
+      "id": 42,
+      "en": "Did you notice the <$cdef(27)>speech bubble</color> that popped up over<br><$cdef(27)>Squirtle</color>’s head?<clear><br>When a Pokémon wants to tell you something, a <$cdef(27)>speech<br>bubble</color> will appear above them.<clear><br>It looks like <$cdef(27)>Squirtle </color>may have a pretty serious problem—<br>you should try talking to them!",
+      "pt_br": ""
+    },
+    {
+      "id": 43,
+      "en": "<$voicel(2,2)>Nnngh...<clear><br>Wa...water...",
+      "pt_br": ""
+    },
+    {
+      "id": 44,
+      "en": "<$voicel(1,3)><$comeff(1,7)><$motion(1,667)><$facial(1,9)>Is there anything we can do to help <$cdef(27)>Squirtle</color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 45,
+      "en": "If a Pokémon looks like they want to tell you something,<br>try talking to them!",
+      "pt_br": ""
+    },
+    {
+      "id": 46,
+      "en": "<$voicel(2,3)>Uggghhh... What’s with this place? Where’s...the water...",
+      "pt_br": ""
+    },
+    {
+      "id": 47,
+      "en": "<$voicel(2,1)>Rrrgh... Usually I can spray all the water I want...",
+      "pt_br": ""
+    },
+    {
+      "id": 48,
+      "en": "<$voicel(2,3)>Ahhh... If only there were...another healthy Squirtle around<br>to help me...",
+      "pt_br": ""
+    },
+    {
+      "id": 49,
+      "en": "<$voicel(1,5)><$comeff(1,7)><$facial(1,9)>I must say, I’ve seen better transformations in my time...<br><$facial(1,1)>but it looks like you can use <$cdef(27)>Squirtle</color>’s move!",
+      "pt_br": ""
+    },
+    {
+      "id": 50,
+      "en": "<$voicel(1,7)><$motion(1,801)>Can you use that move to <$cdef(27)>rescue Squirtle</color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 51,
+      "en": "<$voicel(1,7)><$motion(1,801)>Can you use that move to <$cdef(27)>rescue Squirtle</color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 52,
+      "en": "<$voicel(1,10)><$motion(1,803)><$comeff(1,5)><$facial(1,13)><$textsize(2)>GWAH!!!</textsize><wait(2.0)>",
+      "pt_br": ""
+    },
+    {
+      "id": 53,
+      "en": "<$voicel(1,9)><$facial(1,9)>Good grief! Why in the world would you squirt water<br>on ME?!",
+      "pt_br": ""
+    },
+    {
+      "id": 54,
+      "en": "<$voicel(1,5)><$motion(1,824)>I’m not the one who needs the water. <$cdef(27)>Splash it on Squirtle<br>for pity’s sake!</color>",
+      "pt_br": ""
+    },
+    {
+      "id": 55,
+      "en": "<$voicel(1,10)><$motion(1,803)><$comeff(1,5)><$facial(1,13)><$textsize(2)>GWAH!!!</textsize><wait(2.0)>",
+      "pt_br": ""
+    },
+    {
+      "id": 56,
+      "en": "<oneline><$voicel(1,9)><$facial(1,7)><$motion(1,825)><$cdef(27)><pname;0></color>! I haven’t withered away yet,<br>you know!",
+      "pt_br": ""
+    },
+    {
+      "id": 57,
+      "en": "<$voicel(1,5)><$motion(1,824)><$facial(1,1)>It’s the dried-up grass and flowers you should be<br>watering—not me!",
+      "pt_br": ""
+    },
+    {
+      "id": 58,
+      "en": "<$voicel(2,8)>I’m saved!!!",
+      "pt_br": ""
+    },
+    {
+      "id": 59,
+      "en": "<$voicel(2,9)><$motion(2,801)><$facial(2,4)>Thank you so much! I really thought I was done for!",
+      "pt_br": ""
+    },
+    {
+      "id": 60,
+      "en": "<$voicel(2,8)>I owe you my life...",
+      "pt_br": ""
+    },
+    {
+      "id": 61,
+      "en": "<$voicel(2,6)><$facial(2,1)><$comeff(2,6)>Huh? Something’s beeping...",
+      "pt_br": ""
+    },
+    {
+      "id": 62,
+      "en": "<$voicel(1,7)><$motion(1,803)>Oho! Looks like that Pokédex still works after all!",
+      "pt_br": ""
+    },
+    {
+      "id": 63,
+      "en": "<$voicel(1,7)><$lookat(0,1,1)>Though, it truly has been an age since I last saw any<br>other Pokémon.<clear><br><$voicel(1,9)><$motion(1,801)>That Pokédex’s days of being useful may be long over...",
+      "pt_br": ""
+    },
+    {
+      "id": 64,
+      "en": "<$voicel(2,9)><$emotion(2,1)>Thanks again for splashing me! That really helped me out.",
+      "pt_br": ""
+    },
+    {
+      "id": 65,
+      "en": "<$voicel(2,3)><$motion(2,805)><$comeff(2,6)>I dunno why the dirt and plants and stuff around here are<br>all so dry...",
+      "pt_br": ""
+    },
+    {
+      "id": 66,
+      "en": "<$voicel(2,7)><$motion(2,803)>But it looks like the place perks up again when<br>you get things wet with <$cdef(27)><$sklfull(3)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 67,
+      "en": "<$voicel(2,10)><$motionoff(2,804)><$facial(2,4)><$comeff(2,9)>Maybe you can <$cdef(27)>water this area more to help the grass grow</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 68,
+      "en": "<$voicel(2,9)><$emotion(2,1)>Thanks again for splashing me! That really helped me out.",
+      "pt_br": ""
+    },
+    {
+      "id": 69,
+      "en": "<$voicel(2,3)><$motion(2,805)><$comeff(2,6)>I dunno why the dirt and plants and stuff around here are<br>all so dry...",
+      "pt_br": ""
+    },
+    {
+      "id": 70,
+      "en": "<$voicel(2,7)><$motion(2,803)>But it looks like the place perks up again when<br>you get things wet with <$cdef(27)><$sklfull(3)></color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 71,
+      "en": "<$voicel(2,10)><$motionoff(2,804)><$facial(2,4)><$comeff(2,9)>I’d really love it if you’d <$cdef(27)>spray more water around the area</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 72,
+      "en": "Try talking to that Pokémon before you leave!",
+      "pt_br": ""
+    }
+  ]
+}

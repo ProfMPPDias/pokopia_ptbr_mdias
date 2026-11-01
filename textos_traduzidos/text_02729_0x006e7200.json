@@ -1,0 +1,204 @@
+{
+  "entry_index": 2729,
+  "bin_id": "0x6e7200",
+  "decompressed_size": 6992,
+  "first_tag_offset": 881,
+  "total_strings": 39,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$emotion(1,38)><$voicel(1,9)>I’m so glad you can use the <$cdef(27)>PC</color> now,<br><$cdef(27)><pname;0></color>!<clear><br><$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Do you think you can learn anything about what<br>happened to the humans from it?",
+      "pt_br": "<$emotion(1,38)><$voicel(1,9)>Estou tão feliz que você pode usar o <$cdef(27)>PC</color> Agora,<br><$cdef(27)><pname;0></color>!<clear><br><$comeff(1,6)><$facial(1,1)><$motion(1,666)><$voicel(1,5)>Achas que pode aprender alguma coisa sobre o quê?<br>Aconteceu com os humanos a partir dele?"
+    },
+    {
+      "id": 1,
+      "en": "<$comeff(1,3)><$facial(1,9)><$motion(1,803)><$voicel(1,6)>Hrmmm, that’s a shame.<clear><br><$comeff(1,14)><$motion(1,666)><$voicel(1,5)>And I doubt <$cdef(27)>Machoke </color>can help us either—they don’t<br>seem to think about much beyond their own muscles.<clear><br><$emotion(1,51)><$voicel(1,3)>I can only hope we find a Pokémon who knows more<br>about humans.",
+      "pt_br": "<$comeff(1,3)><$facial(1,9)><$motion(1,803)><$voicel(1,6)>Hrmmm, isso é uma pena.<clear><br><$comeff(1,14)><$motion(1,666)><$voicel(1,5)>E eu duvido <$cdef(27)>Machoke </color>pode ajudar-nos ou - eles não<br>parecem pensar muito além de seus próprios músculos.<clear><br><$emotion(1,51)><$voicel(1,3)>Só posso esperar que encontremos um Pokémon que saiba mais<br>Sobre humanos."
+    },
+    {
+      "id": 2,
+      "en": "<$comeff(1,3)><$facial(1,9)><$motion(1,803)><$voicel(1,6)>Hrmmm, that’s a shame.<clear><br><$comeff(1,14)><$motion(1,666)><$voicel(1,5)>And I doubt <$cdef(27)>Machoke </color>can help us either—they don’t<br>seem to think about much beyond their own muscles.<clear><br><$emotion(1,51)><$voicel(1,3)>I can only hope we find a Pokémon who knows more<br>about humans.",
+      "pt_br": "<$comeff(1,3)><$facial(1,9)><$motion(1,803)><$voicel(1,6)>Hrmmm, isso é uma pena.<clear><br><$comeff(1,14)><$motion(1,666)><$voicel(1,5)>E eu duvido <$cdef(27)>Machoke </color>pode ajudar-nos ou - eles não<br>parecem pensar muito além de seus próprios músculos.<clear><br><$emotion(1,51)><$voicel(1,3)>Só posso esperar que encontremos um Pokémon que saiba mais<br>Sobre humanos."
+    },
+    {
+      "id": 3,
+      "en": "<$voicel(2,8)>Hellooo? Somebody?",
+      "pt_br": "<$voicel(2,8)>Está alguém?"
+    },
+    {
+      "id": 4,
+      "en": "<$comeff(1,6)><$voicel(1,6)>Hm? Did you hear a voice just now?",
+      "pt_br": "<$comeff(1,6)><$voicel(1,6)>Ouviste uma voz?"
+    },
+    {
+      "id": 5,
+      "en": "<$voicel(2,9)>Hellooo?! Is there anybody out there?",
+      "pt_br": "<$voicel(2,9)>Está aí alguém?"
+    },
+    {
+      "id": 6,
+      "en": "<$comeff(1,5)><$motion(1,803)><$voicel(1,10)>Ah! Yes, that was definitely someone shouting! <$voicel(1,8)>I think I<br>heard the voice coming from this direction!",
+      "pt_br": "<$comeff(1,5)><$motion(1,803)><$voicel(1,10)>Sim, foi alguém a gritar! <$voicel(1,8)>Acho que eu...<br>Ouviram a voz a vir desta direcção!"
+    },
+    {
+      "id": 7,
+      "en": "<$emotion(1,14)><$voicel(1,9)>I heard someone shouting! The voice came from this<br>direction—let’s go, <$cdef(27)><pname;0></color>!",
+      "pt_br": "<$emotion(1,14)><$voicel(1,9)>Ouvi alguém a gritar, a voz veio disto.<br>direção – vamos, <$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 8,
+      "en": "<$voicel(2,8)>Help! Somebody save meee!",
+      "pt_br": "<$voicel(2,8)>Socorro, alguém me salve!"
+    },
+    {
+      "id": 9,
+      "en": "<$emotion(1,14)><$voicel(1,10)>The voice is coming from back here!",
+      "pt_br": "<$emotion(1,14)><$voicel(1,10)>A voz vem daqui de trás!"
+    },
+    {
+      "id": 10,
+      "en": "<$motion(1,807)><$voicel(1,5)>There’s an awful lot of stuff lying around, so be careful!",
+      "pt_br": "<$motion(1,807)><$voicel(1,5)>Há um monte de coisas por aí, então tenha cuidado!"
+    },
+    {
+      "id": 11,
+      "en": "<oneline><$comeff(1,10)><$motion(1,664)><$voicel(1,9)>The voice is coming from back here! Let’s go,<br><$cdef(27)><pname;0></color>!",
+      "pt_br": "<oneline><$comeff(1,10)><$motion(1,664)><$voicel(1,9)>A voz está vindo daqui de trás! Vamos,<br><$cdef(27)><pname;0></color>!"
+    },
+    {
+      "id": 12,
+      "en": "<$voicel(2,8)>Somebody! Help me, please!",
+      "pt_br": "<$voicel(2,8)>Ajudem-me, por favor!"
+    },
+    {
+      "id": 13,
+      "en": "There seems to be someone inside the barrel.",
+      "pt_br": "Parece haver alguém dentro do barril."
+    },
+    {
+      "id": 14,
+      "en": "<$comeff(2,6)><$motion(2,644)><$voicel(2,8)>Hey! Is there somebody out there?",
+      "pt_br": "<$comeff(2,6)><$motion(2,644)><$voicel(2,8)>Está alguém aí fora?"
+    },
+    {
+      "id": 15,
+      "en": "<$emotion(1,58)><$voicel(1,9)>Wh-what’s this? A talking barrel?!",
+      "pt_br": "<$emotion(1,58)><$voicel(1,9)>O que é isso? Um barril falante?!"
+    },
+    {
+      "id": 16,
+      "en": "<$comeff(2,22)><$motion(2,645)><$voicel(2,9)>Why would a barrel talk?! It’s ME that’s talking—the best<br>chef in town!",
+      "pt_br": "<$comeff(2,22)><$motion(2,645)><$voicel(2,9)>Por que um barril falaria?! É ME que está falando – o melhor<br>Chef na cidade!"
+    },
+    {
+      "id": 17,
+      "en": "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,9)>Wha—?! Could...could this be a human?<clear><br><$emotion(1,58)><$voicel(1,8)>Wh-why exactly are you inside that barrel?",
+      "pt_br": "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,9)>O que... poderia... poderia ser um humano?<clear><br><$emotion(1,58)><$voicel(1,8)>Porque está exactamente dentro daquele barril?"
+    },
+    {
+      "id": 18,
+      "en": "<$comeff(2,4)><$motion(2,644)><$voicel(2,3)>Why?! Well...when I woke up, there was nobody around! <$comeff(2,14)><$voicel(2,6)><br>So just as anyone with any sense would do, I started<slide><br>looking for food.",
+      "pt_br": "<$comeff(2,4)><$motion(2,644)><$voicel(2,3)>Quando acordei, não havia ninguém por perto! <$comeff(2,14)><$voicel(2,6)><br>Assim como qualquer um com qualquer sentido faria, eu comecei<slide><br>à procura de comida."
+    },
+    {
+      "id": 19,
+      "en": "<$comcan(2)><$comeff(1,6)><$motion(1,666)><$voicel(1,5)>Right... But how did you get stuck in a barrel?",
+      "pt_br": "<$comcan(2)><$comeff(1,6)><$motion(1,666)><$voicel(1,5)>Certo... mas como é que ficaste preso num barril?"
+    },
+    {
+      "id": 20,
+      "en": "<$comeff(2,14)><$voicel(2,7)>I mean, somebody went to the trouble of suspending a<br>barrel like this... Wouldn’t YOU assume that it has<slide><br>something extra special inside?!<clear><br><$comeff(2,10)><$motion(2,645)><$voicel(2,9)>I figured it must be food, but when I climbed in to check,<br>I got stuck—now I can’t get out!",
+      "pt_br": "<$comeff(2,14)><$voicel(2,7)>Alguém se deu ao trabalho de suspender um<br>barril como este... Você não assumir que ele tem<slide><br>algo extra especial dentro?!<clear><br><$comeff(2,10)><$motion(2,645)><$voicel(2,9)>Pensei que devia ser comida, mas quando entrei para verificar,<br>Fiquei preso – agora não consigo sair!"
+    },
+    {
+      "id": 21,
+      "en": "<$comeff(1,17)><$facial(1,9)><$voicel(1,4)>I see. You’re...quite powerfully motivated by food.",
+      "pt_br": "<$comeff(1,17)><$facial(1,9)><$voicel(1,4)>Entendo. Você está... muito motivado pela comida."
+    },
+    {
+      "id": 22,
+      "en": "<$comeff(2,4)><$motion(2,644)><$voicel(2,8)>N-no, it was...IT WAS FOR COOKING RESEARCH!",
+      "pt_br": "<$comeff(2,4)><$motion(2,644)><$voicel(2,8)>Não, foi... foi por causa da investigação de cozinha!"
+    },
+    {
+      "id": 23,
+      "en": "<oneline><$comeff(1,14)><$motion(1,824)><$voicel(1,5)>Well...all that aside, it might be <$voicel(1,4)>a human stuck<br>inside this barrel.<clear><br><$comeff(1,6)><$motion(1,666)><$voicel(1,5)>Do you think you can rescue them somehow,<br><$cdef(27)><pname;0></color>?",
+      "pt_br": "<oneline><$comeff(1,14)><$motion(1,824)><$voicel(1,5)>Bem... tudo isso à parte, pode ser <$voicel(1,4)>um humano preso<br>dentro deste barril.<clear><br><$comeff(1,6)><$motion(1,666)><$voicel(1,5)>Achas que pode resgatá-los de alguma forma?<br><$cdef(27)><pname;0></color>?"
+    },
+    {
+      "id": 24,
+      "en": "<$comeff(2,3)><$motion(2,645)><$voicel(2,9)>Can you actually do that? Oh, yes, please! Cut that chain<br>posthaste!",
+      "pt_br": "<$comeff(2,3)><$motion(2,645)><$voicel(2,9)>Sim, por favor, corta essa corrente.<br>Rápido!"
+    },
+    {
+      "id": 25,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Yes, I think that’s a very sensible idea! Use one of your<br>moves to slice through that chain, if you’d be so kind!",
+      "pt_br": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Sim, eu acho que é uma idéia muito sensata! Use uma de suas<br>move-se para cortar através dessa corrente, se você seria tão gentil!"
+    },
+    {
+      "id": 26,
+      "en": "<$comeff(2,5)><$motion(2,645)><$voicel(2,9)>Wait a second... If you do that, you might slice ME right<br>in half!",
+      "pt_br": "<$comeff(2,5)><$motion(2,645)><$voicel(2,9)>Se fizeres isso, pode cortar-me bem.<br>ao meio!"
+    },
+    {
+      "id": 27,
+      "en": "<$comeff(1,14)><$facial(1,9)><$motion(1,807)><$voicel(1,3)>That’s a very good point!<clear><br>All right, instead of the barrel, <$comeff(1,6)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>why don’t you cut the chain<br>holding it up? <$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,10)>Go on—slice it with one of your moves!",
+      "pt_br": "<$comeff(1,14)><$facial(1,9)><$motion(1,807)><$voicel(1,3)>Isso é um ponto muito bom!<clear><br>Muito bem, em vez do barril, <$comeff(1,6)><$facial(1,1)><$motion(1,661)><$voicel(1,6)>por que você não corta a corrente<br>Segurando-o? <$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,10)>Vá em frente – corte-o com um de seus movimentos!"
+    },
+    {
+      "id": 28,
+      "en": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>Would you please cut the chain holding up that barrel?<br>In one clean slice, if you can!",
+      "pt_br": "<$comeff(1,10)><$facial(1,4)><$motion(1,664)><$voicel(1,9)>pode cortar a corrente que está a segurar o barril?<br>Numa fatia limpa, se puderes!"
+    },
+    {
+      "id": 29,
+      "en": "<$comeff(1,6)><$motion(1,803)><$voicel(1,5)>What? You don’t know a move that can slice through<br>that chain? <$comeff(1,14)><$facial(1,9)><$motion(1,666)><$voicel(1,4)>Then we really are in a tight spot...",
+      "pt_br": "<$comeff(1,6)><$motion(1,803)><$voicel(1,5)>O quê? Você não conhece um movimento que pode cortar através<br>Essa corrente? <$comeff(1,14)><$facial(1,9)><$motion(1,666)><$voicel(1,4)>Então, estamos mesmo numa situação difícil..."
+    },
+    {
+      "id": 30,
+      "en": "<$voicel(1,6)>Here’s an idea—<wait(0.6)><$comeff(1,20)><$motion(1,803)><$voicel(1,9)>why don’t you try looking for a Pokémon<br>called <$cdef(27)>Scyther</color>?<clear><br><$comeff(1,10)><$motion(1,824)><$voicel(1,5)><$cdef(27)>Scyther</color> have sharp scythes that can cleanly cut through<br>just about anything. <$voicel(1,8)>With your skills, I’d wager you could<slide><br>do a good imitation of that!<clear><br><$emotion(1,38)><$voicel(1,9)><$cdef(27)>Scyther</color> tend to like places like this, by the way.",
+      "pt_br": "<$voicel(1,6)>Aqui está uma ideia:<wait(0.6)><$comeff(1,20)><$motion(1,803)><$voicel(1,9)>por que não tenta procurar um Pokémon<br>chamado <$cdef(27)>Scyther</color>?<clear><br><$comeff(1,10)><$motion(1,824)><$voicel(1,5)><$cdef(27)>Scyther</color> tem foices afiadas que podem cortar completamente<br>Qualquer coisa. <$voicel(1,8)>Com suas habilidades, eu apostaria que você poderia<slide><br>Faça uma boa imitação disso!<clear><br><$emotion(1,38)><$voicel(1,9)><$cdef(27)>Scyther</color> A propósito, tendem a gostar de sítios como este."
+    },
+    {
+      "id": 31,
+      "en": "You won’t be able to meet <$cdef(27)>Scyther </color>in this town.<clear><br>To find <$cdef(27)>Scyther</color>, try heading back to <$cdef(27)><$stgname;0(1)></color><br>first.",
+      "pt_br": "Você não será capaz de encontrar <$cdef(27)>Scyther </color>Nesta cidade.<clear><br>Para encontrar <$cdef(27)>Scyther</color>, tente voltar para <$cdef(27)><$stgname;0(1)></color><br>Primeiro."
+    },
+    {
+      "id": 32,
+      "en": "<$comeff(2,10)><$motion(2,645)><$voicel(2,7)>Can you cut the chain holding this barrel up? Please try as<br>hard as you can!",
+      "pt_br": "<$comeff(2,10)><$motion(2,645)><$voicel(2,7)>Você pode cortar a corrente segurando este barril? Por favor tente como<br>O mais forte que puderes!"
+    },
+    {
+      "id": 33,
+      "en": "<$comeff(2,5)><$motion(2,645)><$voicel(2,9)>Ouch! H-hey, cool it out there! You’re hitting the barrel!",
+      "pt_br": "<$comeff(2,5)><$motion(2,645)><$voicel(2,9)>Ouch! H-hey, acalme-se lá fora! Você está batendo o barril!"
+    },
+    {
+      "id": 34,
+      "en": "<$comeff(2,10)><$motion(2,644)><$voicel(2,7)>Please aim for the CHAIN, not the barrel!",
+      "pt_br": "<$comeff(2,10)><$motion(2,644)><$voicel(2,7)>Por favor, aponta para o CHAIN, não para o barril!"
+    },
+    {
+      "id": 35,
+      "en": "*CLANG!*",
+      "pt_br": "* CLANG! *"
+    },
+    {
+      "id": 36,
+      "en": "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,9)>Oh my! Your move bounced right off the chain?!",
+      "pt_br": "<$comeff(1,5)><$facial(1,13)><$motion(1,803)><$voicel(1,9)>A tua jogada saltou da corrente?"
+    },
+    {
+      "id": 37,
+      "en": "<$comeff(2,6)><$motion(2,644)><$voicel(2,5)>Huh? What? You can’t do it? I thought you were going to<br>cut the chain!<clear><br><$comeff(2,11)><$motion(2,645)><$voicel(2,3)>Come ON, now—don’t get my hopes up and then let me<br>down like that!",
+      "pt_br": "<$comeff(2,6)><$motion(2,644)><$voicel(2,5)>Huh? O que? Você não pode fazê-lo? Eu pensei que você estava indo<br>Corta a corrente!<clear><br><$comeff(2,11)><$motion(2,645)><$voicel(2,3)>Vamos, agora - não me deixe ter esperanças e então deixe-me<br>Deite-se assim!"
+    },
+    {
+      "id": 38,
+      "en": "<$comeff(1,14)><$facial(1,9)><$motion(1,666)><$voicel(1,4)>Hrmmm... That chain is sturdier than I thought.",
+      "pt_br": "<$comeff(1,14)><$facial(1,9)><$motion(1,666)><$voicel(1,4)>Essa corrente é mais resistente do que eu pensava."
+    }
+  ]
+}

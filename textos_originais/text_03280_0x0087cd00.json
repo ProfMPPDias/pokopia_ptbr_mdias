@@ -1,0 +1,219 @@
+{
+  "entry_index": 3280,
+  "bin_id": "0x87cd00",
+  "decompressed_size": 5112,
+  "first_tag_offset": 809,
+  "total_strings": 42,
+  "dialogues": [
+    {
+      "id": 0,
+      "en": "<$cdef(27)>Centro Pokémon</color>.<clear><br>La tua squadra sarà stanca.<br>Vuoi farla riposare?",
+      "pt_br": ""
+    },
+    {
+      "id": 1,
+      "en": "Torna pure quando vuoi!",
+      "pt_br": ""
+    },
+    {
+      "id": 2,
+      "en": "Ti diamo il benvenuto al <$cdef(27)>Centro Pokémon</color>.<clear><br>Il servizio di cura gratuito non è più disponibile per oggi.",
+      "pt_br": ""
+    },
+    {
+      "id": 3,
+      "en": "Per poter utilizzare nuovamente il servizio di cura, dovrai<br>registrarti. Segui le istruzioni nella prossima schermata...",
+      "pt_br": ""
+    },
+    {
+      "id": 4,
+      "en": "A quanto pare non funziona più...<br>Meglio tornare domani.",
+      "pt_br": ""
+    },
+    {
+      "id": 5,
+      "en": "Hai trovato tutti e tre i Pokémon speciali.<br>Hai ottenuto una ricompensa.",
+      "pt_br": ""
+    },
+    {
+      "id": 6,
+      "en": "Bip bip bip...<br>Avvio completato.",
+      "pt_br": ""
+    },
+    {
+      "id": 7,
+      "en": "Acquisizione informazioni sulla città in corso...",
+      "pt_br": ""
+    },
+    {
+      "id": 8,
+      "en": "Benvenut<gen;-2(o,a)> a <$stgname;0(13)>! Questo luogo non appartiene<br>a nessuno, quindi è tutto tuo.<clear><br>Cambia la conformazione del terreno e costruisci alloggi<br>a tuo piacimento. Crea la città che vuoi tu!",
+      "pt_br": ""
+    },
+    {
+      "id": 9,
+      "en": "Comincia scegliendo un nome per la città.",
+      "pt_br": ""
+    },
+    {
+      "id": 10,
+      "en": "<oneline>Va bene il nome<br><$cdef(27)><$stgmyname;0(12)></color>?",
+      "pt_br": ""
+    },
+    {
+      "id": 11,
+      "en": "Il nome è stato registrato!",
+      "pt_br": ""
+    },
+    {
+      "id": 12,
+      "en": "Bip bip...<br>Predisposizione delle <$cdef(27)>sfide speciali </color>completata.",
+      "pt_br": ""
+    },
+    {
+      "id": 13,
+      "en": "Abbiamo preparato delle <$cdef(27)>sfide speciali </color>per aiutare<br>nello sviluppo della città!<clear><br>Fantastici premi aspettano chi le supererà.<br>Consigliamo vivamente di affrontarle!",
+      "pt_br": ""
+    },
+    {
+      "id": 14,
+      "en": "A presto e buona <$cdef(27)>PokéLife</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 15,
+      "en": "Questo <$cdef(27)><fqty(1)><$ifull(2045)> </color>può contenere oggetti.",
+      "pt_br": ""
+    },
+    {
+      "id": 16,
+      "en": "Posizionalo dove preferisci, apri il coperchio e conserva<br>al suo interno ciò che non puoi portare con te!",
+      "pt_br": ""
+    },
+    {
+      "id": 17,
+      "en": "Nel <$cdef(27)><fqty(1)><$ifull(1802)> </color>c'è già un <$cdef(27)>CD</color>. Vuoi sostituirlo?",
+      "pt_br": ""
+    },
+    {
+      "id": 18,
+      "en": "Non ci sono <$cdef(27)>CD</color> nel <$cdef(27)><fqty(1)><$ifull(1802)></color>.<br>Inseriscine uno.",
+      "pt_br": ""
+    },
+    {
+      "id": 19,
+      "en": "Nel <$cdef(27)><fqty(1)><$ifull(1802)> </color>c'è un <$cdef(27)>CD</color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 20,
+      "en": "Hai recuperato gli oggetti che avevi conservato nel <$cdef(27)>PC</color>!",
+      "pt_br": ""
+    },
+    {
+      "id": 21,
+      "en": "<oneline>Gli oggetti conservati nel <$cdef(27)>PC </color>sono stati ritirati<br>da <wowner;0>.",
+      "pt_br": ""
+    },
+    {
+      "id": 22,
+      "en": "Questa <$cdef(27)><fqty(1)><$ifull(1471)> </color>serve a controllare<br>come stanno i Pokémon a distanza.",
+      "pt_br": ""
+    },
+    {
+      "id": 23,
+      "en": "Mettila dove preferisci, poi seleziona \"Fotocamera\" nel<br>menu principale e poi \"<fcap><$cdef(27)><fqty(1)><$iname(1471)></color>\".<clear><br>In questo modo potrai guardare i filmati ripresi<br>dalla <$cdef(27)><fqty(1)><$ifull(1471)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 24,
+      "en": "Potrai usarla per controllare come stanno i Pokémon<br>che ti interessano, o se sono arrivati nuovi Pokémon<slide><br>negli habitat che hai creato.",
+      "pt_br": ""
+    },
+    {
+      "id": 25,
+      "en": "Tra l'altro, il <$cdef(27)>Professor Tangrowth </color>aveva consigliato di<br>usare il <$cdef(27)><fqty(1)><$ifull(1898)></color> in una specifica<slide><br>zona: <dart;0()><$cdef(27)><$stgname;0(4)></color>...",
+      "pt_br": ""
+    },
+    {
+      "id": 26,
+      "en": "Passa il Pokédex qui sopra.",
+      "pt_br": ""
+    },
+    {
+      "id": 27,
+      "en": "Controllo Pokédex in corso...<clear><br>Rilevati i dati di tutti i Pokémon!<clear><br>Congratulazioni! Ti sarà inviato un diploma in onore<br>di questa impresa!<clear><br>Stampa in corso. Attendi...",
+      "pt_br": ""
+    },
+    {
+      "id": 28,
+      "en": "Biiip... Crrrrrr...",
+      "pt_br": ""
+    },
+    {
+      "id": 29,
+      "en": "Prego, ritira il documento.",
+      "pt_br": ""
+    },
+    {
+      "id": 30,
+      "en": "<oneline>Chiedi ai Pokémon nelle vicinanze dove si trova<br><dart;0()><$cdef(27)><pksrchtar;0></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 31,
+      "en": "<oneline><fcap><dart;0()><$cdef(27)><pksrchtar;0></color> dovrebbe trovarsi qui:<br><$cdef(27)><srchtarhmst;1></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 32,
+      "en": "Il Pokémon non sembra essere nei paraggi.",
+      "pt_br": ""
+    },
+    {
+      "id": 33,
+      "en": "Vuoi andarci subito usando la funzione \"<$cdef(27)>Ritorna a casa</color>\"?",
+      "pt_br": ""
+    },
+    {
+      "id": 34,
+      "en": "Ora hai altre cose di cui occuparti.<br>Parla con <dart;0()><$cdef(27)><storychspk;0></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 35,
+      "en": "Ora hai altre cose di cui occuparti.<br>Parla con chi ti sta accompagnando.",
+      "pt_br": ""
+    },
+    {
+      "id": 36,
+      "en": "Nella <$cdef(27)><$stgname;0(1)></color> c'era un <$cdef(27)>altro portale </color>che<br>conduce a un'<$cdef(27)>altra città</color>!<clear><br>Forse si può passare da lì.",
+      "pt_br": ""
+    },
+    {
+      "id": 37,
+      "en": "Questo è un metallo raro conosciuto col nome di<br><$cdef(27)><fqty(1)><$ifull(120)></color>.",
+      "pt_br": ""
+    },
+    {
+      "id": 38,
+      "en": "È un materiale che serve a creare diversi oggetti,<br>perciò se ti capita di trovarlo nel <$cdef(27)>negozio</color> o altrove,<slide><br>non fartelo scappare!",
+      "pt_br": ""
+    },
+    {
+      "id": 39,
+      "en": "Questa... sembra una mappa del tesoro disegnata<br>da qualcuno!",
+      "pt_br": ""
+    },
+    {
+      "id": 40,
+      "en": "Dirigiti nel punto indicato sulla mappa e usa<br>il <$cdef(27)><fqty(1)><$ifull(2793)></color> per trovare il tesoro!",
+      "pt_br": ""
+    },
+    {
+      "id": 41,
+      "en": "Puoi controllare quando vuoi le mappe del tesoro che hai<br>ottenuto consultando la sezione \"<$cdef(27)>Ricordi degli umani</color>\"<slide><br>della schermata \"<$cdef(27)>Collezioni (fondale)</color>\".",
+      "pt_br": ""
+    }
+  ]
+}
